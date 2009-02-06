@@ -1,0 +1,154 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tslib/tslib
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ts.conf-collie-2.4
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+d85dffc565aaa79cf4ef9d4a7bc2250e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jornada56x
+dir
+
+jornada6xx
+dir
+
+jornada7xx
+dir
+
+ts.conf-simpad-2.4
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+290916878c688f1532acddbaa723ca17
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tslib.sh
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+7fa59a2dadc246ce54620c19a25c745a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mnci
+dir
+
+fix_version.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+7e51b3d4e736750a0519b82acf20eebf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+multievent.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+16a2ef809f2d64db11e75587ed77579e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+omap5912osk
+dir
+
+omap1610h2
+dir
+
+netbook-pro
+dir
+
+event1.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+c705092f2daac7d03a68edefa037bb0b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+htctornado
+dir
+
+devfs.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+b3474952f0d8669b1565cf90f642b6b2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+collie
+dir
+
+ts.conf
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+4783b67c395ff75d49d5a462c0b9fafe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+simpad
+dir
+

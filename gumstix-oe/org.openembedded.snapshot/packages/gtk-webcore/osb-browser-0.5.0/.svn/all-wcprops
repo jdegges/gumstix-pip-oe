@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-browser-0.5.0
+END
+no-pedantic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-browser-0.5.0/no-pedantic.patch
+END

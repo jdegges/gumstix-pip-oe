@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/linphone-1.5.0
+END
+linphone-pkgconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/linphone-1.5.0/linphone-pkgconfig.patch
+END
+linphone-1.5.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/linphone-1.5.0/linphone-1.5.0.patch
+END

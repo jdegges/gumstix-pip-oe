@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wget/wget-1.9.1
+END
+m4macros.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wget/wget-1.9.1/m4macros.patch
+END
+ipv6-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wget/wget-1.9.1/ipv6-fix.patch
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wget/wget-1.9.1/autotools.patch
+END

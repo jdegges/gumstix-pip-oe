@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gperf
+END
+gperf_3.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gperf/gperf_3.0.3.bb
+END
+gperf-native_3.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gperf/gperf-native_3.0.3.bb
+END

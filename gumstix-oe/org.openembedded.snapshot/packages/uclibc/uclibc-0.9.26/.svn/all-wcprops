@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.26
+END
+26headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.26/26headers.patch
+END
+nokernelheadercheck.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.26/nokernelheadercheck.patch
+END
+dyn-ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.26/dyn-ldconfig.patch
+END

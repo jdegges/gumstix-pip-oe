@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gftp
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gftp
+dir
+
+gftp_2.0.18.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+4a5aee6d5130ec03630afac0c836cbe5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

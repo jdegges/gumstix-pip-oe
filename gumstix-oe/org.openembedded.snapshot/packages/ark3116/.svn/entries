@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ark3116
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ark3116-0.4.1
+dir
+
+ark3116_0.4.1.bb
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+d7f13eefec5f4950fa1019368a3831ca
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

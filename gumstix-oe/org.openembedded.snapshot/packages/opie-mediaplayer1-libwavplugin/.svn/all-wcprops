@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libwavplugin
+END
+opie-mediaplayer1-libwavplugin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libwavplugin/opie-mediaplayer1-libwavplugin.inc
+END
+opie-mediaplayer1-libwavplugin_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libwavplugin/opie-mediaplayer1-libwavplugin_cvs.bb
+END
+opie-mediaplayer1-libwavplugin_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libwavplugin/opie-mediaplayer1-libwavplugin_1.2.2.bb
+END

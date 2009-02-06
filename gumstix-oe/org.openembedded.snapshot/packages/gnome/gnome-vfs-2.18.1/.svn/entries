@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-2.18.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gconftool-lossage.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+4661a7e459308ae9cf35cb67e3fcd0e7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gnome-vfs-no-kerberos.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+fbb33a00708b0c5c70cdbca4ddf382d8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

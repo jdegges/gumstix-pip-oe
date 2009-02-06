@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils
+END
+pciutils_2.2.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils_2.2.4.bb
+END
+pciutils_2.1.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils_2.1.11.bb
+END

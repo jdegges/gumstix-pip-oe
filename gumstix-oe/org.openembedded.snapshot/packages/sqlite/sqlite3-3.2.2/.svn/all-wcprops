@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3-3.2.2
+END
+libtool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3-3.2.2/libtool.patch
+END
+ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3-3.2.2/ldflags.patch
+END
+cross-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3-3.2.2/cross-compile.patch
+END

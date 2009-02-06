@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2
+END
+davfs2_0.2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2_0.2.7.bb
+END
+davfs2_0.2.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2_0.2.8.bb
+END

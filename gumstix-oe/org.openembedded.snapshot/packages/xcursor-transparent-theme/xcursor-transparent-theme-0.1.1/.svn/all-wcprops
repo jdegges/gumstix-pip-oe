@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xcursor-transparent-theme/xcursor-transparent-theme-0.1.1
+END
+fix_watch_cursor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xcursor-transparent-theme/xcursor-transparent-theme-0.1.1/fix_watch_cursor.patch
+END
+use-relative-symlinks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xcursor-transparent-theme/xcursor-transparent-theme-0.1.1/use-relative-symlinks.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireshark/files
+END
+use-our-lemon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireshark/files/use-our-lemon.patch
+END
+no-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireshark/files/no-host-includes.patch
+END

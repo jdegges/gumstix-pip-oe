@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe
+END
+blueprobe_0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.13.bb
+END
+blueprobe_0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.14.bb
+END
+blueprobe_0.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.15.bb
+END
+blueprobe_0.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.16.bb
+END
+blueprobe_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.17.bb
+END
+blueprobe.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe.inc
+END
+blueprobe_0.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_0.18.bb
+END
+blueprobe_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/blueprobe/blueprobe_svn.bb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lua/files
+END
+debian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lua/files/debian.patch
+END
+advanced-readline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lua/files/advanced-readline.patch
+END
+make.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lua/files/make.patch
+END

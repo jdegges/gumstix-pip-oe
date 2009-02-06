@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apt/apt-0.6.25
+END
+autofoo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apt/apt-0.6.25/autofoo.patch
+END

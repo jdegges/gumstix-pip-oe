@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/exmap-console
+END
+exmap-console.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/exmap-console/exmap-console.inc
+END
+exmap-console_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/exmap-console/exmap-console_svn.bb
+END
+exmap-console_0.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/exmap-console/exmap-console_0.4.1.bb
+END

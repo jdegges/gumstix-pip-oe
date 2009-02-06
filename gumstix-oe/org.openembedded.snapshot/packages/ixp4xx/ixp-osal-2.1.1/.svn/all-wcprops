@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1
+END
+assert.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/assert.patch
+END
+invalidate-cache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/invalidate-cache.patch
+END
+2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/2.6.patch
+END
+ixp4xx-header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/ixp4xx-header.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/Makefile.patch
+END
+le.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-2.1.1/le.patch
+END

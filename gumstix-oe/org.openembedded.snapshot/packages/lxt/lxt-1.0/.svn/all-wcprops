@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lxt/lxt-1.0
+END
+lxt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lxt/lxt-1.0/lxt.patch
+END

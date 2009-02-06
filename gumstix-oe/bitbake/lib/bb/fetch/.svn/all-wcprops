@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch
+END
+local.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/local.py
+END
+cvs.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/cvs.py
+END
+ssh.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/ssh.py
+END
+local.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/local.pyc
+END
+bzr.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/bzr.py
+END
+hg.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/hg.py
+END
+cvs.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/cvs.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/__init__.py
+END
+ssh.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/ssh.pyc
+END
+bzr.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/bzr.pyc
+END
+hg.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/hg.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/__init__.pyc
+END
+svk.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/svk.py
+END
+perforce.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/perforce.py
+END
+svk.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/svk.pyc
+END
+svn.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/svn.py
+END
+wget.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/wget.py
+END
+perforce.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/perforce.pyc
+END
+svn.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/svn.pyc
+END
+wget.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/wget.pyc
+END
+git.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/git.py
+END
+git.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/fetch/git.pyc
+END

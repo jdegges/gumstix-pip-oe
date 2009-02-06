@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/proj4
+END
+proj-4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/proj4/proj-4.inc
+END
+proj-4_4.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/proj4/proj-4_4.9.bb
+END
+proj-4-native_4.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/proj4/proj-4-native_4.9.bb
+END

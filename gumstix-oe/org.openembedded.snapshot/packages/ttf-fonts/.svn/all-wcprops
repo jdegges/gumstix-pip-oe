@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts
+END
+ttf-bitstream-vera_1.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-bitstream-vera_1.10.bb
+END
+ttf-dejavu_2.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-dejavu_2.18.bb
+END
+ttf-hunkyfonts_0.3.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-hunkyfonts_0.3.0.bb
+END
+ttf-liberation_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-liberation_0.2.bb
+END
+ttf-gentium_1.02.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-gentium_1.02.bb
+END
+ttf.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf.inc
+END
+ttf-sazanami_20040629.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ttf-fonts/ttf-sazanami_20040629.bb
+END

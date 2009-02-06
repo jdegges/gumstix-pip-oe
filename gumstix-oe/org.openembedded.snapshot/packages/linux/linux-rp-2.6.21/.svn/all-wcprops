@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21
+END
+orinoco-remove-all-which-are-in-hostap-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/orinoco-remove-all-which-are-in-hostap-HACK.patch
+END
+vesafb-tng-1.0-rc2-2.6.20-rc2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/vesafb-tng-1.0-rc2-2.6.20-rc2.patch
+END
+defconfig-tosa
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-tosa
+END
+defconfig-qemuarm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-qemuarm
+END
+defconfig-collie
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-collie
+END
+connectplus-remove-ide-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/connectplus-remove-ide-HACK.patch
+END
+defconfig-spitz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-spitz
+END
+sharpsl-rc-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/sharpsl-rc-r1.patch
+END
+connectplus-prevent-oops-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/connectplus-prevent-oops-HACK.patch
+END
+wm97xx-lcdnoise-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/wm97xx-lcdnoise-r0.patch
+END
+defconfig-qemux86
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-qemux86
+END
+defconfig-bootcdx86
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-bootcdx86
+END
+hostap-monitor-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/hostap-monitor-mode.patch
+END
+defconfig-hx2000
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-hx2000
+END
+defconfig-c7x0
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-c7x0
+END
+squashfs3.0-2.6.15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/squashfs3.0-2.6.15.patch
+END
+defconfig-poodle
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-poodle
+END
+pxa-serial-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/pxa-serial-hack.patch
+END
+defconfig-akita
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/defconfig-akita
+END
+serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.21/serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tilibs
+END
+libticables_3.9.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tilibs/libticables_3.9.2.bb
+END
+libticalcs_4.5.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tilibs/libticalcs_4.5.9.bb
+END
+libtifiles_0.6.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tilibs/libtifiles_0.6.5.bb
+END

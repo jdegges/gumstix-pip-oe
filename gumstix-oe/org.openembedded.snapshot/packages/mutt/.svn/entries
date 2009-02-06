@@ -1,0 +1,73 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mutt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mutt_1.5.15.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+fe7e41e99b55163c2a3c3c0619a5b1e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mutt-1.5.4i
+dir
+
+mutt_1.5.4i.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+a4b9fc52681e234e36b5e0bd9ddf25cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mutt-1.5.9i
+dir
+
+mutt-1.5.15
+dir
+
+mutt_1.5.9i.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+2c8a7f21cd23b6b22d339a53b4e14a9d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

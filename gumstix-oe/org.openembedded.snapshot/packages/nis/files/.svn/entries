@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nis/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-selinux.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+c262692683dea1ad68e09021312fb141
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libdl.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+41cc6764421efb5e2653c9e2e67f321a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

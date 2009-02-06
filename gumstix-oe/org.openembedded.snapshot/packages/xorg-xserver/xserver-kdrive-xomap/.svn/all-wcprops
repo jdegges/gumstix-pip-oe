@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap
+END
+enable-builtin-fonts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/enable-builtin-fonts.patch
+END
+disable-xf86-dga-xorgcfg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/disable-xf86-dga-xorgcfg.patch
+END
+kdrive-use-evdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/kdrive-use-evdev.patch
+END
+xcalibrate_coords.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/xcalibrate_coords.patch
+END
+no-serial-probing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/no-serial-probing.patch
+END
+kdrive-evdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/kdrive-evdev.patch
+END
+kmode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/kmode.patch
+END
+enable-tslib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/enable-tslib.patch
+END
+xfbdev-fb-opt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/xfbdev-fb-opt.patch
+END
+optional-xkb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/optional-xkb.patch
+END
+calibrateext.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/calibrateext.patch
+END
+fbdev-not-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/fbdev-not-fix.patch
+END
+button_only.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/button_only.patch
+END
+xcalibrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/xcalibrate.patch
+END
+fixups.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/fixups.patch
+END
+disable-apm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap/disable-apm.patch
+END

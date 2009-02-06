@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slugtool/slugtool
+END
+redboot_typo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slugtool/slugtool/redboot_typo.patch
+END

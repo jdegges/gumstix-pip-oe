@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cdparanoia/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+Makefile.patch
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+e7651fb6a385b9cee4c3b171635c5aa0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fixes.patch
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+426f127029118fd64120c1d8edd3d706
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

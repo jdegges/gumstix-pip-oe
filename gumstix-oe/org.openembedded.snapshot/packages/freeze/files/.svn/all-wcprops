@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freeze/files
+END
+freeze
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freeze/files/freeze
+END
+unfreeze
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freeze/files/unfreeze
+END

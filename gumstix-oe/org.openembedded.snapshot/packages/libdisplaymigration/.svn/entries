@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libdisplaymigration
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libdisplaymigration_0.28.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+2076b5b2c5ad0690852102b0bcf77a83
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libdisplaymigration_0.99.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+17637bc5e2ad4fa3269ddc1a031c1d09
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

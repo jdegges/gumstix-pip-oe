@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dri
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+drm-kernel
+dir
+
+libdrm_2.3.0.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+123b0b262daa5687e31f964b7f0b4da8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+drm-kernel_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+c169adeb5abc6c4470b94913ebe403ef
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

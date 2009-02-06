@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-go
+END
+opie-go_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-go/opie-go_1.2.2.bb
+END
+opie-go_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-go/opie-go_1.2.3.bb
+END
+opie-go.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-go/opie-go.inc
+END
+opie-go_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-go/opie-go_cvs.bb
+END

@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/contrib/site-conf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+m4
+dir
+
+configure.ac
+file
+
+
+
+
+2009-02-06T18:13:33.000000Z
+8c96d8cfc839d0d2903f9c348bbf5817
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+.mtn-ignore
+file
+
+
+
+
+2009-02-06T18:13:33.000000Z
+4a9e593d93d2b1750f4738006aaa96f3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+README
+file
+
+
+
+
+2009-02-06T18:13:33.000000Z
+9498bf1b73ebfe28ff640368c4a12054
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+aclocal.m4
+file
+
+
+
+
+2009-02-06T18:13:33.000000Z
+4b4996c7a0cdbb2d3b2eb862f3b44024
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

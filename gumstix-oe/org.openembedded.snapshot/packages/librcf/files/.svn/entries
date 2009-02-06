@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/librcf/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+rcf-0.4-openembedded.diff
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+f4bbb91d3d8ff51cdbb920649883740e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rcf-0.4-g++-4.1.diff
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+d6cbd9948742f1c791b13e31e1f6fe89
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

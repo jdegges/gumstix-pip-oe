@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gypsy
+END
+gypsy.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gypsy/gypsy.inc
+END
+gypsy_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gypsy/gypsy_svn.bb
+END

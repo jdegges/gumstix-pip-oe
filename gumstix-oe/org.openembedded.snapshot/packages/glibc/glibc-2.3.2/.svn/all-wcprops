@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2
+END
+30_glibc232-base.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/30_glibc232-base.patch
+END
+glibc22-m68k-fpic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-m68k-fpic.patch
+END
+dyn-ldconfig.diff
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/dyn-ldconfig.diff
+END
+glibc23-cmov.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-cmov.patch
+END
+glibc23-01-hppa-dl-machine.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-01-hppa-dl-machine.patch
+END
+glibc23-function-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-function-compat.patch
+END
+asm-arm-unistd.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/asm-arm-unistd.h
+END
+glibc-make-check-perms.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc-make-check-perms.patch
+END
+90_glibc232-timezones.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/90_glibc232-timezones.patch
+END
+10_cvs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/10_cvs.patch
+END
+syslog-backrev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/syslog-backrev.patch
+END
+alpha-pwrite.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/alpha-pwrite.patch
+END
+sedscript.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/sedscript.patch
+END
+powerpc-sysconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/powerpc-sysconf.patch
+END
+ldso-disable-hwcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/ldso-disable-hwcap.patch
+END
+makeconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/makeconfig.patch
+END
+glibc22-ttyname-devfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-ttyname-devfs.patch
+END
+libgcc-compat-all.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/libgcc-compat-all.patch
+END
+glibc23-hppa-Rminkernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-hppa-Rminkernel.patch
+END
+arm-machine-gmon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-machine-gmon.patch
+END
+libgcc-compat-other.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/libgcc-compat-other.patch
+END
+glibc23-asserth-decls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-asserth-decls.patch
+END
+50_glibc232-mips-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/50_glibc232-mips-buildfix.patch
+END
+glibc23-powerpc-sigcontext.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-powerpc-sigcontext.patch
+END
+glibc22-m68k-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-m68k-compat.patch
+END
+nss_compat-shadow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/nss_compat-shadow.patch
+END
+glibc23-sse-oldkernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-sse-oldkernel.patch
+END
+glibc23-sparc-pread64.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-sparc-pread64.patch
+END
+80_glibc232-wcsmbs-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/80_glibc232-wcsmbs-fix.patch
+END
+sparc64-fixups.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/sparc64-fixups.patch
+END
+glibc23-07-hppa-atomicity.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-07-hppa-atomicity.patch
+END
+arm-output-format.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-output-format.patch
+END
+glibc-2.3.2-ldconfig-tls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc-2.3.2-ldconfig-tls.patch
+END
+glibc22-locales.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-locales.patch
+END
+locales-supported.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/locales-supported.patch
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/autoconf.h
+END
+90_glibc232-statvfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/90_glibc232-statvfs.patch
+END
+arm-memcpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-memcpy.patch
+END
+locales-stuff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/locales-stuff.patch
+END
+glibc23-hppa-malloc8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-hppa-malloc8.patch
+END
+glibc22-eo_EO.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-eo_EO.patch
+END
+80_glibc232-iconvdata-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/80_glibc232-iconvdata-fix.patch
+END
+glibc232-gcc34-no-unit-at-a-time.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc232-gcc34-no-unit-at-a-time.patch
+END
+80_glibc232-locales-nb_NO-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/80_glibc232-locales-nb_NO-fix.patch
+END
+pthread-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/pthread-cleanup.patch
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/version.h
+END
+glibcbug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibcbug.patch
+END
+revert-old-libio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/revert-old-libio.patch
+END
+glibc-2.3.2-200304020432.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc-2.3.2-200304020432.patch
+END
+11_shlib-lds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/11_shlib-lds.patch
+END
+alpha-crti.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/alpha-crti.patch
+END
+nptl-pthread-once.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/nptl-pthread-once.patch
+END
+ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/ldconfig.patch
+END
+glibc232-gcc34-i386-fixup-attribute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc232-gcc34-i386-fixup-attribute.patch
+END
+glibc23-hppa-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-hppa-compat.patch
+END
+arm-longlong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-longlong.patch
+END
+50_glibc232-hppa-full-nptl-2003-10-22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/50_glibc232-hppa-full-nptl-2003-10-22.patch
+END
+glibc23-libio-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-libio-compat.patch
+END
+81_glibc232-utimes-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/81_glibc232-utimes-fix.patch
+END
+glibc23-errno.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-errno.patch
+END
+arm-ioperm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-ioperm.patch
+END
+glibc22-nss-upgrade.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc22-nss-upgrade.patch
+END
+glibc23-errno-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-errno-hack.patch
+END
+glibc23-version-sanity.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-version-sanity.patch
+END
+lo_LA.UTF-8_not_supported.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/lo_LA.UTF-8_not_supported.patch
+END
+50_glibc232-arm-dwarf2-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/50_glibc232-arm-dwarf2-buildfix.patch
+END
+librt-mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/librt-mips.patch
+END
+80_glibc232-locales-header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/80_glibc232-locales-header.patch
+END
+50_glibc232-m68k-dwarf2-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/50_glibc232-m68k-dwarf2-buildfix.patch
+END
+locale-es_AR.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/locale-es_AR.patch
+END
+glibc23-ctype-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-ctype-compat.patch
+END
+noinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/noinfo.patch
+END
+glibc23-mips-msq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc23-mips-msq.patch
+END
+arm-no-hwcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/arm-no-hwcap.patch
+END
+80_glibc232-futimes-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/80_glibc232-futimes-buildfix.patch
+END
+alpha-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/alpha-pic.patch
+END
+s390-tls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/s390-tls.patch
+END
+glibc-i686-timing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/glibc-i686-timing.patch
+END
+hppa-syscall.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/hppa-syscall.patch
+END
+ldd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/ldd.patch
+END
+hurd-enable-ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/hurd-enable-ldconfig.patch
+END
+sparcv8-target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/sparcv8-target.patch
+END
+50_glibc23-hppa-entry.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.3.2/50_glibc23-hppa-entry.patch
+END

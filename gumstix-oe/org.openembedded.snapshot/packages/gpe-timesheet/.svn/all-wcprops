@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet
+END
+gpe-timesheet_0.30.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet/gpe-timesheet_0.30.bb
+END
+gpe-timesheet_0.31.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet/gpe-timesheet_0.31.bb
+END
+gpe-timesheet_0.32.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet/gpe-timesheet_0.32.bb
+END
+gpe-timesheet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet/gpe-timesheet.inc
+END
+gpe-timesheet_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-timesheet/gpe-timesheet_svn.bb
+END

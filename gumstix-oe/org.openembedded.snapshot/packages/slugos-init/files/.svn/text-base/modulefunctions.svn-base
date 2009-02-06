@@ -1,0 +1,40 @@
+#!/bin/sh
+# . this file to load the functions for automatically loading modules
+
+. /etc/default/functions
+
+loaddiskmods(){
+	case "$(machine)" in
+	    nslu2)                     
+	        modprobe ehci-hcd
+	        modprobe ohci-hcd
+		;;
+            nas100d)
+	        modprobe ehci-hcd
+                modprobe uhci-hcd
+                modprobe pata-artop
+                ;;
+            dsmg600)
+	        modprobe ehci-hcd
+                modprobe uhci-hcd
+                modprobe pata-artop
+                ;;
+
+	esac
+}
+
+loadnetmods(){
+	case "$(machine)" in
+            dsmg600)
+                modprobe via-velocity
+                ;;
+	    *)
+		true
+		;;
+	esac
+}
+
+loadmiscmods(){
+	true
+}
+

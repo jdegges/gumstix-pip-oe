@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ecj
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+ecj-native_3.2.2.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+1c75ceda729209cddcc64407b7857917
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ecj-native_3.3.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+d619e65f61c757b7d969fb526a01db3f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

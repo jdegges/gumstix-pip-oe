@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/aircrack
+END
+aircrack_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/aircrack/aircrack_2.1.bb
+END
+aircrack-ng_1.0-svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/aircrack/aircrack-ng_1.0-svn.bb
+END
+aircrack_2.41.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/aircrack/aircrack_2.41.bb
+END
+aircrack-ng_0.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/aircrack/aircrack-ng_0.9.1.bb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/slugos
+END
+mount.blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/slugos/mount.blacklist
+END
+mount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/slugos/mount.sh
+END

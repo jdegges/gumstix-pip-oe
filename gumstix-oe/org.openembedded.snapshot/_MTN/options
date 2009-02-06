@@ -1,0 +1,3 @@
+database "/oe/OE.mtn"
+  branch "org.openembedded.dev"
+  keydir "/home/sakoman/.monotone/keys"

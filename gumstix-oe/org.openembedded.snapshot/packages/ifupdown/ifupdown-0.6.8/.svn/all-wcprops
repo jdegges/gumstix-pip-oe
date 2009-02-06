@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/init
+END
+interfaces
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/interfaces
+END
+zeroconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/zeroconf.patch
+END
+udhcpc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/udhcpc.patch
+END
+head-tail.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/head-tail.patch
+END
+busybox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ifupdown/ifupdown-0.6.8/busybox.patch
+END

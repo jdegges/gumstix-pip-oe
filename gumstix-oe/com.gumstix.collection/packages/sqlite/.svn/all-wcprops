@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/139/trunk/com.gumstix.collection/packages/sqlite
+END
+sqlite3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/78/trunk/com.gumstix.collection/packages/sqlite/sqlite3.inc
+END
+sqlite3_3.5.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/78/trunk/com.gumstix.collection/packages/sqlite/sqlite3_3.5.4.bb
+END

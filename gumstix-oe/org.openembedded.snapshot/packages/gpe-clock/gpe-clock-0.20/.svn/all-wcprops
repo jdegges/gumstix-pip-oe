@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-clock/gpe-clock-0.20
+END
+default-time-24hrs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-clock/gpe-clock-0.20/default-time-24hrs.patch
+END

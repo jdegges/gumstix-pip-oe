@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mesa/files
+END
+mklib-rpath-link.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mesa/files/mklib-rpath-link.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/changedfiles
+END
+changedfiles-daemon_1.0-rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/changedfiles/changedfiles-daemon_1.0-rc1.bb
+END
+changedfiles.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/changedfiles/changedfiles.inc
+END
+changedfiles-modules_1.0-rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/changedfiles/changedfiles-modules_1.0-rc1.bb
+END

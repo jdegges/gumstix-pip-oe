@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/robostix/robostix
+END
+makefile-rules.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/robostix/robostix/makefile-rules.patch
+END
+gummake.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/robostix/robostix/gummake.patch
+END

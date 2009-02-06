@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/vlc/vlc-gpe-0.8.4
+END
+pda-interface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/vlc/vlc-gpe-0.8.4/pda-interface.patch
+END

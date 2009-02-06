@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/teleport
+END
+teleport_0.33.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/teleport/teleport_0.33.bb
+END
+teleport_0.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/teleport/teleport_0.34.bb
+END

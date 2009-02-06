@@ -1,0 +1,160 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sysvinit/sysvinit
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+postinst
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+990d58e8f25ff1921f97585d8bd0070c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+prerm
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+f7f8df0b6034d63b94f1c8b85a41b0f1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mnci
+dir
+
+rcS
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+d487fc3c956885ffcc11e16cecac85a9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+rt3000
+dir
+
+inittab
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+93b7ca8c9c1709dec4af864f73d28fcc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+angstrom
+dir
+
+openmn
+dir
+
+oplinux-uclibc
+dir
+
+oplinux
+dir
+
+rc
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+aa2322e4ee5601de6d990f6a75f70919
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+provide
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+d8a938b3e3761bc7212df34649c801e3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rcS-default
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+57aab188710562f4c8e16466e57f4988
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+bootlogd.init
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+c0f2d42ebccf2557f06bf66604b18d99
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+need
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+8a51d7dc0ed0fbec77955c8da1955a0b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slugos
+dir
+

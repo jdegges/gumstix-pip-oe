@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/modutils/files
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/configure.patch
+END
+program_prefix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/program_prefix.patch
+END
+armeb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/armeb.patch
+END
+modules
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/modules
+END
+modutils-notest.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/modutils-notest.patch
+END
+lex.l.diff
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/lex.l.diff
+END
+modutils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/modutils.sh
+END
+modules.conf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/modules.conf
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/files/gcc4.patch
+END

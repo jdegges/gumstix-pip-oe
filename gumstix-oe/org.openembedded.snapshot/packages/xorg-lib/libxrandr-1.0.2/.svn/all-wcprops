@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-lib/libxrandr-1.0.2
+END
+autofoo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-lib/libxrandr-1.0.2/autofoo.patch
+END

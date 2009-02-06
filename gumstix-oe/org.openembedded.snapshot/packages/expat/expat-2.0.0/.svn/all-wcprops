@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/expat/expat-2.0.0
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/expat/expat-2.0.0/autotools.patch
+END

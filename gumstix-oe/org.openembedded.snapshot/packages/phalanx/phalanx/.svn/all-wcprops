@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/phalanx/phalanx
+END
+description
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/phalanx/phalanx/description
+END
+capabilities
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/phalanx/phalanx/capabilities
+END
+gcc3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/phalanx/phalanx/gcc3.patch
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool
+END
+ethtool_3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool/ethtool_3.bb
+END
+ethtool_4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool/ethtool_4.bb
+END
+ethtool_5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool/ethtool_5.bb
+END
+ethtool_6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool/ethtool_6.bb
+END
+ethtool.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ethtool/ethtool.inc
+END

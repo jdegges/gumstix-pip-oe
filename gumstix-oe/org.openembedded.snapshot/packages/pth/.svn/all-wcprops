@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pth
+END
+pth_2.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pth/pth_2.0.0.bb
+END
+pth_2.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pth/pth_2.0.2.bb
+END

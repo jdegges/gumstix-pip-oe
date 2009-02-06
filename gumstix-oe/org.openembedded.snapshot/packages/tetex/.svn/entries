@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tetex
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+tetex-native_3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+54088da7ba40bfc7131751d73ba38af5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+tetex_3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+222b95e9fc9ca6d9e0e8258251d7ecdd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tetex-texmf_3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+bfada091beba2f39d3c65b870543074f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

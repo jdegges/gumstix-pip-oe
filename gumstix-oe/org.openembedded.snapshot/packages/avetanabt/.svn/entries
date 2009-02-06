@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/avetanabt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+avetanabt_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+e5578710473e0e0694abaea80a226e9b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+avetanabt_20060413.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+51371b18f1e1d34cac3a4fd805fb243e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

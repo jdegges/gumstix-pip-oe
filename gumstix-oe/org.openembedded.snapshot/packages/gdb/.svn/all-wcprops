@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb
+END
+gdb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb.inc
+END
+gdb_6.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb_6.3.bb
+END
+gdb_6.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb_6.4.bb
+END
+gdb_6.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb_6.6.bb
+END
+gdb-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-common.inc
+END
+gdb-cross.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-cross.inc
+END
+gdb-cross_6.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-cross_6.3.bb
+END
+gdb-cross_6.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-cross_6.4.bb
+END
+gdb-cross-sdk_6.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-cross-sdk_6.6.bb
+END
+gdb-cross_6.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gdb/gdb-cross_6.6.bb
+END

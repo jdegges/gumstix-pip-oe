@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap2-git
+END
+omap-2430-lcd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap2-git/omap-2430-lcd.patch
+END
+defconfig.eabi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap2-git/defconfig.eabi
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap2-git/defconfig
+END

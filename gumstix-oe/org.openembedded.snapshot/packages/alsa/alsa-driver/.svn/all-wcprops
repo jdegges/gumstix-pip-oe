@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver
+END
+adriver.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver/adriver.h.patch
+END
+sa11xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver/sa11xx.patch
+END
+sound.p.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver/sound.p.patch
+END
+h5400.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver/h5400.patch
+END

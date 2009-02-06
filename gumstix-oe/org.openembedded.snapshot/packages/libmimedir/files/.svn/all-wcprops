@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files
+END
+mimedir-duration.diff
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files/mimedir-duration.diff
+END
+libmimedir-0.4.0-duration-wkst.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files/libmimedir-0.4.0-duration-wkst.patch
+END
+mimedir-write-sequence.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files/mimedir-write-sequence.patch
+END
+mimedir-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files/mimedir-update.patch
+END
+gslist-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmimedir/files/gslist-fix.patch
+END

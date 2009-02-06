@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar
+END
+nomax.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar/nomax.patch
+END
+no-builtin-qss-startup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar/no-builtin-qss-startup.patch
+END
+server.pro
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar/server.pro
+END
+restart-from-bindir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar/restart-from-bindir.patch
+END
+kbdlocks-runtime.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar/kbdlocks-runtime.patch
+END

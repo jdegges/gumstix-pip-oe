@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/imagemagick/files
+END
+PerlMagic_MakePatch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/imagemagick/files/PerlMagic_MakePatch
+END
+makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/imagemagick/files/makefile-am.patch
+END
+binconfig-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/imagemagick/files/binconfig-fixes.patch
+END

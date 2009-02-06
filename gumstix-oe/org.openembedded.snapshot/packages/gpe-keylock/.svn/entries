@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-keylock
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpe-keylock_0.12.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+1805b7468bcff2aae4a2e2610aed77f7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

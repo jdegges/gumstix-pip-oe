@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipaq-sleep/files
+END
+install-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipaq-sleep/files/install-fix.patch
+END
+init-script-busybox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipaq-sleep/files/init-script-busybox.patch
+END

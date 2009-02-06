@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sox/sox
+END
+uclibc-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sox/sox/uclibc-fixes.patch
+END
+src-Makefile.am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sox/sox/src-Makefile.am.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files
+END
+enhance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/enhance.patch
+END
+rhythmbox-volume-max.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/rhythmbox-volume-max.png
+END
+rhythmbox-volume-zero.png
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/rhythmbox-volume-zero.png
+END
+rhythmbox-volume-medium.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/rhythmbox-volume-medium.png
+END
+rhythmbox-volume-min.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/rhythmbox-volume-min.png
+END
+disable-browser-plugin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gxine/files/disable-browser-plugin.patch
+END

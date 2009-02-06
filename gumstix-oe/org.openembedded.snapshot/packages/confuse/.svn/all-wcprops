@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/confuse
+END
+confuse_2.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/confuse/confuse_2.5.bb
+END
+confuse-native_2.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/confuse/confuse-native_2.5.bb
+END

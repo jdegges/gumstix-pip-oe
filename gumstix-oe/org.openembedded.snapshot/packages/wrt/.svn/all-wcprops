@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wrt
+END
+wrt-init.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wrt/wrt-init.bb
+END
+wrt-imagetools-native.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wrt/wrt-imagetools-native.bb
+END
+loader_0.04.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wrt/loader_0.04.bb
+END
+wrt-utils.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wrt/wrt-utils.bb
+END

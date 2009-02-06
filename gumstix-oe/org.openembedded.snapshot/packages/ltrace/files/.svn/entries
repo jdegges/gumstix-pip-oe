@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ltrace/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-usr-include.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+0b7fd1f0e705e05a338bd6bcc2973978
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

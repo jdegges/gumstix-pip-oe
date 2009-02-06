@@ -1,0 +1,89 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/alsa/alsa-state
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+a780
+dir
+
+c7x0
+dir
+
+tosa
+dir
+
+magician
+dir
+
+asound.state
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+e0df42ee7deea55dd93bc58db57a4cbf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+akita
+dir
+
+spitz
+dir
+
+hx4700
+dir
+
+fic-gta01
+dir
+
+alsa-state
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+a641ae4f8b4bae3add2c662fa35747ff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+asoundrc
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+c213dd306c5e672ba96de8f26127e9cd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

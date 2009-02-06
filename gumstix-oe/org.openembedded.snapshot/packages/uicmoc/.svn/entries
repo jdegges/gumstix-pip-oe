@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uicmoc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+uicmoc-native-2.3.10
+dir
+
+uicmoc-native_2.3.10.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+a225d6a0e00aa5af0ccc6dff7157b3a6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uicmoc4-native-4.2.3
+dir
+
+uicmoc3-native-3.3.5
+dir
+
+uicmoc4-native_4.3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+0f22d5788b95a4474d533c66e812feb2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uicmoc4-native_4.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+4bc49fdd19f0350a4505bc3ba085c2ea
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uicmoc4-native_4.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+19fc6d38b3f6cef74fa41382a6ec471f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uicmoc4-native_4.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+4bc49fdd19f0350a4505bc3ba085c2ea
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uicmoc3-native_3.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+97197dbdd3ed5c06c88de7fa458e0da3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

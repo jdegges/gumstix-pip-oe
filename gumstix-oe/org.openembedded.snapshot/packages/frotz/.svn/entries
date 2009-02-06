@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/frotz
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+frotz_2.42.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+1c35f9eed3676983f8c07f43b11e0650
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+frotz_2.43.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+fd61421e590c46df6f04d37dd58ad40b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

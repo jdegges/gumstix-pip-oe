@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/irssi
+END
+irssi_0.8.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/irssi/irssi_0.8.10.bb
+END
+irssi_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/irssi/irssi_svn.bb
+END
+xirssi_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/irssi/xirssi_cvs.bb
+END

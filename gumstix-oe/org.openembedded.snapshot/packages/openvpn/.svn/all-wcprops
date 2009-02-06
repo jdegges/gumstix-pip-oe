@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn
+END
+openvpn_2.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn/openvpn_2.0.2.bb
+END
+openvpn_2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn/openvpn_2.0.bb
+END
+openvpn_1.5.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn/openvpn_1.5.0.bb
+END
+openvpn_1.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn/openvpn_1.6.0.bb
+END
+openvpn_2.0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openvpn/openvpn_2.0.9.bb
+END

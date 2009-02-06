@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/240/trunk/com.gumstix.collection/packages/jamvm/jamvm
+END
+jamvm-1.3.1-size-defaults.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/240/trunk/com.gumstix.collection/packages/jamvm/jamvm/jamvm-1.3.1-size-defaults.patch
+END
+sh3sh4-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/240/trunk/com.gumstix.collection/packages/jamvm/jamvm/sh3sh4-support.patch
+END

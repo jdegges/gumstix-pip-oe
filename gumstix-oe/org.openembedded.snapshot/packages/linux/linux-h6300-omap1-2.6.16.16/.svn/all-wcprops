@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-h6300-omap1-2.6.16.16
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-h6300-omap1-2.6.16.16/defconfig
+END
+linux-h6300-omap2-2.6.16.16.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-h6300-omap1-2.6.16.16/linux-h6300-omap2-2.6.16.16.patch
+END
+linux-2.6.16.16.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-h6300-omap1-2.6.16.16/linux-2.6.16.16.patch
+END

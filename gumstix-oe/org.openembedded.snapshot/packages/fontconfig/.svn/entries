@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/fontconfig
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fontconfig-native_2.2.95.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+c8086d3c92196d506a48a81815d8bc2f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fontconfig_2.4.1.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+1c149d174dcf99e183cacf4fb1dae995
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+fontconfig-2.3.91
+dir
+
+fontconfig-2.2.95
+dir
+
+fontconfig_2.3.91.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+04f6770d3a2f28998507a51a4cae218a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fontconfig_2.2.95.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+b10753e1d4da5df68346a9d68f7e1181
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fontconfig-native_2.3.91.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+c8086d3c92196d506a48a81815d8bc2f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fontconfig_2.3.95.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+de17a36d2bd1755ff3d299a3b144dfe0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1
+END
+mii-debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/mii-debug.patch
+END
+undefined-attribute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/undefined-attribute.patch
+END
+module-param.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/module-param.patch
+END
+module-use-count.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/module-use-count.patch
+END
+rtl8201-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/rtl8201-support.patch
+END
+livelock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/livelock.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/Makefile.patch
+END
+bit-macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/bit-macro.patch
+END
+ixethdb-header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/ixethdb-header.patch
+END
+ixnpemhconfigisr-is-private.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/ixnpemhconfigisr-is-private.patch
+END
+oe-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/oe-makefile.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/gcc4.patch
+END
+le.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1.1/le.patch
+END

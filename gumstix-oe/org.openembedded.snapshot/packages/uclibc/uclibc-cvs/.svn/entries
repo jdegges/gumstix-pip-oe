@@ -1,0 +1,118 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+powerpc
+dir
+
+efika
+dir
+
+arm
+dir
+
+thumb-defined-arm-or-thumb.patch
+file
+
+
+
+
+2009-02-06T18:13:38.000000Z
+6c8147aa63d97242597bb7feec36f8d9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-mov-pc-bx.patch
+file
+
+
+
+
+2009-02-06T18:13:38.000000Z
+06f80d1f959733dcc967d5dfc10f8861
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+armeb
+dir
+
+dht-walnut
+dir
+
+mipsel
+dir
+
+magicbox
+dir
+
+i386
+dir
+
+i486
+dir
+
+i586
+dir
+
+error_print_progname.patch
+file
+
+
+
+
+2009-02-06T18:13:38.000000Z
+e018ced89895af4ee84b1b7fe0c80459
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-asm-swi.patch
+file
+
+
+
+
+2009-02-06T18:13:38.000000Z
+f43a36ca3e1c6487e94dcd3dc0a87d79
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+i686
+dir
+
+sh3
+dir
+
+sh4
+dir
+
+ixp4xx
+dir
+

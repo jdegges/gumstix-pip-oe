@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.29/h2200
+END
+uClibc.machine
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.29/h2200/uClibc.machine
+END

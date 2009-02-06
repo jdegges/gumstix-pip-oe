@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/r
+END
+r_2.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/r/r_2.0.0.bb
+END
+r-native_2.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/r/r-native_2.0.0.bb
+END
+r_1.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/r/r_1.9.1.bb
+END

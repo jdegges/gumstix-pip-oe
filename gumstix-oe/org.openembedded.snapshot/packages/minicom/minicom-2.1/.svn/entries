@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/minicom/minicom-2.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+f13712e2465bc765a2bbf1597cb08303
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gcc4-scope.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+3e1f1403b3934a8fd430a55d743eda25
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

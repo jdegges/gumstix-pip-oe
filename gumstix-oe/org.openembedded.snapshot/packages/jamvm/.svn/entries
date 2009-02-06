@@ -1,0 +1,94 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/jamvm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+jamvm_1.4.5.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+f627247824f03d6ca634e6f4cee1785e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jamvm-1.3.0
+dir
+
+jamvm
+dir
+
+jamvm_1.3.0.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+8c850f5d07deb052798fff6d001b2b96
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jamvm_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+a5c65cf0ea39a9b45841e8485e077cdd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jamvm_1.3.2.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+d781fbe74536faa52d322d2d95369298
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jamvm_1.4.1.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+d781fbe74536faa52d322d2d95369298
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

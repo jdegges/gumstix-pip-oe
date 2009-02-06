@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite
+END
+sqlite3_3.3.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.3.17.bb
+END
+sqlite_2.8.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite_2.8.16.bb
+END
+sqlite_2.8.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite_2.8.17.bb
+END
+sqlite_2.8.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite_2.8.9.bb
+END
+sqlite3_3.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.2.2.bb
+END
+sqlite3_3.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.4.1.bb
+END
+sqlite3_3.3.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.3.12.bb
+END
+sqlite3_3.2.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.2.5.bb
+END
+sqlite3_3.3.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.3.13.bb
+END
+sqlite3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3.inc
+END
+sqlite3_3.2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite3_3.2.7.bb
+END
+sqlite_2.8.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite_2.8.15.bb
+END

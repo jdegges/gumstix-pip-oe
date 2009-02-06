@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/vpnc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+vpnc_0.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+76554d72955a1cdd44b1c59f81e76363
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vpnc_0.3.3.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+d4f7e0ccab67a4e68c371d2b9ae4e12c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers
+END
+linux-libc-headers_2.6.11.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.11.1.bb
+END
+linux-libc-headers_2.6.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.20.bb
+END
+linux-libc-headers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers.inc
+END
+linux-libc-headers_2.6.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.22.bb
+END
+linux-libc-headers_2.6.7.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.7.0.bb
+END
+linux-libc-headers_2.6.18+2.6.19-rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.18+2.6.19-rc1.bb
+END
+linux-libc-headers_2.6.23.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.23.bb
+END
+linux-libc-headers_2.6.15.99.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.15.99.bb
+END
+linux-libc-headers_2.6.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.8.1.bb
+END
+linux-libc-headers_2.6.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers_2.6.18.bb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pango/files
+END
+gtk-doc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pango/files/gtk-doc.patch
+END
+no-tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pango/files/no-tests.patch
+END

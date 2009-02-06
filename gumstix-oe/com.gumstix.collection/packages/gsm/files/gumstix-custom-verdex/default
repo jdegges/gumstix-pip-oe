@@ -1,0 +1,8 @@
+# gsmd	This shell script configures for the gsmd init script.
+
+. /etc/init.d/functions
+
+GSM_DEV="/dev/ttyACM1"
+GSMD_OPTS=""
+GSM_POW="/proc/gpio/GPIO100"
+

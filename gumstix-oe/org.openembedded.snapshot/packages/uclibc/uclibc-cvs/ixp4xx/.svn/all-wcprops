@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/ixp4xx
+END
+uClibc.distro
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/ixp4xx/uClibc.distro
+END
+uClibc.machine
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/ixp4xx/uClibc.machine
+END

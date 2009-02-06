@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-packagemanager
+END
+opie-packagemanager_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-packagemanager/opie-packagemanager_1.2.2.bb
+END
+opie-packagemanager_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-packagemanager/opie-packagemanager_1.2.3.bb
+END
+opie-packagemanager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-packagemanager/opie-packagemanager.inc
+END
+opie-packagemanager_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-packagemanager/opie-packagemanager_cvs.bb
+END

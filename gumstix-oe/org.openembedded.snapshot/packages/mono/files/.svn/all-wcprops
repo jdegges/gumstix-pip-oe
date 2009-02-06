@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files
+END
+genmdesc-cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/genmdesc-cpp.patch
+END
+mono-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/mono-configure.patch
+END
+mono-fix-libdir-path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/mono-fix-libdir-path.patch
+END
+mono-monoburg-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/mono-monoburg-Makefile.patch
+END
+mono-mips-endian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/mono-mips-endian.patch
+END
+cpu-arm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/cpu-arm.h
+END
+mono-mini-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/mono-mini-Makefile.patch
+END
+configure-svnr87352.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mono/files/configure-svnr87352.patch
+END

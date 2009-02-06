@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/popt/popt-1.7
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+intl.patch
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+148755badc3b54c0bd520a0510f33943
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+m4.patch
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+b1ef22990ebc0de54fc77adc697c7a2b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/php/php-5.2.0
+END
+pear-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/php/php-5.2.0/pear-makefile.patch
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/php/php-5.2.0/autotools.patch
+END
+acinclude-xml2-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/php/php-5.2.0/acinclude-xml2-config.patch
+END

@@ -1,0 +1,5 @@
+SECTION = "console/utils"
+DESCRIPTION = "Console utilities for building the OpenSIMpad linux distribution"
+HOMEPAGE = "http://opensimpad.org"
+DEPENDS = "pad-native genboot-native serload-native"
+LICENSE = "MIT"

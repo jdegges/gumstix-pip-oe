@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0
+END
+xargs-double-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/xargs-double-size.patch
+END
+df_rootfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/df_rootfs.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/defconfig
+END
+udhcpscript.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/udhcpscript.patch
+END
+dhcp-hostname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/dhcp-hostname.patch
+END
+busybox-mdev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/busybox-mdev.sh
+END
+dhcp-increase-retries.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/dhcp-increase-retries.patch
+END
+ifupdown-spurious-environ.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/busybox-1.6.0/ifupdown-spurious-environ.patch
+END

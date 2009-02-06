@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3
+END
+hildon-thumbnail_0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/hildon-thumbnail_0.11.bb
+END
+osso-ic-oss_1.0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/osso-ic-oss_1.0.4.bb
+END
+libhildonfm_1.9.41.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libhildonfm_1.9.41.bb
+END
+hildon-1_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/hildon-1_svn.bb
+END
+libhildonhelp_1.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libhildonhelp_1.9.1.bb
+END
+outo_0.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/outo_0.1.1.bb
+END
+libgpsmgr_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libgpsmgr_0.1.bb
+END
+libhildonmime_1.9.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libhildonmime_1.9.5.bb
+END
+hildon-libs_0.15.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/hildon-libs_0.15.1.bb
+END
+mce-dev_1.5.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/mce-dev_1.5.6.bb
+END
+libosso-gsf_1.11.10.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libosso-gsf_1.11.10.4.bb
+END
+hildon-lgpl_0.12.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/hildon-lgpl_0.12.1.bb
+END
+libosso_1.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libosso_1.20.bb
+END
+libosso-help_2.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libosso-help_2.1.2.bb
+END
+libgpsbt_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/libgpsbt_0.1.bb
+END
+hildon-base-lib_0.11.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/hildon-base-lib_0.11.1.bb
+END
+osso-thumbnail_0.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/osso-thumbnail_0.7.bb
+END
+osso-gwconnect_1.0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo3/osso-gwconnect_1.0.8.bb
+END

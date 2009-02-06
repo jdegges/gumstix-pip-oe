@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel
+END
+matchbox-panel_0.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.8.1.bb
+END
+matchbox-panel_0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.8.bb
+END
+matchbox-panel_0.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.9.1.bb
+END
+matchbox-panel.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel.inc
+END
+matchbox-panel_0.8.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.8.3.bb
+END
+matchbox-panel_0.9.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.9.2.bb
+END
+matchbox-panel_0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.9.bb
+END
+matchbox-panel_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_svn.bb
+END
+matchbox-panel_0.9.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel_0.9.3.bb
+END

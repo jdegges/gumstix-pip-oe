@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dialog
+END
+dialog-static_1.0-20050306.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dialog/dialog-static_1.0-20050306.bb
+END
+dialog.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dialog/dialog.inc
+END
+dialog_1.0-20050306.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dialog/dialog_1.0-20050306.bb
+END

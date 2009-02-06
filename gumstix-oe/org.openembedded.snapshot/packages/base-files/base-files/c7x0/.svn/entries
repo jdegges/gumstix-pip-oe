@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/base-files/base-files/c7x0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fstab
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+046a9e26c2c0499255ed4c6cbb6732f0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+usbd
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+0b017e30b5170c540b20995ea43187c1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

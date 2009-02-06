@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt
+END
+qt4-x11-free_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt4-x11-free_4.1.2.bb
+END
+qt-x11-free_3.3.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt-x11-free_3.3.6.bb
+END
+qt-x11-free_3.3.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt-x11-free_3.3.7.bb
+END
+qt4-x11-free_4.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt4-x11-free_4.3.2.bb
+END
+qt-x11-free-native_3.3.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt-x11-free-native_3.3.5.bb
+END
+qt-x11-free-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt-x11-free-common.inc
+END
+qt4_arch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qt/qt4_arch.inc
+END

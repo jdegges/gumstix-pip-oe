@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/glibmm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+glibmm_2.12.10.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+73f9f5e74dacbb27471a28a4561b2cb5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

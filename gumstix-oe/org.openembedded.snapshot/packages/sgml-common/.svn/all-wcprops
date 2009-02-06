@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sgml-common
+END
+sgml-common-native_0.6.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sgml-common/sgml-common-native_0.6.3.bb
+END
+sgml-common_0.6.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sgml-common/sgml-common_0.6.3.bb
+END

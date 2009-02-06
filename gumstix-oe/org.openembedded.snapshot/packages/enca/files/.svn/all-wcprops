@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/enca/files
+END
+configure-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/enca/files/configure-hack.patch
+END
+dont-run-tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/enca/files/dont-run-tests.patch
+END
+makefile-remove-tools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/enca/files/makefile-remove-tools.patch
+END
+configure-remove-dumbness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/enca/files/configure-remove-dumbness.patch
+END

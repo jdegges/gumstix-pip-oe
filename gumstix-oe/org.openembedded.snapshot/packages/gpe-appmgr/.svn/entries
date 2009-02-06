@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-appmgr
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+gpe-appmgr_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+3f03fdf98c0f975f0b48040000f254db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-appmgr_2.8.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+00fc3a2deaa8d8aa9d605227e6e0c999
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

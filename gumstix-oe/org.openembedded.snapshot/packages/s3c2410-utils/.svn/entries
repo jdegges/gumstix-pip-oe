@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/s3c2410-utils
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sjf2410-linux-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+151d060c57be1d95e67355d0d9149727
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+s3c2410-boot-usb-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+6fdd9f6fe7f1d75f89421602d4b77dbe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

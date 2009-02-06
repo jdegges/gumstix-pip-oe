@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw
+END
+fftwf_3.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw/fftwf_3.1.2.bb
+END
+benchfft_3.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw/benchfft_3.1.bb
+END
+fftwl_3.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw/fftwl_3.1.2.bb
+END
+fftw_3.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw/fftw_3.1.2.bb
+END
+fftw.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fftw/fftw.inc
+END

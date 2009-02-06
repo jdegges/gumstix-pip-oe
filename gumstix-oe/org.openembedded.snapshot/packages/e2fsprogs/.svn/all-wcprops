@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/136/trunk/org.openembedded.snapshot/packages/e2fsprogs
+END
+e2fsprogs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/135/trunk/org.openembedded.snapshot/packages/e2fsprogs/e2fsprogs.inc
+END
+e2fsprogs_1.38.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/136/trunk/org.openembedded.snapshot/packages/e2fsprogs/e2fsprogs_1.38.bb
+END
+e2fsprogs-native_1.38.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/135/trunk/org.openembedded.snapshot/packages/e2fsprogs/e2fsprogs-native_1.38.bb
+END

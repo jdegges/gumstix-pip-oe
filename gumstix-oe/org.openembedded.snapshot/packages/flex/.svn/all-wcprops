@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/flex
+END
+flex.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/flex/flex.inc
+END
+flex_2.5.31.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/flex/flex_2.5.31.bb
+END
+flex-native_2.5.31.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/flex/flex-native_2.5.31.bb
+END

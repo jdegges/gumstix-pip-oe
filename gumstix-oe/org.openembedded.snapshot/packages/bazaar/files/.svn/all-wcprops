@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bazaar/files
+END
+no_archive_format_guess_msg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bazaar/files/no_archive_format_guess_msg.patch
+END
+import_dirarg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bazaar/files/import_dirarg.patch
+END

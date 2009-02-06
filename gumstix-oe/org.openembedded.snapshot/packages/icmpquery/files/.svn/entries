@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/icmpquery/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+icmpquery.c
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+49ec82cc335951652662211fd1759cbd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+Makefile
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+4c42e3f88535be38e28e7cdc7927347b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer
+END
+gst-ffmpeg_0.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-ffmpeg_0.10.2.bb
+END
+gst-plugins-bad_0.10.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-bad_0.10.3.bb
+END
+gst-plugins-bad_0.10.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-bad_0.10.5.bb
+END
+gst-plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins.inc
+END
+gst-plugins-good_0.10.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-good_0.10.5.bb
+END
+gst-plugins-base_0.10.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-base_0.10.12.bb
+END
+gst-plugins-good_0.10.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-good_0.10.6.bb
+END
+gst-plugins-base_0.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-base_0.10.14.bb
+END
+gst-plugin-pulse_0.9.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugin-pulse_0.9.4.bb
+END
+gstreamer_0.10.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gstreamer_0.10.12.bb
+END
+gst-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-common.inc
+END
+gstreamer_0.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gstreamer_0.10.14.bb
+END
+gstreamer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gstreamer.inc
+END
+gst-meta-base_0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-meta-base_0.10.bb
+END
+gst-plugins-ugly_0.10.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-ugly_0.10.6.bb
+END

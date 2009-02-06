@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/flumotion/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+python-path.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+0774298eedf14e82653fced45e94741c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+no-check-for-python-stuff.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+ba4f7ef45b3439fbc863b2f600c2971a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

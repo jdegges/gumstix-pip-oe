@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy
+END
+telepathy-python_0.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-python_0.14.0.bb
+END
+telepathy-mission-control_4.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-mission-control_4.21.bb
+END
+telepathy-mission-control_4.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-mission-control_4.22.bb
+END
+libtelepathy_0.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/libtelepathy_0.2.0.bb
+END
+empathy_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/empathy_0.1.bb
+END
+telepathy-mission-control_4.45.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-mission-control_4.45.bb
+END
+empathy_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/empathy_0.4.bb
+END
+empathy_0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/empathy_0.14.bb
+END
+empathy_0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/empathy_0.5.bb
+END
+libtelepathy_0.0.53.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/libtelepathy_0.0.53.bb
+END
+telepathy-gabble_0.5.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-gabble_0.5.10.bb
+END
+telepathy-glib_0.5.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-glib_0.5.10.bb
+END
+telepathy-glib_0.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/telepathy/telepathy-glib_0.6.0.bb
+END

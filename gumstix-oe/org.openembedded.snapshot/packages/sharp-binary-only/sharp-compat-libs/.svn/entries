@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-compat-libs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qt2310.patch
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+10b898840d30936222fab589dbba735a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+hentges.patch
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+d9866a61ae2ce8d3640fff7e3db7cc89
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

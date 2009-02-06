@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/elfkickers/elfkickers-2.0a
+END
+mjn3-sstrip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/elfkickers/elfkickers-2.0a/mjn3-sstrip.patch
+END
+gentoo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/elfkickers/elfkickers-2.0a/gentoo.patch
+END

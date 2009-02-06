@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2
+END
+df_rootfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/df_rootfs.patch
+END
+slingbox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/slingbox.patch
+END
+slingbox_name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/slingbox_name.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/defconfig
+END
+lazy_umount.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/lazy_umount.patch
+END
+halt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/halt.patch
+END
+wget-long-options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/busybox/slingbox-1.2.2/wget-long-options.patch
+END

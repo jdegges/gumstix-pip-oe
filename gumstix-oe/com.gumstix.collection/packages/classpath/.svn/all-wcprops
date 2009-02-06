@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath
+END
+classpath_0.95.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath_0.95.bb
+END
+classpath_0.96.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath_0.96.1.bb
+END
+classpath-minimal_0.96.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath-minimal_0.96.1.bb
+END
+classpath-native_0.96.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath-native_0.96.1.bb
+END
+classpath-initial_0.93.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath-initial_0.93.bb
+END
+classpath.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath.inc
+END
+classpath-native.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/214/trunk/com.gumstix.collection/packages/classpath/classpath-native.inc
+END

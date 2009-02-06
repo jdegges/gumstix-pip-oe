@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dillo
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dillo-0.8.6
+dir
+
+dillo2-0.6.6
+dir
+
+dillo2_0.6.6.bb
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+3d4873e12899fe938f6bcc698a756354
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dillo_0.8.6.bb
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+9fb0e512d6e1374598b2e784948ce021
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

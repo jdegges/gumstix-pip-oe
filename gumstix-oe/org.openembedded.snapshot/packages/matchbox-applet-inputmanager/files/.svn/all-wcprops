@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-applet-inputmanager/files
+END
+mbinputmgr-libgtkinput.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-applet-inputmanager/files/mbinputmgr-libgtkinput.patch
+END
+update-to-svn.diff
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-applet-inputmanager/files/update-to-svn.diff
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ruby
+END
+ruby-native_1.8.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ruby/ruby-native_1.8.5.bb
+END
+ruby.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ruby/ruby.inc
+END
+ruby_1.8.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ruby/ruby_1.8.5.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/base-passwd/base-passwd-3.5.9/slugos
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+root-home.patch
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+8923001e38bcfd865fd879d75830eccb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+README
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+c2392fc8b6bcacfa364da20266905be4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

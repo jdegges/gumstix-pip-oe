@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qmake
+END
+qmake2-native_2.10a.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qmake/qmake2-native_2.10a.bb
+END
+qmake-native_1.07a.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qmake/qmake-native_1.07a.bb
+END

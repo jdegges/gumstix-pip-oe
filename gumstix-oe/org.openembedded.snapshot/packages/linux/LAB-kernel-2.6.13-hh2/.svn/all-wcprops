@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/LAB-kernel-2.6.13-hh2
+END
+labrun.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/LAB-kernel-2.6.13-hh2/labrun.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/LAB-kernel-2.6.13-hh2/defconfig
+END

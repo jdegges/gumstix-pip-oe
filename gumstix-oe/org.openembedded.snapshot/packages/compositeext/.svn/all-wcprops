@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/compositeext
+END
+compositeext_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/compositeext/compositeext_cvs.bb
+END
+compositeext_2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/compositeext/compositeext_2.0.bb
+END

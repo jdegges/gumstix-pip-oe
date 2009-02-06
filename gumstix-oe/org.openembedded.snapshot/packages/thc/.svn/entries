@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/thc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+hydra_4.5.bb
+file
+
+
+
+
+2009-02-06T18:14:11.000000Z
+ff6bc6149cc325d668352e8500c87089
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thcrut-1.2.5
+dir
+
+hydra_4.4.bb
+file
+
+
+
+
+2009-02-06T18:14:11.000000Z
+4fa69294d9452c6a03f8d98ce55f87de
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thcrut_1.2.5.bb
+file
+
+
+
+
+2009-02-06T18:14:11.000000Z
+01ae519a2e4f676caa7d390a36112e94
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

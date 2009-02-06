@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n
+END
+opie-lupdate-native_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lupdate-native_1.2.3.bb
+END
+opie-i18n.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-i18n.inc
+END
+opie-lrelease-native.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lrelease-native.inc
+END
+opie-lupdate-native.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lupdate-native.inc
+END
+opie-i18n_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-i18n_cvs.bb
+END
+opie-lrelease-native_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lrelease-native_cvs.bb
+END
+opie-lupdate-native_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lupdate-native_cvs.bb
+END
+opie-i18n_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-i18n_1.2.3.bb
+END
+opie-lrelease-native_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-i18n/opie-lrelease-native_1.2.3.bb
+END

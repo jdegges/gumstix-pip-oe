@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs
+END
+e2fsprogs-libs_1.33.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs_1.33.bb
+END
+e2fsprogs-libs_1.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs_1.34.bb
+END
+e2fsprogs-libs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs.inc
+END
+e2fsprogs-libs_1.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs_1.35.bb
+END
+e2fsprogs-libs-native_1.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-native_1.35.bb
+END
+e2fsprogs-libs_1.39.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs_1.39.bb
+END

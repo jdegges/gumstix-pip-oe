@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files
+END
+u-boot-20061030-ext2load_hex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/u-boot-20061030-ext2load_hex.patch
+END
+makefile-no-dirafter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/makefile-no-dirafter.patch
+END
+arm_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/arm_flags.patch
+END
+uboot-eabi-fix-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/uboot-eabi-fix-HACK.patch
+END
+uboot-20070311-tools_makefile_ln_sf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/uboot-20070311-tools_makefile_ln_sf.patch
+END
+fix-arm920t-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/files/fix-arm920t-eabi.patch
+END

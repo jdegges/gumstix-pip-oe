@@ -1,0 +1,61 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/chillispot
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+chillispot_1.0RC3.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+98cf543910d3f335ccc11b2f833cdca3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+chillispot-0.98
+dir
+
+chillispot_0.98.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+708fe93559ab02d8cb444a51b3cc494e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+chillispot-1.0RC3
+dir
+

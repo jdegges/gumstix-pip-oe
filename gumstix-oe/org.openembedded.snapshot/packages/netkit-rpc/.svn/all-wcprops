@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netkit-rpc
+END
+netkit-rpc_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netkit-rpc/netkit-rpc_0.17.bb
+END
+netkit-rpc-native_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netkit-rpc/netkit-rpc-native_0.17.bb
+END

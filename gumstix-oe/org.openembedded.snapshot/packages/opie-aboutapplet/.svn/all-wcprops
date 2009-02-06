@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-aboutapplet
+END
+opie-aboutapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-aboutapplet/opie-aboutapplet.inc
+END
+opie-aboutapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-aboutapplet/opie-aboutapplet_cvs.bb
+END
+opie-aboutapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-aboutapplet/opie-aboutapplet_1.2.2.bb
+END
+opie-aboutapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-aboutapplet/opie-aboutapplet_1.2.3.bb
+END

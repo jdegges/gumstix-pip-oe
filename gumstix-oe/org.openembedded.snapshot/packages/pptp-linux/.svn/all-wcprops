@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pptp-linux
+END
+pptp-linux_1.5.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pptp-linux/pptp-linux_1.5.0.bb
+END
+pptp-linux_1.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pptp-linux/pptp-linux_1.7.1.bb
+END

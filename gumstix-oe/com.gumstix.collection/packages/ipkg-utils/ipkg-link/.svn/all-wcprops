@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils/ipkg-link
+END
+link-vfat-libs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils/ipkg-link/link-vfat-libs.patch
+END

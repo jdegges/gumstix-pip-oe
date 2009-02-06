@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dtc
+END
+dtc_git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dtc/dtc_git.bb
+END
+dtc-native_20070216.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dtc/dtc-native_20070216.bb
+END
+dtc-native_git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dtc/dtc-native_git.bb
+END
+dtc_20070216.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dtc/dtc_20070216.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/slbl
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+slbl.pro
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+04fbde6a7866e88af95bbee41e6fe92f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slbl.c
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+5383e5d123bb688e6b4375a14383f28f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,76 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/strace
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+strace
+dir
+
+strace-4.5.11
+dir
+
+strace-4.5.12
+dir
+
+strace-4.5.14
+dir
+
+strace_4.5.11.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+d3d2cf86ad1fe9ffd824be05edef5b44
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+strace_4.5.12.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+f12775ef9eba597fceb6e9a949e2f112
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+strace_4.5.14.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+b11776202d43a90934776c145c93bb54
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

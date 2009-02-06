@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/e2fsprogs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-16T07:27:33.434251Z
+136
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+e2fsprogs-1.38
+dir
+
+e2fsprogs.inc
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+28d5dd3bd3e39c84ce6aaceda0894499
+2008-01-16T06:37:08.944446Z
+135
+sakoman
+
+e2fsprogs_1.38.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+5ac00c390a81f361bf2cfff2ac906eec
+2008-01-16T07:27:33.434251Z
+136
+sakoman
+
+e2fsprogs-native_1.38.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+53f1cfb6e067cf5f4ea71bf0cf985695
+2008-01-16T06:37:08.944446Z
+135
+sakoman
+
+e2fsprogs
+dir
+

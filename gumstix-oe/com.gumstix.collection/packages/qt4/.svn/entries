@@ -1,0 +1,163 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/qt4
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-17T16:33:55.665852Z
+222
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qt_configuration.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+55374109ff04cfd1a5963c3198ef2835
+2008-01-25T19:59:24.340282Z
+159
+sakoman
+
+qtopia-core
+dir
+
+qtopia-core-4.3.3
+dir
+
+qtopia-core_4.3.3.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+bcb17931b982221f2b709e1f6074d4e9
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+qtopia-core.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+7cedf9e68323d270da7a9229d6ce3824
+2008-01-25T19:59:24.340282Z
+159
+sakoman
+
+qt_depends.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+61f477f3d1b0c47f3f959fcaccde9244
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+qt4-x11-free-4.1.2
+dir
+
+qt_packaging.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+85fab4a4c8d1a1b0f97832659d5ee4ed
+2008-02-17T16:33:55.665852Z
+222
+sakoman
+
+qt4-x11-free-4.3.3
+dir
+
+qt4-x11-free_4.1.2.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+c1c429873986bf704d9d997b715d940d
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+files
+dir
+
+qt4-x11-free_4.3.3.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+854ea1fdcd7cf1b1ee8dc51c3947b64e
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+qt4-x11-free.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+4df0f2418cb04e03ca3ed9c1f0770b0d
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+qt_staging.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+75036bb9a31c893830683fd5f1f30582
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+
+qt4_arch.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+d0cedabc327c7b2e1d5fcc57cea9b8f3
+2008-01-25T04:51:17.810099Z
+157
+sakoman
+

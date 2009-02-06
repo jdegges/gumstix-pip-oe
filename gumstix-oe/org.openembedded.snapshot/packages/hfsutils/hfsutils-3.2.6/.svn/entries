@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hfsutils/hfsutils-3.2.6
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+largerthan2gb.patch
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+7ab54a275889301df989c4a0351781c6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+hfsutils-3.2.6-errno.patch
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+4f5ea10416823de9fd38f6121dd3b8f0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

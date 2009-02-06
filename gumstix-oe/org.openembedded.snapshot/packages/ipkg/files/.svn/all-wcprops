@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files
+END
+uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/uclibc.patch
+END
+terse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/terse.patch
+END
+1-pkg-parse--Optimize-inefficient-parsing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/1-pkg-parse--Optimize-inefficient-parsing.patch
+END
+is-processing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/is-processing.patch
+END
+libdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/libdir.patch
+END
+2-pkg-vec--Optimize-gross-inefficiency.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/2-pkg-vec--Optimize-gross-inefficiency.patch
+END
+lonk-link-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/lonk-link-name.patch
+END
+uninclude-replace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg/files/uninclude-replace.patch
+END

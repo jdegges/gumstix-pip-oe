@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4
+END
+install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4/install.patch
+END
+cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4/cross.patch
+END
+auto.net-sort-option-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4/auto.net-sort-option-fix.patch
+END
+autofs-additional-distros.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4/autofs-additional-distros.patch
+END
+Makefile.rules-cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autofs/autofs-4.1.4/Makefile.rules-cross.patch
+END

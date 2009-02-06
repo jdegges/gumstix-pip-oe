@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-utils-0.2.7
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-utils-0.2.7/config.in
+END
+only-the-utils.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-utils-0.2.7/only-the-utils.patch
+END

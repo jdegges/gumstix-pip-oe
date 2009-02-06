@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm
+END
+no-libfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/no-libfloat.patch
+END
+pic-without-sl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/pic-without-sl.patch
+END
+gcc34-arm-tune.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/gcc34-arm-tune.patch
+END
+gcc-3.4.4-eabi-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/gcc-3.4.4-eabi-bigendian.patch
+END
+15342.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/15342.patch
+END
+gcc-3.4.0-arm-lib1asm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/gcc-3.4.0-arm-lib1asm.patch
+END
+gcc_optab_arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-csl-arm/gcc_optab_arm.patch
+END

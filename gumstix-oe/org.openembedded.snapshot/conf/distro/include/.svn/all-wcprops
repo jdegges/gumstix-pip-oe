@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include
+END
+angstrom-glibc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-glibc.inc
+END
+preferred-openmoko-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-openmoko-versions.inc
+END
+sane-srcrevs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/sane-srcrevs.inc
+END
+angstrom-package-deb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-package-deb.inc
+END
+angstrom-eglibc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-eglibc.inc
+END
+angstrom-package-rpm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-package-rpm.inc
+END
+freeze.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/freeze.inc
+END
+moko-autorev.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/moko-autorev.inc
+END
+angstrom-uclibc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-uclibc.inc
+END
+sane-srcdates.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/sane-srcdates.inc
+END
+preferred-gpe-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-gpe-versions.inc
+END
+preferred-xorg-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-xorg-versions.inc
+END
+angstrom-2007-preferred-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-2007-preferred-versions.inc
+END
+preferred-e-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-e-versions.inc
+END
+preferred-opie-cvs-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-opie-cvs-versions.inc
+END
+maemo-preferred.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/maemo-preferred.inc
+END
+slugos.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/slugos.inc
+END
+preferred-opie-versions-1.2.3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-opie-versions-1.2.3.inc
+END
+preferred-opie-versions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-opie-versions.inc
+END
+preferred-xorg-versions-X11R7.0.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-xorg-versions-X11R7.0.inc
+END
+preferred-xorg-versions-X11R7.1.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-xorg-versions-X11R7.1.inc
+END
+preferred-xorg-versions-X11R7.2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-xorg-versions-X11R7.2.inc
+END
+preferred-xorg-versions-X11R7.3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-xorg-versions-X11R7.3.inc
+END
+angstromoabi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstromoabi.inc
+END
+angstrom.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom.inc
+END
+oplinux.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/oplinux.inc
+END
+preferred-gpe-versions-2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-gpe-versions-2.6.inc
+END
+preferred-gpe-versions-2.7.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-gpe-versions-2.7.inc
+END
+preferred-opie-versions-1.2.4-pre.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-opie-versions-1.2.4-pre.inc
+END
+preferred-gpe-versions-2.8.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/preferred-gpe-versions-2.8.inc
+END
+insane-srcrevs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/insane-srcrevs.inc
+END
+angstrom-package-ipk.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/include/angstrom-package-ipk.inc
+END

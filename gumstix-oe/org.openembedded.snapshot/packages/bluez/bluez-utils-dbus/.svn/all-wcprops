@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus
+END
+hcid-alignment-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus/hcid-alignment-fix.patch
+END
+smash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus/smash.patch
+END
+dbus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus/dbus.patch
+END
+hcid.conf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus/hcid.conf
+END
+dbus-2.24.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/bluez/bluez-utils-dbus/dbus-2.24.patch
+END

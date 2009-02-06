@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include
+END
+tune-sh4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-sh4.inc
+END
+tune-ppce300c2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppce300c2.inc
+END
+collie-2.4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/collie-2.4.inc
+END
+tune-ppce300c3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppce300c3.inc
+END
+tune-x86-nocona.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-x86-nocona.inc
+END
+collie-2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/collie-2.6.inc
+END
+tune-c3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-c3.inc
+END
+tune-ppc440.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppc440.inc
+END
+tune-arm1136jf-s.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-arm1136jf-s.inc
+END
+tune-ppc405.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppc405.inc
+END
+tune-ppce500.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppce500.inc
+END
+tune-strongarm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-strongarm.inc
+END
+tune-ppc603e.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppc603e.inc
+END
+palm.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/palm.inc
+END
+tune-athlonmp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-athlonmp.inc
+END
+tune-ep9312.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ep9312.inc
+END
+tune-arm9tdmi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-arm9tdmi.inc
+END
+tune-x86-prescott.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-x86-prescott.inc
+END
+gumstix.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/gumstix.inc
+END
+qemu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/qemu.inc
+END
+tune-arm920t.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-arm920t.inc
+END
+motorola-ezx-base.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/motorola-ezx-base.inc
+END
+tune-pentiumpro.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-pentiumpro.inc
+END
+tune-geodelx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-geodelx.conf
+END
+simpad-2.4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/simpad-2.4.inc
+END
+simpad-2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/simpad-2.6.inc
+END
+lsppc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/lsppc.inc
+END
+poodle-2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/poodle-2.6.inc
+END
+tune-ppc440e.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-ppc440e.inc
+END
+tune-thumb.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-thumb.inc
+END
+tune-xscale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-xscale.inc
+END
+tune-pentium.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-pentium.inc
+END
+tune-arm926ejs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-arm926ejs.inc
+END
+zaurus-clamshell.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/zaurus-clamshell.inc
+END
+LAB-settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/LAB-settings.inc
+END
+zaurus-2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/zaurus-2.6.inc
+END
+tune-iwmmxt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-iwmmxt.inc
+END
+tune-supersparc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-supersparc.inc
+END
+ixp4xx.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/ixp4xx.inc
+END
+tune-sh3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/machine/include/tune-sh3.inc
+END

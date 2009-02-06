@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only
+END
+sharp-aticore-oss_1.0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-aticore-oss_1.0.1.bb
+END
+sharp-flash-header-c700.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-flash-header-c700.bb
+END
+sharp-compat-libs_0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-compat-libs_0.5.bb
+END
+sharp-sdmmc-support.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-sdmmc-support.bb
+END
+sharp-camera-support_2.4.18-rmk7-pxa3-embedix.bb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-camera-support_2.4.18-rmk7-pxa3-embedix.bb
+END

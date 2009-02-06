@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.3.5.6
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.3.5.6/makefile.patch
+END
+dotconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.3.5.6/dotconfig
+END

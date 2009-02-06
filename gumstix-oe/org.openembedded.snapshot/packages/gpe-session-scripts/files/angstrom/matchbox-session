@@ -1,0 +1,8 @@
+#!/bin/sh
+
+XRES=`xdpyinfo | awk '/dimensions/ { print $2 }' | cut -dx -f1`
+
+  matchbox-desktop &
+
+matchbox-panel --no-flip  --orientation south &
+

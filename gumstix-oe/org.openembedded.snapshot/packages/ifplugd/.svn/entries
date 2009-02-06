@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ifplugd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ifplugd_0.25.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+6984f5010d2fac916c5a5f23581245e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+ifplugd_0.20.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+5da339673974ddb39d22a5a612fc1679
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

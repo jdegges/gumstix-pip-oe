@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sox/sox
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+uclibc-fixes.patch
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+a49a6a258e3bceca005ba4776f957220
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+src-Makefile.am.patch
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+fd8b14089151f40eb7aade0be268e896
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

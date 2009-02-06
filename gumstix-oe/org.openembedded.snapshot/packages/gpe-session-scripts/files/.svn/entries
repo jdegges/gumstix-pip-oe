@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-session-scripts/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+angstrom-change-theme.diff
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+a178bc733a26cb528da6f1690c768cf3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-session
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+9732d1e34d347855c4a0f390519b9dcc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+highdpifontfix.patch
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+1d5046f4cc957ba39301b57dedf11126
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+angstrom
+dir
+
+disable-composite.xsettings
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+97073f466af15319abead6c0b32d801c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

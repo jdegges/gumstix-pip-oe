@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files
+END
+lilo-0.21-loopdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-0.21-loopdev.patch
+END
+lilo-noconfig-h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-noconfig-h.patch
+END
+lilo-sh-linux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-sh-linux.patch
+END
+lilo-0.21-second.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-0.21-second.patch
+END
+lilo-linkgear.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-linkgear.patch
+END
+lilo-0.21-1.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-0.21-1.1.patch
+END
+lilo-0.21-include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo-0.21-include.patch
+END
+lilo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo.patch
+END
+lilo.raid1
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lilo-sh/files/lilo.raid1
+END

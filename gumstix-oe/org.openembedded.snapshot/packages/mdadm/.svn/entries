@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mdadm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mdadm-1.12.0
+dir
+
+mdadm_1.12.0.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+26a6a9d8cb9d19b3da9a27329832e821
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mdadm.inc
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+5857a03298a5a3ab36f601df2ef382e3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mdadm_2.5.5.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+e8d67d21687dcbd1e40354543ef3e491
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

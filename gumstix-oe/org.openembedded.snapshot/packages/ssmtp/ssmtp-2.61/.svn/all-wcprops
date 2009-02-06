@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61/configure.patch
+END
+dont-strip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61/dont-strip.patch
+END
+libs-lcrypto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61/libs-lcrypto.patch
+END
+ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61/ldflags.patch
+END
+ssmtp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ssmtp/ssmtp-2.61/ssmtp.conf
+END

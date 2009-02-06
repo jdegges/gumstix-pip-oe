@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/keymaps/files/h2200
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+keymap-2.6.map
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+766c46cb47d1e0e6fb5b22a2a3aa2d79
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

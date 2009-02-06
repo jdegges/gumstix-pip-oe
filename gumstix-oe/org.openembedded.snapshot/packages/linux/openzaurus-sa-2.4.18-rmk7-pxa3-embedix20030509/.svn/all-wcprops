@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509
+END
+sound-2.4.18r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/sound-2.4.18r2.patch
+END
+unb0rk-rightarrow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/unb0rk-rightarrow.patch
+END
+idecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/idecs.patch
+END
+defconfig-collie
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/defconfig-collie
+END
+initsh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/initsh.patch
+END
+bluetooth-patch-2.4.18-mh9.diff
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/bluetooth-patch-2.4.18-mh9.diff
+END
+1764-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/1764-1.patch
+END
+mkdep.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/mkdep.patch
+END
+logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/logo.patch
+END
+disable-pcmcia-probe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/disable-pcmcia-probe.patch
+END
+bluetooth-2.4.18-mh15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/bluetooth-2.4.18-mh15.patch
+END
+module_licence.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/module_licence.patch
+END
+keymap-more-sane.patch
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/keymap-more-sane.patch
+END
+battery.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/battery.patch
+END
+unb0rk-apm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/unb0rk-apm.patch
+END
+cacko.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-sa-2.4.18-rmk7-pxa3-embedix20030509/cacko.patch
+END

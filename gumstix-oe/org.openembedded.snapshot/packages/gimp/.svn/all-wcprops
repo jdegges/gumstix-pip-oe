@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp
+END
+gimp_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.3.10.bb
+END
+gimp_2.4.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.4.0.bb
+END
+gimp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp.inc
+END
+gimp_2.3.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.3.7.bb
+END
+gegl_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gegl_svn.bb
+END
+gimp_2.3.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.3.8.bb
+END
+babl_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/babl_svn.bb
+END
+gimp_2.3.19.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.3.19.bb
+END
+gimp_2.2.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gimp/gimp_2.2.10.bb
+END

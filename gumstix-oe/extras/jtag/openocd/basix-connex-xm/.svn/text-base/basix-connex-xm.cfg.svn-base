@@ -1,0 +1,46 @@
+# gumstix basix 400xm, and 400xm-bt / connex 200xm, 400xm, and 400xm-bt configuration
+
+# daemon configuration
+telnet_port 4444
+gdb_port 3333
+daemon_startup reset
+
+# interface
+
+### UNCOMMENT THE BLOCK THAT MATCHES YOUR JTAG UNIT ###
+
+### Start: Olimex ARM-JTAG parallel port wiggler ##
+#interface parport
+#parport_port 0
+#parport_cable wiggler
+#jtag_speed 0
+#jtag_nsrst_delay 200
+#jtag_ntrst_delay 200
+### End:   Olimex ARM-JTAG parallel port wiggler ##
+
+### Start: Olimex ARM-USB-OCD ##
+interface ft2232
+ft2232_vid_pid 0x15ba 0x0003
+ft2232_layout olimex-jtag
+ft2232_latency 2
+### End:   Olimex ARM-JTAG parallel port wiggler ##
+
+# use combined on interfaces or targets that can't set TRST/SRST separately
+reset_config trst_and_srst
+
+# jtag scan chain
+#format L IRC IRCM IDCODE (Length, IR Capture, IR Capture Mask, IDCODE)
+jtag_device 5 0x1 0x1f 0x1e
+
+# target configuration
+target xscale little reset_init 0 pxa255
+run_and_halt_time 0 30
+target_script 0 reset basix-connex.script
+
+# maps to PXA internal RAM.  If you are using a PXA255
+# you must initialize SDRAM or leave this option off
+working_area 0 0xa3100000 0x10000 nobackup
+
+# flash bank <driver> <base> <size> <chip_width> <bus_width>
+flash bank cfi 0x00000000 0x1000000 2 2 0
+

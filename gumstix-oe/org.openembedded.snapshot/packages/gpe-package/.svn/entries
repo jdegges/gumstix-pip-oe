@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-package
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpe-package-0.2
+dir
+
+files
+dir
+
+gpe-package_0.2.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+8eea587e7afee6d12222e8864a94b92f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-package_0.3.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+e19e48d3412be638b7f30fca3c222322
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-package_0.4.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+ee446eb7e659ae66057e92b96fedd68b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo
+END
+gpe-ownerinfo_0.23.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.23.bb
+END
+gpe-ownerinfo_0.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.24.bb
+END
+gpe-ownerinfo_0.25.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.25.bb
+END
+gpe-ownerinfo_0.26.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.26.bb
+END
+gpe-ownerinfo.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo.inc
+END
+gpe-ownerinfo_0.27.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.27.bb
+END
+gpe-ownerinfo_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_svn.bb
+END
+gpe-ownerinfo_0.28.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-ownerinfo/gpe-ownerinfo_0.28.bb
+END

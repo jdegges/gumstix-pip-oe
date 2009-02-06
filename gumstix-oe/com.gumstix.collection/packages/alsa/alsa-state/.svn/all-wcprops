@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/alsa/alsa-state
+END
+asound.state
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-state/asound.state
+END
+alsa-state
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-state/alsa-state
+END
+asoundrc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-state/asoundrc
+END

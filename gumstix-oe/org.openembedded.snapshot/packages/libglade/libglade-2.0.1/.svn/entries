@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libglade/libglade-2.0.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gtk-2.0.m4
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+a99a69d2c6f62ad1b7edd19bc2e7f23c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+glade-cruft.patch
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+6ebe865b533f915e786193731c1dbd9f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

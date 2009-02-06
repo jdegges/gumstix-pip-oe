@@ -1,0 +1,11 @@
+--- midori-0.0.17/src/conf.c-orig	2008-03-19 14:14:14.000000000 -0700
++++ midori-0.0.17/src/conf.c	2008-03-19 14:18:02.000000000 -0700
+@@ -45,7 +45,7 @@
+      var = sokoke_key_file_get_string_default( \
+      keyFile, "browser", key, default, NULL)
+     GET_INT(config->startup, "Startup", CONFIG_STARTUP_HOMEPAGE);
+-    GET_STR(config->homepage, "Homepage", "http://www.google.com");
++    GET_STR(config->homepage, "Homepage", "http://www.google.com/m");
+     GET_STR(config->locationSearch, "LocationSearch", "http://www.google.com/search?q=%s");
+     GET_INT(config->toolbarNavigation, "ToolbarNavigation", TRUE);
+     GET_INT(config->toolbarBookmarks, "ToolbarBookmarks", FALSE);

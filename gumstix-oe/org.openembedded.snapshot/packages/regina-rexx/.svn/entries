@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/regina-rexx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+regina-rexx-native_3.3.bb
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+8183ccd469486f1ae5f7dfeb20fe9a0f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+regina-rexx_3.3.bb
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+494c50788aa4c5d64ae2b7096ba24a0b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

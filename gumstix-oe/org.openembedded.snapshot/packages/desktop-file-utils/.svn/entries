@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/desktop-file-utils
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+desktop-file-utils-0.3
+dir
+
+desktop-file-utils_0.3.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+904c5784deb29928e11104ac2fd0db7e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+desktop-file-utils_0.6.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+128092ac38142a3d41df37a5a9557dc3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom
+END
+angstrom-version.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-version.bb
+END
+angstrom-feed-configs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-feed-configs.bb
+END
+angstrom-gpe-task-settings.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-gpe-task-settings.bb
+END
+angstrom-task-printing.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-task-printing.bb
+END
+angstrom-task-sectest.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-task-sectest.bb
+END
+angstrom-task-office.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-task-office.bb
+END
+angstrom-gpe-task-apps.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-gpe-task-apps.bb
+END
+angstrom-ohand-task-pim.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-ohand-task-pim.bb
+END
+angstrom-bootmanager.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-bootmanager.bb
+END
+angstrom-gpe-task-pim.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-gpe-task-pim.bb
+END
+angstrom-x11-base-depends.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-x11-base-depends.bb
+END
+angstrom-gpe-task-game.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-gpe-task-game.bb
+END
+angstrom-gpe-task-base.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/angstrom-gpe-task-base.bb
+END
+task-angstrom-e.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/angstrom/task-angstrom-e.bb
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto
+END
+bigreqsproto_1.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/bigreqsproto_1.0.2.bb
+END
+xproto_7.0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xproto_7.0.10.bb
+END
+windowswmproto_1.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/windowswmproto_1.0.3.bb
+END
+inputproto_1.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/inputproto_1.4.1.bb
+END
+xproxymanagementprotocol_1.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xproxymanagementprotocol_1.0.2.bb
+END
+xf86bigfontproto_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86bigfontproto_1.1.2.bb
+END
+applewmproto_1.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/applewmproto_1.0.3.bb
+END
+xf86dgaproto_2.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86dgaproto_2.0.2.bb
+END
+videoproto_2.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/videoproto_2.2.2.bb
+END
+xcmiscproto-native_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xcmiscproto-native_1.1.2.bb
+END
+calibrateproto_git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/calibrateproto_git.bb
+END
+glproto_1.4.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/glproto_1.4.8.bb
+END
+trapproto_3.4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/trapproto_3.4.3.bb
+END
+damageproto_1.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/damageproto_1.1.0.bb
+END
+fontcacheproto-native_0.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/fontcacheproto-native_0.1.2.bb
+END
+xf86miscproto_0.9.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86miscproto_0.9.2.bb
+END
+bigreqsproto-native_1.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/bigreqsproto-native_1.0.2.bb
+END
+resourceproto_1.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/resourceproto_1.0.2.bb
+END
+inputproto-native_1.4.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/inputproto-native_1.4.2.bb
+END
+renderproto_0.9.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/renderproto_0.9.3.bb
+END
+xf86bigfontproto-native_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86bigfontproto-native_1.1.2.bb
+END
+xorg-proto-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xorg-proto-common.inc
+END
+dmxproto_2.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/dmxproto_2.2.2.bb
+END
+xf86driproto_2.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86driproto_2.0.3.bb
+END
+printproto_1.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/printproto_1.0.3.bb
+END
+kbproto_1.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/kbproto_1.0.3.bb
+END
+xextproto_7.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xextproto_7.0.2.bb
+END
+xf86rushproto_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86rushproto_1.1.2.bb
+END
+recordproto_1.13.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/recordproto_1.13.2.bb
+END
+inputproto_1.4.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/inputproto_1.4.2.1.bb
+END
+inputproto_1.4.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/inputproto_1.4.2.bb
+END
+scrnsaverproto_1.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/scrnsaverproto_1.1.0.bb
+END
+compositeproto_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/compositeproto_0.4.bb
+END
+xineramaproto_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xineramaproto_1.1.2.bb
+END
+xf86vidmodeproto_2.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86vidmodeproto_2.2.2.bb
+END
+randrproto_1.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/randrproto_1.2.1.bb
+END
+xf86dgaproto_2.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xf86dgaproto_2.0.3.bb
+END
+fontsproto-native_2.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/fontsproto-native_2.0.2.bb
+END
+xproto-native_7.0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xproto-native_7.0.10.bb
+END
+kbproto-native_1.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/kbproto-native_1.0.3.bb
+END
+fixesproto_4.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/fixesproto_4.0.bb
+END
+xextproto-native_7.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xextproto-native_7.0.2.bb
+END
+evieext_1.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/evieext_1.0.2.bb
+END
+renderproto_0.9.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/renderproto_0.9.2.bb
+END
+xcmiscproto_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/xcmiscproto_1.1.2.bb
+END
+fontcacheproto_0.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/fontcacheproto_0.1.2.bb
+END
+fontsproto_2.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-proto/fontsproto_2.0.2.bb
+END

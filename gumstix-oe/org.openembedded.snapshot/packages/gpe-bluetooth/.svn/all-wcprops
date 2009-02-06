@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth
+END
+gpe-bluetooth_0.51.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.51.bb
+END
+gpe-bluetooth_0.52.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.52.bb
+END
+gpe-bluetooth_0.53.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.53.bb
+END
+gpe-bluetooth.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth.inc
+END
+gpe-bluetooth_0.54.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.54.bb
+END
+gpe-bluetooth_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_svn.bb
+END
+gpe-bluetooth_0.55.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.55.bb
+END
+gpe-bluetooth_0.49.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bluetooth/gpe-bluetooth_0.49.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xcursor-transparent-theme/xcursor-transparent-theme-0.1.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix_watch_cursor.patch
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+53fb50b8e7ad1336053a899d73029506
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+use-relative-symlinks.patch
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+06e00422d481d73eb7aa53c387372420
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

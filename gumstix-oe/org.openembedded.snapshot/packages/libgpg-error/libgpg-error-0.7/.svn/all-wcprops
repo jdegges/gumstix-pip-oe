@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpg-error/libgpg-error-0.7
+END
+pkgconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpg-error/libgpg-error-0.7/pkgconfig.patch
+END

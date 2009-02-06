@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2-2.10.2
+END
+configure-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2-2.10.2/configure-lossage.patch
+END

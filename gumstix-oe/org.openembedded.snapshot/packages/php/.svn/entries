@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/php
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+php-native_5.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+aac967dde6102f2bbab105fa25e2bc1a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+php.inc
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+85cea9a4ff8ddad4b32a9e9cada2ad00
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+php_4.4.4.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+5c3998629ad4e7f0c9155337e1c26191
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+php-native_4.4.4.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+0daaa42ac51ef0d7262cc125945f1b2b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+php-5.2.0
+dir
+
+php-5.1.4
+dir
+
+php_5.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+9387a05558982382d54f312b2b0e6675
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+php_5.1.4.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+f80a984b7605de13fc41b1fe77bb61f7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

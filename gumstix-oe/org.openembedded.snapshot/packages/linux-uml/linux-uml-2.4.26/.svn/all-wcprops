@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26
+END
+disable-aio-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/disable-aio-check.patch
+END
+11-usr1_process_tkill.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/11-usr1_process_tkill.patch
+END
+12-hostfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/12-hostfs.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/defconfig
+END
+07-mconsole_dir_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/07-mconsole_dir_cleanup.patch
+END
+13-hostfs_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/13-hostfs_access.patch
+END
+fix-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/fix-includes.patch
+END
+02-config_cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/02-config_cleanup.patch
+END
+aio_abi.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/aio_abi.h
+END
+unbreak-hostfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/unbreak-hostfs.patch
+END
+10-flock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/10-flock.patch
+END
+01-CONFIG_X86_CMPXCHG.patch-2
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.4.26/01-CONFIG_X86_CMPXCHG.patch-2
+END

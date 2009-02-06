@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.3.4
+END
+configure.in_requires_pkg-config-0.15.diff
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.3.4/configure.in_requires_pkg-config-0.15.diff
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-mixer/gpe-mixer
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpemixer-no-host-includes.patch
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+cad44d84a873d6b35caf98070c79da08
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

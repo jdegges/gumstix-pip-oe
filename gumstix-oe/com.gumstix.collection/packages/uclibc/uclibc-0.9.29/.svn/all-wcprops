@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29
+END
+uClibc.machine.strongarm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.machine.strongarm
+END
+uClibc.machine.armv4t
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.machine.armv4t
+END
+uClibc-0.9.29-rm-whitespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc-0.9.29-rm-whitespace.patch
+END
+uClibc-0.9.29-fix-gethostent_r-failure-retval.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc-0.9.29-fix-gethostent_r-failure-retval.patch
+END
+uClibc.distro
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.distro
+END
+uClibc-0.9.29-fix-internal_function-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc-0.9.29-fix-internal_function-definition.patch
+END
+uClibc.config
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.config
+END
+uClibc-0.9.29-001-fix-mmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc-0.9.29-001-fix-mmap.patch
+END
+uClibc.machine.armv5te
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.machine.armv5te
+END
+uClibc.machine.iwmmxt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc.machine.iwmmxt
+END
+uClibc-0.9.29-conditional-sched_affinity.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-0.9.29/uClibc-0.9.29-conditional-sched_affinity.patch
+END

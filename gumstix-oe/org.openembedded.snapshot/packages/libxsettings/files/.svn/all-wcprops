@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings/files
+END
+libxsettings-svn-makefile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings/files/libxsettings-svn-makefile-fix.patch
+END
+Makefile.translation
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings/files/Makefile.translation
+END
+Makefile.dpkg_ipkg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings/files/Makefile.dpkg_ipkg
+END

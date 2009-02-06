@@ -1,0 +1,85 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/base-passwd/base-passwd-3.5.9
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-13T04:55:01.252401Z
+275
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+0d00b6ded2cfffcced656b0f668c1803
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gumstix-custom-connex
+dir
+
+gumstix-custom-verdex
+dir
+
+mysql.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+5e76233c4c38578b1aa340282be0f330
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+root-home.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+71d60c0f97baacb1bb4aa0e2893e5742
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nobash.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+c56b1551502ab1e4711ee9eaa88b8ae3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gumstix-custom-basix
+dir
+

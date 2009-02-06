@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site
+END
+armeb-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/armeb-linux-uclibc
+END
+avr32-common
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/avr32-common
+END
+armeb-linux
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/armeb-linux
+END
+ix86-common
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/ix86-common
+END
+mipsel-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/mipsel-linux-uclibc
+END
+mipsel-linux
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/mipsel-linux
+END
+common-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/common-uclibc
+END
+common
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/common
+END
+endian-little
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/endian-little
+END
+x86_64-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/x86_64-linux-uclibc
+END
+x86_64-linux
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/x86_64-linux
+END
+endian-big
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/endian-big
+END
+sh-common
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/sh-common
+END
+powerpc-darwin
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/powerpc-darwin
+END
+bfin-common
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/bfin-common
+END
+mips-linux
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/mips-linux
+END
+arm-common
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/arm-common
+END
+powerpc-common
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/powerpc-common
+END
+sparc-linux
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/sparc-linux
+END
+common-glibc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/common-glibc
+END
+arm-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/arm-linux-uclibc
+END
+powerpc-linux-uclibc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/powerpc-linux-uclibc
+END
+arm-linux
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/arm-linux
+END
+powerpc-linux
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/site/powerpc-linux
+END

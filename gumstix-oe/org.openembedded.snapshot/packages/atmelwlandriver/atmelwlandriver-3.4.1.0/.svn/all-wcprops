@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0
+END
+fix-kernel-version-test-for-hh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0/fix-kernel-version-test-for-hh.patch
+END
+add-compaq-usb-ids.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0/add-compaq-usb-ids.patch
+END
+power-on-and-leds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0/power-on-and-leds.patch
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0/makefile.patch
+END
+dotconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver-3.4.1.0/dotconfig
+END

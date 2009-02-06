@@ -1,0 +1,76 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hdparm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+hdparm-6.3
+dir
+
+files
+dir
+
+hdparm-6.6
+dir
+
+hdparm_6.3.bb
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+99c31ae1f5348a9dcebe02a7c5601376
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+hdparm-6.9
+dir
+
+hdparm_6.6.bb
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+99c31ae1f5348a9dcebe02a7c5601376
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+hdparm_6.9.bb
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+99c31ae1f5348a9dcebe02a7c5601376
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8
+END
+pppoe-no-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/pppoe-no-timeout.patch
+END
+update-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/update-config.patch
+END
+pppoe-server.init
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/pppoe-server.init
+END
+pppoe-server.default
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/pppoe-server.default
+END
+pppoe-src-restrictions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/pppoe-src-restrictions.patch
+END
+top-autoconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/top-autoconf.patch
+END
+configure_in_cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.8/configure_in_cross.patch
+END

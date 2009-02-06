@@ -1,0 +1,16 @@
+Index: wpa_supplicant-0.5.7/driver_marvell.c
+===================================================================
+--- wpa_supplicant-0.5.7.orig/driver_marvell.c
++++ wpa_supplicant-0.5.7/driver_marvell.c
+@@ -554,6 +554,11 @@ static int wpa_driver_marvell_associate(
+ 			ret = -1;
+ 	}
+ 
++	/* Set wifi mode to managed/adhoc */
++	if(wpa_driver_wext_set_mode(drv->wext, params->mode) < 0) {
++		ret = -1;
++	}
++
+ 	/* Set SSID in Marvell drivers triggers association */
+ 	if (wpa_driver_wext_set_ssid(drv->wext, params->ssid, 
+ 		params->ssid_len) < 0)

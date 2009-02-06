@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbgetty/fbgetty-0.1.698
+END
+compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbgetty/fbgetty-0.1.698/compile.patch
+END

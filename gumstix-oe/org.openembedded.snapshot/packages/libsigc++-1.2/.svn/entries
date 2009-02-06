@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libsigc++-1.2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libsigc++-1.2-1.2.5
+dir
+
+libsigc++-1.2-1.2.7
+dir
+
+libsigc++-1.2_1.2.5.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+db96b6ee9dea5e260f59c4cf6ec3e6de
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libsigc++-1.2_1.2.7.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+c85f7cc51319712be924f4cd1dc44981
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

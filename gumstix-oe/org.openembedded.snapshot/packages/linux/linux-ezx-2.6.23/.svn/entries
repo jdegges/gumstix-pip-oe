@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.23
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+a780
+dir
+
+e680
+dir
+
+update_patches.sh
+file
+
+
+
+
+2009-02-06T18:15:56.000000Z
+fe14897c4aa1bdb44d3c1663dfe6131b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+a1200
+dir
+
+rokre2
+dir
+
+patches
+dir
+
+rokre6
+dir
+

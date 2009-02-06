@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco
+END
+orinoco-modules_0.13e.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules_0.13e.bb
+END
+orinoco-modules_0.15rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules_0.15rc1.bb
+END
+orinoco-modules_0.15rc2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules_0.15rc2.bb
+END
+orinoco-conf_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-conf_1.0.bb
+END
+orinoco-modules_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules_cvs.bb
+END
+spectrum-fw.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/spectrum-fw.bb
+END

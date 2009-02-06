@@ -1,0 +1,61 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/anthy
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+anthy
+dir
+
+anthy_7811.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+be133d9217d9429100827bbb1fdb792b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+anthy-native
+dir
+
+anthy-native_7811.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+76e3105790a0c3360999ddd2a5397333
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

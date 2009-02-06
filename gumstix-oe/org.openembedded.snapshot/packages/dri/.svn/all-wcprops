@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dri
+END
+libdrm_2.3.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dri/libdrm_2.3.0.bb
+END
+drm-kernel_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dri/drm-kernel_cvs.bb
+END

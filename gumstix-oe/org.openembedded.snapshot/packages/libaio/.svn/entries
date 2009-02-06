@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libaio
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libaio-0.3.106
+dir
+
+libaio-oracle_0.3.0.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+4479da0c14c464146443299cdfc5fb1e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libaio_0.3.103.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+fc7c5acd44eb01156b00d8bc6356efd6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libaio_0.3.106.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+95952a90d7ce93e73fc3aac0d5796054
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

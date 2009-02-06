@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libvorbis/libvorbis
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+m4.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+1a88d76bd0dbd9502da8f52fa63c13ab
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

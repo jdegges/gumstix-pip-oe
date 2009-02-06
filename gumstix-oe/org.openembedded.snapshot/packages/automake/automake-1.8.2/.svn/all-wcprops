@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/automake/automake-1.8.2
+END
+automake182-update-configscripts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/automake/automake-1.8.2/automake182-update-configscripts.patch
+END

@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-mininet
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpe-mininet_0.5.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+ccf5550f41e573e363e6666d139d6e39
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-mininet_0.6.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+192e681d79fdceb256533b93f276138a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-mininet_0.7.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+192e681d79fdceb256533b93f276138a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-mininet_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+1a9d38d2d8bb9c1b6c0c9150b478f246
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-mininet-0.5
+dir
+

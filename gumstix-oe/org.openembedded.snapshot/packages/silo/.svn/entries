@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/silo
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+silo_1.4.8.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+bad8c18a616c771368dc122b85277ce7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+cross.patch
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+b6a24a0d8573c609b2448b834de485b6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

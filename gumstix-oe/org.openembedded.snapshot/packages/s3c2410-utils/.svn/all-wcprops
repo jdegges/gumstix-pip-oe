@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/s3c2410-utils
+END
+sjf2410-linux-native_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/s3c2410-utils/sjf2410-linux-native_svn.bb
+END
+s3c2410-boot-usb-native_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/s3c2410-utils/s3c2410-boot-usb-native_svn.bb
+END

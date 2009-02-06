@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sidplayer/sidplayer-1.5.0
+END
+gcc34.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sidplayer/sidplayer-1.5.0/gcc34.patch
+END
+use-external-libsidplay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sidplayer/sidplayer-1.5.0/use-external-libsidplay.patch
+END
+gcc3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sidplayer/sidplayer-1.5.0/gcc3.patch
+END

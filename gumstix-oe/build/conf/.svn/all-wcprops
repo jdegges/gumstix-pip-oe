@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gumstix/!svn/ver/311/trunk/build/conf
+END
+site.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gumstix/!svn/ver/138/trunk/build/conf/site.conf
+END
+auto.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gumstix/!svn/ver/311/trunk/build/conf/auto.conf
+END
+local.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gumstix/!svn/ver/297/trunk/build/conf/local.conf
+END

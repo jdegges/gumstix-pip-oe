@@ -1,0 +1,83 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/net-snmp/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+init
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+90284103b41dc1bb2e19d011677d1417
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+uclibc-fix.patch
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+294b089012fac073e210a4dc667eb533
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+snmpd.conf
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+284e762bfe2c4fad615d8d81ecbcf595
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mtx-1
+dir
+
+mtx-2
+dir
+
+snmptrapd.conf
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+fb99d68f94756bb0c92b34633d356443
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

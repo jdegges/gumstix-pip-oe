@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-edit/gpe-edit
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+toolbar.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+2c89b092850947c38b0fe9c944694231
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+desktop-categories.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+aec6c5b57d655add1e0ffce4e3d20c63
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client
+END
+libxsettings-client_0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_0.14.bb
+END
+libxsettings-client_0.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_0.16.bb
+END
+libxsettings-client_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_0.17.bb
+END
+libxsettings-client_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_svn.bb
+END
+no-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/no-host-includes.patch
+END
+make_pkgconfig_x11.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/make_pkgconfig_x11.patch
+END
+libxsettings-client_0.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_0.12.bb
+END
+libxsettings-client_0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client_0.13.bb
+END

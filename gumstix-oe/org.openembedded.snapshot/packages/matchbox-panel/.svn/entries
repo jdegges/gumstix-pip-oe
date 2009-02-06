@@ -1,0 +1,151 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/matchbox-panel
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+matchbox-panel-0.8.1
+dir
+
+matchbox-panel-0.9.1
+dir
+
+matchbox-panel-0.8.3
+dir
+
+matchbox-panel-0.9.2
+dir
+
+matchbox-panel-0.9.3
+dir
+
+matchbox-panel_0.8.1.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+b12518a441e8910982d2aab2e66414db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.8.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+cb9c618af50bd25870d5e711d1644217
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.9.1.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+0ce04f2438a177ffe3a1429d36998fbd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel.inc
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+df6e654221daae7b90c45cae04f9bcca
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.8.3.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+7659cb1a5bedd4825eb263ce041fcf02
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.9.2.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+deb0ba9188330bd144fa89e5b828304a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.9.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+5cf4cc54e70af6a3967e16fb9d890a5e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+c38fcd13ca6b7514acbdf4f5f1bccf7b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-panel_0.9.3.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+8dec5124dbc6bd4ef5475444e0ebec38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

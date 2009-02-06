@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28
+END
+thumb-defined-arm-or-thumb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-defined-arm-or-thumb.patch
+END
+thumb-mov-pc-bx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-mov-pc-bx.patch
+END
+dl-startup.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/dl-startup.h.patch
+END
+thumb-swi-r7.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-swi-r7.patch
+END
+dl-string.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/dl-string.h.patch
+END
+dl-sysdep.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/dl-sysdep.h.patch
+END
+thumb-resolve.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-resolve.patch
+END
+thumb-call-via-rx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-call-via-rx.patch
+END
+thumb-asm-swi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-asm-swi.patch
+END
+thumb-sysnum-h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28/thumb-sysnum-h.patch
+END

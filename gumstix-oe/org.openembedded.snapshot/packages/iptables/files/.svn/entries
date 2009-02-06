@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iptables/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-09T15:41:33.001345Z
+117
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+getsockopt-failed.patch
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+8002d79e347841a1cff83fb48c88cde0
+2008-01-09T15:41:33.001345Z
+117
+sakoman
+
+compile.patch
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+f6bb1d1e718d8802e38862dbc9ef327e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

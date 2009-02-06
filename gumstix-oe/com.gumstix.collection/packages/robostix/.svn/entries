@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/robostix
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+robostix
+dir
+
+robostix.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+9e369c3fc297e1ccd2c1edf629711514
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+

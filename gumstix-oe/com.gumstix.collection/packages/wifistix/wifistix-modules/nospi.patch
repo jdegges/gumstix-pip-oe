@@ -1,0 +1,14 @@
+--- src_cf8385/Makefile.orig	2008-01-25 20:37:11.000000000 -0800
++++ src_cf8385/Makefile	2008-01-26 06:48:53.000000000 -0800
+@@ -1213,9 +1213,11 @@
+ 	PLATFORM = pxa270
+ 	endif
+ 
++  ifneq ($(CONFIG_GUMSTIX),y)
+ 	CFLAGS += -DSPI
+ 	CFLAGS += -I../if/if_sdspi
+ 	CFLAGS += -I../io/sdspi/$(PLATFORM)
++  endif
+ endif
+ 
+ ifeq ($(CONFIG_GSPI),y)

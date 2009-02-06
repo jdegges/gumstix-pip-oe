@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/htb-init/htb-init-0.8.5
+END
+htb-basic-verbose.diff
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/htb-init/htb-init-0.8.5/htb-basic-verbose.diff
+END
+htb.init+ingress+predef+verbose.diff
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/htb-init/htb-init-0.8.5/htb.init+ingress+predef+verbose.diff
+END

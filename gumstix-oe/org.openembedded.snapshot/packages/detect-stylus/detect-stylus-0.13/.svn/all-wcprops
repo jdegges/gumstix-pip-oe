@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/detect-stylus/detect-stylus-0.13
+END
+extra-device-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/detect-stylus/detect-stylus-0.13/extra-device-check.patch
+END
+correct-theme-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/detect-stylus/detect-stylus-0.13/correct-theme-name.patch
+END

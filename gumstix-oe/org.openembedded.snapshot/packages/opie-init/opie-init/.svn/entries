@@ -1,0 +1,111 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-init/opie-init
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+c7x0
+dir
+
+locale.conf
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie_defaults
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+6255aa83cfe498482e70eaf41d013e3a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mnci
+dir
+
+tosa
+dir
+
+htcuniversal
+dir
+
+akita
+dir
+
+spitz
+dir
+
+qpe.conf
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+ebe887600758df8b38edbbe6b97a64d5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-reorgfiles
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+50e45598cf6c4b71e87c913a13096ba0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+opie
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+84b764fe17adc537c91a240bbdf7ad9d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+simpad
+dir
+

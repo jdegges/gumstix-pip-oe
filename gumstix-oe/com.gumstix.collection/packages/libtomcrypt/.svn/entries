@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/libtomcrypt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-21T19:17:02.584687Z
+293
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libtomcrypt_0.97b.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+7fe8ad81e2333d1affee79ccb3570ea8
+2008-03-21T19:17:02.584687Z
+293
+sakoman
+

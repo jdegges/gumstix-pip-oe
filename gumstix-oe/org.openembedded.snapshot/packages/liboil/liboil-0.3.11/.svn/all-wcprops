@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/134/trunk/org.openembedded.snapshot/packages/liboil/liboil-0.3.11
+END
+ppc-detect-fpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/134/trunk/org.openembedded.snapshot/packages/liboil/liboil-0.3.11/ppc-detect-fpu.patch
+END

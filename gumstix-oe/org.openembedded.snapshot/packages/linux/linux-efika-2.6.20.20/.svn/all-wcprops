@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20.20
+END
+sched-cfs-v9-v2.6.20.11.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20.20/sched-cfs-v9-v2.6.20.11.patch
+END
+weaken-div64_32-symbol.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20.20/weaken-div64_32-symbol.patch
+END

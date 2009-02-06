@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files
+END
+0002-Flush-all-pending-commands-before-restarting-the-mod.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/0002-Flush-all-pending-commands-before-restarting-the-mod.patch
+END
+025_sms-status-report.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/025_sms-status-report.patch
+END
+024_sms-text-in-bracket.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/024_sms-text-in-bracket.patch
+END
+default
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/default
+END
+0004-Handle-read-and-write-return-values.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/0004-Handle-read-and-write-return-values.patch
+END
+0005-Add-ask-ds-option-forSMS.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/0005-Add-ask-ds-option-forSMS.patch
+END
+027_phonebook-find-and-read-range-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/027_phonebook-find-and-read-range-support.patch
+END
+gsmd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/gsmd
+END
+lgsm_send_fix_return_value.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/lgsm_send_fix_return_value.patch
+END
+028_shell-phonebook-find-and-read-range-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/028_shell-phonebook-find-and-read-range-support.patch
+END
+0001-Introduce-ports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/0001-Introduce-ports.patch
+END
+0003-Correctly-segment-incoming-usock-data-into-packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gsm/files/0003-Correctly-segment-incoming-usock-data-into-packets.patch
+END

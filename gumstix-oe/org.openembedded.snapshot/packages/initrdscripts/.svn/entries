@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/initrdscripts
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+devimage
+dir
+
+devimage_0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+e90e3b8768e49d3d5682a72008de0d4b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+initramfs-module-nfs_0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+6c81fc13e915b15ee4b703412995b51d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initramfs-jffs2
+dir
+
+initramfs-jffs2_0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+cf16679e290cae5b121d6d7ef3990b1f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initramfs-module-loop_0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+d66c126268732933884e1132564d2e42
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initramfs-module-block_0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+d52c789f921ec5ac72636bdf90674437
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initramfs-uniboot_0.2.bb
+file
+
+
+
+
+2009-02-06T18:14:35.000000Z
+a544eeb46a17b5dfb431d1cccc082e46
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

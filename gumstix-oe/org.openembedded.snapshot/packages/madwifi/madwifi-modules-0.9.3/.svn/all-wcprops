@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules-0.9.3
+END
+madwifi-skbpanic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules-0.9.3/madwifi-skbpanic.patch
+END
+madwifi-devname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules-0.9.3/madwifi-devname.patch
+END

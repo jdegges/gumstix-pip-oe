@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/python
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+python-gsl-0.2.0
+dir
+
+python-pycap_0.1.6.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+61f5bff16a9984a1487c6f549879a48a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-pyode_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+887f4db3fa75d4ea689a400a0d75f2dc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-gsl_0.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+0555529c31352446815b50e38b582446
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-pyx_0.6.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+5e1be9adbf0b179ae94cbc93d9bd4b02
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-m2crypto_0.18.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+9d5d1a9ef7618f230c75d38813e9273b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-egenix-mx-base_2.0.6.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+b321fe334618dfe54af17803e10fba3b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+python-m2crypto
+dir
+

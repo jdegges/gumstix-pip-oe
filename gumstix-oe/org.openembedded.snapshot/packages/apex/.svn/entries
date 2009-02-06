@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/apex
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+nslu2
+dir
+
+apex-nslu2_1.5.8.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+9629cbdd8bbc7b63bfdec769efc66bac
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apex-nslu2-16mb_1.5.8.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+c62e64fc5bbc60e92c29ed9f4f134d4b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apex-env_1.5.8.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+089e241c002c580b4f95714c6407329d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

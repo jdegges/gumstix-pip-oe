@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.20
+END
+ip6tunnel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.20/ip6tunnel.patch
+END
+new-flex-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.20/new-flex-fix.patch
+END
+no-strip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.20/no-strip.patch
+END
+man-pages-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.20/man-pages-fix.patch
+END

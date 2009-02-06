@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0
+END
+libsigcx-200505061-fix-dist-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/libsigcx-200505061-fix-dist-swb.patch
+END
+libsigcx-0.6.4-fix-ac-try-run-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/libsigcx-0.6.4-fix-ac-try-run-swb.patch
+END
+autotool-regen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/autotool-regen.patch
+END
+libsigcx-0.6.4-add-missing-autogen-sh-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/libsigcx-0.6.4-add-missing-autogen-sh-swb.patch
+END
+libsigcx-0.6.4-build-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/libsigcx-0.6.4-build-swb.patch
+END
+libsigcx-0.6.4-pack-predeclare-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigcx/libsigcx0/libsigcx-0.6.4-pack-predeclare-swb.patch
+END

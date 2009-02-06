@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/slcalc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+slcalc_1.2.1.bb
+file
+
+
+
+
+2009-02-06T18:14:10.000000Z
+a0f17a4ee8027da6cb39ba5badb6b62c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

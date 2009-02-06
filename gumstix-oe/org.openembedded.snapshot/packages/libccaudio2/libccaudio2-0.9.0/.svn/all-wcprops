@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libccaudio2/libccaudio2-0.9.0
+END
+01-ccaudio-fixed-point.diff
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libccaudio2/libccaudio2-0.9.0/01-ccaudio-fixed-point.diff
+END
+03-ccaudio-dtmf-reset.diff
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libccaudio2/libccaudio2-0.9.0/03-ccaudio-dtmf-reset.diff
+END
+02-ccaudio-stereo.diff
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libccaudio2/libccaudio2-0.9.0/02-ccaudio-stereo.diff
+END

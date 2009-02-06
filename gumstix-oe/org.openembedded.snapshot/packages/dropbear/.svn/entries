@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dropbear
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dropbear-0.49
+dir
+
+dropbear.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+32358c00be59be6724023b9743c963c1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear_0.45.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+8590a50a95c87f9f5bc7e6abcb21d158
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear_0.46.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+5495adfd72ae43a0eb1a5fc00df38f29
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear_0.47.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+f92cab42eb35a972573702ff9db05bb0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear_0.48.1.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+4fc7710e8f76d23ea4cb6cdd427d6821
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear_0.49.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+4fc7710e8f76d23ea4cb6cdd427d6821
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dropbear
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/syslog-ng/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+syslog-ng.conf
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+d8efd897a5fd5c705b6052b82f387854
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initscript
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+30a646e80bd438f9f8d32e8e63e52ebf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

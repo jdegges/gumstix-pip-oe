@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.1
+END
+no_time_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.1/no_time_support.patch
+END
+allow-100-per-cent-battery.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.1/allow-100-per-cent-battery.patch
+END

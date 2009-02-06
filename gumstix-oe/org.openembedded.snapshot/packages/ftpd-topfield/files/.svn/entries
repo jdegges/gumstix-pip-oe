@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ftpd-topfield/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+init
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+aad51a2e6addf8f3fafb8aa336249ab2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+usb-header-name.patch
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+be93702fa9634999b7f53ea1f38dc42a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

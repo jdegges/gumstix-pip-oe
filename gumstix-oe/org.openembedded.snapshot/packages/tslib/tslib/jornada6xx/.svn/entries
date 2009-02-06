@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tslib/tslib/jornada6xx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+tslib.sh
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+a9cadf155a8327458a64101688d2ea91
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ts.conf
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+957f5280c00189a3b5e7689935365127
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

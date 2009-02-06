@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.18/htcuniversal
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.18/htcuniversal/defconfig
+END

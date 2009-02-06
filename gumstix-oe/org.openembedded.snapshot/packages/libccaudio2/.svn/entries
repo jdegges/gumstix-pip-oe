@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libccaudio2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libccaudio2-0.9.0
+dir
+
+libccaudio2_0.9.0.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+95f1b772f218219fa3c2a7f3b5f6e9a4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

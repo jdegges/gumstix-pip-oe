@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-pixbuf-csource.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+daa31cfb0c692d16f0fd4a8096980fc5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gnome-stock-pixbufs.h
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+8c538e3d1d3493c48993db08c3b63afb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

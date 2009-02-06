@@ -1,0 +1,22 @@
+--- sysvinit-2.85/src/init.c.orig	2004-07-30 05:16:20.000000000 -0700
++++ sysvinit-2.85/src/init.c	2008-03-03 12:14:07.000000000 -0800
+@@ -741,6 +741,7 @@
+ {
+ 	va_list va_alist;
+ 	char buf[256];
++	char msg[300];
+ 	sigset_t nmask, omask;
+ 
+ 	va_start(va_alist, s);
+@@ -764,9 +765,8 @@
+ 	 *	And log to the console.
+ 	 */
+ 	if (loglevel & L_CO) {
+-		print("\rINIT: ");
+-		print(buf);
+-		print("\r\n");
++    sprintf(msg, "INIT: %s\n", buf);
++		print(msg);
+ 	}
+ }
+ 

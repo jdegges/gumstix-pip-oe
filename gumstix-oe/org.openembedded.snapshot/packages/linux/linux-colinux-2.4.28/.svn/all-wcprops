@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28
+END
+colinux-0.6.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/colinux-0.6.1.patch
+END
+linux-2.4.24-attribute-used.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/linux-2.4.24-attribute-used.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/defconfig
+END
+shortloadbytes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/shortloadbytes.patch
+END
+nofpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/nofpu.patch
+END
+gcc-registerparanoia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/gcc-registerparanoia.patch
+END
+gcc340-fixes-v2.4.26-try3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-colinux-2.4.28/gcc340-fixes-v2.4.26-try3.patch
+END

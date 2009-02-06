@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mpfr
+END
+mpfr_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mpfr/mpfr_cvs.bb
+END
+mpfr_2.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mpfr/mpfr_2.1.1.bb
+END
+mpfr-native_2.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mpfr/mpfr-native_2.1.1.bb
+END

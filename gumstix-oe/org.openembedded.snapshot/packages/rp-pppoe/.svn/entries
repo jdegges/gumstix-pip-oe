@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/rp-pppoe
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+rp-pppoe-3.5
+dir
+
+rp-pppoe-3.8
+dir
+
+rp-pppoe_3.5.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+cf5b8a7c074efb4a173a72f94a571668
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rp-pppoe_3.8.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+9aba48fb0fd248897d15c985ec77b70c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

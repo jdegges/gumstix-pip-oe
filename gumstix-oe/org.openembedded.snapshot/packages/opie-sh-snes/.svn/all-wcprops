@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes
+END
+opie-sh-snes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes/opie-sh-snes.inc
+END
+opie-sh-snes_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes/opie-sh-snes_cvs.bb
+END
+opie-sh-snes_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes/opie-sh-snes_0.2.bb
+END
+opie-sh-snes_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes/opie-sh-snes_1.2.2.bb
+END
+opie-sh-snes_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-sh-snes/opie-sh-snes_1.2.3.bb
+END

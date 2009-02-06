@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/flnx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+flnx_0.18.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+40d9b4b0a57b05e3b966b6cda8c35690
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+flnx-0.18
+dir
+
+flnx_0.17.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+e9387a2c3a8f6c713b4a4c1e531fff67
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

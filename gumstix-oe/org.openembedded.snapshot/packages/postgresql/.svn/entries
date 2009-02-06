@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/postgresql
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+postgresql_8.1.8.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+d0b4d3e07866bb826fc0d3d82583a239
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+postgresql_8.1.4.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+5cb605060fbecbd8b25c5f2bf4f1b953
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+postgresql_8.2.4.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+fe9bced882847b513828c9aa98db3895
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

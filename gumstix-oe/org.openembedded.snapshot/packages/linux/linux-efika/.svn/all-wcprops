@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika
+END
+0001-powerpc-Add-device-tree-fixup-for-the-EFIKA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika/0001-powerpc-Add-device-tree-fixup-for-the-EFIKA.txt
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika/defconfig
+END
+0001-sound-Add-support-for-the-MPC52xx-PSC-AC97-Link.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika/0001-sound-Add-support-for-the-MPC52xx-PSC-AC97-Link.txt
+END

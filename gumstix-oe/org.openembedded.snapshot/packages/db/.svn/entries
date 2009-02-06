@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/db
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+db3-3.2.9
+dir
+
+db_4.2.52.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+e9017a85b847ca8039bffe8794e8016b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+db-native_4.2.52.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+3ac99d657a1b0fc2ec94055ad77fc968
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+db3_3.2.9.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+2c852d25ce0f711b2ebe833dce50f121
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+db_4.3.29.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+b64a5e39bc20f4f3fcf5ab9677680c0f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+db3-native_3.2.9.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+394c744c94dbcb13ae57435291897f09
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+db-native_4.3.29.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+46839c28adff2b8ee9cde6f055311fed
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

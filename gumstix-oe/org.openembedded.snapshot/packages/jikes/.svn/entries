@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/jikes
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+jikes_1.21.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+14893ce677a9a4b5362698d143540fd1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jikes_1.22.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+1f16020b872d4a4b7e9091ce12a90b61
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jikes-native_1.21.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+3ad3a16c509ea32b0abdc47abc357e8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

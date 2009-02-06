@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6
+END
+001-magicbox-board-2.6.18.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/001-magicbox-board-2.6.18.patch
+END
+squashfs-lzma-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/squashfs-lzma-support.patch
+END
+config-2.6.18-magicbox2
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/config-2.6.18-magicbox2
+END
+010-load-ramdisk-even-if-rootdev-equals-ramdisk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/010-load-ramdisk-even-if-rootdev-equals-ramdisk.patch
+END
+magicbox2-ide-cf_2.6.18.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/magicbox2-ide-cf_2.6.18.patch
+END
+000-fix-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/000-fix-makefile.patch
+END
+kernel-2.6.18-layer7-2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/kernel-2.6.18-layer7-2.6.patch
+END
+squashfs3.1-patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/squashfs3.1-patch
+END
+002-magicbox-mtd-map-2.6.18.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-magicbox-2.6.18.6/002-magicbox-mtd-map-2.6.18.patch
+END

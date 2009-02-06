@@ -1,0 +1,133 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-clock
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpe-clock-0.20
+dir
+
+files
+dir
+
+gpe-clock-0.14
+dir
+
+gpe-clock_0.20.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+71f2be94467a4d0e3ba6bf451295de2a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_0.21.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+9ac1c11b35f63de11f326894e073ac8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_0.14.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+2956eab88938747cf3c815b28243eff0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_0.23.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+9ac1c11b35f63de11f326894e073ac8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_0.24.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+9ac1c11b35f63de11f326894e073ac8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_0.25.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+9ac1c11b35f63de11f326894e073ac8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock.inc
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+0cebc68e86e169c9ea0bc7daa05af993
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpe-clock_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+061e8d1b873cb80adc226479574ac6fc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

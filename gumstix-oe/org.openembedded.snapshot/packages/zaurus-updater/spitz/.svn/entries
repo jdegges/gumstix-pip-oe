@@ -1,0 +1,41 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/zaurus-updater/spitz
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+updater.sh
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+0a335e2dfc540e80a3d964ca669aca83
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+

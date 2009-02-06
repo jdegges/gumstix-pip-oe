@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sudo
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+sudo.inc
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+3a1a4d2a1abd551505aaf59ddf9de9e5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+site
+dir
+
+sudo_1.6.8p12.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+1973035d32d539a447593375c0f2b3dc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

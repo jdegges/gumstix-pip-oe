@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro
+END
+amsdelta-oe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/amsdelta-oe.conf
+END
+unslung.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/unslung.conf
+END
+openmn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/openmn.conf
+END
+oplinux-uclibc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/oplinux-uclibc.conf
+END
+oplinux.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/oplinux.conf
+END
+asusoe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/asusoe.conf
+END
+nylon.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/nylon.conf
+END
+gmustix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/gmustix.conf
+END
+mokoslug.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/mokoslug.conf
+END
+slugos-native.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/slugos-native.conf
+END
+colinuxoe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/colinuxoe.conf
+END
+ucslugc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/ucslugc.conf
+END
+ezx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/ezx.conf
+END
+mamona.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/mamona.conf
+END
+sharprom-compatible.conf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/sharprom-compatible.conf
+END
+wrt54oe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/wrt54oe.conf
+END
+jlime-shrek.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/jlime-shrek.conf
+END
+generic-uclibc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/generic-uclibc.conf
+END
+generic.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/generic.conf
+END
+slugos.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/slugos.conf
+END
+angstrom-2007.1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/angstrom-2007.1.conf
+END
+angstrom-2008.1.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/angstrom-2008.1.conf
+END
+angstrom-2007.1-legacy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/angstrom-2007.1-legacy.conf
+END
+openprotium.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/openprotium.conf
+END
+celinux-test.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/celinux-test.conf
+END
+foonas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/foonas.conf
+END
+jlime-donkey.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/jlime-donkey.conf
+END
+openmoko.conf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/openmoko.conf
+END
+maemo-1.0.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/conf/distro/maemo-1.0.conf
+END

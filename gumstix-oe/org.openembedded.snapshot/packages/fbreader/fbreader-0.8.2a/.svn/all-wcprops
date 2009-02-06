@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/fbreader-0.8.2a
+END
+480x640-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/fbreader-0.8.2a/480x640-buildfix.patch
+END
+fbreader-0.8.2a_buildsys_oe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/fbreader-0.8.2a/fbreader-0.8.2a_buildsys_oe.patch
+END

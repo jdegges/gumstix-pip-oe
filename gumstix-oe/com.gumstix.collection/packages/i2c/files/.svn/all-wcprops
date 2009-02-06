@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files
+END
+i2c.init
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c.init
+END
+i2c-io-api.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c-io-api.h
+END
+i2c-dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c-dev.h
+END
+Crc8.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/Crc8.c
+END
+DumpMem.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/DumpMem.c
+END
+Crc8.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/Crc8.h
+END
+DumpMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/DumpMem.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/Config.h
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c.c
+END
+Log.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/Log.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c.h
+END
+i2c-api.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c-api.c
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/Log.h
+END
+i2c-io.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c-io.h
+END
+i2c-api.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/114/trunk/com.gumstix.collection/packages/i2c/files/i2c-api.h
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/alsa/alsa-lib
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+unbreak_plugindir.patch
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+e12d040c8075404d9fe087ca94b012b4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fix-tstamp-declaration.patch
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+888e11a056263e9b1f721e560e05ac29
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

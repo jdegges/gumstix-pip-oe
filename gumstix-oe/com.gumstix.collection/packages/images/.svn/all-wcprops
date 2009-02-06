@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/291/trunk/com.gumstix.collection/packages/images
+END
+gumstix-qtopia-gui-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/217/trunk/com.gumstix.collection/packages/images/gumstix-qtopia-gui-image.bb
+END
+gumstix-basic-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/121/trunk/com.gumstix.collection/packages/images/gumstix-basic-image.bb
+END
+gumstix-directfb-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/34/trunk/com.gumstix.collection/packages/images/gumstix-directfb-image.bb
+END
+gumstix-perl-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/40/trunk/com.gumstix.collection/packages/images/gumstix-perl-image.bb
+END
+gumstix-microwindows-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/238/trunk/com.gumstix.collection/packages/images/gumstix-microwindows-image.bb
+END
+gumstix-minimal-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/116/trunk/com.gumstix.collection/packages/images/gumstix-minimal-image.bb
+END
+gumstix-goliath-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/105/trunk/com.gumstix.collection/packages/images/gumstix-goliath-image.bb
+END
+gumstix-x11-full-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/291/trunk/com.gumstix.collection/packages/images/gumstix-x11-full-image.bb
+END
+gumstix-x11-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/94/trunk/com.gumstix.collection/packages/images/gumstix-x11-image.bb
+END
+gumstix-x11-32mb-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/244/trunk/com.gumstix.collection/packages/images/gumstix-x11-32mb-image.bb
+END
+gumstix-qtopia-console-image.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/164/trunk/com.gumstix.collection/packages/images/gumstix-qtopia-console-image.bb
+END

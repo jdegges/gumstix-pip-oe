@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+
+END
+gtk+-1.2_1.2.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-1.2_1.2.10.bb
+END
+gtk+_2.8.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.8.9.bb
+END
+pixops-test.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/pixops-test.bb
+END
+gtk+_2.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.12.0.bb
+END
+gtk+-directfb_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-directfb_2.10.14.bb
+END
+gtk-fpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk-fpu.inc
+END
+gtk+_2.6.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.6.10.bb
+END
+gtk+_2.4.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.4.13.bb
+END
+gdk-pixbuf-csource-native_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gdk-pixbuf-csource-native_2.10.14.bb
+END
+composite-pixbuf_0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/composite-pixbuf_0.0.bb
+END
+gtk+_2.8.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.8.16.bb
+END
+gtk+-fastscaling_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-fastscaling_2.10.14.bb
+END
+gtk+-native-1.2_1.2.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-native-1.2_1.2.10.bb
+END
+gtk+_2.2.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.2.4.bb
+END
+gtk+_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+_2.10.14.bb
+END
+gtk+.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+.inc
+END
+gtk-2.10.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk-2.10.inc
+END

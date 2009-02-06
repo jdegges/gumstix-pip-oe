@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/emelfm2/emelfm2-0.0.8
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+makefile.patch
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+5ba671e2347780928ad1dd9bb387a6e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

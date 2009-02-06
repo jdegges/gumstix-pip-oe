@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/base-passwd/base-passwd-3.5.9/gumstix-custom-verdex
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+root-home.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+79c20a0395a0950798d25835fa3b9cf2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+README
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+ba266cee22c5c9c31db920bfa7ea3c29
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

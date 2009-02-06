@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mt-daapd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mt-daapd.inc
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+7bc858a23cfb17fb4bcceb4f9733e97b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+mt-daapd_0.2.1.1.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+ffeeb0ca15d26a7118b72a5c6d661987
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mt-daapd_0.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+8baa6855594b9e7d1133196bb2458427
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mt-daapd_0.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+659ca1338a14e7ffeeda89e3e423356c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

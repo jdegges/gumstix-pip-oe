@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-fortuneplugin
+END
+opie-today-fortuneplugin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-fortuneplugin/opie-today-fortuneplugin.inc
+END
+opie-today-fortuneplugin_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-fortuneplugin/opie-today-fortuneplugin_cvs.bb
+END
+opie-today-fortuneplugin_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-fortuneplugin/opie-today-fortuneplugin_1.2.2.bb
+END
+opie-today-fortuneplugin_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-fortuneplugin/opie-today-fortuneplugin_1.2.3.bb
+END

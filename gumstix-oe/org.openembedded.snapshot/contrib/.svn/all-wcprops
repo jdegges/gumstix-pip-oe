@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib
+END
+oe.svg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/oe.svg
+END
+mtnpatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/mtnpatch.py
+END
+oe-stylize.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/oe-stylize.py
+END

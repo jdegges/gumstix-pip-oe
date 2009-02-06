@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.14.1
+END
+configure-libtool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.14.1/configure-libtool.patch
+END
+gcc-4.2-inline-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.14.1/gcc-4.2-inline-fix.patch
+END

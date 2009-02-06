@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8
+END
+62_debian_cpan_definstalldirs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/62_debian_cpan_definstalldirs.patch
+END
+perl-dynloader.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/perl-dynloader.patch
+END
+60_debian_libnet_config_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/60_debian_libnet_config_path.patch
+END
+config.sh-32-be
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-32-be
+END
+asm-pageh-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/asm-pageh-fix.patch
+END
+Makefile.SH.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/Makefile.SH.patch
+END
+53_debian_mod_paths.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/53_debian_mod_paths.patch
+END
+perl-moreconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/perl-moreconfig.patch
+END
+installperl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/installperl.patch
+END
+native-ssp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/native-ssp.patch
+END
+config.sh-64-be
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-64-be
+END
+native-nopacklist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/native-nopacklist.patch
+END
+perl-configure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/perl-configure.sh
+END
+config.sh-32-le
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-32-le
+END
+58_debian_cpan_config_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/58_debian_cpan_config_path.patch
+END
+54_debian_perldoc-r.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/54_debian_perldoc-r.patch
+END
+native-no-gdbminc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/native-no-gdbminc.patch
+END
+perl-configpm-switch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/perl-configpm-switch.patch
+END
+config.sh-32
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-32
+END
+52_debian_extutils_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/52_debian_extutils_hacks.patch
+END
+generate-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/generate-sh.patch
+END
+config.sh-64-le
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-64-le
+END
+64_debian_enc2xs_inc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/64_debian_enc2xs_inc.patch
+END
+config.sh-64
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh-64
+END
+09_fix_installperl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/09_fix_installperl.patch
+END
+makedepend-dash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/makedepend-dash.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/Makefile.patch
+END
+config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/config.sh
+END
+native-perlinc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.8/native-perlinc.patch
+END

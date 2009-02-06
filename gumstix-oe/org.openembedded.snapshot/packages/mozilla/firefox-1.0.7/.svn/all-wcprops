@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-1.0.7
+END
+mozilla-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-1.0.7/mozilla-eabi.patch
+END
+xptcinvoke-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-1.0.7/xptcinvoke-arm.patch
+END
+firefox-cc-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-1.0.7/firefox-cc-fix.patch
+END
+mozconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-1.0.7/mozconfig
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0
+END
+enable-tslib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/enable-tslib.patch
+END
+disable-xf86-dga-xorgcfg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/disable-xf86-dga-xorgcfg.patch
+END
+enable-xcalibrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/enable-xcalibrate.patch
+END
+fbcompositesrc8888revnpx0565.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/fbcompositesrc8888revnpx0565.patch
+END
+optional-xkb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/optional-xkb.patch
+END
+xcalibrate_coords.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/xcalibrate_coords.patch
+END
+enable-epson.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-1.2.0/enable-epson.patch
+END

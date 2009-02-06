@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705
+END
+vit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/vit.patch
+END
+flashpart.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/flashpart.patch
+END
+malformed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/malformed.patch
+END
+include_qconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/include_qconfig.patch
+END
+konq-embedrc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/konq-embedrc
+END
+kcookiejar-merge.patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/kcookiejar-merge.patch.patch
+END
+packing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/packing.patch
+END
+opie1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/opie1.patch
+END
+useragent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/useragent.patch
+END
+kcookiejar-merge.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/kcookiejar-merge.patch
+END
+cachepath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/cachepath.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20030705/gcc4.patch
+END

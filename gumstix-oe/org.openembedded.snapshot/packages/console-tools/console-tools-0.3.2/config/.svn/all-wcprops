@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config
+END
+glibc21.m4
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/glibc21.m4
+END
+lcmessage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/lcmessage.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/gettext.m4
+END
+codeset.m4
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/codeset.m4
+END
+progtest.m4
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/progtest.m4
+END
+iconv.m4
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/console-tools/console-tools-0.3.2/config/iconv.m4
+END

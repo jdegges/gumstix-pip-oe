@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qtopia-core
+END
+linux-oe-qmake.conf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qtopia-core/linux-oe-qmake.conf
+END
+0004-no-qmake.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qtopia-core/0004-no-qmake.patch
+END
+build-tools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qtopia-core/build-tools.patch
+END

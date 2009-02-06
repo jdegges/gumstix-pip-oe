@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/290/trunk/com.gumstix.collection/packages/navit/files
+END
+navit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/290/trunk/com.gumstix.collection/packages/navit/files/navit.xml
+END
+navit.launcher
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/269/trunk/com.gumstix.collection/packages/navit/files/navit.launcher
+END
+maxroute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/290/trunk/com.gumstix.collection/packages/navit/files/maxroute.patch
+END
+navit.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/269/trunk/com.gumstix.collection/packages/navit/files/navit.desktop
+END
+navit.xml-so.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/269/trunk/com.gumstix.collection/packages/navit/files/navit.xml-so.patch
+END

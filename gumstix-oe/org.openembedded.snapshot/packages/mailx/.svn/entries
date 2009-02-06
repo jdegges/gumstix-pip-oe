@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mailx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mailx_8.1.2-0.20020411cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+b94d6172e961abadbeef959a4af08fbc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mailx
+dir
+
+mailx_8.1.2-0.20040524cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+78428e31a4c9c2cfed8fe208c24ee849
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mailx_8.1.2-0.20050715cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+8f3a2a74d838fe6f90dbbc8d125e3ca5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

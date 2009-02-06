@@ -1,0 +1,53 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/maradns/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+rng-makefile-build-cc.patch
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+b96356d8662d267df0ef521e3007605f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+init
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+96ba7d4865c868d6e52f8bd69499d040
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+

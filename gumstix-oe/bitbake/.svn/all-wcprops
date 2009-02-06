@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/AUTHORS
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/MANIFEST
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/ChangeLog
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/COPYING
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/PKG-INFO
+END

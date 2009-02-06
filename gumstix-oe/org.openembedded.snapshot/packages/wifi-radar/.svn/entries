@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wifi-radar
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+wifi-radar_1.9.6.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+13f2021c7e1aca0afacd78a26e8083df
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

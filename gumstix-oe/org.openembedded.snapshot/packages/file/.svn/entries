@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/file
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+file-native_4.18.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+92969414713ed4dec800b56dae17c1b0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+file_4.21.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+f7d7e5cf3ceae15215786b58706a8a6c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+file-native_4.21.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+61f905cdd180861afbc53df40dc94a22
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+file_4.18.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+62a8402902d50d214b78b5e9df89438c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

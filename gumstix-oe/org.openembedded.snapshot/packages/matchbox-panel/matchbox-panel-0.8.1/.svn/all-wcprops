@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.8.1
+END
+automake-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.8.1/automake-lossage.patch
+END
+more-automake-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.8.1/more-automake-lossage.patch
+END
+make-batteryapp-less-strict.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.8.1/make-batteryapp-less-strict.patch
+END

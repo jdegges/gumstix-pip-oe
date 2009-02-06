@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/psplash/files/angstrom
+END
+psplash-hand-img.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/psplash/files/angstrom/psplash-hand-img.h
+END
+angstrom-psplash-vga-img.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/psplash/files/angstrom/angstrom-psplash-vga-img.h
+END
+angstrom-psplash-qvga-img.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/psplash/files/angstrom/angstrom-psplash-qvga-img.h
+END

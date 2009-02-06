@@ -1,0 +1,46 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/sysvinit
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-04T04:22:48.504047Z
+263
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sysvinit-2.86
+dir
+
+sysvinit_2.86.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+cc6a510bed1aa7ea7268b344b983d11e
+2008-03-04T04:22:48.504047Z
+263
+sakoman
+
+sysvinit
+dir
+

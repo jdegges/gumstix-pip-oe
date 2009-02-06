@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp-dsl
+END
+ppp-dsl_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp-dsl/ppp-dsl_0.1.bb
+END
+ppp_on_boot.dsl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp-dsl/ppp_on_boot.dsl
+END
+ppp-dsl_0.1-monolithic.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp-dsl/ppp-dsl_0.1-monolithic.bb
+END
+dsl-provider
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp-dsl/dsl-provider
+END

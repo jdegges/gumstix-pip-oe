@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3+0.7.4pre1
+END
+gpsapi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3+0.7.4pre1/gpsapi.patch
+END
+fix-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3+0.7.4pre1/fix-includes.patch
+END
+wireless.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3+0.7.4pre1/wireless.patch
+END

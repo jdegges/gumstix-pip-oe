@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-modules
+END
+usb-owner.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-modules/usb-owner.patch
+END
+only-the-modules.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-modules/only-the-modules.patch
+END
+pcmcia-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-modules/pcmcia-driver.patch
+END
+config.in
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-modules/config.in
+END

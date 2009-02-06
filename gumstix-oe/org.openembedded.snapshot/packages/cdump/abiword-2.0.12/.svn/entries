@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cdump/abiword-2.0.12
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cdump.c
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+e1e30528497b13420eb4fd117d9a3533
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

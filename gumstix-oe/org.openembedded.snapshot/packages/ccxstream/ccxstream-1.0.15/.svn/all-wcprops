@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ccxstream/ccxstream-1.0.15
+END
+ccxstream-termcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ccxstream/ccxstream-1.0.15/ccxstream-termcap.patch
+END
+ccxstream.init
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ccxstream/ccxstream-1.0.15/ccxstream.init
+END
+ccxstream.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ccxstream/ccxstream-1.0.15/ccxstream.conf
+END

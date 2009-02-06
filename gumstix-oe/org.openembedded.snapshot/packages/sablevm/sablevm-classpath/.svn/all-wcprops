@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm-classpath
+END
+disable-automake-checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm-classpath/disable-automake-checks.patch
+END

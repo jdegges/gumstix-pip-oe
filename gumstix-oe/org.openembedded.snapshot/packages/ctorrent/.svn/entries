@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ctorrent
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+ctorrent_1.3.4.bb
+file
+
+
+
+
+2009-02-06T18:13:55.000000Z
+7fcc1f9b5ae0b23b10e2a3df960f3a3e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ctorrent.inc
+file
+
+
+
+
+2009-02-06T18:13:55.000000Z
+4905e7006654d4e7d903128648f73085
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10
+END
+switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/switches.h
+END
+qpe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/qpe.patch
+END
+improve-calibration-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/improve-calibration-r0.patch
+END
+encoding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/encoding.patch
+END
+fix-linuxfb-offscreenoverflow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-linuxfb-offscreenoverflow.patch
+END
+no-moc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/no-moc.patch
+END
+vt-switch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/vt-switch.patch
+END
+remove-unused-kbdhandler.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/remove-unused-kbdhandler.patch
+END
+spitz-adhoc-keypad-rotate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/spitz-adhoc-keypad-rotate.patch
+END
+fix-errno-exception-spec.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-errno-exception-spec.patch
+END
+bidimetrics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/bidimetrics.patch
+END
+fix-qscreen-sync.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-qscreen-sync.patch
+END
+suspend-resume-hooks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/suspend-resume-hooks.patch
+END
+kernel-keymap-corgi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/kernel-keymap-corgi.patch
+END
+ipaq_sound_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/ipaq_sound_fix.patch
+END
+fix-qgfxraster.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-qgfxraster.patch
+END
+increase-qxml-robustness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/increase-qxml-robustness.patch
+END
+tslib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/tslib.patch
+END
+gcc3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/gcc3.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/gcc4.patch
+END
+c7x0-w100-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/c7x0-w100-gcc4.patch
+END
+key.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/key.patch
+END
+fix-linuxfb-setmode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-linuxfb-setmode.patch
+END
+handhelds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/handhelds.patch
+END
+qte-fix-iconsize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/qte-fix-iconsize.patch
+END
+keyboardless-buttonmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/keyboardless-buttonmap.patch
+END
+sharp_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/sharp_char.h
+END
+qiconview-speed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/qiconview-speed.patch
+END
+kernel-keymap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/kernel-keymap.patch
+END
+fix-native-build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/fix-native-build.patch
+END
+kernel-asm-page.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/kernel-asm-page.patch
+END
+qt-visibility.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/qt-visibility.patch
+END
+c7x0-w100-accel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/c7x0-w100-accel.patch
+END
+daemonize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/daemonize.patch
+END
+qtabbar.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/qtabbar.patch
+END

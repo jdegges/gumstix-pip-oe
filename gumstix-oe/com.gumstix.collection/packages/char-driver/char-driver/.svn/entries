@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/char-driver/char-driver
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sysctl.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+70d3d57a4e60edde4e1f7a997c4632ff
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+
+makefile.patch
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+ea212bd599b211f9d2f25f3146e1d15e
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+

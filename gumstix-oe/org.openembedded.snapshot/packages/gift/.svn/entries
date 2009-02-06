@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gift
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gift_0.11.4.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+2202a2645cd9f72f67d34ca31c60adff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gift_0.11.5.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+d65ce3869de49b9a08e9ebff975005bf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

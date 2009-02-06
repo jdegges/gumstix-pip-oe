@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mp3blaster/mp3blaster-3.1.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+includedir.patch
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+8205f0ddfa21f3b83b105e9989e25507
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

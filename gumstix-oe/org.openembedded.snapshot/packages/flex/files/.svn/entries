@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/flex/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix-gen.patch
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+57dd7f328b48083f93ebb60c7a3c5731
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+flex-lvalue.diff
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+d7d2847d4ff49f64af50c3ef363d544e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/libshout
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-18T07:41:06.339086Z
+226
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libshout.inc
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+beb09463eff1ee2bf4a47d5c7e028568
+2008-02-18T07:41:06.339086Z
+226
+sakoman
+
+files
+dir
+
+libshout_2.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+c1ad330b9597506db59aa65363bfaf11
+2008-01-26T00:09:22.887541Z
+160
+sakoman
+

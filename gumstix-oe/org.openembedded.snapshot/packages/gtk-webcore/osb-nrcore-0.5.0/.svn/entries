@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-nrcore-0.5.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+KWQDictImpl.patch
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+e86327e7cfe99e2e83fb7328de4de292
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

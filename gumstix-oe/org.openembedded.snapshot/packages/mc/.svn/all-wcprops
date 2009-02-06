@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mc
+END
+mc_4.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mc/mc_4.6.0.bb
+END
+mc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mc/mc.inc
+END
+mc_4.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mc/mc_4.6.1.bb
+END

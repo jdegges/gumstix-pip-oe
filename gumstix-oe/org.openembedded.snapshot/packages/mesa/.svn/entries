@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mesa
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mesa_6.5.2.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+64da590265ef4774d1bceec1d73b3dc2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mesa-mesa.inc
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+ed772de1d5897036edf8fccd1ee47b41
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+mesa-common.inc
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+298c1ac4e9b3025dba567f424760e19c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mesa-6.0.1
+dir
+
+mesa_6.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+2f83715257a177b037eaeec956411b09
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mesa-6.5.2
+dir
+
+mesa-dri_6.5.2.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+adf3a43b644c9bc955efe37a8ae109b8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mesa_6.4.1+cvs20060101.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+99fe67d409b165b5736e3bb721467aaa
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

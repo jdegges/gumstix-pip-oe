@@ -1,0 +1,175 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux-libc-headers
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+linux-libc-headers-2.6.7.0
+dir
+
+linux-libc-headers-2.6.18+2.6.19-rc1
+dir
+
+linux-libc-headers.inc
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+846b7dbb044ceede0940f919d3158bfa
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers-2.6.8.1
+dir
+
+linux-libc-headers_2.6.18+2.6.19-rc1.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+3deb81d9cc598dcaafc4daa917a97d0c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers_2.6.7.0.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+330e5d16b9877e40fb8b49e47060d58c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers_2.6.8.1.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+8f59eab7a8e3ab9b1b1e9402e4252d4a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers-2.6.20
+dir
+
+files
+dir
+
+linux-libc-headers-2.6.22
+dir
+
+linux-libc-headers_2.6.11.1.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+2935d1e1acbcbde7a6a581b89937bf32
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers-2.6.23
+dir
+
+linux-libc-headers_2.6.20.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+9ef57d4431f2cf0154562a2652dd872b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers-2.6.15.99
+dir
+
+linux-libc-headers_2.6.22.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+419bffc7996218f90713bc02916c85cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers-2.6.18
+dir
+
+linux-libc-headers_2.6.23.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+419bffc7996218f90713bc02916c85cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers_2.6.15.99.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+464660a365eed930926f741a2926df26
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-libc-headers_2.6.18.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+ad8cf5d27b55196042be17160d5120b3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

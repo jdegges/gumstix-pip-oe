@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client-0.16
+END
+Makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxsettings-client/libxsettings-client-0.16/Makefile-am.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-x11-1.0
+END
+no-caca-no-aalib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-x11-1.0/no-caca-no-aalib.patch
+END
+restore-esd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-x11-1.0/restore-esd.patch
+END
+dont-have-xv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-x11-1.0/dont-have-xv.patch
+END
+fix-syntax-xine-vorbis-decoder.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-x11-1.0/fix-syntax-xine-vorbis-decoder.patch
+END

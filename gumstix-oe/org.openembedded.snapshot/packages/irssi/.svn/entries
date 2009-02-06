@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/irssi
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+irssi_0.8.10.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+33047ab9874acb4a5da4261ac1a98a4e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+irssi_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+d425955333db863ba587e556653087fd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+xirssi_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+070d0b249d108778ab873a6cca78ee72
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

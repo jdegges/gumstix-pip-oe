@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/conf/machine
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-29T12:39:13.469870Z
+300
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gumstix-custom-basix.conf
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+a2e503e5a9c5d712e663e9b17533db9c
+2008-03-13T04:55:01.252401Z
+275
+sakoman
+
+include
+dir
+
+gumstix-custom-connex.conf
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+ba9a54c14e4ea7c64ebe0f4f2766860a
+2008-03-05T20:14:10.625208Z
+271
+sakoman
+
+gumstix-custom-verdex.conf
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+77bbee0fe2cdf304f1d74bdf807bf05d
+2008-03-29T12:39:13.469870Z
+300
+sakoman
+

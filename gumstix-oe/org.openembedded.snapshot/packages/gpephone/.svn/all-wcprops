@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone
+END
+linphone_1.5.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/linphone_1.5.0.bb
+END
+gpe-applauncher_0.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_0.7.bb
+END
+libiac_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libiac_0.1.bb
+END
+gpe-applauncher_0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_0.9.bb
+END
+gpe-applauncher_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_svn.bb
+END
+gpe-session-scripts-phone_0.67.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone_0.67.bb
+END
+xoo-vm_0.7-20070204.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/xoo-vm_0.7-20070204.bb
+END
+ptim-headers_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/ptim-headers_svn.bb
+END
+gpe-applauncher_0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_0.11.bb
+END
+libim_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libim_0.2.bb
+END
+libgpephone_0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libgpephone_0.3.bb
+END
+ptim-helper_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/ptim-helper_svn.bb
+END
+phoneserver_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/phoneserver_1.0.bb
+END
+voicecall_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/voicecall_0.1.bb
+END
+sms_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/sms_1.0.bb
+END
+libabenabler_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libabenabler_0.1.bb
+END
+libgemwidget_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libgemwidget_0.1.bb
+END
+gsmmux_alpha-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gsmmux_alpha-2.bb
+END
+xoo-theme-gpephone_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/xoo-theme-gpephone_1.0.bb
+END
+vochistory_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/vochistory_0.1.bb
+END
+libchenabler_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libchenabler_0.1.bb
+END
+libabenabler_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libabenabler_svn.bb
+END
+libcalenabler_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libcalenabler_1.0.bb
+END
+soundserver_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/soundserver_1.0.bb
+END
+machined_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/machined_svn.bb
+END
+cms92init_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/cms92init_0.1.bb
+END
+gpe-applauncher_0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_0.8.bb
+END
+videoplayer_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/videoplayer_0.1.bb
+END
+libabenabler2_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libabenabler2_1.0.bb
+END
+ptim-engine_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/ptim-engine_svn.bb
+END
+librecord2_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/librecord2_0.1.bb
+END
+connect_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/connect_0.1.bb
+END
+libsettings_0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libsettings_0.3.bb
+END
+ptim-manager_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/ptim-manager_svn.bb
+END
+gpe-applauncher_0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-applauncher_0.10.bb
+END
+libidn_0.5.19.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libidn_0.5.19.bb
+END
+libsettings_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libsettings_svn.bb
+END
+librecord2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/librecord2_svn.bb
+END
+libgpephone_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libgpephone_0.4.bb
+END
+addressbook_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/addressbook_0.1.bb
+END
+liblipsevent_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/liblipsevent_0.1.bb
+END
+sms_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/sms_1.1.bb
+END
+librecord_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/librecord_0.1.bb
+END
+libmsgenabler_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libmsgenabler_1.0.bb
+END
+libvocenabler_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/libvocenabler_0.1.bb
+END
+addressbook_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/addressbook_svn.bb
+END
+gpe-phonepanel_0.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-phonepanel_0.7.bb
+END
+calendar_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/calendar_1.0.bb
+END
+gpe-phonepanel_0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-phonepanel_0.9.bb
+END
+audioplayer_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/audioplayer_1.0.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/freetype/freetype-2.3.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure.patch
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+597530a58c863a7c3fe03ae3a91cde81
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+no-hardcode.patch
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+5f216dc2885323f61d75840702b095df
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

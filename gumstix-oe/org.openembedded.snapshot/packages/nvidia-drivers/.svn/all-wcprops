@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers
+END
+nvidia-display_1.0-8756.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/nvidia-display_1.0-8756.bb
+END
+nvidia-nforce_1.0-0310.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/nvidia-nforce_1.0-0310.bb
+END
+nvidia-drivers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/nvidia-drivers.inc
+END

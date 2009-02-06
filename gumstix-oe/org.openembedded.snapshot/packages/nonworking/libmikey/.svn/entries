@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/libmikey
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libmikey_0.1a.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+50b50db6e9ee86bd91278c9dfaae5372
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libmikey0_0.3.2.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+5ac47e840f353993a03f7342f5ee7f23
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

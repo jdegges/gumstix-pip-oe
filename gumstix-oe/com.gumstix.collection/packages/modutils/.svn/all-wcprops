@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/modutils
+END
+modutils-collateral.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/128/trunk/com.gumstix.collection/packages/modutils/modutils-collateral.bb
+END
+modutils-cross_2.4.27.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/modutils-cross_2.4.27.bb
+END
+modutils-initscripts.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/modutils-initscripts.bb
+END
+modutils_2.4.27.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/123/trunk/com.gumstix.collection/packages/modutils/modutils_2.4.27.bb
+END

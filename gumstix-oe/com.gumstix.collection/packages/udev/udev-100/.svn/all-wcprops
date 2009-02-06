@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/init
+END
+local.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/local.rules
+END
+links.conf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/links.conf
+END
+permissions.rules
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/permissions.rules
+END
+flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/flags.patch
+END
+udev.rules
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-100/udev.rules
+END

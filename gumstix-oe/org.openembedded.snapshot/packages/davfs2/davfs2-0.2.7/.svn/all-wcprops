@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2-0.2.7
+END
+Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2-0.2.7/Makefile.in.patch
+END
+no-func-checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2-0.2.7/no-func-checks.patch
+END
+no-neon-version-test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/davfs2/davfs2-0.2.7/no-neon-version-test.patch
+END

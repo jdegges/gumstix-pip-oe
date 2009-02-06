@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/klibc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+klibc_1.1.1.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+44d26df58a4e2149d985dc1b30bc7a8f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+klibc.inc
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+1178a43c9020be42203a74cb1c570c64
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+klibc_0.190.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+44d26df58a4e2149d985dc1b30bc7a8f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

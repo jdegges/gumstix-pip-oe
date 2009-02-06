@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/gpio-event
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpio-event.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+fbffd52638c15c95a9c597dbea4e1ab9
+2008-03-20T05:30:25.199204Z
+292
+sakoman
+
+gpio-event
+dir
+

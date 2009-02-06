@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop
+END
+matchbox-desktop_0.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop/matchbox-desktop_0.8.1.bb
+END
+matchbox-desktop_0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop/matchbox-desktop_0.8.bb
+END
+matchbox-desktop_0.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop/matchbox-desktop_0.9.1.bb
+END
+matchbox-desktop_0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop/matchbox-desktop_0.9.bb
+END
+matchbox-desktop_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-desktop/matchbox-desktop_svn.bb
+END

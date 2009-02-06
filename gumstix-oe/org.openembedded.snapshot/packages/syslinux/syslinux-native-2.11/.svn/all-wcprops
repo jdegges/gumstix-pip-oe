@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/syslinux/syslinux-native-2.11
+END
+edx_assume_zero.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/syslinux/syslinux-native-2.11/edx_assume_zero.patch
+END

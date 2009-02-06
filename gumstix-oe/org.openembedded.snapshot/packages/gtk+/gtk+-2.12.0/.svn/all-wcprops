@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0
+END
+cellrenderer-cairo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/cellrenderer-cairo.patch
+END
+hardcoded_libtool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/hardcoded_libtool.patch
+END
+no-demos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/no-demos.patch
+END
+gtklabel-resize-patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/gtklabel-resize-patch
+END
+pangoxft2.10.6.diff
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/pangoxft2.10.6.diff
+END
+range-no-redraw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/range-no-redraw.patch
+END
+xsettings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/xsettings.patch
+END
+menu-deactivate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/menu-deactivate.patch
+END
+entry-cairo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/entry-cairo.patch
+END
+disable-print.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/disable-print.patch
+END
+scrolled-placement.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/scrolled-placement.patch
+END
+run-iconcache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/run-iconcache.patch
+END
+toggle-font.diff
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/toggle-font.diff
+END
+combo-arrow-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.12.0/combo-arrow-size.patch
+END

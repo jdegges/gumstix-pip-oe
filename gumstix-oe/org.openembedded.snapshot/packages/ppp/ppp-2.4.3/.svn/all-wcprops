@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3
+END
+ppp-tdbread.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/ppp-tdbread.patch
+END
+pppd-resolv-varrun.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/pppd-resolv-varrun.patch
+END
+makefile-remove-hard-usr-reference.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/makefile-remove-hard-usr-reference.patch
+END
+enable-ipv6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/enable-ipv6.patch
+END
+plugins-fix-CC.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/plugins-fix-CC.patch
+END
+pppoatm-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/pppoatm-makefile.patch
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/makefile.patch
+END
+cifdefroute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ppp/ppp-2.4.3/cifdefroute.patch
+END

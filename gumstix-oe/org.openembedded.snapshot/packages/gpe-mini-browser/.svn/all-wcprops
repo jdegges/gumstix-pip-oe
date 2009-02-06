@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser
+END
+gpe-mini-browser_0.19.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.19.bb
+END
+gpe-mini-browser-hildon_0.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser-hildon_0.15.bb
+END
+gpe-mini-browser-hildon_0.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser-hildon_0.16.bb
+END
+gpe-mini-browser_0.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.20.bb
+END
+gpe-mini-browser-hildon_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser-hildon_0.17.bb
+END
+gpe-mini-browser_0.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.21.bb
+END
+gpe-mini-browser_0.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.15.bb
+END
+gpe-mini-browser_0.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.16.bb
+END
+gpe-mini-browser_0.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.17.bb
+END
+gpe-mini-browser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser.inc
+END
+gpe-mini-browser_0.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_0.18.bb
+END
+gpe-mini-browser_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-mini-browser/gpe-mini-browser_svn.bb
+END

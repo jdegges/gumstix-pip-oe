@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/apache2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+apache2-2.2.3
+dir
+
+apache2_2.2.3.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+cebf6e3e594c42d36bf06dd3016b3d21
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apache2-native_2.2.3.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+e7a1eefa691aee2fe3d89ba46949262d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

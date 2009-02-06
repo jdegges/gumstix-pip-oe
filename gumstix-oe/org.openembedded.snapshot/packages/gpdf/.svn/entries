@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpdf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpdf_2.7.90.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+315d151ff2ce947abc8a5a14f920ad53
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpdf_2.10.0.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+0fb88ff6a704c157d29a768dcac96953
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+gpdf_2.8.0.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+0afc22ceb2175e38d5630a4497ba8446
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpdf_2.8.2.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+590c437ae483330d2c0808b2b193ea7c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files
+END
+wpa-supplicant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/wpa-supplicant.sh
+END
+use-channel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/use-channel.patch
+END
+wpa_supplicant_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/wpa_supplicant_default.conf
+END
+functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/functions.sh
+END
+madwifi-bsd-fix.diff
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/madwifi-bsd-fix.diff
+END
+wpa_supplicant.conf-sane
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/wpa_supplicant.conf-sane
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/defconfig
+END
+ifupdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/ifupdown.sh
+END
+driver-hermes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/driver-hermes.patch
+END
+defaults-sane
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/defaults-sane
+END
+init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/init.sh
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/wpa_supplicant.conf
+END
+defconfig-gnutls
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/files/defconfig-gnutls
+END

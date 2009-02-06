@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/diethotplug/diethotplug-0.4
+END
+modules.pcimap
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/diethotplug/diethotplug-0.4/modules.pcimap
+END
+modules.ieee1394map
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/diethotplug/diethotplug-0.4/modules.ieee1394map
+END
+modules.usbmap
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/diethotplug/diethotplug-0.4/modules.usbmap
+END

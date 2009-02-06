@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils
+END
+enable-otp-utils.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils/enable-otp-utils.patch
+END
+fix-ignoreerrors-git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils/fix-ignoreerrors-git.patch
+END
+add-exclusion-to-mkfs-jffs2-git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils/add-exclusion-to-mkfs-jffs2-git.patch
+END
+lzo_1x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils/lzo_1x.patch
+END

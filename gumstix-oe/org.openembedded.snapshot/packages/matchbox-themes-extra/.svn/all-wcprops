@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-themes-extra
+END
+matchbox-theme-sato_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-themes-extra/matchbox-theme-sato_svn.bb
+END
+matchbox-theme-sato_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-themes-extra/matchbox-theme-sato_0.1.bb
+END
+matchbox-themes-extra_0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-themes-extra/matchbox-themes-extra_0.3.bb
+END

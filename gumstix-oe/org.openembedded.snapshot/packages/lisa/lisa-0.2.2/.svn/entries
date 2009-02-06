@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/lisa/lisa-0.2.2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure.patch
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+8d3cf984d93a89207a491fd50d83c8cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+head-n.patch
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+bb06e4f4eafdba64e051633566869763
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

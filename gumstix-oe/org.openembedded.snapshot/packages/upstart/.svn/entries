@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/upstart
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+upstart.inc
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+e07d0e11943d632e594b4620a4daf13b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+upstart_0.3.8.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+c8aa41d266dc18f3c3799046e950bd9f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth
+END
+ixp400-eth_1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth_1.4.bb
+END
+ixp400-eth_1.5.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth_1.5.1.bb
+END
+ixp400-eth_1.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth_1.5.bb
+END
+ixp425-eth_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp425-eth_1.1.bb
+END
+ixp425-eth_1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp425-eth_1.2.bb
+END

@@ -1,0 +1,94 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/lua
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+lua_5.0.2.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+b54b60d4afef1446094cea4c7556b9dd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lua-gtk2
+dir
+
+lua-build.inc
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+5935b71a46d7449906ec3b863e085a9e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lua-gtk2_0.3.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+61e844815f87bc04ebeda61846443017
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lua-native_5.0.2.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+2668eaaaa5e06a6fc2ed5a9fdf1f6a76
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lua.inc
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+67bcc6c4e5cae49cbd7fbab696f80dbb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

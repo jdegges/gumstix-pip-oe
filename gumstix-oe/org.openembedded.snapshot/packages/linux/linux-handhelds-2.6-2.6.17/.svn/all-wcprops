@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.17
+END
+hrw-pcmcia-ids-r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.17/hrw-pcmcia-ids-r2.patch
+END
+24-hostap_cs_id.diff
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.17/24-hostap_cs_id.diff
+END

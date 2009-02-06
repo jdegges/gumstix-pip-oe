@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-dht-walnut-2.6.20
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+remove-todc.patch
+file
+
+
+
+
+2009-02-06T18:15:42.000000Z
+6cf2090c7996ded2f12d98b163e1b5de
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dht-walnut_defconfig
+file
+
+
+
+
+2009-02-06T18:15:42.000000Z
+781071801390cfa9c1f918e11aed511a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

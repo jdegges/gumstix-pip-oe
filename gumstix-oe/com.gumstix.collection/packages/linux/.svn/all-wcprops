@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/317/trunk/com.gumstix.collection/packages/linux
+END
+gumstix-linux.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/48/trunk/com.gumstix.collection/packages/linux/gumstix-linux.inc
+END
+gumstix-kernel_2.6.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/270/trunk/com.gumstix.collection/packages/linux/gumstix-kernel_2.6.21.bb
+END
+gumstix-kernel_2.6.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/277/trunk/com.gumstix.collection/packages/linux/gumstix-kernel_2.6.22.bb
+END
+gumstix-kernel_2.6.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/296/trunk/com.gumstix.collection/packages/linux/gumstix-kernel_2.6.24.bb
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/efl1/epdf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix-plugin-path-check.patch
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+ab264378095598f2ab3cb8775f1ebd31
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

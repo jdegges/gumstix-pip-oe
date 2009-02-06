@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.18
+END
+defconf_jlime
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.18/defconf_jlime
+END
+linux-2.6.18-jornada7xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.18/linux-2.6.18-jornada7xx.patch
+END

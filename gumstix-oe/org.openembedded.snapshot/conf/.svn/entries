@@ -1,0 +1,121 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/conf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-17T04:02:51.540426Z
+280
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+build
+dir
+
+checksums.ini
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+2f2deeab50ef76f5e53bda453c489528
+2008-03-17T04:02:51.540426Z
+280
+sakoman
+
+distro
+dir
+
+machine
+dir
+
+bitbake.conf
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+66806fbb3e7cc299f0ecfb515dcfe972
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+licenses.conf
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+cf00c666c34cc82db9cedf71130dd52b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tinder.conf
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+957023def6d761a01c0a9d4f153f5e50
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sanity.conf
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+0f599ba8c032701daea682f3145e2287
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+documentation.conf
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+366866a740acb252eb63ce7360673346
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+local.conf.sample
+file
+
+
+
+
+2009-02-06T18:13:34.000000Z
+e49b8882f5fdc4eac8eaa31661ec8fea
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

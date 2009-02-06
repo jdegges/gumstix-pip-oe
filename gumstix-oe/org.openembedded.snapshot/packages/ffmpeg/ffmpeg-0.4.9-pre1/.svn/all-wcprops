@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ffmpeg/ffmpeg-0.4.9-pre1
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ffmpeg/ffmpeg-0.4.9-pre1/configure.patch
+END
+soname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ffmpeg/ffmpeg-0.4.9-pre1/soname.patch
+END
+common.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ffmpeg/ffmpeg-0.4.9-pre1/common.patch
+END

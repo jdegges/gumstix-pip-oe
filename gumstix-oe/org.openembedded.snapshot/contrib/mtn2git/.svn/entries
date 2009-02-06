@@ -1,0 +1,69 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/contrib/mtn2git
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+status.py
+file
+
+
+
+
+2009-02-06T18:13:32.000000Z
+48b324cceaadc28b47f81ad55d33df28
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+git2mtn.py
+file
+
+
+
+
+2009-02-06T18:13:32.000000Z
+f2b12ed535ea1e55d3c6f830bc8b2b45
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+mtn2git.py
+file
+
+
+
+
+2009-02-06T18:13:32.000000Z
+e3ba23116615171c3fa8c22653bcdad0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+mtn
+dir
+

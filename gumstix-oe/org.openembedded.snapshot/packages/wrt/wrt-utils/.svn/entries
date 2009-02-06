@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wrt/wrt-utils
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libshared-makefile.diff
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+053abc7d3423f6648fec4a261b44e799
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nvram-makefile.diff
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+d9a9821137f9c5ff12b51e32c29e53f6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

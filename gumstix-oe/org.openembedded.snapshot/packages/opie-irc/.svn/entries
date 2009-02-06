@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-irc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-irc.inc
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+b75c3f35dc6bb88d3410fe3523620a5a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+opie-irc_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+3679b438ee3f8ae49dd30e5a896bb3e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-irc_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+5a95c4bbbcf0cd5175d9d91e32588d18
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-irc_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+75d738dbb0ccc4ab602da0baf0ea42b3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

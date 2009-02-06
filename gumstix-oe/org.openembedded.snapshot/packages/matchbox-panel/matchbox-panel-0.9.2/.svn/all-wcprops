@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2
+END
+add_hostap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/add_hostap.patch
+END
+kernel2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/kernel2.6.patch
+END
+mb-panel-multi-category-matching.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/mb-panel-multi-category-matching.patch
+END
+mb-applet-battery-repaint.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/mb-applet-battery-repaint.patch
+END
+system-monitor-crash-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/system-monitor-crash-fix.patch
+END
+mb-panel-allow-disabling-menu-panel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.2/mb-panel-allow-disabling-menu-panel.patch
+END

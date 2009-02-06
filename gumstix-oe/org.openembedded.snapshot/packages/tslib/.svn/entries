@@ -1,0 +1,46 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tslib
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+tslib-1.0
+dir
+
+tslib
+dir
+
+tslib_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+54f7be25d505362b2c5add4ee343f15d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/atd/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-oknodo.patch
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+973729edeace6d1f61b643d02767a666
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+atd-startup.patch
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+a89f84ea2bbfe8b793d49eaad13f7dc2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

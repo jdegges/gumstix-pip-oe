@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/uclibc
+END
+uclibc_0.9.29.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc_0.9.29.bb
+END
+uclibc-initial_0.9.29.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc-initial_0.9.29.bb
+END
+uclibc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/uclibc.inc
+END

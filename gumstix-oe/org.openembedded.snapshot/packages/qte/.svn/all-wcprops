@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte
+END
+qte-mt-static_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-mt-static_2.3.10.bb
+END
+qte-mt-static_2.3.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-mt-static_2.3.12.bb
+END
+qtopia-core_4.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qtopia-core_4.2.0.bb
+END
+qte-functions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-functions.inc
+END
+qte-common_2.3.10.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-common_2.3.10.inc
+END
+qtopia-core_4.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qtopia-core_4.3.2.bb
+END
+qte-common_2.3.12.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-common_2.3.12.inc
+END
+qte-mt_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-mt_2.3.10.bb
+END
+qte-mt_2.3.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-mt_2.3.12.bb
+END
+qte_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte_2.3.10.bb
+END

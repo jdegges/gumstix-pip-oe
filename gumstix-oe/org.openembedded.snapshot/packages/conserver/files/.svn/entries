@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/conserver/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+conserver.init
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+38b9fdb39e646a6c997517fa5645269d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+conserver.default
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+22795bd025c8fa96a537588f4071e460
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

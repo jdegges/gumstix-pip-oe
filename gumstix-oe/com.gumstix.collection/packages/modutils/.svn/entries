@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/modutils
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-13T04:55:01.252401Z
+275
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+modutils-collateral.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+09d38bf8cb946cdb8c8fe3c66557f5ef
+2008-01-14T19:41:11.495249Z
+128
+sakoman
+
+modutils-cross_2.4.27.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+f558fa109e58a29038db8640d9e7e2fc
+2008-01-14T07:41:01.686932Z
+123
+sakoman
+
+modutils-cross
+dir
+
+modutils-initscripts.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+e6d4ae5cc21d962feead9b2e6b645b77
+2008-01-14T07:41:01.686932Z
+123
+sakoman
+
+modutils_2.4.27.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+347578d84dea2cf6156f722a2e3bfaf9
+2008-01-14T07:41:01.686932Z
+123
+sakoman
+

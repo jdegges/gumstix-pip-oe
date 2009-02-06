@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14
+END
+no-demos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/no-demos.patch
+END
+gtklabel-resize-patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/gtklabel-resize-patch
+END
+cell-renderer-edit-focus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/cell-renderer-edit-focus.patch
+END
+treeview-checkbox-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/treeview-checkbox-size.patch
+END
+range-no-redraw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/range-no-redraw.patch
+END
+gtk+-handhelds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/gtk+-handhelds.patch
+END
+xsettings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/xsettings.patch
+END
+migration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/migration.patch
+END
+disable-print.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/disable-print.patch
+END
+combo-arrow-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/combo-arrow-size.patch
+END
+small-gtkfilesel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/small-gtkfilesel.patch
+END
+hardcoded_libtool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/hardcoded_libtool.patch
+END
+automake-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/automake-lossage.patch
+END
+single-click.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/single-click.patch
+END
+spinbutton.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/spinbutton.patch
+END
+scroll-timings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/scroll-timings.patch
+END
+no-xwc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/no-xwc.patch
+END
+menu-deactivate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/menu-deactivate.patch
+END
+scrolled-placement.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/scrolled-placement.patch
+END
+run-iconcache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/run-iconcache.patch
+END
+disable-tooltips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/disable-tooltips.patch
+END
+filesel-fix-segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-2.10.14/filesel-fix-segfault.patch
+END

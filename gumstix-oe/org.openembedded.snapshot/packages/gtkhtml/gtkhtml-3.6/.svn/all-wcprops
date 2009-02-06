@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtkhtml/gtkhtml-3.6
+END
+cross-includedir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtkhtml/gtkhtml-3.6/cross-includedir.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files
+END
+sylpheed-2.2.2-libsylph-Makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/sylpheed-2.2.2-libsylph-Makefile-am.patch
+END
+sylpheed-2.2.2-src-Makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/sylpheed-2.2.2-src-Makefile-am.patch
+END
+Makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/Makefile-am.patch
+END
+desktop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/desktop.patch
+END
+sylpheed-gnutls_2.2.4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/sylpheed-gnutls_2.2.4.patch
+END
+streamline-ui.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/files/streamline-ui.patch
+END

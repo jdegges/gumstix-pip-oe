@@ -1,0 +1,32 @@
+Index: MPlayer-1.0rc1/mplayer.c
+===================================================================
+--- MPlayer-1.0rc1.orig/mplayer.c
++++ MPlayer-1.0rc1/mplayer.c
+@@ -807,6 +807,17 @@ static void exit_sighandler(int x){
+   exit_player(NULL);
+ }
+ 
++//w100 driver additions
++int g_sigcont = 0;
++
++static void misc_sighandler(int x){
++  switch(x){
++    case SIGCONT:
++      ++ g_sigcont;
++      break;
++  }
++}
++
+ extern void mp_input_register_options(m_config_t* cfg);
+ 
+ #include "mixer.h"
+@@ -3216,6 +3227,9 @@ current_module = NULL;
+ #endif
+ #endif
+ 
++// w100 driver additions
++  signal(SIGCONT,misc_sighandler);
++    
+ #ifdef HAVE_NEW_GUI
+   if(use_gui){
+        guiInit();

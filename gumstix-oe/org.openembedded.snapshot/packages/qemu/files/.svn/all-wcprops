@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/configure.patch
+END
+22_net_tuntap_stall.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/22_net_tuntap_stall.patch
+END
+91-oh-sdl-cursor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/91-oh-sdl-cursor.patch
+END
+03_machines_list_no_error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/03_machines_list_no_error.patch
+END
+02_snapshot_use_tmpdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/02_snapshot_use_tmpdir.patch
+END
+04_do_not_print_rtc_freq_if_ok.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/04_do_not_print_rtc_freq_if_ok.patch
+END
+qemu-usb-wacom-buttons.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-usb-wacom-buttons.patch
+END
+65_kfreebsd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/65_kfreebsd.patch
+END
+39_syscall_fadvise64.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/39_syscall_fadvise64.patch
+END
+33_syscall_ppc_clone.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/33_syscall_ppc_clone.patch
+END
+qemu-sdl-cursor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-sdl-cursor.patch
+END
+qemu-0.9.0-nptl-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-0.9.0-nptl-update.patch
+END
+qemu-usb-wacom-0.8.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-usb-wacom-0.8.2.patch
+END
+workaround_bad_futex_headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/workaround_bad_futex_headers.patch
+END
+qemu-usb-wacom-pressure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-usb-wacom-pressure.patch
+END
+compiler.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/compiler.patch
+END
+12_signal_powerpc_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/12_signal_powerpc_support.patch
+END
+arm_nptl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/arm_nptl.patch
+END
+11_signal_sigaction.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/11_signal_sigaction.patch
+END
+32_syscall_sysctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/32_syscall_sysctl.patch
+END
+fix_segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/fix_segfault.patch
+END
+64_ppc_asm_constraints.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/64_ppc_asm_constraints.patch
+END
+qemu-0.9.0-nptl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-0.9.0-nptl.patch
+END
+05_non-fatal_if_linux_hd_missing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/05_non-fatal_if_linux_hd_missing.patch
+END
+10_signal_jobs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/10_signal_jobs.patch
+END
+66_tls_ld.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/66_tls_ld.patch
+END
+63_sparc_build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/63_sparc_build.patch
+END
+qemu-amd64-32b-mapping-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-amd64-32b-mapping-0.9.0.patch
+END
+31_syscalls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/31_syscalls.patch
+END
+93-oh-pl110-rgb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/93-oh-pl110-rgb.patch
+END
+qemu-pci-irq-sharing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/qemu-pci-irq-sharing.patch
+END
+pl110_rgb-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/pl110_rgb-r0.patch
+END
+61_safe_64bit_int.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/61_safe_64bit_int.patch
+END
+41_arm_fpa_sigfpe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/41_arm_fpa_sigfpe.patch
+END
+30_syscall_ipc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/30_syscall_ipc.patch
+END
+06_exit_segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/06_exit_segfault.patch
+END
+52_ne2000_return.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/52_ne2000_return.patch
+END
+no-strip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/no-strip.patch
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/files/makefile.patch
+END

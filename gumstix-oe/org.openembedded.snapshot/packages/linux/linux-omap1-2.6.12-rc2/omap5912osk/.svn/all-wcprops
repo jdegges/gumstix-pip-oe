@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap1-2.6.12-rc2/omap5912osk
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-omap1-2.6.12-rc2/omap5912osk/defconfig
+END

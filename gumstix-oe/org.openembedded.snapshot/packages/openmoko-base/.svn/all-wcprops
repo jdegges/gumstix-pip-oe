@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base
+END
+openmoko-session_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-session_svn.bb
+END
+openmoko-icon-theme-standard_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-icon-theme-standard_svn.bb
+END
+openmoko-sound-theme-standard_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-sound-theme-standard_svn.bb
+END
+openmoko-common_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-common_svn.bb
+END
+openmoko-libs_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-libs_svn.bb
+END
+openmoko-theme-standard-qvga_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-theme-standard-qvga_svn.bb
+END
+openmoko-sound-system_0.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-sound-system_0.1.0.bb
+END
+openmoko-theme-standard_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-base/openmoko-theme-standard_svn.bb
+END

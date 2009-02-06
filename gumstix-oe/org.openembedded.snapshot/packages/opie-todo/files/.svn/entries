@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-todo/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gcc-syntax-fix.patch
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+684be94abbab67388681d217fcfa59a8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+unbreak-logging.patch
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+0a24d12b770118b42b7bcf2eb34c7171
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

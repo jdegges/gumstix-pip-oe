@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig
+END
+fontconfig-native_2.2.95.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig-native_2.2.95.bb
+END
+fontconfig_2.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig_2.4.1.bb
+END
+fontconfig_2.3.91.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig_2.3.91.bb
+END
+fontconfig_2.2.95.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig_2.2.95.bb
+END
+fontconfig-native_2.3.91.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig-native_2.3.91.bb
+END
+fontconfig_2.3.95.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig_2.3.95.bb
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/e2tools
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+e2tools-native_0.0.16.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+1b61fb4887f81e9fde88006f15a97aff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2tools-0.0.16
+dir
+
+e2tools_0.0.16.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+5f6c9f94b921d0208cec962b699acae8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

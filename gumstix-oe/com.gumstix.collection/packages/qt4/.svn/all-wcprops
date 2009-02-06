@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/222/trunk/com.gumstix.collection/packages/qt4
+END
+qt_packaging.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/222/trunk/com.gumstix.collection/packages/qt4/qt_packaging.inc
+END
+qt4-x11-free_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free_4.1.2.bb
+END
+qt_configuration.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qt4/qt_configuration.inc
+END
+qt4-x11-free_4.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free_4.3.3.bb
+END
+qt4-x11-free.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free.inc
+END
+qt_staging.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt_staging.inc
+END
+qtopia-core_4.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qtopia-core_4.3.3.bb
+END
+qtopia-core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qt4/qtopia-core.inc
+END
+qt4_arch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4_arch.inc
+END
+qt_depends.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt_depends.inc
+END

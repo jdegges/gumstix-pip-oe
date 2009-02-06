@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-files/base-files
+END
+fstab
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/fstab
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/profile
+END
+host.conf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/host.conf
+END
+motd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/motd
+END
+inputrc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/inputrc
+END
+nsswitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/nsswitch.conf
+END
+filesystems
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/filesystems
+END
+issue
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/issue
+END
+issue.net
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/issue.net
+END
+usbd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/base-files/base-files/usbd
+END

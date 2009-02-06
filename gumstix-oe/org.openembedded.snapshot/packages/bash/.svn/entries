@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/bash
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+bash_3.0.bb
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+06fe49472e0024fccb5b587acc238583
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+bash_3.2.bb
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+7cf6baa7203eb634c3eab10ed1f56238
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+bash.inc
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+2e262b8acc1a2edf99cbe4e78535203f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+bash-3.0
+dir
+

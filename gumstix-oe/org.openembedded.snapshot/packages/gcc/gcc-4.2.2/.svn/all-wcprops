@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2
+END
+arm-crunch-offset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-offset.patch
+END
+arm-crunch-20000320.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-20000320.patch
+END
+arm-crunch-64bit-disable-4.2.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-64bit-disable-4.2.0.patch
+END
+sh3-installfix-fixheaders.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/sh3-installfix-fixheaders.patch
+END
+arm-crunch-dominance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-dominance.patch
+END
+zecke-no-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/zecke-no-host-includes.patch
+END
+fix-ICE-in-arm_unwind_emit_set.diff
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/fix-ICE-in-arm_unwind_emit_set.diff
+END
+arm-thumb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-thumb.patch
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/304-index_macro.patch
+END
+203-uclibc-locale-no__x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/203-uclibc-locale-no__x.patch
+END
+zecke-xgcc-cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/zecke-xgcc-cpp.patch
+END
+306-libstdc++-namespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/306-libstdc++-namespace.patch
+END
+arm-crunch-floatunsidf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-floatunsidf.patch
+END
+cache-amnesia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/cache-amnesia.patch
+END
+arm-crunch-cirrus-bugfixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-cirrus-bugfixes.patch
+END
+205-uclibc-locale-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/205-uclibc-locale-update.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/100-uclibc-conf.patch
+END
+arm-crunch-compare.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-compare.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/300-libstdc++-pic.patch
+END
+arm-crunch-truncsi-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-truncsi-disable.patch
+END
+sdk-libstdc++-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/sdk-libstdc++-includes.patch
+END
+arm-crunch-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-eabi.patch
+END
+arm-crunch-compare.patch-z-eq
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-compare.patch-z-eq
+END
+200-uclibc-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/200-uclibc-locale.patch
+END
+arm-crunch-floatsi-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-floatsi-disable.patch
+END
+arm-crunch-predicates2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-predicates2.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/800-arm-bigendian.patch
+END
+arm-crunch-neg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-neg.patch
+END
+402-libbackend_dep_gcov-iov.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/402-libbackend_dep_gcov-iov.h.patch
+END
+740-sh-pr24836.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/740-sh-pr24836.patch
+END
+arm-crunch-compare-unordered.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-compare-unordered.patch
+END
+204-uclibc-locale-wchar_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/204-uclibc-locale-wchar_fix.patch
+END
+110-arm-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/110-arm-eabi.patch
+END
+arm-crunch-floatsi-disable-single.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-floatsi-disable-single.patch
+END
+103-uclibc-conf-noupstream.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/103-uclibc-conf-noupstream.patch
+END
+arm-crunch-32bit-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-32bit-disable.patch
+END
+arm-crunch-eabi-ieee754-div.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-eabi-ieee754-div.patch
+END
+gcc41-configure.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/gcc41-configure.in.patch
+END
+arm-crunch-neg2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-neg2.patch
+END
+arm-crunch-fp_consts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-fp_consts.patch
+END
+303-c99-complex-ugly-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/303-c99-complex-ugly-hack.patch
+END
+801-arm-bigendian-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/801-arm-bigendian-eabi.patch
+END
+arm-crunch-compare-geu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-compare-geu.patch
+END
+unbreak-armv4t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/unbreak-armv4t.patch
+END
+arm-crunch-eabi-ieee754.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-eabi-ieee754.patch
+END
+arm-crunch-64bit-disable0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-64bit-disable0.patch
+END
+302-c99-snprintf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/302-c99-snprintf.patch
+END
+arm-crunch-truncsi-disable-new.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-truncsi-disable-new.patch
+END
+arm-crunch-saveregs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-saveregs.patch
+END
+arm-softfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-softfloat.patch
+END
+arm-crunch-predicates.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-predicates.patch
+END
+arm-crunch-compare-unordered.patch-z-eq
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-compare-unordered.patch-z-eq
+END
+arm-crunch-cfcvtds-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-cfcvtds-disable.patch
+END
+307-locale_facets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/307-locale_facets.patch
+END
+arm-thumb-cache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-thumb-cache.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/README
+END
+602-sdk-libstdc++-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/602-sdk-libstdc++-includes.patch
+END
+arm-crunch-predicates3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-predicates3.patch
+END
+arm-crunch-scc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-scc.patch
+END
+arm-nolibfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-nolibfloat.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/305-libmudflap-susv3-legacy.patch
+END
+904-flatten-switch-stmt-00.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/904-flatten-switch-stmt-00.patch
+END
+ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/ldflags.patch
+END
+arm-crunch-and-or.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-and-or.patch
+END
+arm-crunch-cfcvt64-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/arm-crunch-cfcvt64-disable.patch
+END
+301-missing-execinfo_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.2.2/301-missing-execinfo_h.patch
+END

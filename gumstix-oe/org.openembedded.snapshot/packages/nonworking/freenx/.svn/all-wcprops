@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx
+END
+nxscripts_1.5.0-11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxscripts_1.5.0-11.bb
+END
+nxuexec_1.5.0-3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxuexec_1.5.0-3.bb
+END
+nx-X11_1.5.0-15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nx-X11_1.5.0-15.bb
+END
+nxsensor_1.5.0-5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxsensor_1.5.0-5.bb
+END
+nxesd_1.5.0-3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxesd_1.5.0-3.bb
+END
+nxssh_1.5.0-21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxssh_1.5.0-21.bb
+END
+freenx_0.4.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/freenx_0.4.2.bb
+END
+nxviewer_1.5.0-14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxviewer_1.5.0-14.bb
+END
+nxagent_1.5.0-90.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxagent_1.5.0-90.bb
+END
+nxcomp_1.5.0-65.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxcomp_1.5.0-65.bb
+END
+nxproxy_1.5.0-9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxproxy_1.5.0-9.bb
+END
+nxspool_1.5.0-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxspool_1.5.0-2.bb
+END
+nxwin_1.5.0-3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxwin_1.5.0-3.bb
+END
+nxdesktop_1.5.0-61.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxdesktop_1.5.0-61.bb
+END
+nxauth_1.5.0-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxauth_1.5.0-1.bb
+END
+nxcompext_1.5.0-16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/freenx/nxcompext_1.5.0-16.bb
+END

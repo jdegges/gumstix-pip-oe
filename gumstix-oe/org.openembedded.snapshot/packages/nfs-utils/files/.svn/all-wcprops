@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/files
+END
+nfs-utils-1.0.6-uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/files/nfs-utils-1.0.6-uclibc.patch
+END
+uclibc_bzero_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/files/uclibc_bzero_fix.patch
+END
+nfsserver
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/files/nfsserver
+END

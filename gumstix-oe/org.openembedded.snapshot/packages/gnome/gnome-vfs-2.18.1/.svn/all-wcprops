@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-2.18.1
+END
+gconftool-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-2.18.1/gconftool-lossage.patch
+END
+gnome-vfs-no-kerberos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-2.18.1/gnome-vfs-no-kerberos.patch
+END

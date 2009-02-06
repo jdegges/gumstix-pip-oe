@@ -1,0 +1,103 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sharp-binary-only
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sharp-aticore-oss_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+a5cab384338a554a30bb471cfcbdeaab
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sharp-compat-libs
+dir
+
+sharp-flash-header-c700
+dir
+
+sharp-camera-support-2.4.18-rmk7-pxa3-embedix
+dir
+
+sharp-flash-header-c700.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+7ec9f1cffc29f0200feac08ced7e82cd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sharp-sdmmc-support
+dir
+
+sharp-compat-libs_0.5.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+4c7a23b419327ac1598e627dd8be81f8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sharp-sdmmc-support.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+c91844dfc6183da0157a39eeeccfe4d6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sharp-camera-support_2.4.18-rmk7-pxa3-embedix.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+f7a7f127c20739557e6c2e01876faec6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sharp-aticore-oss-1.0.1
+dir
+

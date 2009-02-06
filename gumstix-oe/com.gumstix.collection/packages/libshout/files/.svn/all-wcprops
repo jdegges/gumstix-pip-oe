@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/226/trunk/com.gumstix.collection/packages/libshout/files
+END
+disable-theora-speex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/226/trunk/com.gumstix.collection/packages/libshout/files/disable-theora-speex.patch
+END
+no-host-includes.ac
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/160/trunk/com.gumstix.collection/packages/libshout/files/no-host-includes.ac
+END

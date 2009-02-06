@@ -1,0 +1,24 @@
+#@TYPE: Machine
+#@Name: Freescale MX31ADS
+#@DESCRIPTION: Machine configuration for Freescale MX31ADS 
+
+TARGET_ARCH = "arm"
+TARGET_FPU_arm = "hard"
+
+MACHINE_FEATURES = "kernel26 apm alsa ext2 pcmcia usbhost usbgadget"
+
+GUI_MACHINE_CLASS = "smallscreen"
+PACKAGE_EXTRA_ARCHS = "arm armv4t armv5te armv6"
+
+PREFERRED_PROVIDER_virtual/kernel = "${MACHINE}-kernel"
+
+require conf/machine/include/tune-arm1136jf-s.inc
+
+# used by sysvinit_2
+SERIAL_CONSOLE = "115200 ttymxc0"
+
+# used by opie-collections.inc
+ROOT_FLASH_SIZE = "32"
+
+IMAGE_FSTYPES += "tar.gz"
+

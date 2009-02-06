@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl
+END
+etk_0.1.0.003.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/etk_0.1.0.003.bb
+END
+epdf_20060418.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/epdf_20060418.bb
+END
+imlib2-x11_1.3.0.001.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/imlib2-x11_1.3.0.001.bb
+END
+edb-native_1.0.5.007.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edb-native_1.0.5.007.bb
+END
+imlib2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/imlib2.inc
+END
+engrave_20060128.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/engrave_20060128.bb
+END
+esmart-fb_0.9.0.008.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/esmart-fb_0.9.0.008.bb
+END
+evas-x11_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/evas-x11_0.9.9.038.bb
+END
+efreet-native_0.0.3.002.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/efreet-native_0.0.3.002.bb
+END
+embryo-native_0.9.1.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/embryo-native_0.9.1.038.bb
+END
+imlib2-fb_1.3.0.001.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/imlib2-fb_1.3.0.001.bb
+END
+ecore.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/ecore.inc
+END
+edje-native_0.5.0.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edje-native_0.5.0.038.bb
+END
+evas.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/evas.inc
+END
+ecore-fb_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/ecore-fb_0.9.9.038.bb
+END
+embryo-utils_0.9.1.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/embryo-utils_0.9.1.038.bb
+END
+evas-fb_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/evas-fb_0.9.9.038.bb
+END
+emotion_20061116.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/emotion_20061116.bb
+END
+embryo_0.9.1.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/embryo_0.9.1.038.bb
+END
+esmart-x11_0.9.0.008.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/esmart-x11_0.9.0.008.bb
+END
+efl.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/efl.bbclass
+END
+epsilon_0.3.0.008.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/epsilon_0.3.0.008.bb
+END
+edje-utils_0.5.0.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edje-utils_0.5.0.038.bb
+END
+edje_0.5.0.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edje_0.5.0.038.bb
+END
+epeg_0.9.0.008.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/epeg_0.9.0.008.bb
+END
+ecore-x11_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/ecore-x11_0.9.9.038.bb
+END
+ewl_0.5.1.008.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/ewl_0.5.1.008.bb
+END
+edb-utils_1.0.5.007.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edb-utils_1.0.5.007.bb
+END
+eet-native_0.9.10.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/eet-native_0.9.10.038.bb
+END
+imlib2-native_1.3.0.001.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/imlib2-native_1.3.0.001.bb
+END
+edb_1.0.5.007.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/edb_1.0.5.007.bb
+END
+esmart.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/esmart.inc
+END
+ecore-native_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/ecore-native_0.9.9.038.bb
+END
+efreet_0.0.3.002.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/efreet_0.0.3.002.bb
+END
+evas-native_0.9.9.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/evas-native_0.9.9.038.bb
+END
+eet_0.9.10.038.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/efl/eet_0.9.10.038.bb
+END

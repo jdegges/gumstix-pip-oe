@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit-2.86
+END
+console.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit-2.86/console.patch
+END
+install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit-2.86/install.patch
+END

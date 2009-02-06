@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/matchbox-wm/matchbox-wm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+c7x0
+dir
+
+borzoi
+dir
+
+kbdconfig_keylaunch_simpad.patch
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+454f37a3a7584217dd02685fd3a3f34b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+kbdconfig
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+e390f0bae08e338778914488e035e4d5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+collie
+dir
+
+akita
+dir
+
+spitz
+dir
+
+gconf-2.m4
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+e8195e3139108df0f72bba25c228a4e7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+simpad
+dir
+

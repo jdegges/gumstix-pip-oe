@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils
+END
+ipkg-make-index-track-stamps.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils/ipkg-make-index-track-stamps.patch
+END
+fields_tweaks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils/fields_tweaks.patch
+END
+ipkg-py-tarfile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils/ipkg-py-tarfile.patch
+END
+ipkg-py-sane-vercompare.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils/ipkg-py-sane-vercompare.patch
+END
+ipkg-utils-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils/ipkg-utils-fix.patch
+END

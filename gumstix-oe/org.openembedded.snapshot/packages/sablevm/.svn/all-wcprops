@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm
+END
+sablevm-classpath_1.1.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm-classpath_1.1.9.bb
+END
+sablevm_1.1.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm_1.1.9.bb
+END
+sablevm-classpath_1.11.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm-classpath_1.11.3.bb
+END
+sablevm-classpath_1.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm-classpath_1.12.bb
+END
+sablevm_1.11.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm_1.11.3.bb
+END
+sablevm_1.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sablevm/sablevm_1.12.bb
+END

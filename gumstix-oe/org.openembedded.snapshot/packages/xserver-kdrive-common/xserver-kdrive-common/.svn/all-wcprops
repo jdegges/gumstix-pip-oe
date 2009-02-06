@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common
+END
+Xdefaults
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/Xdefaults
+END
+30xTs_Calibrate
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/30xTs_Calibrate
+END
+90xXWindowManager
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/90xXWindowManager
+END
+Xinit
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/Xinit
+END
+Xsession
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/Xsession
+END
+60xXDefaults
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/60xXDefaults
+END
+Xserver
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/Xserver
+END

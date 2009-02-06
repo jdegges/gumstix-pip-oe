@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mindbreaker
+END
+opie-mindbreaker_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mindbreaker/opie-mindbreaker_1.2.2.bb
+END
+opie-mindbreaker_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mindbreaker/opie-mindbreaker_1.2.3.bb
+END
+opie-mindbreaker.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mindbreaker/opie-mindbreaker.inc
+END
+opie-mindbreaker_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mindbreaker/opie-mindbreaker_cvs.bb
+END

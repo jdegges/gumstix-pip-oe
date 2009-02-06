@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/network-suspend-scripts/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+usbnet
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+ce7e47352415386b969956fbd3d5cf42
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ifupdown
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+7454f5568842e60a0439067a6593d4dc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

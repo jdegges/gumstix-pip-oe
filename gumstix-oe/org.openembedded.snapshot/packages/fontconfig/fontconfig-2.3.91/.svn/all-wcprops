@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig-2.3.91
+END
+fc-lang.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig-2.3.91/fc-lang.patch
+END
+fc-glyphname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fontconfig/fontconfig-2.3.91/fc-glyphname.patch
+END

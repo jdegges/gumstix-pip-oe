@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rxvt-unicode/rxvt-unicode-7.7
+END
+xwc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rxvt-unicode/rxvt-unicode-7.7/xwc.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnupg/gnupg-1.4.2.2
+END
+16_min_privileges.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnupg/gnupg-1.4.2.2/16_min_privileges.patch
+END
+30_nm_always_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnupg/gnupg-1.4.2.2/30_nm_always_check.patch
+END
+15_free_caps.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnupg/gnupg-1.4.2.2/15_free_caps.patch
+END
+22_zero_length_mpi_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnupg/gnupg-1.4.2.2/22_zero_length_mpi_fix.patch
+END

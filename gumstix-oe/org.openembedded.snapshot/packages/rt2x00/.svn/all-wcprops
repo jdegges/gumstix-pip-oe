@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00
+END
+rt2570-k2wrlz_1.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00/rt2570-k2wrlz_1.6.0.bb
+END
+rt2570-k2wrlz_1.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00/rt2570-k2wrlz_1.6.1.bb
+END
+rt2570_1.1.0-b2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00/rt2570_1.1.0-b2.bb
+END
+rt73-k2wrlz_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00/rt73-k2wrlz_1.0.0.bb
+END
+rt73-k2wrlz_2.0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rt2x00/rt73-k2wrlz_2.0.1.bb
+END

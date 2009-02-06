@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/erlang
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+erlang.inc
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+2c464b890df765bccefc2d8b0f2d2824
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+erlang-native_R11B.1.bb
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+bdb48bfd53246dd438e4f11d84365acb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+erlang-R11B.1
+dir
+
+erlang_R11B.1.bb
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+178380a7558eb1970f0a37fc90e0adb2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gnumeric
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gnumeric_1.6.3.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+2c62b0e84065d630b0530d309fbc2023
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+

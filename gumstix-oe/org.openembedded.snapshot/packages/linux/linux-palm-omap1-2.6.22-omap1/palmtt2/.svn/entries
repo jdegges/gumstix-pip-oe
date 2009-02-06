@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-palm-omap1-2.6.22-omap1/palmtt2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:15:39.000000Z
+8bdb74f4cd07379741c45fe3ccb2c5f5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-fifteen
+END
+opie-fifteen.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-fifteen/opie-fifteen.inc
+END
+opie-fifteen_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-fifteen/opie-fifteen_cvs.bb
+END
+opie-fifteen_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-fifteen/opie-fifteen_1.2.2.bb
+END
+opie-fifteen_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-fifteen/opie-fifteen_1.2.3.bb
+END

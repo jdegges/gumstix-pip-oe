@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/neon/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-func-checks.patch
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+f4ab1f7567e9cad9e4580774dc2277a1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gnutls-force-and-detect.patch
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+bd8a4ca4325b8f47dc092a74bd677729
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

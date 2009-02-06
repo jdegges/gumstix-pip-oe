@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/totem
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+totem_1.0.4.bb
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+cb27a8061a29ac9bea9209930cb43f20
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+totem_0.99.15.bb
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+1e907590c19ea0736421707fa96b6fb2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

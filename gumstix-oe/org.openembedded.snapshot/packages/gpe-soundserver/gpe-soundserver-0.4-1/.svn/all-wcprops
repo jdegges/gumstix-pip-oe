@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-soundserver/gpe-soundserver-0.4-1
+END
+makefile-breakage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-soundserver/gpe-soundserver-0.4-1/makefile-breakage.patch
+END

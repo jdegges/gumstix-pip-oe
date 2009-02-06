@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/visiscript
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+visiscript_0.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+24e8cb96b64156210872602abd1c9c3a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+visiscript_0.4.3.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+1b584ba09c86517cff4b970731a0c182
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

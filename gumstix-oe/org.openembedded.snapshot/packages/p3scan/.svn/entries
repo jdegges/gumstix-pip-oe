@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/p3scan
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+p3scan_2.9.05d.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+d6d666738d1c6d19a7e23d06e5c2bb37
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

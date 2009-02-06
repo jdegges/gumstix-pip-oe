@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e
+END
+add-spectrum-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/add-spectrum-support.patch
+END
+crosscompile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/crosscompile.patch
+END
+use-cs-error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/use-cs-error.patch
+END
+remove-slot-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/remove-slot-name.patch
+END
+spectrum_cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/spectrum_cs.c
+END
+monitor-0.13e.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/monitor-0.13e.patch
+END
+shmoo-monitor-0.13e.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.13e/shmoo-monitor-0.13e.patch
+END

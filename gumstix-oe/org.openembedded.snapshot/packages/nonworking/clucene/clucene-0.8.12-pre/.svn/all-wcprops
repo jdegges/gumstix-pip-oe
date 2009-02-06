@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/clucene/clucene-0.8.12-pre
+END
+compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/clucene/clucene-0.8.12-pre/compile-fix.patch
+END

@@ -1,0 +1,97 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ipkg
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ipkg-0.99.163
+dir
+
+files
+dir
+
+ipkg.inc
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+61e16f4eb0bf6d71e939ae938a596c9c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipkg_0.99.163.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+863841c9d92161d2e0e54b8a0d9aef58
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipkg-native.inc
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+6cdb1ae989310428bb45f33c72b883e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipkg-native_0.99.163.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+841023613e7df55eddd37ed0d393bf5d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipkg-collateral
+dir
+
+ipkg-collateral.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+51b637fdb83daf37299d10f386ac97b2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01
+END
+captureheadset.state
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/captureheadset.state
+END
+gsmheadset.state
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/gsmheadset.state
+END
+asound.state
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/asound.state
+END
+gsmspeakerout.state
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/gsmspeakerout.state
+END
+stereoout.state
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/stereoout.state
+END
+capturehandset.state
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/capturehandset.state
+END
+gsmbluetooth.state
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/gsmbluetooth.state
+END
+gsmhandset.state
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state/fic-gta01/gsmhandset.state
+END

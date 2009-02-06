@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx
+END
+ixp4xx-npe_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe_2.1.bb
+END
+ixp4xx-npe_2.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe_2.3.2.bb
+END
+ixp4xx-npe_2.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe_2.4.bb
+END
+ixp4xx-csr_2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr_2.0.bb
+END
+ixp4xx-csr_2.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr_2.1.1.bb
+END
+ixp4xx-csr_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr_2.1.bb
+END
+ixp-osal_2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal_2.0.bb
+END
+ixp4xx-csr_1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr_1.4.bb
+END
+ixp-osal_2.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal_2.1.1.bb
+END
+ixp-osal_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal_2.1.bb
+END
+ixp4xx-csr_1.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr_1.5.bb
+END
+ixp-osal_1.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal_1.5.bb
+END
+ixp4xx-npe-native_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe-native_2.1.bb
+END
+ixp4xx-npe-native_2.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe-native_2.3.2.bb
+END
+ixp4xx-npe-native_2.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-npe-native_2.4.bb
+END

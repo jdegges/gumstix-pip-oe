@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files
+END
+device_table-jlime.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table-jlime.txt
+END
+device_table-ezx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table-ezx.txt
+END
+device_table-minimal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table-minimal.txt
+END
+device_table_add-sci.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table_add-sci.txt
+END
+device_table_add-sm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table_add-sm.txt
+END
+device_table-unslung.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table-unslung.txt
+END
+device_table-slugos.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/files/device_table-slugos.txt
+END

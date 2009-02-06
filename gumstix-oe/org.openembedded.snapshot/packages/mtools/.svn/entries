@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mtools
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mtools_3.9.9.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+41ac7051ad64148133deb169af7540d6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+mtools-native_3.9.9.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+bac6dd50b4c63c8e6e12138b1ada863e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

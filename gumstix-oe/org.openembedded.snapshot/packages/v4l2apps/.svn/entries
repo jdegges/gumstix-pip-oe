@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/v4l2apps
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+v4l2apps-20020317
+dir
+
+v4l2apps_20020317.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+197d9f960f4336bc45d559e9236cf5a2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

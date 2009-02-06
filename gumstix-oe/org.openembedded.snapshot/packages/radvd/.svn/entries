@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/radvd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+radvd_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:10.000000Z
+553de7ae7a392aaa0cc7a65587168d15
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+radvd-0.7.2
+dir
+
+radvd_0.7.2.bb
+file
+
+
+
+
+2009-02-06T18:14:10.000000Z
+33b5d9bb95cd5de0c7efd30d2de942c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+radvd.inc
+file
+
+
+
+
+2009-02-06T18:14:10.000000Z
+4bf270141c170e345b113586f78166d6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

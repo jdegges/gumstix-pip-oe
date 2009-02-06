@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/305/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix
+END
+bluez-utils-hciattach-gumstix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/bluez-utils-hciattach-gumstix.patch
+END
+infineon-startupevent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/305/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/infineon-startupevent.patch
+END
+bluetooth.init
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/bluetooth.init
+END
+rfcomm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/rfcomm.conf
+END
+bluetooth.default
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/bluetooth.default
+END
+hcid.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/hcid.conf
+END
+input.service
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/bluez/files/gumstix-custom-basix/input.service
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/sqlite/sqlite3-3.5.4
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-17T02:03:25.583096Z
+139
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libtool.patch
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+8838487358339d4116efcd1d4e9d2c25
+2007-12-26T07:22:04.561085Z
+78
+sakoman
+

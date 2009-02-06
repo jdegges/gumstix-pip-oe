@@ -1,0 +1,88 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/pwc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+pwc-10.0.9-rc1
+dir
+
+pwc_10.0.7a.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+c34ac44c9a2dfcd3671af005dbee070a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pwc_10.0.9-rc1.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+e9f371b5fd225c999ba8ab23a99ce5c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pwc-10.0.12-rc1
+dir
+
+pwc-10.0.6a
+dir
+
+pwc-10.0.7a
+dir
+
+pwc_10.0.12-rc1.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+e709aed1c2a917a75c5f490848136da6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pwc_10.0.6a.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+379bcce2c3ddde1545a305f6ec61bcc8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

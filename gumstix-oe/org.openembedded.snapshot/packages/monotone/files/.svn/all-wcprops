@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files
+END
+configure.ac-no-sync-with-stdio-0.25.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/configure.ac-no-sync-with-stdio-0.25.patch
+END
+configure.ac-no-sync-with-stdio-0.26.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/configure.ac-no-sync-with-stdio-0.26.patch
+END
+configure.ac.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/configure.ac.patch
+END
+cryptopp-endianness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/cryptopp-endianness.patch
+END
+uclibc.database.hh.stdarg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/uclibc.database.hh.stdarg.patch
+END
+txt2c-cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/txt2c-cross.patch
+END
+txt2c-cross-post-0.22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/txt2c-cross-post-0.22.patch
+END
+configure.ac-no-sync-with-stdio-0.31.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/monotone/files/configure.ac-no-sync-with-stdio-0.31.patch
+END

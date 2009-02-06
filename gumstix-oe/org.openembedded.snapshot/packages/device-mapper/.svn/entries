@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/device-mapper
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+device-mapper-1.01.04
+dir
+
+device-mapper-1.01.05
+dir
+
+device-mapper_1.01.04.bb
+file
+
+
+
+
+2009-02-06T18:13:35.000000Z
+c3b183cd774a15a83ef135c3c8eba94d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+device-mapper_1.01.05.bb
+file
+
+
+
+
+2009-02-06T18:13:35.000000Z
+247241f6e0c865750e3bbab0b7428cb5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

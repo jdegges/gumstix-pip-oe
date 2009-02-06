@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libqpe/libqpe-opie
+END
+save-windows-pos-dynamic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libqpe/libqpe-opie/save-windows-pos-dynamic.patch
+END
+unbreak-logging.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libqpe/libqpe-opie/unbreak-logging.patch
+END
+fix-titleheight.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libqpe/libqpe-opie/fix-titleheight.patch
+END

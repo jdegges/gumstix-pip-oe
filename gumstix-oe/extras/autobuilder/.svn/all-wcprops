@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gumstix/!svn/ver/312/trunk/extras/autobuilder
+END
+autobuilder.crontab
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/112/trunk/extras/autobuilder/autobuilder.crontab
+END
+autobuilder.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gumstix/!svn/ver/275/trunk/extras/autobuilder/autobuilder.sh
+END
+targets
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/312/trunk/extras/autobuilder/targets
+END
+ftpsyncup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/41/trunk/extras/autobuilder/ftpsyncup
+END

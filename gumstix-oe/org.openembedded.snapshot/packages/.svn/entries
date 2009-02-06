@@ -1,0 +1,4817 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-23T07:06:26.184406Z
+244
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpe-ownerinfo
+dir
+
+zmerlin
+dir
+
+device-mapper
+dir
+
+webkit
+dir
+
+opie-alarm
+dir
+
+libao
+dir
+
+ddclient
+dir
+
+openocd
+dir
+
+bacula
+dir
+
+abiword
+dir
+
+avahi
+dir
+
+suspend-desktop
+dir
+
+gob2
+dir
+
+qte
+dir
+
+regina-rexx
+dir
+
+libnss-mdns
+dir
+
+libcap
+dir
+
+postfix
+dir
+
+pmtools
+dir
+
+zaurusd
+dir
+
+kernbench
+dir
+
+rglueap
+dir
+
+librcf
+dir
+
+uclibc
+dir
+
+corsair
+dir
+
+corkscrew
+dir
+
+opie-logoutapplet
+dir
+
+opie-ftplib
+dir
+
+openmoko-pim
+dir
+
+e2fsprogs
+dir
+
+c-ares
+dir
+
+v4l2apps
+dir
+
+sapwood
+dir
+
+make
+dir
+
+plone
+dir
+
+xcalibrate
+dir
+
+classpath
+dir
+
+opie-dagger
+dir
+
+rng-tools
+dir
+
+lcdproc
+dir
+
+comprec
+dir
+
+opie-vtapplet
+dir
+
+faac
+dir
+
+gkdial
+dir
+
+gimp
+dir
+
+galculator
+dir
+
+slsnif
+dir
+
+ctags
+dir
+
+sqlite
+dir
+
+openldap
+dir
+
+tasklistapplet
+dir
+
+libhangul
+dir
+
+gtk2-ssh-askpass
+dir
+
+libfakekey
+dir
+
+vincent
+dir
+
+kazehakase
+dir
+
+farsight
+dir
+
+gcalctool
+dir
+
+regex-markup
+dir
+
+gpe-dm
+dir
+
+clearsilver
+dir
+
+beep
+dir
+
+xfsprogs
+dir
+
+miniclipboard
+dir
+
+ktimetrackerpi
+dir
+
+0xFFFF
+dir
+
+opie-style-liquid
+dir
+
+opie-gutenbrowser
+dir
+
+mrxvt
+dir
+
+gpe-session-scripts
+dir
+
+qpe-inputhelper
+dir
+
+native
+dir
+
+musicbrainz
+dir
+
+tzdata
+dir
+
+opie-homeapplet
+dir
+
+wxbase
+dir
+
+sato-icon-theme
+dir
+
+libspiff
+dir
+
+fixesext
+dir
+
+ipsec-tools
+dir
+
+debianutils
+dir
+
+dviviewer
+dir
+
+matchbox-stroke
+dir
+
+opie-vmemo-settings
+dir
+
+gpe-windowlist
+dir
+
+ethtool
+dir
+
+fpdf
+dir
+
+gpe-announce
+dir
+
+shopper
+dir
+
+wlags-modules
+dir
+
+ttf-fonts
+dir
+
+squid
+dir
+
+madplay
+dir
+
+free42
+dir
+
+openmoko-apps
+dir
+
+gstreamer
+dir
+
+libxsettings-client
+dir
+
+frozen-bubble
+dir
+
+opie-theme
+dir
+
+cairo
+dir
+
+opie-backup
+dir
+
+notez
+dir
+
+libungif
+dir
+
+libcgicc
+dir
+
+scratchbox
+dir
+
+nunome
+dir
+
+r
+dir
+
+jards
+dir
+
+udhcp
+dir
+
+pmacct
+dir
+
+cpuspeed
+dir
+
+qwt
+dir
+
+changedfiles
+dir
+
+dri
+dir
+
+screen
+dir
+
+bvi
+dir
+
+glibc
+dir
+
+python
+dir
+
+dpkg
+dir
+
+scummvm
+dir
+
+opie-lockapplet
+dir
+
+irssi
+dir
+
+linux-input
+dir
+
+libaio
+dir
+
+recordext
+dir
+
+nautilus
+dir
+
+diffstat
+dir
+
+devio
+dir
+
+ssmtp
+dir
+
+microcom
+dir
+
+gsoap
+dir
+
+bootsplash
+dir
+
+gpe-go
+dir
+
+driftnet
+dir
+
+matrixssl
+dir
+
+emelfm2
+dir
+
+usrp
+dir
+
+zaurus-updater
+dir
+
+clish
+dir
+
+ubahnnav
+dir
+
+uqm
+dir
+
+opie-bounce
+dir
+
+flnx
+dir
+
+libevnet
+dir
+
+mISDN
+dir
+
+dtc
+dir
+
+cscope
+dir
+
+texinfo
+dir
+
+pcmciautils
+dir
+
+zrally
+dir
+
+olsr
+dir
+
+libgc
+dir
+
+matchbox-applet-cards
+dir
+
+libg15render
+dir
+
+adns
+dir
+
+libqtaux
+dir
+
+dfu-util
+dir
+
+cxcrypt
+dir
+
+micro-emacs
+dir
+
+setmixer
+dir
+
+xdemineur
+dir
+
+crimsonfields
+dir
+
+zddice
+dir
+
+lsof
+dir
+
+libsigcx
+dir
+
+led
+dir
+
+xrestop
+dir
+
+librsvg
+dir
+
+opie-memoryapplet
+dir
+
+xaos
+dir
+
+ipaq-boot-params
+dir
+
+gpe-beam
+dir
+
+bwmon
+dir
+
+zd1211
+dir
+
+xorg-font
+dir
+
+asterisk
+dir
+
+fluxbox
+dir
+
+miau
+dir
+
+opie-snake
+dir
+
+opie-init
+dir
+
+libchm
+dir
+
+subapplet
+dir
+
+opie-dasher
+dir
+
+libeasysoap++
+dir
+
+nbd
+dir
+
+mysql
+dir
+
+hfsplusutils
+dir
+
+opie-restartapplet2
+dir
+
+hnb
+dir
+
+application-registry
+dir
+
+libpng
+dir
+
+bash
+dir
+
+guichan
+dir
+
+ppp-dsl
+dir
+
+nogravity
+dir
+
+sysconf
+dir
+
+midpath
+dir
+
+notification-daemon
+dir
+
+ark3116
+dir
+
+qmake
+dir
+
+time
+dir
+
+gpephone
+dir
+
+minimix
+dir
+
+bonnie
+dir
+
+smpeg
+dir
+
+tcpick
+dir
+
+mii-diag
+dir
+
+zten
+dir
+
+apache
+dir
+
+olsrd
+dir
+
+opie-remote
+dir
+
+opie-autorotateapplet
+dir
+
+opie-euroconv
+dir
+
+gpe-fsi
+dir
+
+kxml2
+dir
+
+tinc
+dir
+
+ctorrent
+dir
+
+grdesktop
+dir
+
+liburiparser
+dir
+
+guile
+dir
+
+install
+dir
+
+libtomcrypt
+dir
+
+gtkterm
+dir
+
+libesmtp
+dir
+
+gnuchess
+dir
+
+fceu
+dir
+
+matchbox-panel-hacks
+dir
+
+rxvt
+dir
+
+pad
+dir
+
+opie-bluetoothapplet
+dir
+
+genext2fs
+dir
+
+zcip
+dir
+
+qte-fonts-common
+dir
+
+gdal
+dir
+
+opie-kjumpx
+dir
+
+libpcap
+dir
+
+opie-today
+dir
+
+gpe-mininet
+dir
+
+schroedinger
+dir
+
+wrt
+dir
+
+opie-mindbreaker
+dir
+
+pam
+dir
+
+openal
+dir
+
+syslog-ng
+dir
+
+zziplib
+dir
+
+cbrpager
+dir
+
+wifi-radar
+dir
+
+ccxstream
+dir
+
+misc-binary-only
+dir
+
+gpe-conf
+dir
+
+fltk
+dir
+
+gnash
+dir
+
+emul
+dir
+
+opie-oxygen
+dir
+
+musicpd
+dir
+
+opie-pimconverter
+dir
+
+micro-evtd
+dir
+
+gdbm
+dir
+
+zbench
+dir
+
+gypsy
+dir
+
+dgen
+dir
+
+panoramixext
+dir
+
+netkit-rpc
+dir
+
+bitchx
+dir
+
+bluez
+dir
+
+popt
+dir
+
+unixbench
+dir
+
+ndisc6
+dir
+
+opie-today-addressbookplugin
+dir
+
+esmtp
+dir
+
+opie-pics
+dir
+
+whois
+dir
+
+opie-bluetoothmanager
+dir
+
+tickypip
+dir
+
+fsi-client
+dir
+
+notecase
+dir
+
+recode
+dir
+
+netatalk
+dir
+
+unzip
+dir
+
+opie-powerchord
+dir
+
+keyring
+dir
+
+opie-eye
+dir
+
+gpe-what
+dir
+
+joe
+dir
+
+liba52
+dir
+
+freeze
+dir
+
+twisted
+dir
+
+desktop-file-utils
+dir
+
+slotsig
+dir
+
+hicolor-icon-theme
+dir
+
+mathomatic
+dir
+
+scap
+dir
+
+randrext
+dir
+
+stunnel
+dir
+
+xkbd
+dir
+
+opie-keyboard
+dir
+
+gnocky
+dir
+
+setserial
+dir
+
+vtun
+dir
+
+gpe-buttonbox
+dir
+
+live555
+dir
+
+proj4
+dir
+
+progear
+dir
+
+libnl
+dir
+
+gpe-timesheet
+dir
+
+autofs
+dir
+
+opie-zsafe
+dir
+
+mailutils
+dir
+
+libxosd
+dir
+
+mbmerlin
+dir
+
+libid3
+dir
+
+redfang
+dir
+
+opie-irc
+dir
+
+swfdec
+dir
+
+dash
+dir
+
+patchutils
+dir
+
+pdm
+dir
+
+expat
+dir
+
+opie-taskbar
+dir
+
+smartmontools
+dir
+
+dcop
+dir
+
+p3scan
+dir
+
+sysvinit
+dir
+
+rdesktop
+dir
+
+leafpad
+dir
+
+matchbox-applet-volume
+dir
+
+opensync
+dir
+
+libol
+dir
+
+webcam-server
+dir
+
+openmoko2
+dir
+
+sccd
+dir
+
+qpf-fonts
+dir
+
+usound
+dir
+
+enchant
+dir
+
+libxslt
+dir
+
+gsoko
+dir
+
+xorg-doc
+dir
+
+h2200-bootloader
+dir
+
+readline
+dir
+
+cpusage
+dir
+
+qolyester
+dir
+
+opie-notesapplet
+dir
+
+nis
+dir
+
+opie-light-and-power
+dir
+
+libglademm
+dir
+
+libelf
+dir
+
+asterisk-sounds
+dir
+
+openchrome
+dir
+
+libidl
+dir
+
+opie-tonleiter
+dir
+
+rt2x00
+dir
+
+keymap-locales
+dir
+
+procps
+dir
+
+jack
+dir
+
+tinyscheme
+dir
+
+litestream
+dir
+
+keymaps
+dir
+
+psplash
+dir
+
+hdparm
+dir
+
+stat
+dir
+
+vino
+dir
+
+matchbox-desktop
+dir
+
+opie-today-stocktickerplugin
+dir
+
+opie-style-flat
+dir
+
+libsexy
+dir
+
+cmake
+dir
+
+ruby
+dir
+
+elfkickers
+dir
+
+librsync
+dir
+
+jpeg
+dir
+
+opie-rdesktop
+dir
+
+emacs
+dir
+
+update-modules
+dir
+
+opie-networkapplet
+dir
+
+mythfront
+dir
+
+opie-systemtime
+dir
+
+opie-zlines
+dir
+
+synaesthesia
+dir
+
+libosip
+dir
+
+clamav
+dir
+
+masqmail
+dir
+
+plinciv
+dir
+
+usb-gadget-mode
+dir
+
+bzflag
+dir
+
+yeaphone
+dir
+
+socat
+dir
+
+libmailwrapper
+dir
+
+cups
+dir
+
+qpdf2
+dir
+
+nkf
+dir
+
+slrn
+dir
+
+qpe-games
+dir
+
+gpe-snes
+dir
+
+directfb
+dir
+
+gpe-tetris
+dir
+
+mesa
+dir
+
+ez-ipupdate
+dir
+
+squashfs-tools
+dir
+
+libcroco
+dir
+
+pimlico
+dir
+
+pcmcia-cs
+dir
+
+gpe-su
+dir
+
+pointercal
+dir
+
+ipatience
+dir
+
+scew
+dir
+
+matchbox-panel
+dir
+
+matchbox-keyboard
+dir
+
+wlan-ng
+dir
+
+lftp
+dir
+
+hsetroot
+dir
+
+xorg-driver
+dir
+
+ncftp
+dir
+
+makedev
+dir
+
+libmimedir
+dir
+
+brutefir
+dir
+
+libschedule
+dir
+
+bash-completion
+dir
+
+fget
+dir
+
+meta
+dir
+
+matchbox-wm
+dir
+
+btxml
+dir
+
+elfutils
+dir
+
+efl1
+dir
+
+php
+dir
+
+uclibc++
+dir
+
+gizmod
+dir
+
+picocom
+dir
+
+gamin
+dir
+
+rpm2cpio
+dir
+
+agg
+dir
+
+rsync
+dir
+
+sword
+dir
+
+makedevs
+dir
+
+wireshark
+dir
+
+miconapl
+dir
+
+albumshaper
+dir
+
+flite
+dir
+
+opie-multikeyapplet
+dir
+
+soundtracker
+dir
+
+curl
+dir
+
+glibmm
+dir
+
+bluesnarfer
+dir
+
+coreutils
+dir
+
+pvrusb2-mci
+dir
+
+opie-fifteen
+dir
+
+t1lib
+dir
+
+bind
+dir
+
+opie-cardmon
+dir
+
+zroadmap
+dir
+
+bing
+dir
+
+libmutil
+dir
+
+argtable
+dir
+
+opie-calculator
+dir
+
+timesleuth
+dir
+
+ortp
+dir
+
+tar
+dir
+
+binutils
+dir
+
+gpe-nmf
+dir
+
+fontconfig
+dir
+
+cumulus
+dir
+
+gkrellm
+dir
+
+bochs
+dir
+
+opie-go
+dir
+
+net-snmp
+dir
+
+asleap
+dir
+
+netkit-tftp
+dir
+
+tcptrack
+dir
+
+inputpipe
+dir
+
+streamripper
+dir
+
+libnids
+dir
+
+klibc
+dir
+
+opie-helpbrowser
+dir
+
+tilibs
+dir
+
+opie-kbill
+dir
+
+gtk2-theme-angelistic
+dir
+
+libmad
+dir
+
+fstests
+dir
+
+modplugplay
+dir
+
+slutils
+dir
+
+tmake
+dir
+
+elftoaout
+dir
+
+gqview
+dir
+
+minisip
+dir
+
+opie-zsame
+dir
+
+xmms-embedded
+dir
+
+puzzles
+dir
+
+fxload
+dir
+
+gpe-todo
+dir
+
+fastcgi
+dir
+
+iqnotes
+dir
+
+libg15
+dir
+
+opie-sshkeys
+dir
+
+opie-clock
+dir
+
+tasks
+dir
+
+lsh
+dir
+
+makeself
+dir
+
+enscript
+dir
+
+cyrus-imapd
+dir
+
+apex
+dir
+
+cfu1
+dir
+
+units
+dir
+
+kbdd
+dir
+
+ffmpeg
+dir
+
+gpe-soundbite
+dir
+
+minipredict
+dir
+
+dhcp-forwarder
+dir
+
+man-pages
+dir
+
+lmbench
+dir
+
+gtk-theme-torturer
+dir
+
+cflow
+dir
+
+libcontactsdb
+dir
+
+opie-screenshotapplet
+dir
+
+xoscope
+dir
+
+eventlog
+dir
+
+shared-mime-info
+dir
+
+gthumb
+dir
+
+sane
+dir
+
+tuxnes
+dir
+
+opie-deco-flat
+dir
+
+rott
+dir
+
+vmedit
+dir
+
+matchbox-config-gtk
+dir
+
+libvorbis
+dir
+
+gpe-edit
+dir
+
+ltp
+dir
+
+gallery
+dir
+
+gpe-scap
+dir
+
+ecj
+dir
+
+opie-ttf-support
+dir
+
+libtododb
+dir
+
+libvncserver
+dir
+
+libcwd
+dir
+
+pango
+dir
+
+gammu
+dir
+
+slugtool
+dir
+
+tea
+dir
+
+qpenmapfe
+dir
+
+hotplug-dbus
+dir
+
+pwlib
+dir
+
+madwifi
+dir
+
+g15daemon
+dir
+
+lua
+dir
+
+pme
+dir
+
+opie-camera
+dir
+
+opie-notes
+dir
+
+stress
+dir
+
+sphyrna
+dir
+
+rrdtool
+dir
+
+libxml
+dir
+
+tcp-wrappers
+dir
+
+ipkg-utils
+dir
+
+linux-uml
+dir
+
+opie-mediaplayer1-libmodplugin
+dir
+
+phalanx
+dir
+
+opie-console
+dir
+
+gpgme
+dir
+
+logrotate-script
+dir
+
+rp-pppoe
+dir
+
+bt950-cs
+dir
+
+libmikmod
+dir
+
+qemu
+dir
+
+aalib
+dir
+
+eds
+dir
+
+murasaki
+dir
+
+alp
+dir
+
+opie-keyview
+dir
+
+linux-libc-headers
+dir
+
+aircrack
+dir
+
+squeezeclient
+dir
+
+nfs-utils
+dir
+
+openjade
+dir
+
+opie-examples-python
+dir
+
+metalog
+dir
+
+snes9x
+dir
+
+dhclient
+dir
+
+nonworking
+dir
+
+libsigc++-2.0
+dir
+
+mediatomb
+dir
+
+ftpd-topfield
+dir
+
+httppc
+dir
+
+opie-login
+dir
+
+gal
+dir
+
+gperf
+dir
+
+postgresql
+dir
+
+opie-kpacman
+dir
+
+eel
+dir
+
+tremor
+dir
+
+acct
+dir
+
+mkbot
+dir
+
+opie-mail
+dir
+
+libeventdb
+dir
+
+openssh
+dir
+
+loudmouth
+dir
+
+openssl
+dir
+
+gpe-helpviewer
+dir
+
+xorg-lib
+dir
+
+nsd
+dir
+
+module-init-tools
+dir
+
+wxwidgets
+dir
+
+tinymail
+dir
+
+libmatchbox
+dir
+
+gnu-config
+dir
+
+mipl-mipv6
+dir
+
+logrotate
+dir
+
+radvd
+dir
+
+synergy
+dir
+
+opie-sfcave
+dir
+
+slcalc
+dir
+
+mileage
+dir
+
+zile
+dir
+
+vtype-utils
+dir
+
+freenote
+dir
+
+opie-volumeapplet
+dir
+
+dhcdbd
+dir
+
+ghettotooth
+dir
+
+opie-qasteroids
+dir
+
+glib-2.0
+dir
+
+thc
+dir
+
+vde
+dir
+
+pptp-linux
+dir
+
+flexis-zaurus
+dir
+
+wakelan
+dir
+
+zeroconf
+dir
+
+ztappy
+dir
+
+diethotplug
+dir
+
+offlineimap
+dir
+
+gcc
+dir
+
+monotone
+dir
+
+hostap
+dir
+
+ppp
+dir
+
+ntp
+dir
+
+settings-daemon
+dir
+
+vorbis-tools
+dir
+
+opie-securityplugins
+dir
+
+thumbpad
+dir
+
+setpwc
+dir
+
+libgsf
+dir
+
+enca
+dir
+
+lxt
+dir
+
+orinoco
+dir
+
+nabi
+dir
+
+ltrace
+dir
+
+grift
+dir
+
+pbltool
+dir
+
+xmonobut
+dir
+
+libgsm
+dir
+
+sidplay-base
+dir
+
+tslib
+dir
+
+mono-xsp
+dir
+
+alsa
+dir
+
+gnokii
+dir
+
+opie-packagemanager
+dir
+
+upnp
+dir
+
+totem
+dir
+
+tin
+dir
+
+libsidplay
+dir
+
+gdb
+dir
+
+redboot-utils
+dir
+
+libgpelaunch
+dir
+
+nylon
+dir
+
+gtk-sharp
+dir
+
+opie-tictac
+dir
+
+moin
+dir
+
+confuse
+dir
+
+libnxml
+dir
+
+pocketcellar
+dir
+
+aliens
+dir
+
+lyx
+dir
+
+libpcre
+dir
+
+ethload
+dir
+
+openprotium-init
+dir
+
+libexif
+dir
+
+apr
+dir
+
+libsamplerate
+dir
+
+apt
+dir
+
+cdtool
+dir
+
+gpe-icons
+dir
+
+fakechroot
+dir
+
+opie-deco-liquid
+dir
+
+opie-addressbook
+dir
+
+xfprint
+dir
+
+bmon
+dir
+
+imlib
+dir
+
+psmisc
+dir
+
+camera-assistant
+dir
+
+powermanga
+dir
+
+lzo
+dir
+
+opie-sounds
+dir
+
+opie-style-web
+dir
+
+knights
+dir
+
+libevent
+dir
+
+prismstumbler
+dir
+
+libsoundgen
+dir
+
+xcb
+dir
+
+mtools
+dir
+
+opie-datebook-nationalholidayplugin
+dir
+
+file
+dir
+
+u2nl
+dir
+
+apmd
+dir
+
+opie-suspendapplet
+dir
+
+dbench
+dir
+
+xmms
+dir
+
+simpad-utilities
+dir
+
+havp
+dir
+
+ipaq-sleep
+dir
+
+libopieobex
+dir
+
+opensp
+dir
+
+dnsmasq
+dir
+
+opie-unikeyboard
+dir
+
+rox
+dir
+
+btsco
+dir
+
+gdado
+dir
+
+gpsbabel
+dir
+
+unifdef
+dir
+
+libassuan
+dir
+
+pmount
+dir
+
+compositeext
+dir
+
+qxmp
+dir
+
+nvidia-drivers
+dir
+
+startup-notification
+dir
+
+gloox
+dir
+
+opie-backgammon
+dir
+
+libgpevtype
+dir
+
+cccc
+dir
+
+pth
+dir
+
+ica
+dir
+
+maemo
+dir
+
+dropbear
+dir
+
+rpm
+dir
+
+patch
+dir
+
+nmixer
+dir
+
+mystun-server
+dir
+
+libogg
+dir
+
+icewm
+dir
+
+ekg
+dir
+
+ccache
+dir
+
+pkgconfig
+dir
+
+gtkhtml
+dir
+
+at76c503a
+dir
+
+slugimage
+dir
+
+opie-today-datebookplugin
+dir
+
+icu
+dir
+
+gpe-shield
+dir
+
+pcmanfm
+dir
+
+konqueror
+dir
+
+libvisual
+dir
+
+cpio
+dir
+
+vim
+dir
+
+opie-reader
+dir
+
+fsx-linux
+dir
+
+granule
+dir
+
+prboom
+dir
+
+libnotify
+dir
+
+opie-qss
+dir
+
+opie-security
+dir
+
+nslu2-binary-only
+dir
+
+opie-sh
+dir
+
+fdclock
+dir
+
+gperiodic
+dir
+
+ulxmlrpcpp
+dir
+
+uml-utilities
+dir
+
+atd
+dir
+
+mplayer
+dir
+
+llvm
+dir
+
+gpe-keylock
+dir
+
+libgpepimc
+dir
+
+lame
+dir
+
+atk
+dir
+
+ccdv
+dir
+
+opie-dvorak
+dir
+
+klimt
+dir
+
+gpe-question
+dir
+
+zudoku
+dir
+
+opie-tinykate
+dir
+
+libpixman
+dir
+
+opie-icon-reload
+dir
+
+ifplugd
+dir
+
+libfribidi
+dir
+
+kexec
+dir
+
+watchdog
+dir
+
+cdparanoia
+dir
+
+petitepainture
+dir
+
+netperf
+dir
+
+iperf
+dir
+
+cyrus-sasl
+dir
+
+gpe-sketchbook
+dir
+
+hping
+dir
+
+quake
+dir
+
+xxf86vmext
+dir
+
+mono
+dir
+
+librewrite
+dir
+
+addons
+dir
+
+xscreensaver
+dir
+
+frodo
+dir
+
+liboil
+dir
+
+check
+dir
+
+puppy
+dir
+
+docbook-utils
+dir
+
+login-manager
+dir
+
+opie-datebook-chrisholidayplugin
+dir
+
+navit
+dir
+
+twin
+dir
+
+sliderulez
+dir
+
+git
+dir
+
+opie-restartapplet
+dir
+
+giblib
+dir
+
+pwc
+dir
+
+squeak
+dir
+
+mdev
+dir
+
+libgtkinput
+dir
+
+e17
+dir
+
+opie-odict
+dir
+
+tesseract
+dir
+
+tn5250
+dir
+
+gpe-themes
+dir
+
+kbd
+dir
+
+atmelwlandriver
+dir
+
+tor
+dir
+
+gnome
+dir
+
+wpa-supplicant
+dir
+
+libmng
+dir
+
+cpufreqd
+dir
+
+util-linux
+dir
+
+openpbx
+dir
+
+aiostress
+dir
+
+tcpdump
+dir
+
+xorg-proto
+dir
+
+brickout
+dir
+
+portmap
+dir
+
+nail
+dir
+
+vlc
+dir
+
+subversion
+dir
+
+gftp
+dir
+
+e2fsprogs-libs
+dir
+
+transconnect
+dir
+
+upstart
+dir
+
+libeina
+dir
+
+opie-networksettings
+dir
+
+usbpath
+dir
+
+spandsp
+dir
+
+epdfview
+dir
+
+gnutls
+dir
+
+tinylogin
+dir
+
+htun
+dir
+
+mikmod
+dir
+
+links
+dir
+
+clutter
+dir
+
+xprint
+dir
+
+libdbi
+dir
+
+orpheus
+dir
+
+opie-doctab
+dir
+
+pax-utils
+dir
+
+zlapspeed
+dir
+
+figment
+dir
+
+custominput
+dir
+
+opie-parashoot
+dir
+
+opie-pcmciaapplet
+dir
+
+gnet
+dir
+
+libqanava
+dir
+
+mime-support
+dir
+
+findutils
+dir
+
+libnetfilter-queue
+dir
+
+gpe-taskmanager
+dir
+
+libsdl
+dir
+
+opie-tetrix
+dir
+
+beecrypt
+dir
+
+upslug
+dir
+
+libosip2
+dir
+
+xfce
+dir
+
+vnc
+dir
+
+gpe-bootsplash
+dir
+
+yaffs2
+dir
+
+opie-keypebble
+dir
+
+reiserfsprogs
+dir
+
+lcms
+dir
+
+damageext
+dir
+
+initrdscripts
+dir
+
+hfsutils
+dir
+
+kakasi
+dir
+
+iptables
+dir
+
+hvsc
+dir
+
+waimea
+dir
+
+visual-boot
+dir
+
+came
+dir
+
+silo
+dir
+
+gnuradio
+dir
+
+man
+dir
+
+xorg-xserver
+dir
+
+maemo-mapper
+dir
+
+espgs
+dir
+
+opie-help-en
+dir
+
+gpe-calendar
+dir
+
+dircproxy
+dir
+
+gmp
+dir
+
+modphp
+dir
+
+sgml-common
+dir
+
+testdisk
+dir
+
+xcompmgr
+dir
+
+geode-drivers
+dir
+
+gpe-appmgr
+dir
+
+opie-todo
+dir
+
+opie-wordgame
+dir
+
+renderext
+dir
+
+simh
+dir
+
+libid3tag
+dir
+
+eciadsl
+dir
+
+cacao
+dir
+
+wget
+dir
+
+matchbox-themes-extra
+dir
+
+opie-aboutapplet
+dir
+
+mailx
+dir
+
+opie-sh-snes
+dir
+
+libw100
+dir
+
+acpid
+dir
+
+gpdf
+dir
+
+rosetta
+dir
+
+balsa
+dir
+
+mobilemesh
+dir
+
+lockstat
+dir
+
+tcptraceroute
+dir
+
+raw-tools
+dir
+
+libgpg-error
+dir
+
+cvs
+dir
+
+opie-aqpkg
+dir
+
+didiwiki
+dir
+
+opie-rotateapplet
+dir
+
+opie-recorder
+dir
+
+libgtkstylus
+dir
+
+wview
+dir
+
+libdes
+dir
+
+groff
+dir
+
+xfcalendar
+dir
+
+xmame
+dir
+
+tango
+dir
+
+ixp425-eth
+dir
+
+xerces-c
+dir
+
+ngrep
+dir
+
+htb-init
+dir
+
+qpealarmclock
+dir
+
+freeciv
+dir
+
+opie-mediaplayer1-libtremorplugin
+dir
+
+liboop
+dir
+
+ksymoops
+dir
+
+opie-solitaire
+dir
+
+bzip2
+dir
+
+zipsc
+dir
+
+galago
+dir
+
+nano
+dir
+
+kismet
+dir
+
+sidplayer
+dir
+
+gpe-mixer
+dir
+
+sn9c102
+dir
+
+xffm
+dir
+
+zip
+dir
+
+at
+dir
+
+libiconv
+dir
+
+kstars
+dir
+
+arpwatch
+dir
+
+mdk
+dir
+
+libtiff
+dir
+
+libccaudio2
+dir
+
+povray
+dir
+
+poptop
+dir
+
+bb
+dir
+
+gpm
+dir
+
+networkmanager
+dir
+
+bc
+dir
+
+cherokee
+dir
+
+gpp
+dir
+
+opie-quicklauncher
+dir
+
+opie-today-todolistplugin
+dir
+
+sofia-sip
+dir
+
+ifupdown
+dir
+
+gif2png
+dir
+
+bl
+dir
+
+msn-cap
+dir
+
+vlan
+dir
+
+qcoptest
+dir
+
+lineak
+dir
+
+gpe-lights
+dir
+
+id3lib
+dir
+
+valgrind
+dir
+
+fbpanel
+dir
+
+erlang
+dir
+
+bison
+dir
+
+zshopi
+dir
+
+opie-buzzword
+dir
+
+lvm2
+dir
+
+opie-datebook
+dir
+
+starling
+dir
+
+gettext
+dir
+
+opie-today-weatherplugin
+dir
+
+lbreakout
+dir
+
+cdrtools
+dir
+
+gpe-today
+dir
+
+spca5xx
+dir
+
+bogofilter
+dir
+
+fetchmail
+dir
+
+ppp-dialin
+dir
+
+libmodplug
+dir
+
+avr-libc
+dir
+
+shorewall
+dir
+
+cron
+dir
+
+audiofile
+dir
+
+prelink
+dir
+
+xoo
+dir
+
+cetools
+dir
+
+qpobox
+dir
+
+initscripts
+dir
+
+zope
+dir
+
+linux-hotplug
+dir
+
+btscanner
+dir
+
+oprofile
+dir
+
+ntfs-3g
+dir
+
+opie-ftp
+dir
+
+libopie
+dir
+
+xserver-common
+dir
+
+iso-codes
+dir
+
+db
+dir
+
+patcher
+dir
+
+xorg-data
+dir
+
+gpe-contacts
+dir
+
+opie-pickboard
+dir
+
+xorg-app
+dir
+
+vte
+dir
+
+xqt2
+dir
+
+openmoko-base
+dir
+
+fortune-mod
+dir
+
+sysklogd
+dir
+
+xcalibrateext
+dir
+
+openmoko-examples
+dir
+
+images
+dir
+
+ettercap
+dir
+
+opie-mediaplayer1
+dir
+
+xchat
+dir
+
+opie-mediaplayer2
+dir
+
+temtor
+dir
+
+w3cam
+dir
+
+scsi-idle
+dir
+
+openobex
+dir
+
+inotify-tools
+dir
+
+parted
+dir
+
+skippy
+dir
+
+aspell
+dir
+
+blassic
+dir
+
+opie-citytime
+dir
+
+maradns
+dir
+
+ion
+dir
+
+davfs2
+dir
+
+gsl
+dir
+
+tsclient
+dir
+
+opie-confeditor
+dir
+
+mpeg2dec
+dir
+
+eb
+dir
+
+gsm
+dir
+
+tzcode
+dir
+
+libffi
+dir
+
+dcetest
+dir
+
+inkscape
+dir
+
+grep
+dir
+
+opie-style-fresh
+dir
+
+opie-bartender
+dir
+
+intltool
+dir
+
+opie-datebook-birthdayplugin
+dir
+
+otpkeygen
+dir
+
+portaudio
+dir
+
+xscrnsaverh
+dir
+
+sphinx
+dir
+
+jamvm
+dir
+
+exmap-console
+dir
+
+chillispot
+dir
+
+qfish
+dir
+
+gtk-engines
+dir
+
+mp3blaster
+dir
+
+libqpe
+dir
+
+xqt
+dir
+
+dhcp
+dir
+
+opie-irdaapplet
+dir
+
+gtkmm
+dir
+
+rlpr
+dir
+
+camsource
+dir
+
+iana-etc
+dir
+
+geoclue
+dir
+
+netpbm
+dir
+
+qmatrix
+dir
+
+inkwp
+dir
+
+sysfsutils
+dir
+
+iputils
+dir
+
+froot
+dir
+
+opie-style-metal
+dir
+
+dvbtools
+dir
+
+nasm
+dir
+
+qplot
+dir
+
+ntpclient
+dir
+
+msmtp
+dir
+
+apache2
+dir
+
+fbgetty
+dir
+
+xcursor-transparent-theme
+dir
+
+thttpd
+dir
+
+fs
+dir
+
+base-files
+dir
+
+pulseaudio
+dir
+
+obsolete
+dir
+
+mtpaint
+dir
+
+gail
+dir
+
+gaim
+dir
+
+c3110x
+dir
+
+gpe-othello
+dir
+
+gpe-watch
+dir
+
+opie-mailapplet
+dir
+
+keylaunch
+dir
+
+bootchart
+dir
+
+putty
+dir
+
+iozone3
+dir
+
+macchanger
+dir
+
+gtk-doc
+dir
+
+opie-style-phase
+dir
+
+diffutils
+dir
+
+gd
+dir
+
+opie-formatter
+dir
+
+sparse
+dir
+
+ckermit
+dir
+
+linux
+dir
+
+dosfstools
+dir
+
+openmoko-panel-plugins
+dir
+
+mb-desktop-xine
+dir
+
+conserver
+dir
+
+ttyconv
+dir
+
+salsa-lib
+dir
+
+beepmp
+dir
+
+gs
+dir
+
+fbreader
+dir
+
+cramfs
+dir
+
+iaimaster
+dir
+
+xst
+dir
+
+libxsettings
+dir
+
+opie-advancedfm
+dir
+
+roadster
+dir
+
+irk
+dir
+
+gpe-irc
+dir
+
+opie-minesweep
+dir
+
+matchbox2
+dir
+
+sipsak
+dir
+
+zauralign
+dir
+
+rdiff-backup
+dir
+
+snes232
+dir
+
+visiscript
+dir
+
+hibernate-script
+dir
+
+void11
+dir
+
+motion
+dir
+
+jikes
+dir
+
+less
+dir
+
+ezx
+dir
+
+opie-today-fortuneplugin
+dir
+
+linphone
+dir
+
+faad2
+dir
+
+dejagnu
+dir
+
+rocksndiamonds
+dir
+
+manufacturers
+dir
+
+blueprobe
+dir
+
+boost-asio
+dir
+
+ntop
+dir
+
+opie-pyquicklaunchapplet
+dir
+
+privoxy
+dir
+
+texmaker
+dir
+
+netbase
+dir
+
+maemo3
+dir
+
+unionfs
+dir
+
+anthy
+dir
+
+opie-textedit
+dir
+
+libowl
+dir
+
+gpe-soundserver
+dir
+
+matchbox-common
+dir
+
+opie-qcop
+dir
+
+ircp
+dir
+
+gutenprint
+dir
+
+geda
+dir
+
+grip
+dir
+
+freedroid
+dir
+
+libdotdesktop
+dir
+
+distcc
+dir
+
+opie-oyatzee
+dir
+
+insttrain
+dir
+
+matchbox-applet-startup-monitor
+dir
+
+kphonepi
+dir
+
+centericq
+dir
+
+cpuburn
+dir
+
+gpe-plucker
+dir
+
+poboxserver
+dir
+
+fakeconnect
+dir
+
+tapioca
+dir
+
+poppler
+dir
+
+ncurses
+dir
+
+qclockchange
+dir
+
+net-tools
+dir
+
+openmoko-tools
+dir
+
+libgmime
+dir
+
+duma
+dir
+
+wireless-tools
+dir
+
+dosbox
+dir
+
+neon
+dir
+
+libgcrypt
+dir
+
+sbagen
+dir
+
+libzvbi
+dir
+
+ixp4xx
+dir
+
+slang
+dir
+
+gpe-aerial
+dir
+
+rfakeap
+dir
+
+kanatest
+dir
+
+kaffe
+dir
+
+js
+dir
+
+sdcc
+dir
+
+netcat
+dir
+
+atftp
+dir
+
+intercom
+dir
+
+gnupg
+dir
+
+fbvncserver
+dir
+
+mt-daapd
+dir
+
+rxvt-unicode
+dir
+
+gnome-themes
+dir
+
+gtkextra
+dir
+
+tracker
+dir
+
+kf
+dir
+
+shasum
+dir
+
+libspf2
+dir
+
+taglib
+dir
+
+frotz
+dir
+
+zsh
+dir
+
+supybot
+dir
+
+netkit-base
+dir
+
+opie-mediaplayer1-libwavplugin
+dir
+
+helloworld
+dir
+
+libftdi
+dir
+
+irda-utils
+dir
+
+libflv
+dir
+
+m4
+dir
+
+memedit
+dir
+
+powernowd
+dir
+
+djvulibre
+dir
+
+gpe-life
+dir
+
+chibitracker
+dir
+
+nmap
+dir
+
+network-suspend-scripts
+dir
+
+dbus
+dir
+
+reaim
+dir
+
+quilt
+dir
+
+syslinux
+dir
+
+tree
+dir
+
+modutils
+dir
+
+bazaar
+dir
+
+bitbake
+dir
+
+lzma
+dir
+
+qscintilla
+dir
+
+base-passwd
+dir
+
+opie-today-mailplugin
+dir
+
+libmrss
+dir
+
+display-brightness
+dir
+
+moc
+dir
+
+sharp-binary-only
+dir
+
+libnfnetlink
+dir
+
+uicmoc
+dir
+
+antlr
+dir
+
+vectoroids
+dir
+
+fbgrab
+dir
+
+libssh
+dir
+
+dhcpcd
+dir
+
+opie-bluepin
+dir
+
+lttng
+dir
+
+gnuplot
+dir
+
+mutt
+dir
+
+ipkg
+dir
+
+gputty
+dir
+
+scw
+dir
+
+dbh
+dir
+
+mc
+dir
+
+gtk+
+dir
+
+zuc
+dir
+
+opie-button-settings
+dir
+
+libglade
+dir
+
+gpe-clock
+dir
+
+etherpuppet
+dir
+
+avetanabt
+dir
+
+libgpewidget
+dir
+
+automake
+dir
+
+gtk-webcore
+dir
+
+matchbox-applet-tasks
+dir
+
+libedit
+dir
+
+slugos-init
+dir
+
+chkhinge
+dir
+
+resolvconf
+dir
+
+libgpeplugin
+dir
+
+ebtables
+dir
+
+gphoto2
+dir
+
+gpe-mini-browser
+dir
+
+gomunicator
+dir
+
+unrar
+dir
+
+angstrom
+dir
+
+icecc-create-env
+dir
+
+giac
+dir
+
+gpe-expenses
+dir
+
+quagga
+dir
+
+mml-widget
+dir
+
+blktool
+dir
+
+lilo-sh
+dir
+
+opie-symlinker
+dir
+
+gxine
+dir
+
+sudo
+dir
+
+uae
+dir
+
+sed
+dir
+
+opie-mediaplayer1-libmadplugin
+dir
+
+autoconf
+dir
+
+haserl
+dir
+
+matchbox-applet-inputmanager
+dir
+
+opie-checkbook
+dir
+
+p4
+dir
+
+giftcurs
+dir
+
+opie-zkbapplet
+dir
+
+e2tools
+dir
+
+startup-monitor
+dir
+
+ushare
+dir
+
+lirc
+dir
+
+ser
+dir
+
+madfu
+dir
+
+gpsd
+dir
+
+teleport
+dir
+
+dialog
+dir
+
+qiv
+dir
+
+telepathy
+dir
+
+softfan
+dir
+
+gpe-package
+dir
+
+omniorb
+dir
+
+memtester
+dir
+
+opie-examples
+dir
+
+dsniff
+dir
+
+stage-manager
+dir
+
+linux-atm
+dir
+
+liblockfile
+dir
+
+miniinit
+dir
+
+portabase
+dir
+
+tcltk
+dir
+
+mdadm
+dir
+
+microwindows
+dir
+
+usbview
+dir
+
+lisa
+dir
+
+reiser4progs
+dir
+
+opie-jumpx
+dir
+
+obexpush
+dir
+
+opie-clipboardapplet
+dir
+
+qpegps
+dir
+
+supertux
+dir
+
+xstroke
+dir
+
+libsigc++-1.2
+dir
+
+freedoom
+dir
+
+fam
+dir
+
+hugs
+dir
+
+xawtv
+dir
+
+libusb
+dir
+
+opentom
+dir
+
+kanjipad
+dir
+
+gpe-login
+dir
+
+aumix
+dir
+
+tomoe
+dir
+
+boost
+dir
+
+openntpd
+dir
+
+gpstk
+dir
+
+cdstatus
+dir
+
+qc-usb
+dir
+
+busybox
+dir
+
+abuse
+dir
+
+libdvb
+dir
+
+opie-sheet
+dir
+
+flac
+dir
+
+ctrlproxy
+dir
+
+obexftp
+dir
+
+mozilla
+dir
+
+openmoko-inputmethods
+dir
+
+glib-1.2
+dir
+
+file-roller
+dir
+
+clamsmtp
+dir
+
+libwpd
+dir
+
+mtd
+dir
+
+gpe-terminal
+dir
+
+opie-sysinfo
+dir
+
+qt
+dir
+
+netkit-ftp
+dir
+
+fbui
+dir
+
+juce
+dir
+
+gparted
+dir
+
+libddmpeg
+dir
+
+uboot
+dir
+
+libdaemon
+dir
+
+qpphoto
+dir
+
+xinetd
+dir
+
+opie-kcheckers
+dir
+
+pciutils
+dir
+
+opie-multikey
+dir
+
+mini-init
+file
+
+
+
+
+2009-02-06T18:16:35.000000Z
+4770f347e54c75de1be63e7111c21fbc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+imagemagick
+dir
+
+mtr
+dir
+
+update-rc.d
+dir
+
+vsftpd
+dir
+
+opie-i18n
+dir
+
+opie-deco-polished
+dir
+
+mpg123
+dir
+
+gnumeric
+dir
+
+lemon
+dir
+
+fakeroot
+dir
+
+usbutils
+dir
+
+sylpheed
+dir
+
+icmpquery
+dir
+
+inetutils
+dir
+
+gpsdrive
+dir
+
+roadmap
+dir
+
+hotplug-ng
+dir
+
+foonas-init
+dir
+
+horizon
+dir
+
+xorg-util
+dir
+
+militaryalphabet
+dir
+
+sip
+dir
+
+opie-wirelessapplet
+dir
+
+libdvdread
+dir
+
+perl
+dir
+
+fbset
+dir
+
+snmp++
+dir
+
+udev
+dir
+
+sdlperl
+dir
+
+dasher
+dir
+
+xserver-kdrive-common
+dir
+
+opie-brightnessapplet
+dir
+
+hwdata
+dir
+
+zsafe
+dir
+
+uucp
+dir
+
+sl
+dir
+
+wiggle
+dir
+
+powertop
+dir
+
+schedstat-utils
+dir
+
+x11vnc
+dir
+
+hotplug-qcop
+dir
+
+opie-stumbler
+dir
+
+gchub
+dir
+
+xournal
+dir
+
+gift
+dir
+
+sablevm
+dir
+
+mythtv
+dir
+
+minicom
+dir
+
+opie-wellenreiter
+dir
+
+dia
+dir
+
+imposter
+dir
+
+feh
+dir
+
+prism54
+dir
+
+mpfr
+dir
+
+hal
+dir
+
+gpe-gallery
+dir
+
+iproute2
+dir
+
+howl
+dir
+
+pxaregs
+dir
+
+sharprom-toolchain
+dir
+
+libsndfile
+dir
+
+jhead
+dir
+
+opie-drawpad
+dir
+
+flumotion
+dir
+
+gpesyncd
+dir
+
+libnet
+dir
+
+opie-vmemo
+dir
+
+timezones
+dir
+
+poqetpresenter
+dir
+
+xxf86dgaext
+dir
+
+minifo
+dir
+
+samba
+dir
+
+lm_sensors
+dir
+
+rhythmbox
+dir
+
+qof
+dir
+
+gpe-autostarter
+dir
+
+gawk
+dir
+
+opie-launcher-settings
+dir
+
+gtkhtml2
+dir
+
+geos
+dir
+
+opie-mediummount
+dir
+
+tximage
+dir
+
+grub
+dir
+
+opie-libqrsync
+dir
+
+opie-tableviewer
+dir
+
+genlist
+dir
+
+treecc
+dir
+
+puzz-le
+dir
+
+rtaudio
+dir
+
+zgscore
+dir
+
+openttd
+dir
+
+opencvs
+dir
+
+appweb
+dir
+
+lighttpd
+dir
+
+interbench
+dir
+
+freetype
+dir
+
+libaal
+dir
+
+speex
+dir
+
+openvpn
+dir
+
+opie-appearance
+dir
+
+libxine
+dir
+
+iptstate
+dir
+
+s3c2410-utils
+dir
+
+flex
+dir
+
+xtscal
+dir
+
+libcdaudio
+dir
+
+devmem2
+dir
+
+console-tools
+dir
+
+qpe-gaim
+dir
+
+zlib
+dir
+
+boa
+dir
+
+fuse
+dir
+
+gpe-calculator
+dir
+
+shfs
+dir
+
+altboot
+dir
+
+libpcl
+dir
+
+dcron
+dir
+
+fush
+dir
+
+libdisplaymigration
+dir
+
+resistorui
+dir
+
+resourceext
+dir
+
+mpg321
+dir
+
+mgetty
+dir
+
+opie-batteryapplet
+dir
+
+ttyrec
+dir
+
+web
+dir
+
+gpe-filemanager
+dir
+
+opie-write
+dir
+
+pivotinit
+dir
+
+qsvn
+dir
+
+bootmenu
+dir
+
+refdbg
+dir
+
+tetex
+dir
+
+openswan
+dir
+
+fastjar
+dir
+
+uim
+dir
+
+pine
+dir
+
+zbedic
+dir
+
+kdepimpi
+dir
+
+gpe-confd
+dir
+
+libtool
+dir
+
+vpnc
+dir
+
+opie-handwriting
+dir
+
+pipepanic
+dir
+
+libdvdnav
+dir
+
+swig
+dir
+
+matchbox-panel-manager
+dir
+
+opie-freetype
+dir
+
+gpicview
+dir
+
+txdrug
+dir
+
+devlabel
+dir
+
+strace
+dir
+
+update-alternatives
+dir
+
+elvis
+dir
+
+cppunit
+dir
+
+tmdns
+dir
+
+iksemel
+dir
+
+arm-kernel-shim
+dir
+
+termcap
+dir
+
+opie-keytabs
+dir
+
+wv
+dir
+
+esound
+dir
+
+radlib
+dir
+
+opie-search
+dir
+
+libopietooth
+dir
+
+libhal-nm
+dir
+
+wifistix
+dir
+
+gweled
+dir
+
+justreader
+dir
+
+wmctrl
+dir
+
+evince
+dir
+
+matchbox-themes-gtk
+dir
+
+opie-embeddedkonsole
+dir
+
+gpe-bluetooth
+dir
+
+octave
+dir
+
+lrzsz
+dir
+
+gemdropx
+dir
+
+chrpath
+dir
+
+bridge-utils
+dir
+
+opie-clockapplet
+dir
+
+libhandoff
+dir
+
+libetpan
+dir
+
+openh323
+dir
+
+gobby
+dir
+
+dillo
+dir
+
+gspcav1
+dir
+
+fftw
+dir
+
+cdump
+dir
+
+libgphoto2
+dir
+
+detect-stylus
+dir
+
+gzip
+dir
+
+sox
+dir
+
+minilite
+dir
+
+billiardz
+dir
+
+libarena
+dir
+
+opie-language
+dir
+

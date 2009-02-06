@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-multikey
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-multikey_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+ba7f3e0c58f0cd8063046a7006952376
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-multikey_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+49f163e52761892c84c3fa7ce493924b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+opie-multikey.inc
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+be74d91759edbba280ea48db25a470e7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-multikey_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+ea630df0fc9242561e18257942a9a658
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

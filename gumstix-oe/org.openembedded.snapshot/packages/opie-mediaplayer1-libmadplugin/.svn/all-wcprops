@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libmadplugin
+END
+opie-mediaplayer1-libmadplugin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libmadplugin/opie-mediaplayer1-libmadplugin.inc
+END
+opie-mediaplayer1-libmadplugin_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libmadplugin/opie-mediaplayer1-libmadplugin_cvs.bb
+END
+opie-mediaplayer1-libmadplugin_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libmadplugin/opie-mediaplayer1-libmadplugin_1.2.2.bb
+END

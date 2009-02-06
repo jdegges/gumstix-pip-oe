@@ -1,0 +1,286 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/base-files/base-files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+jornada56x
+dir
+
+jornada6xx
+dir
+
+familiar
+dir
+
+jornada7xx
+dir
+
+gumstix-connex
+dir
+
+xxs1500
+dir
+
+angstrom
+dir
+
+h5000
+dir
+
+netvista
+dir
+
+usbd
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+oplinux
+dir
+
+netbook-pro
+dir
+
+nokia770
+dir
+
+opensimpad
+dir
+
+fstab
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+8a0d747a1565dfb39ae3b27b33ab5031
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+h3600
+dir
+
+host.conf
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+a61b9f6548d337c1cc1e5a4de39f7b7f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+share
+dir
+
+h3900
+dir
+
+motd
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+armzone-qt2410
+dir
+
+licenses
+dir
+
+mtx-1
+dir
+
+tosa
+dir
+
+htcuniversal
+dir
+
+mtx-2
+dir
+
+simpad
+dir
+
+epia
+dir
+
+efika
+dir
+
+c7x0
+dir
+
+poodle
+dir
+
+inputrc
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+27bb8dcd68671f6d61f6fda7333f3c26
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt54
+dir
+
+nsswitch.conf
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+109e33e2c91d1853b5bc56078a96aa18
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openmoko
+dir
+
+issue
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+3cb71b96e3fc2137bb5340dbe7258b93
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+akita
+dir
+
+hx4700
+dir
+
+amsdelta
+dir
+
+omap5912osk
+dir
+
+h2200
+dir
+
+gumstix-verdex
+dir
+
+openmn
+dir
+
+oplinux-uclibc
+dir
+
+nylon
+dir
+
+h6300
+dir
+
+ep93xx
+dir
+
+ghi270
+dir
+
+profile
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+3f35b4a2c01e78e20fa183fbd3fc6354
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+collie
+dir
+
+filesystems
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+9aeadebb0739864595b53b66d253aeac
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+spitz
+dir
+
+fic-gta01
+dir
+
+fic-gta02
+dir
+
+slugos
+dir
+
+issue.net
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+24c2e1dac111680a50bc05f22742f033
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

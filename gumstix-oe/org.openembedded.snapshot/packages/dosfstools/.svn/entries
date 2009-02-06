@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dosfstools
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dosfstools_2.10.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+552baa89544ae836749c850000767b74
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+dosfstools_2.11.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+504197d2b0c914117a01f4347ba1f186
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dosfstools-native_2.10.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+569a1fcd73c0200b8f5d84c42cbbb78e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

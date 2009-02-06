@@ -1,0 +1,54 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/unionfs/unionroot
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+init.unionroot.old
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+1b49105eaeb27fde6200e1539ad0f635
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+init.unionroot
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+262f5d5981350d44040572cef2fdc19a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+

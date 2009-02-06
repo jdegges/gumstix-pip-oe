@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netatalk/netatalk-2.0.3
+END
+netatalk-2.0.3-newerdb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netatalk/netatalk-2.0.3/netatalk-2.0.3-newerdb.patch
+END
+netatalk-2.0.3-db43.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netatalk/netatalk-2.0.3/netatalk-2.0.3-db43.patch
+END
+netatalk-2.0.3-setXid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netatalk/netatalk-2.0.3/netatalk-2.0.3-setXid.patch
+END
+netatalk-2.0.3-xfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/netatalk/netatalk-2.0.3/netatalk-2.0.3-xfs.patch
+END

@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nvidia-drivers
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+nvidia-display_1.0-8756.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+bb7cc564b388adb6136fd65569cdcce3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nvidia-nforce_1.0-0310.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+1e93ca4b78c75b7c2a99ad17d6e99d95
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nvidia-drivers.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+1d5ba562370dd36b8b47cda26795cdbc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

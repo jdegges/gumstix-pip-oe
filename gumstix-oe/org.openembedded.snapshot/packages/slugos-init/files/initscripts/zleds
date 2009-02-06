@@ -1,0 +1,45 @@
+#!/bin/sh
+#
+# This script is executed at the start and end of each run-level
+# transition.  It is the first 'stop' script and the last 'start'
+# script.
+#
+# 'stop'  indicates the start of a runlevel change
+# 'start' at the end of the runlevel change - we are in the new
+#         runlevel.
+#
+# state outputs 'system', 'user' etc according the the nature of
+# the runlevel it is passed (the *new* runlevel is used).
+state(){
+	case "$1" in
+	S|N)     echo system;;
+	0|6)     echo shutdown;;
+	1)       echo singleuser;;
+	2|3|4|5) echo user;;
+	*)       echo "led change: $runlevel: runlevel unknown" >&2
+		 echo system;;
+	esac
+}
+
+# trumpet "beeps" an announcement on systems with such support.
+l=120   # Long beep time
+s=40    # Try to keep a 3:1 ratio
+trumpet(){
+	case "$1" in
+	k)    leds beep -l $l; leds beep -l $s; leds beep -l $l;;
+	n)    leds beep -l $l; leds beep -l $s;;
+	*)    leds beep;;
+	esac
+}
+
+case "$1" in
+start)	leds "$(state "$runlevel")"
+	if [ "$(state "$runlevel")" == "user" ]; then
+		trumpet "k"
+	fi
+	;;
+stop)	leds boot "$(state "$runlevel")"
+	;;
+*)	echo "led change: $1: command ignored" >&2
+	;;
+esac

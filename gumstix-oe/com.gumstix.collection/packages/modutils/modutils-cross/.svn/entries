@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/modutils/modutils-cross
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-14T07:41:01.686932Z
+123
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+module.h.diff
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+4a4f5b434dd910ffd876ee87bb1dae49
+2008-01-14T07:41:01.686932Z
+123
+sakoman
+

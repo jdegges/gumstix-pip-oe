@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-logilab-common
+END
+fix-future-in-setup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-logilab-common/fix-future-in-setup.patch
+END

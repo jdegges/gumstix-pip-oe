@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/aodv/aodv-modules-2.2.2
+END
+fix-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/aodv/aodv-modules-2.2.2/fix-makefile.patch
+END

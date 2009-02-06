@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/rdesktop
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+rdesktop_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+a1b89ac36182b174fa820374d61f2740
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rdesktop-1.3.1
+dir
+
+rdesktop-1.4.1
+dir
+
+rdesktop_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+985e8c896331868d81763003e8006762
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rdesktop_1.4.1.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+6b513219c2201b4446bb7cbb23b587b5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+rdesktop_1.5.0.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+b1afafc3c74d26676207e8b7ecae35af
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

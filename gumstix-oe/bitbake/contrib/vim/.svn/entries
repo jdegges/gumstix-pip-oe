@@ -1,0 +1,34 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/bitbake/contrib/vim
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ftdetect
+dir
+
+syntax
+dir
+

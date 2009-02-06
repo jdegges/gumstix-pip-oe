@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16
+END
+binutils-2.16-thumb-trampoline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-2.16-thumb-trampoline.patch
+END
+binutils-2.16-thumb-glue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-2.16-thumb-glue.patch
+END
+binutils-2.16-objcopy-rename-errorcode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-2.16-objcopy-rename-errorcode.patch
+END
+binutils-2.16-linux-uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-2.16-linux-uclibc.patch
+END
+binutils-100_cflags_for_build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-100_cflags_for_build.patch
+END
+binutils-2.16.1-e300c2c3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.16/binutils-2.16.1-e300c2c3.patch
+END

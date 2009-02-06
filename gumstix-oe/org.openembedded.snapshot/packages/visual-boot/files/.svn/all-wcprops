@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files
+END
+visual-boot-networking.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-networking.raw.gz
+END
+visual-boot-x11.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-x11.raw.gz
+END
+visual-boot-mountall.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-mountall.raw.gz
+END
+visual-boot-apm.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-apm.raw.gz
+END
+visual-boot-zaurusd.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-zaurusd.raw.gz
+END
+visual-boot.init
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot.init
+END
+visual-boot-bt.raw.gz
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/visual-boot-bt.raw.gz
+END

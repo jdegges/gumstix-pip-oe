@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/files
+END
+0003-no-tools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/files/0003-no-tools.patch
+END
+0005-fix-mkspecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/files/0005-fix-mkspecs.patch
+END
+0008-backport-qt-lib-infix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/files/0008-backport-qt-lib-infix.patch
+END
+0001-cross-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/files/0001-cross-compile.patch
+END

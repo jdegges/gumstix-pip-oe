@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hibernate-script
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+hibernate-script
+dir
+
+hibernate-script_1.12.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+a5831df2ab13dc2a48a695a73efba5f0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

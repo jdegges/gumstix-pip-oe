@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc
+END
+libgpepimc_0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.5.bb
+END
+libgpepimc_0.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.6.bb
+END
+libgpepimc_0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.8.bb
+END
+libgpepimc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc.inc
+END
+libgpepimc_0.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.9.bb
+END
+libgpepimc_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_svn.bb
+END
+libgpepimc-hildon_0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc-hildon_0.5.bb
+END
+libgpepimc_pc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_pc.patch
+END
+libgpepimc_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.2.bb
+END
+libgpepimc_0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.3.bb
+END
+libgpepimc_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libgpepimc/libgpepimc_0.4.bb
+END

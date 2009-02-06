@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs
+END
+unionfs-modules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-modules.inc
+END
+unionfs-utils_1.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-utils_1.0.11.bb
+END
+unionfs-utils_1.0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-utils_1.0.13.bb
+END
+unionfs-modules_1.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-modules_1.0.11.bb
+END
+unionfs-utils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-utils.inc
+END
+unionfs-modules_1.0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-modules_1.0.13.bb
+END
+unionfs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionfs.inc
+END
+unionroot-utils_0.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionroot-utils_0.1.1.bb
+END
+unionroot_0.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/unionfs/unionroot_0.1.1.bb
+END

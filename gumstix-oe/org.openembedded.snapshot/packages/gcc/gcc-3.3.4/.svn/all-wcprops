@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4
+END
+libibery-crosstool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/libibery-crosstool.patch
+END
+gcc34-15089.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc34-15089.patch
+END
+arm-tune.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/arm-tune.patch
+END
+arm-ldm-peephole.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/arm-ldm-peephole.patch
+END
+gcc-uclibc-3.3-120-softfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc-uclibc-3.3-120-softfloat.patch
+END
+sdk-libstdc++-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/sdk-libstdc++-includes.patch
+END
+arm-ldm.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/arm-ldm.dpatch
+END
+reverse-compare.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/reverse-compare.patch
+END
+bash3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/bash3.patch
+END
+zecke-xgcc-cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/zecke-xgcc-cpp.patch
+END
+gcc-uclibc-3.3-200-code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc-uclibc-3.3-200-code.patch
+END
+arm-gotoff.dpatch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/arm-gotoff.dpatch
+END
+gcc-com.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc-com.patch
+END
+gcc-uclibc-3.3-100-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc-uclibc-3.3-100-conf.patch
+END
+gcc-uclibc-3.3-110-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-3.3.4/gcc-uclibc-3.3-110-conf.patch
+END

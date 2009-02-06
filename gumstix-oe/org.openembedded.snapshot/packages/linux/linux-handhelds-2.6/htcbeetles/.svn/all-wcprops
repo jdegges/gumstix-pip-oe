@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6/htcbeetles
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6/htcbeetles/defconfig
+END

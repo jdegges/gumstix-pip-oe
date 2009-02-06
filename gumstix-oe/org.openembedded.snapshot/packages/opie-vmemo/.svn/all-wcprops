@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-vmemo
+END
+opie-vmemo_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-vmemo/opie-vmemo_1.2.2.bb
+END
+opie-vmemo_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-vmemo/opie-vmemo_1.2.3.bb
+END
+opie-vmemo.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-vmemo/opie-vmemo.inc
+END
+opie-vmemo_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-vmemo/opie-vmemo_cvs.bb
+END

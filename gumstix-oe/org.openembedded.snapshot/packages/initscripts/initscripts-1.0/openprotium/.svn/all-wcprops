@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium
+END
+devfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/devfs.sh
+END
+flashclean
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/flashclean
+END
+domainname.sh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/domainname.sh
+END
+devices
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/devices
+END
+halt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/halt
+END
+checkroot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/checkroot.sh
+END
+reboot
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/openprotium/reboot
+END

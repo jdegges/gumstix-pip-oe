@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpealarmclock/qpealarmclockapplet-1.0.9
+END
+fix-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpealarmclock/qpealarmclockapplet-1.0.9/fix-compile.patch
+END
+missing-files.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpealarmclock/qpealarmclockapplet-1.0.9/missing-files.tar.gz
+END

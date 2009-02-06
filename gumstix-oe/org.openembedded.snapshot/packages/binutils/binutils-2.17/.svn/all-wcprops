@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17
+END
+300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/300-012_check_ldrunpath_length.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/100-uclibc-conf.patch
+END
+300-006_better_file_error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/300-006_better_file_error.patch
+END
+warning-free.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/warning-free.patch
+END
+400-mips-ELF_MAXPAGESIZE-4K.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/400-mips-ELF_MAXPAGESIZE-4K.patch
+END
+702-binutils-skip-comments.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/702-binutils-skip-comments.patch
+END
+avr32-config.sub.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/avr32-config.sub.patch
+END
+300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/300-001_ld_makefile_patch.patch
+END
+110-arm-eabi-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17/110-arm-eabi-conf.patch
+END

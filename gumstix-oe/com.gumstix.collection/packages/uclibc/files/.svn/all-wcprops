@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files
+END
+armeb-kernel-stat.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/armeb-kernel-stat.h.patch
+END
+nokernelheadercheck.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/nokernelheadercheck.patch
+END
+kernel-key-t-ipc.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/kernel-key-t-ipc.h.patch
+END
+uClibc.distro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/uClibc.distro
+END
+uClibc.machine
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/uClibc.machine
+END
+termios.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/termios.h.patch
+END
+errno_values.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/64/trunk/com.gumstix.collection/packages/uclibc/files/errno_values.h.patch
+END

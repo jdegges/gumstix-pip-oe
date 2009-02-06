@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0
+END
+glib-2.0_2.12.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.12.bb
+END
+glib-2.0_2.12.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.13.bb
+END
+glib-2.0.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0.inc
+END
+glib-2.0_2.4.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.4.6.bb
+END
+glib-2.0_2.6.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.6.4.bb
+END
+glib-2.0-native_2.12.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native_2.12.4.bb
+END
+glib-2.0_2.6.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.6.6.bb
+END
+glib.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib.inc
+END
+glib-2.0_2.8.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.8.6.bb
+END
+glib-2.0_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.14.0.bb
+END
+glib-2.0_2.14.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.14.1.bb
+END
+glib-2.0_2.12.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.6.bb
+END
+glib-2.0-native_2.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native_2.2.3.bb
+END
+glib-2.0_2.12.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.9.bb
+END
+glib-2.0-native_2.4.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native_2.4.6.bb
+END
+glib-2.0-native_2.6.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native_2.6.5.bb
+END
+glib-2.0-native_2.6.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native_2.6.6.bb
+END
+glib-2.0_2.12.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.10.bb
+END
+glib-2.0_2.12.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.12.11.bb
+END
+glib-2.0_2.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0_2.2.3.bb
+END

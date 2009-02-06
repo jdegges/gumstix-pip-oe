@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/em-x270-2.6.23
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:15:08.000000Z
+268e15b8e52047bcbc04dee871d6ae76
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+em-x270.patch
+file
+
+
+
+
+2009-02-06T18:15:08.000000Z
+2a4b826a0eab7e2509d842f58894219d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

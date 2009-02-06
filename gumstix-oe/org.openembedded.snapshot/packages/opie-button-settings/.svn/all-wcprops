@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-button-settings
+END
+opie-button-settings_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-button-settings/opie-button-settings_cvs.bb
+END
+opie-button-settings_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-button-settings/opie-button-settings_1.2.2.bb
+END
+opie-button-settings_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-button-settings/opie-button-settings_1.2.3.bb
+END
+opie-button-settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-button-settings/opie-button-settings.inc
+END

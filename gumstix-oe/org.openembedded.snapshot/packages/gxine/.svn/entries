@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gxine
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+gxine_0.4.1enhanced.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+850fe73bff80bc104910ef8281634f6d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gxine_0.4.1.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+f03f307f6a3ff2aa9a24dce655c174c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

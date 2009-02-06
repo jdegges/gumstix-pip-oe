@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/307/trunk/com.gumstix.collection/packages/bluez
+END
+bluez-libs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/91/trunk/com.gumstix.collection/packages/bluez/bluez-libs.inc
+END
+bluez-libs_3.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/91/trunk/com.gumstix.collection/packages/bluez/bluez-libs_3.24.bb
+END
+bluez-utils-alsa_3.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/110/trunk/com.gumstix.collection/packages/bluez/bluez-utils-alsa_3.24.bb
+END
+bluez-utils_3.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/307/trunk/com.gumstix.collection/packages/bluez/bluez-utils_3.24.bb
+END
+bluez-utils3.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/307/trunk/com.gumstix.collection/packages/bluez/bluez-utils3.inc
+END
+bluez-gstreamer-plugin_3.24.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/110/trunk/com.gumstix.collection/packages/bluez/bluez-gstreamer-plugin_3.24.bb
+END
+bluez-hcidump_1.40.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/98/trunk/com.gumstix.collection/packages/bluez/bluez-hcidump_1.40.bb
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.21+2.6.22-rc1
+END
+at91-mmcfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.21+2.6.22-rc1/at91-mmcfix.patch
+END

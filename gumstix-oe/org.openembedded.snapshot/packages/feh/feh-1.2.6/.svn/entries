@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/feh/feh-1.2.6
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cross.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+8abd3a1af25955ed62e9120483b38298
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

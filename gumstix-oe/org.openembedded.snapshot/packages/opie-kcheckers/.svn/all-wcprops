@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-kcheckers
+END
+opie-kcheckers_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-kcheckers/opie-kcheckers_1.2.3.bb
+END
+opie-kcheckers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-kcheckers/opie-kcheckers.inc
+END
+opie-kcheckers_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-kcheckers/opie-kcheckers_cvs.bb
+END
+opie-kcheckers_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-kcheckers/opie-kcheckers_1.2.2.bb
+END

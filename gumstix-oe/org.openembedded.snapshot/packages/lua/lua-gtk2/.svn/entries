@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/lua/lua-gtk2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+lua-gtk2-0.3_fixbuild.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+15bbb1c4b018ab9d26806d46b6d803cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

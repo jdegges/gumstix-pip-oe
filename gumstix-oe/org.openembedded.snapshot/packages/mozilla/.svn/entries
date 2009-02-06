@@ -1,0 +1,118 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mozilla
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+thunderbird_1.0.7.bb
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+c34ee774130964215c1a9ac375140503
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+firefox
+dir
+
+firefox_2.0.0.3.bb
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+b685a00727f34a7e057c1c09920dc627
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+firefox-1.0.7
+dir
+
+minimo_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+0db7a619b8fd62c0c37a1af6a3f83e19
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+firefox_1.0.7.bb
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+ca169224c75ee979ccdd08593464e370
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+minimo
+dir
+
+mozilla-cvs.inc
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+43451bce5efc38cfca377b491e08e3b4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+firefox.inc
+file
+
+
+
+
+2009-02-06T18:16:25.000000Z
+ed1b7f6863de991e84991789e73eaa79
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thunderbird-1.0.7
+dir
+
+firefox-2.0.0.3
+dir
+

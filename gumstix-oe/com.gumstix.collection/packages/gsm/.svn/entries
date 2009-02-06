@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/gsm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-19T23:35:20.353829Z
+289
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+gsmd.inc
+file
+
+
+
+
+2009-02-06T18:16:40.000000Z
+9c6c0b1ce74422a7a49abdf1331cd1fb
+2008-03-19T23:35:20.353829Z
+289
+sakoman
+
+libgsmd-devel_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:40.000000Z
+c86b86a0d2606e5a95b3be4767f041ab
+2008-03-19T05:48:15.396444Z
+286
+sakoman
+
+libgsmd_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:40.000000Z
+198e2d4b95fabed3af017b09a7d4b2af
+2008-03-19T05:48:15.396444Z
+286
+sakoman
+
+pty_0.0.bb
+file
+
+
+
+
+2009-02-06T18:16:40.000000Z
+d5b168e4e99807ce16ea8408587c9249
+2008-03-19T05:48:15.396444Z
+286
+sakoman
+
+pty
+dir
+

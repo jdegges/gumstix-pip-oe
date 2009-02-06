@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus
+END
+dbus_0.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.21.bb
+END
+dbus_0.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.22.bb
+END
+dbus_0.23.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.23.bb
+END
+dbus_0.50.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.50.bb
+END
+dbus_0.23.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.23.4.bb
+END
+dbus_0.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.34.bb
+END
+dbus-native_0.50.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-native_0.50.bb
+END
+dbus_0.23.1-osso5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.23.1-osso5.bb
+END
+dbus-native_0.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-native_0.34.bb
+END
+dbus_0.50.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.50.inc
+END
+dbus_0.34.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.34.inc
+END
+dbus_0.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus_0.20.bb
+END

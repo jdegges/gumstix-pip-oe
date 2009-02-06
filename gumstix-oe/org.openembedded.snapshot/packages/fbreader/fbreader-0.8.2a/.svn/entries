@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/fbreader/fbreader-0.8.2a
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+480x640-buildfix.patch
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+d477b714a8fad5ba4685ca727c5bf3c4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fbreader-0.8.2a_buildsys_oe.patch
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+f8e3b424f4681ffa8fa2f36125047507
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

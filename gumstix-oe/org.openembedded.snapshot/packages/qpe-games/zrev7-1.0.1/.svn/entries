@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/qpe-games/zrev7-1.0.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+zrev.patch
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+cfe0ae2e2f6047538d59ca0e25915442
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

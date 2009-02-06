@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23
+END
+mmcsd_no_scr_check-r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/mmcsd_no_scr_check-r2.patch
+END
+w100fb-unused-var.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/w100fb-unused-var.patch
+END
+defconfig-tosa
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-tosa
+END
+htcuni.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/htcuni.patch
+END
+defconfig-qemuarm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-qemuarm
+END
+defconfig-htcuniversal
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-htcuniversal
+END
+defconfig-collie
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-collie
+END
+connectplus-remove-ide-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/connectplus-remove-ide-HACK.patch
+END
+defconfig-spitz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-spitz
+END
+pda-power.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/pda-power.patch
+END
+pxa_fb_overlay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/pxa_fb_overlay.patch
+END
+wm97xx-lcdnoise-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/wm97xx-lcdnoise-r0.patch
+END
+defconfig-zylonite
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-zylonite
+END
+defconfig-qemux86
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-qemux86
+END
+uvesafb-0.1-rc3-2.6.22.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/uvesafb-0.1-rc3-2.6.22.patch
+END
+htcuni-acx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/htcuni-acx.patch
+END
+defconfig-bootcdx86
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-bootcdx86
+END
+hostap-monitor-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/hostap-monitor-mode.patch
+END
+defconfig-hx2000
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-hx2000
+END
+defconfig-c7x0
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-c7x0
+END
+squashfs3.0-2.6.15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/squashfs3.0-2.6.15.patch
+END
+defconfig-poodle
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-poodle
+END
+pxa-serial-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/pxa-serial-hack.patch
+END
+defconfig-akita
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/defconfig-akita
+END
+arm_pxa_20070923.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/arm_pxa_20070923.patch
+END
+vt_ioctl_race.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/vt_ioctl_race.patch
+END
+zylonite-boot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/zylonite-boot.patch
+END
+binutils-buildid-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/binutils-buildid-arm.patch
+END
+serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.23/serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/char-driver/char-driver
+END
+sysctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/char-driver/char-driver/sysctl.patch
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/char-driver/char-driver/makefile.patch
+END

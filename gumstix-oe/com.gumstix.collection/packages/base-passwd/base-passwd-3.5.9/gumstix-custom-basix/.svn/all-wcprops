@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-passwd/base-passwd-3.5.9/gumstix-custom-basix
+END
+root-home.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-passwd/base-passwd-3.5.9/gumstix-custom-basix/root-home.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-passwd/base-passwd-3.5.9/gumstix-custom-basix/README
+END

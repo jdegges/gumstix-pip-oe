@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/files/angstrom
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+splash-l.svg
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+4ef4c95c2e0201667d922f2d5ef72426
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+splash-p.svg
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+1ef387aa6f739fa4f6385a45a8eac918
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

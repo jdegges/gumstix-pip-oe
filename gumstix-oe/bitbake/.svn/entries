@@ -1,0 +1,119 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/bitbake
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+contrib
+dir
+
+conf
+dir
+
+doc
+dir
+
+AUTHORS
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+ed732fe5544e4ea96c5d02150d21fc1c
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+lib
+dir
+
+MANIFEST
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+34e79f9ffcec59f9cf3dcb43a930a520
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+ChangeLog
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+20acbf98b880c4e4acf1c8e5d3afd72e
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+setup.py
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+832b36798c3513cb015ce752ccdc3d7d
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+has-props
+
+bin
+dir
+
+COPYING
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+751419260aa954499f7abaabaa882bbe
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+PKG-INFO
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+4af656674cd9be61b01d192ee74930e3
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+classes
+dir
+

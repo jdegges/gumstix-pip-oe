@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.6.11-rc2-mm1
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.6.11-rc2-mm1/defconfig
+END
+compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.6.11-rc2-mm1/compile-fix.patch
+END

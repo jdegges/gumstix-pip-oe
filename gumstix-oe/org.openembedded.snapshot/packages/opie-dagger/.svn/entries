@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-dagger
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-dagger_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+1e06c23e0cf634c50cb6f23a3a0b0015
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+opie-dagger_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+cb4f373ce9e4881c36c172aa6495358e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-dagger_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+715b5a3eb616c5088211196b5568179b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-dagger.inc
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+7691f1c77654ebf1156541815e0b2273
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

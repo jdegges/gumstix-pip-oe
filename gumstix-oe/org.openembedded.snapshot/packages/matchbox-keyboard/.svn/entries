@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/matchbox-keyboard
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+matchbox-keyboard-inputmethod_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+8b6cded3598fb06f7f3e7e76037afca4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-keyboard_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+ee9e886202aa0ca0a0ed321b65c409d5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mboxkbd-layouts-gui_git.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+f0b057fcfb25cbf77f904dc60096b00f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

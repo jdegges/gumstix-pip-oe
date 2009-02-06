@@ -1,0 +1,16 @@
+DISTRO = "angstrom-2007.1"
+
+#
+# Comment out *one* of the two lines below
+#DISTRO_TYPE = "debug"
+DISTRO_TYPE = "release"
+
+#
+# The default build uses glibc
+# Uncomment the line below if you want uclibc instead of glibc 
+#ANGSTROM_MODE = "uclibc"
+
+#
+# If you enable glibc and encounter qemu-native build issues
+# uncomment the line below.
+ENABLE_BINARY_LOCALE_GENERATION=0

@@ -1,0 +1,85 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/linux
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-05-12T14:17:35.065954Z
+317
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gumstix-kernel-2.6.21
+dir
+
+gumstix-kernel-2.6.22
+dir
+
+gumstix-kernel-2.6.24
+dir
+
+gumstix-linux.inc
+file
+
+
+
+
+2009-02-06T18:16:50.000000Z
+90b2646649f81afe007b4fdcf158721a
+2007-12-15T23:02:18.454059Z
+48
+sakoman
+
+gumstix-kernel_2.6.21.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+034d8e91e9adc5da574b66baee612f5c
+2008-03-05T16:03:23.371962Z
+270
+sakoman
+
+gumstix-kernel_2.6.22.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+034d8e91e9adc5da574b66baee612f5c
+2008-03-13T16:32:48.947282Z
+277
+sakoman
+
+gumstix-kernel_2.6.24.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+6ec95221966063dda3904dc8c2608652
+2008-03-21T22:15:37.819026Z
+296
+sakoman
+

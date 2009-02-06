@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tslib/tslib-1.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+bd-neon
+dir
+
+ts.conf
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+bee2afe6bc1ed86c76c4b4b3ad479279
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fic-gta01
+dir
+
+tslib-input_raw-grab_events.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+3787abaaac07554778f47050dfd0646e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

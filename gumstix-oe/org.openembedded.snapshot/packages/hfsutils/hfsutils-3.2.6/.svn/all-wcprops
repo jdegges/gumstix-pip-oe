@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsutils/hfsutils-3.2.6
+END
+largerthan2gb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsutils/hfsutils-3.2.6/largerthan2gb.patch
+END
+hfsutils-3.2.6-errno.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsutils/hfsutils-3.2.6/hfsutils-3.2.6-errno.patch
+END

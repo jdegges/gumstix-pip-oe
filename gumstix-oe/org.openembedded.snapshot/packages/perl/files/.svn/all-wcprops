@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/files
+END
+letgcc-find-errno.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/files/letgcc-find-errno.patch
+END
+libperl-5.8.3-create-libperl-soname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/files/libperl-5.8.3-create-libperl-soname.patch
+END
+perl-5.8.8-gcc-4.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/files/perl-5.8.8-gcc-4.2.patch
+END
+Configure-multilib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/files/Configure-multilib.patch
+END

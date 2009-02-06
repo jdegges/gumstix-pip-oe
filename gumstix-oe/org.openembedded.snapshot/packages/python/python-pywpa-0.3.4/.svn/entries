@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/python/python-pywpa-0.3.4
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+Makefile.wpactrl
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+29bc714938c4869cc339c4dfd71a234e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+Makefile
+file
+
+
+
+
+2009-02-06T18:13:49.000000Z
+baac59af9d85ac4c35d5dd0b2da39830
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

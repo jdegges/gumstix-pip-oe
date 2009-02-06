@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen
+END
+opie-oxygen_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen/opie-oxygen_cvs.bb
+END
+opie-oxygen_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen/opie-oxygen_1.0.0.bb
+END
+opie-oxygen_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen/opie-oxygen_1.2.2.bb
+END
+opie-oxygen_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen/opie-oxygen_1.2.3.bb
+END
+opie-oxygen.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-oxygen/opie-oxygen.inc
+END

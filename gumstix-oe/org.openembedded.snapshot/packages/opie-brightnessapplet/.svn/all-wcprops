@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-brightnessapplet
+END
+opie-brightnessapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-brightnessapplet/opie-brightnessapplet.inc
+END
+opie-brightnessapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-brightnessapplet/opie-brightnessapplet_cvs.bb
+END
+opie-brightnessapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-brightnessapplet/opie-brightnessapplet_1.2.2.bb
+END
+opie-brightnessapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-brightnessapplet/opie-brightnessapplet_1.2.3.bb
+END

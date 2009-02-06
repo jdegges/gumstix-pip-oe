@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps
+END
+openmoko-simplemediaplayer_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-simplemediaplayer_svn.bb
+END
+openmoko-messages_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-messages_svn.bb
+END
+openmoko-calculator_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-calculator_svn.bb
+END
+openmoko-appmanager_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-appmanager_svn.bb
+END
+openmoko-terminal_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-terminal_svn.bb
+END
+openmoko-taskmanager_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-taskmanager_svn.bb
+END
+openmoko-footer_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-footer_svn.bb
+END
+omext_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/omext_0.2.bb
+END
+openmoko-dialer_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-apps/openmoko-dialer_svn.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ruby/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+extmk_run.patch
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+b8fa218b5d49dd99957451cdff777a4e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+disable_wide_getaddrinfo_check.patch
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+dd44ce1169962fc7490a45e0b51c07f0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

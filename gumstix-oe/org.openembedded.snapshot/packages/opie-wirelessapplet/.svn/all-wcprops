@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wirelessapplet
+END
+opie-wirelessapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wirelessapplet/opie-wirelessapplet_1.2.2.bb
+END
+opie-wirelessapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wirelessapplet/opie-wirelessapplet_1.2.3.bb
+END
+opie-wirelessapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wirelessapplet/opie-wirelessapplet.inc
+END
+opie-wirelessapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wirelessapplet/opie-wirelessapplet_cvs.bb
+END

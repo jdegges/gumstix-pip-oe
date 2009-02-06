@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30
+END
+012-arch_mips_kernel_traps_c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/012-arch_mips_kernel_traps_c
+END
+404-netdev_random_et.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/404-netdev_random_et.patch
+END
+402-pl2303-backport-2-4-29
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/402-pl2303-backport-2-4-29
+END
+022-drivers_net_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/022-drivers_net_Makefile
+END
+023-drivers_parport_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/023-drivers_parport_Makefile
+END
+206-include_net_pkt_sched_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/206-include_net_pkt_sched_h.patch
+END
+307-gcc-3.4-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/307-gcc-3.4-fix.patch
+END
+010-arch_mips_kernel_proc_c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/010-arch_mips_kernel_proc_c
+END
+208-gcc-3.4-fix
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/208-gcc-3.4-fix
+END
+200-include_linux_netdevice_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/200-include_linux_netdevice_h.patch
+END
+203-net_core_dev_c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/203-net_core_dev_c.patch
+END
+310-netfilter-maxconn
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/310-netfilter-maxconn
+END
+312-netfilter-TTL
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/312-netfilter-TTL
+END
+018_drivers_char_mem_c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/018_drivers_char_mem_c
+END
+linux.config
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/linux.config
+END
+036-include_asm-mips_serial_h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/036-include_asm-mips_serial_h
+END
+314-drivers_net_b44_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/314-drivers_net_b44_h.patch
+END
+315-include_linux_pci_ids_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/315-include_linux_pci_ids_h.patch
+END
+600-optional-aout-support
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/600-optional-aout-support
+END
+033-include_asm-mips_cpu_h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/033-include_asm-mips_cpu_h
+END
+313-gcc-4.0-fixes
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/313-gcc-4.0-fixes
+END
+401-hfc-usb-backport-i4l-cvs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/401-hfc-usb-backport-i4l-cvs
+END
+019-drivers_char_serial_c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/019-drivers_char_serial_c
+END
+302-ebtables
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/302-ebtables
+END
+000-linux-mips-2_4_30.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/000-linux-mips-2_4_30.patch
+END
+002-Rules_make
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/002-Rules_make
+END
+005-arch_mips_config-shared_in
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/005-arch_mips_config-shared_in
+END
+011-arch_mips_kernel_setup_c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/011-arch_mips_kernel_setup_c
+END
+311-ipsec-nat-traversal
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/311-ipsec-nat-traversal
+END
+007-arch_mips_kernel_cpu-probe_c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/007-arch_mips_kernel_cpu-probe_c
+END
+301-jffs-compression
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/301-jffs-compression
+END
+202-net_core_Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/202-net_core_Makefile.patch
+END
+020-drivers_mtd-jumbo
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/020-drivers_mtd-jumbo
+END
+304-netfilter-ipp2p-0.7.4
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/304-netfilter-ipp2p-0.7.4
+END
+204-net_sched_sched_api_c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/204-net_sched_sched_api_c.patch
+END
+028-drivers_pcmcia_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/028-drivers_pcmcia_Makefile
+END
+600-linux-squashfs-lzma
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/600-linux-squashfs-lzma
+END
+403-netdev_random_core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/403-netdev_random_core.patch
+END
+031-include_asm-mips_bootinfo_h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/031-include_asm-mips_bootinfo_h
+END
+303-mppe-mppc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/303-mppe-mppc
+END
+205-net_sched_sched_generic_c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/205-net_sched_sched_generic_c.patch
+END
+003-arch_mips_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/003-arch_mips_Makefile
+END
+017-arch_mips_pci_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/017-arch_mips_pci_Makefile
+END
+100-gcc3-mtune
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/100-gcc3-mtune
+END
+037-init_do_mounts_c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/037-init_do_mounts_c
+END
+024-drivers_parport_Config_in
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/024-drivers_parport_Config_in
+END
+308-netfilter-nat-pptp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/308-netfilter-nat-pptp
+END
+021-drivers_net_Config_in-hnd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/021-drivers_net_Config_in-hnd
+END
+306-netfilter-layer7-0.9.1
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/306-netfilter-layer7-0.9.1
+END
+309-drivers_net_b44_c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/309-drivers_net_b44_c.patch
+END
+201-include_linux_skbuff_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/201-include_linux_skbuff_h.patch
+END
+029-arch_mips_mm_c-r4k_c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/029-arch_mips_mm_c-r4k_c
+END
+305-cifs-1.20c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/305-cifs-1.20c
+END
+400-i4l-cvs-2-4-29
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/400-i4l-cvs-2-4-29
+END
+001-Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/001-Makefile
+END
+316-b44_mii_phy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/316-b44_mii_phy.patch
+END
+009-arch_mips_kernel_head_S
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/009-arch_mips_kernel_head_S
+END
+207-hfsplus-fix
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/207-hfsplus-fix
+END
+300-squashfs2.1
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-wrt-2.4.30/300-squashfs2.1
+END

@@ -1,0 +1,11 @@
+--- git/Makefile-orig	2008-05-12 08:12:49.000000000 -0700
++++ git/Makefile	2008-05-12 08:13:33.000000000 -0700
+@@ -23,7 +23,7 @@ endif
+ 
+ RAWTARGETS = ftl_format flash_erase flash_eraseall nanddump doc_loadbios \
+ 	mkfs.jffs ftl_check mkfs.jffs2 flash_lock flash_unlock flash_info \
+-	flash_otp_info flash_otp_dump mtd_debug flashcp nandwrite \
++	flash_otp_info flash_otp_dump flash_otp_write flash_otp_lock mtd_debug flashcp nandwrite \
+ 	jffs2dump \
+ 	nftldump nftl_format docfdisk \
+ 	rfddump rfdformat \

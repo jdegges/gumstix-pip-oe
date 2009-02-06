@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/spitz
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ide.opts
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+4e7133be132e745d3481c8a29b1029dc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

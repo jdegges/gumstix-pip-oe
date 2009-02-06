@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated
+END
+c700-hardware.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/c700-hardware.patch
+END
+mnci-touchscreen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/mnci-touchscreen.patch
+END
+mnci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/mnci.patch
+END
+devfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/devfs.patch
+END
+ipaq-keyboard.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/ipaq-keyboard.patch
+END
+simpad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/simpad.patch
+END
+simpad-defaultkbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.10/deprecated/simpad-defaultkbd.patch
+END

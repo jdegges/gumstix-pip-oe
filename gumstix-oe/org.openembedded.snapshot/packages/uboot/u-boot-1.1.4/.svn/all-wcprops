@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4
+END
+u-boot-mmcclk-alternate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-mmcclk-alternate.patch
+END
+u-boot-make381-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-make381-fix.patch
+END
+u-boot-loadb-safe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-loadb-safe.patch
+END
+u-boot-autoscript.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-autoscript.patch
+END
+u-boot-dht-walnut-df2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-dht-walnut-df2.patch
+END
+u-boot-fw_printenv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-fw_printenv.patch
+END
+u-boot-zzz-osx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-zzz-osx.patch
+END
+u-boot-flash-protect-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-flash-protect-fixup.patch
+END
+u-boot-install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-install.patch
+END
+u-boot-crc-warning-not-so-scary.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-crc-warning-not-so-scary.patch
+END
+u-boot-jffs2-new-nodetypes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-jffs2-new-nodetypes.patch
+END
+u-boot-jerase-cmd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-jerase-cmd.patch
+END
+u-boot-base.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-base.patch
+END
+u-boot-smc91x-multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-smc91x-multi.patch
+END
+u-boot-mmc-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.4/u-boot-mmc-init.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-embeddedkonsole
+END
+opie-embeddedkonsole_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-embeddedkonsole/opie-embeddedkonsole_1.2.2.bb
+END
+opie-embeddedkonsole_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-embeddedkonsole/opie-embeddedkonsole_1.2.3.bb
+END
+opie-embeddedkonsole.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-embeddedkonsole/opie-embeddedkonsole.inc
+END
+opie-embeddedkonsole_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-embeddedkonsole/opie-embeddedkonsole_cvs.bb
+END

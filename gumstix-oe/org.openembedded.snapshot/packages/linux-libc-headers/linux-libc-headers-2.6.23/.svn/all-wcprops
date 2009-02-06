@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.23
+END
+procinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.23/procinfo.h
+END

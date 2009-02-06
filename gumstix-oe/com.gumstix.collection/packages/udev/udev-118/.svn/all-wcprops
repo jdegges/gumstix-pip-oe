@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118
+END
+udevtrigger_add_devname_filtering.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/udevtrigger_add_devname_filtering.patch
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/init
+END
+local.rules
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/local.rules
+END
+permissions.rules
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/permissions.rules
+END
+85-sdmod.rules
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/85-sdmod.rules
+END
+vol_id_ld.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/vol_id_ld.patch
+END
+flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/flags.patch
+END
+udev.rules
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/udev-118/udev.rules
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hotplug-ng/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+flags.patch
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+a4fc6dba85c81ebd65067534671fd1b6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

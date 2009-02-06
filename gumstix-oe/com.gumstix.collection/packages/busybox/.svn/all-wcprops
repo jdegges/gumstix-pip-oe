@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/busybox
+END
+busybox.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/busybox/busybox.inc
+END
+busybox_1.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/busybox/busybox_1.2.1.bb
+END

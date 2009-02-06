@@ -1,0 +1,94 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/parted
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+parted-1.8.0
+dir
+
+files
+dir
+
+parted_1.8.0.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+f9f461fe95e351378df51746aab45e68
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+parted_1.8.2.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+87516f2c380b779097b0149e0f17afe9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+parted_1.6.23.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+1a3782dd836b7f4511eaaff2c36c467c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+parted_1.6.25.1.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+85f88321d541bbdb7fd2e631cf5a968e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+parted_1.8.7.bb
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+f83198cdd456a27648527d58ee20807f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

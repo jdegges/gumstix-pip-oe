@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wellenreiter
+END
+opie-wellenreiter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wellenreiter/opie-wellenreiter.inc
+END
+opie-wellenreiter_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wellenreiter/opie-wellenreiter_cvs.bb
+END
+opie-wellenreiter_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wellenreiter/opie-wellenreiter_1.2.2.bb
+END
+opie-wellenreiter_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-wellenreiter/opie-wellenreiter_1.2.3.bb
+END

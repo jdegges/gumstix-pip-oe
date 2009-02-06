@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows
+END
+microwindows-snapshot.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/microwindows-snapshot.bb
+END
+nxlib_0.45.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/nxlib_0.45.bb
+END
+microwindows.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/microwindows.inc
+END
+microwindows_0.90.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/199/trunk/com.gumstix.collection/packages/microwindows/microwindows_0.90.bb
+END
+microwindows_0.91.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/202/trunk/com.gumstix.collection/packages/microwindows/microwindows_0.91.bb
+END

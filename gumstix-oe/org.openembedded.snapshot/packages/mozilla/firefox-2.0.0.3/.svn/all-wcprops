@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3
+END
+mult-crash-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/mult-crash-fix.patch
+END
+mozilla-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/mozilla-eabi.patch
+END
+jsdtoa-float-type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/jsdtoa-float-type.patch
+END
+xptcinvoke-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/xptcinvoke-arm.patch
+END
+mozconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/mozconfig
+END
+jsautocfg-dontoverwrite.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/jsautocfg-dontoverwrite.patch
+END
+security-cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/security-cross.patch
+END
+xptcstubs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mozilla/firefox-2.0.0.3/xptcstubs.patch
+END

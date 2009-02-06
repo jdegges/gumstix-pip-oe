@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/jamvm/jamvm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+jamvm-1.3.1-size-defaults.patch
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+146b34b8b8dffad8a65800297175b4ac
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+sh3sh4-support.patch
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+05d6b933447c7605771c4e2bea0385b5
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+

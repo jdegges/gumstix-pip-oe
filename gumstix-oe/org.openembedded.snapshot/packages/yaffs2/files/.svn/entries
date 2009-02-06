@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/yaffs2/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+yaffs2-unioob.patch
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+a904215ccd26b2d7e6ac39287457420e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mkyaffs2image.patch
+file
+
+
+
+
+2009-02-06T18:14:34.000000Z
+e36a74af138c7d8924b8eba0492a0b10
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

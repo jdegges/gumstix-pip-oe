@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opensync/syncml-client-0.1
+END
+syncml-client-plugin-h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opensync/syncml-client-0.1/syncml-client-plugin-h.patch
+END
+syncml-client-pc-in-cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opensync/syncml-client-0.1/syncml-client-pc-in-cross.patch
+END

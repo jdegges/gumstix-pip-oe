@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files
+END
+load-xmodmap-k26.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/load-xmodmap-k26.patch
+END
+calibrate-only-if-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/calibrate-only-if-ts.patch
+END
+svn_makefiles.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/svn_makefiles.patch
+END
+softkeys-c7x0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/softkeys-c7x0.patch
+END
+w100.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/w100.patch
+END
+poodle-xmodmap-2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/poodle-xmodmap-2.6.patch
+END
+softkeys-slcxxxx-xmodmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/softkeys-slcxxxx-xmodmap.patch
+END
+sl-cxx00-modmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/sl-cxx00-modmap.patch
+END
+keyboardless-buttonmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/keyboardless-buttonmap.patch
+END
+setDPI.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/setDPI.sh
+END
+calibrate_zaurusd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/calibrate_zaurusd.patch
+END
+at-fix-slcxxxx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/at-fix-slcxxxx.patch
+END
+Xserver-udev-input-helper.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/Xserver-udev-input-helper.patch
+END
+xserver-imageon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/xserver-imageon.patch
+END
+Makefile.translation
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/Makefile.translation
+END
+Makefile.dpkg_ipkg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/Makefile.dpkg_ipkg
+END
+rxvt-less-pink.diff
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-common/files/rxvt-less-pink.diff
+END

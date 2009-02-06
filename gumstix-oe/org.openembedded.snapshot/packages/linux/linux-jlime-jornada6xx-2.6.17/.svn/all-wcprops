@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17
+END
+io.h-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/io.h-fix.patch
+END
+LinuxSH-2.6.17.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/LinuxSH-2.6.17.patch
+END
+defconfig_jlime
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/defconfig_jlime
+END
+keymap-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/keymap-fix.patch
+END
+keyboard-fix-deadkeys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/keyboard-fix-deadkeys.patch
+END
+unexpected-int-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.17/unexpected-int-fix.patch
+END

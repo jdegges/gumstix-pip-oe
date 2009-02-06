@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cyrus-sasl
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cyrus-sasl_2.1.19.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+44264b323230c8d6c91a61a991bf9d0d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+cyrus-sasl-2.1.17
+dir
+
+cyrus-sasl-2.1.19
+dir
+
+cyrus-sasl_2.1.17.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+84ef9e5e7031a6f09d24720ee0824bcb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+cyrus-sasl_2.1.18.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+624ef1e3245ea934dba9caafcf6fc3e0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

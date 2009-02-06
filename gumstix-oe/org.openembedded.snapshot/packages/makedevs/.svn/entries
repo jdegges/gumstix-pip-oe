@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/makedevs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+makedevs-native_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+509186b86f0fc28d8162b924f7877f31
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+makedevs-1.0.0
+dir
+
+makedevs_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+2d423ff04dc92a5094e4b8a35716a337
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

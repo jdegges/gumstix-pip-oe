@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/elftoaout
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+elftoaout_2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+11ec909cef119b5e650f72406cf40a07
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+elftoaout-native_2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+d20a44e8a3cb31ddd8644b6887c660be
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

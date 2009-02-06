@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/qmake
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+qmake2-native-2.10a
+dir
+
+qmake2-native_2.10a.bb
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+1af168b77277ebbb4de7213f1c9179b9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+qmake-native_1.07a.bb
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+d08ff81e798786d5984994faf33760e8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

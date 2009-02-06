@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/153/trunk/com.gumstix.collection/packages/robostix-module/files
+END
+robostix.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/99/trunk/com.gumstix.collection/packages/robostix-module/files/robostix.h
+END
+robostix.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/99/trunk/com.gumstix.collection/packages/robostix-module/files/robostix.c
+END
+robostix.init
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/153/trunk/com.gumstix.collection/packages/robostix-module/files/robostix.init
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/99/trunk/com.gumstix.collection/packages/robostix-module/files/Makefile
+END

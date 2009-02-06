@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/xserver-kdrive-common
+END
+xserver-kdrive-common_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/86/trunk/com.gumstix.collection/packages/xserver-kdrive-common/xserver-kdrive-common_0.1.bb
+END
+xserver-nodm-init.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/xserver-kdrive-common/xserver-nodm-init.bb
+END

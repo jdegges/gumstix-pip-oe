@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/boost/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+unit_test_log10f.patch
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+afe8c0a2ba418048155b0b5d2daaced2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-uclibc.patch
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+0712300530b385d48a6c827d7fbfc824
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

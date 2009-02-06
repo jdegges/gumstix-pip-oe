@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/alix
+END
+geode-mfgpt-support-for-geode-class-machines.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/alix/geode-mfgpt-support-for-geode-class-machines.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/alix/defconfig
+END
+geode-mfgpt-clock-event-device-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/alix/geode-mfgpt-clock-event-device-support.patch
+END

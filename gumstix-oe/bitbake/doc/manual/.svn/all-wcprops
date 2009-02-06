@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/manual
+END
+html.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/manual/html.css
+END
+usermanual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/manual/usermanual.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/manual/Makefile
+END

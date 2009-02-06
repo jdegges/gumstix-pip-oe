@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files
+END
+include-linux-types.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/include-linux-types.patch
+END
+mkdosfs-bootcode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/mkdosfs-bootcode.patch
+END
+mkdosfs-dir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/mkdosfs-dir.patch
+END
+msdos_fat12_undefined.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/msdos_fat12_undefined.patch
+END
+alignment_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/alignment_hack.patch
+END
+dosfstools-msdos_fs-types.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/dosfstools-msdos_fs-types.patch
+END
+dosfstools-2.10-kernel-2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dosfstools/files/dosfstools-2.10-kernel-2.6.patch
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/wpa-supplicant/files
+END
+wpa-supplicant.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/wpa-supplicant.sh
+END
+madwifi-bsd-fix.diff
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/madwifi-bsd-fix.diff
+END
+functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/functions.sh
+END
+wpa_supplicant_default.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/wpa_supplicant_default.conf
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/defconfig
+END
+driver-marvell.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/driver-marvell.patch
+END
+defaults-sane
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/defaults-sane
+END
+defconfig-internal-tls
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/defconfig-internal-tls
+END
+defconfig-gnutls
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/defconfig-gnutls
+END
+use-channel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/use-channel.patch
+END
+wpa_supplicant.conf-sane
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/wpa_supplicant.conf-sane
+END
+ifupdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/ifupdown.sh
+END
+driver-hermes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/driver-hermes.patch
+END
+adhoc-support-for-marvell.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/adhoc-support-for-marvell.patch
+END
+init.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/init.sh
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wpa-supplicant/files/wpa_supplicant.conf
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils
+END
+ipkg-link_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-link_1.6+cvs20050404.bb
+END
+ipkg-utils_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils_1.6+cvs20050404.bb
+END
+ipkg-utils-native_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ipkg-utils/ipkg-utils-native_1.6+cvs20050404.bb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-3-2.6.15.4
+END
+defconfig-mtx-3
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-3-2.6.15.4/defconfig-mtx-3
+END
+00-mtx-3.diff
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-3-2.6.15.4/00-mtx-3.diff
+END
+01-verbose-and-fatal-mkuboot.diff
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-3-2.6.15.4/01-verbose-and-fatal-mkuboot.diff
+END

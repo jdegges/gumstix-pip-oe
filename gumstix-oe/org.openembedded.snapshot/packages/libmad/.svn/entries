@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libmad
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libmad_0.15.0b.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+b42c0167d43db64f8840cc97b5351ef5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libmad_0.15.1b.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+c1dd7ef5ac4b13d33a52d73a07c25000
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

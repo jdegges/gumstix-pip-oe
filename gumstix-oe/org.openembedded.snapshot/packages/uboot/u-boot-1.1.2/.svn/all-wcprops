@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2
+END
+u-boot-emetec.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/u-boot-emetec.patch
+END
+mnci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/mnci.patch
+END
+arm_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/arm_flags.patch
+END
+cmd-arm-linux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/cmd-arm-linux.patch
+END
+mnci-jffs2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/mnci-jffs2.patch
+END
+command-names.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/command-names.patch
+END
+u-boot-1.1.2-neon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-1.1.2/u-boot-1.1.2-neon.patch
+END

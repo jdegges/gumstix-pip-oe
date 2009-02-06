@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext
+END
+gettext_0.14.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext_0.14.1.bb
+END
+gettext-native_0.14.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-native_0.14.1.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/base-files/base-files/tosa
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fstab
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+6ae17658f1d1025cba1cb28a468ec3c0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+usbd
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+55a28a535294a22845cd33c2bcdf6ce3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

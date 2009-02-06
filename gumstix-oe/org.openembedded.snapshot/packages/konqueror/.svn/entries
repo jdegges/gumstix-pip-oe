@@ -1,0 +1,76 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/konqueror
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+konqueror-embedded-20070212
+dir
+
+konqueror-embedded-20060404
+dir
+
+konqueror-embedded-20030705
+dir
+
+konqueror-embedded_20070212.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+50448ac41135375e02dace15b694f515
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+konqueror-embedded_20060404.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+98bbbaa99cbd49a9f4b2c7a8170c8026
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+konqueror-embedded_20030705.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+d5fda2b6a3b27e1be9db465357ee49c0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

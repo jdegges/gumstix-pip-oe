@@ -1,0 +1,73 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/portabase
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+portabase-1.9
+dir
+
+metakit-2.4.9.3
+dir
+
+portabase_1.9.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+03a1dd6432fc81b17b9d8105d05a3e52
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+metakit_2.4.9.3.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+e26bd9645d67ee1c7f3318e41e8d4a16
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+beecrypt
+dir
+
+beecrypt_3.1.0.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+7c76659b38d23d99e14ef22b3a5c956a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

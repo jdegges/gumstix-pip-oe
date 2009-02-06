@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/musicbrainz
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libmusicbrainz_2.1.4.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+e8d36c64c874d73cfa149aa8f816684a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libmusicbrainz_3.0.1.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+864f7c1155ec5d41a917c1bd15b7d472
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

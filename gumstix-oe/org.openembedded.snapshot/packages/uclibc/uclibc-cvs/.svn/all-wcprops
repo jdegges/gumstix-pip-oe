@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs
+END
+thumb-defined-arm-or-thumb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/thumb-defined-arm-or-thumb.patch
+END
+thumb-mov-pc-bx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/thumb-mov-pc-bx.patch
+END
+error_print_progname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/error_print_progname.patch
+END
+thumb-asm-swi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-cvs/thumb-asm-swi.patch
+END

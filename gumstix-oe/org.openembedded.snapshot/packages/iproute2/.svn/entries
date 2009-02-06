@@ -1,0 +1,85 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iproute2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+iproute2_2.6.20.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+7825bb32457f4a2a021358b11d9ccf45
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iproute2.inc
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+ca776742b6b3815d72e1a237d6e45863
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iproute2_2.6.22.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+36994513f830ffd725d6b5d21ef4779e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iproute2-2.6.18
+dir
+
+iproute2_2.6.18.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+456d92a61a75a24c35707ec637cad2ee
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iproute2-2.6.20
+dir
+
+iproute2-2.6.22
+dir
+

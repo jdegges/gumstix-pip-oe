@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed
+END
+claws-plugin-rssyl_0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/claws-plugin-rssyl_0.10.bb
+END
+claws-plugin-mailmbox_1.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/claws-plugin-mailmbox_1.14.bb
+END
+claws-plugin-gtkhtml2-viewer_0.15.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/claws-plugin-gtkhtml2-viewer_0.15.2.bb
+END
+claws-plugin-rssyl_0.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/claws-plugin-rssyl_0.15.bb
+END
+sylpheed_2.2.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/sylpheed_2.2.9.bb
+END
+claws-mail_3.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sylpheed/claws-mail_3.0.2.bb
+END

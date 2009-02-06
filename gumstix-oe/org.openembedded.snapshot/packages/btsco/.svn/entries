@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/btsco
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+btsco_0.42.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+b6cb360611d5106a4675e38ddc204d8d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+btsco-module_0.41.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+6ad3cec0629829575803d6cf32761cc7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+btsco-module_0.42.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+aa9374b2766e44e69e6caa1d524de397
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+btsco.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+4604b7ae665dd95863e36caf2d6cdf06
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+btsco-module.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+5592a3f9afe26ee7245d6b175bf7335d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+btsco-module-0.41
+dir
+
+btsco-module-0.42
+dir
+
+btsco_0.41.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+0f8835f70a99ab502a5140206ee1663a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

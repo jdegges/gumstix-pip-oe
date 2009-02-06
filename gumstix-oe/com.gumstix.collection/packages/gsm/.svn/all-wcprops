@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/289/trunk/com.gumstix.collection/packages/gsm
+END
+gsmd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/289/trunk/com.gumstix.collection/packages/gsm/gsmd.inc
+END
+libgsmd-devel_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/libgsmd-devel_svn.bb
+END
+libgsmd_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/libgsmd_svn.bb
+END
+pty_0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/pty_0.0.bb
+END

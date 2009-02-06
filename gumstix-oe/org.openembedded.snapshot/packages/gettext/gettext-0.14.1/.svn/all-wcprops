@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/95/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1
+END
+disable_java.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/95/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1/disable_java.patch
+END
+gettext-vpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1/gettext-vpath.patch
+END
+getline.m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1/getline.m4.patch
+END
+fixchicken.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1/fixchicken.patch
+END
+gettext-error_print_progname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gettext/gettext-0.14.1/gettext-error_print_progname.patch
+END

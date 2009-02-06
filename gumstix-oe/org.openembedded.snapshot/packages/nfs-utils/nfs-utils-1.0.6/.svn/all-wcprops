@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6
+END
+acinclude-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6/acinclude-lossage.patch
+END
+forgotten-defines
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6/forgotten-defines
+END
+kernel-2.6.18+.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6/kernel-2.6.18+.patch
+END
+rpcgen-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6/rpcgen-lossage.patch
+END
+stat-include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nfs-utils/nfs-utils-1.0.6/stat-include.patch
+END

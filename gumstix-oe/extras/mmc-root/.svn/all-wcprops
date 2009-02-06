@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gumstix/!svn/ver/253/trunk/extras/mmc-root
+END
+makefactoryscript.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/253/trunk/extras/mmc-root/makefactoryscript.sh
+END
+gumstix-factory.script.source
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/251/trunk/extras/mmc-root/gumstix-factory.script.source
+END
+gumstix-factory.script
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/251/trunk/extras/mmc-root/gumstix-factory.script
+END
+mkimage
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/251/trunk/extras/mmc-root/mkimage
+END

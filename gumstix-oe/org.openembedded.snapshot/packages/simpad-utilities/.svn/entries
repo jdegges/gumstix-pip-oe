@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/simpad-utilities
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+serload-native.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+090d12df2983b860b6f557f0f902a0e8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+genboot-native.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+257f51c66de86c1ab12fe631e3ce8626
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+simpad-utilities.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+204018eacb1a9c00d66a58b435307700
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+serload
+dir
+
+genboot
+dir
+

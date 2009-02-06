@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xcursor-transparent-theme
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+xcursor-transparent-theme-0.1.1
+dir
+
+xcursor-transparent-theme_0.1.1.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+adbe2e012332526b770e3f533c83ae71
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

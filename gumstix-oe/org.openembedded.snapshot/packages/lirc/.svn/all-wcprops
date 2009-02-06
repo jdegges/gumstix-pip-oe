@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc
+END
+lirc-modules_0.8.1+cvs20070307.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc-modules_0.8.1+cvs20070307.bb
+END
+lirc-config.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc-config.inc
+END
+lirc-modules_0.8.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc-modules_0.8.0.bb
+END
+lirc-modules_0.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc-modules_0.8.1.bb
+END
+lirc_0.8.1+cvs20070307.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc_0.8.1+cvs20070307.bb
+END
+lirc_0.8.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/lirc/lirc_0.8.0.bb
+END

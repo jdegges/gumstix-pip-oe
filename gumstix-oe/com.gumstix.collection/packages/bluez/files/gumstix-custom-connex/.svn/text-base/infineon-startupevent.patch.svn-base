@@ -1,0 +1,33 @@
+--- bluez-utils-3.24/tools/hciattach.c-orig	2008-04-01 11:09:30.000000000 -0700
++++ bluez-utils-3.24/tools/hciattach.c	2008-04-01 11:10:58.000000000 -0700
+@@ -1100,7 +1100,9 @@
+ 	unsigned char cmd[10], resp[HCI_MAX_EVENT_SIZE];
+ 	int baudrates[] = { u->init_speed, 921600, 115200, 57600 };
+ 	int old_alarm = alarm(20); // Extend timeout
+-	int i, j, retval;
++	int i, j, retval, tries;
++
++  tries = 0;
+ 
+ 	cmd[0] = HCI_COMMAND_PKT; // Determine what module we're talking to
+ 	cmd[1] = OCF_READ_LOCAL_VERSION;
+@@ -1136,11 +1138,18 @@
+ 			printf("No response from BT module\n");
+ 			continue;
+ 		} else {
++retry:
+ 			retval = read_hci_event(fd, resp, HCI_MAX_EVENT_SIZE);
+ 			if (retval < 0) {
+ 				perror("Error reading response");
+ 				continue;
+-			} else if(retval == READ_LOCAL_VERSION_RP_SIZE + 6) { // The 6 is 0x04 0x0e 0xnn 0xmm 0x01 0x10
++			} else if (retval == 4) {
++        printf ("Got Startup Event -- retrying once\n");
++        if (tries++ == 0)
++          goto retry;
++        else
++          continue; 
++      } else if(retval == READ_LOCAL_VERSION_RP_SIZE + 6) { // The 6 is 0x04 0x0e 0xnn 0xmm 0x01 0x10
+ 				read_local_version_rp *vers = (read_local_version_rp *)&(resp[6]);
+ 				printf("Detected bluetooth module at %d baud\n",baudrates[i]);
+ 				printf("Got: status=0x%02x, hci_ver=0x%02x, hci_rev=0x%04x, lmp_ver=0x%02x, manuf=0x%04x, lmp_subver=0x%04x\n",

@@ -1,0 +1,53 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/rott/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+rott.jpg
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+6838881864c2ccc5dd23d7ddfdf85205
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+gcc4.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+2d72f53ec3c831cb884015d236325b53
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-todolistplugin
+END
+opie-today-todolistplugin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-todolistplugin/opie-today-todolistplugin.inc
+END
+opie-today-todolistplugin_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-todolistplugin/opie-today-todolistplugin_cvs.bb
+END
+opie-today-todolistplugin_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-todolistplugin/opie-today-todolistplugin_1.2.2.bb
+END
+opie-today-todolistplugin_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-todolistplugin/opie-today-todolistplugin_1.2.3.bb
+END

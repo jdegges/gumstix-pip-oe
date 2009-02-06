@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/db
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+db3-3.2.9
+dir
+
+db_4.2.52.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+5628d89e200283e40a86c2571e621912
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+files
+dir
+
+db-native_4.2.52.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+3ac99d657a1b0fc2ec94055ad77fc968
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+db3_3.2.9.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+2c852d25ce0f711b2ebe833dce50f121
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+db_4.3.29.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+659d2a1f1647ef576d62e2b78ec25eed
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+db3-native_3.2.9.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+394c744c94dbcb13ae57435291897f09
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+db-native_4.3.29.bb
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+46839c28adff2b8ee9cde6f055311fed
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+

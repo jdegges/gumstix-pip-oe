@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko
+END
+fix-EVIOCGRAB-semantics-2.6.22.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko/fix-EVIOCGRAB-semantics-2.6.22.5.patch
+END
+fix-EVIOCGRAB-semantics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko/fix-EVIOCGRAB-semantics.patch
+END
+logo_linux_clut224.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko/logo_linux_clut224.ppm
+END
+defconfig-2.6.22.5
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko/defconfig-2.6.22.5
+END

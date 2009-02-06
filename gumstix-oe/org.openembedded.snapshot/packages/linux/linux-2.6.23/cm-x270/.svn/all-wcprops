@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270
+END
+0001-cm-x270-base2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0001-cm-x270-base2.patch
+END
+0002-cm-x270-match-type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0002-cm-x270-match-type.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/defconfig
+END
+0004-cm-x270-it8152.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0004-cm-x270-it8152.patch
+END
+0008-cm-x270-nand-simplify-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0008-cm-x270-nand-simplify-name.patch
+END
+0005-cm-x270-pcmcia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0005-cm-x270-pcmcia.patch
+END
+0003-cm-x270-ide.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0003-cm-x270-ide.patch
+END
+0006-ramdisk_load.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0006-ramdisk_load.patch
+END
+0007-mmcsd_large_cards-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23/cm-x270/0007-mmcsd_large_cards-r0.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsplusutils/hfsplusutils-1.0.4-4
+END
+hfsplusutils-1.0.4-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsplusutils/hfsplusutils-1.0.4-4/hfsplusutils-1.0.4-gcc4.patch
+END
+hfsplusutils-1.0.4-glob.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsplusutils/hfsplusutils-1.0.4-4/hfsplusutils-1.0.4-glob.patch
+END
+hfsplusutils-1.0.4-errno.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsplusutils/hfsplusutils-1.0.4-4/hfsplusutils-1.0.4-errno.patch
+END
+hfsplusutils-1.0.4-string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/hfsplusutils/hfsplusutils-1.0.4-4/hfsplusutils-1.0.4-string.patch
+END

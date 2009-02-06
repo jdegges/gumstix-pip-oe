@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openssl
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+openssl-0.9.7e
+dir
+
+openssl-0.9.7g
+dir
+
+openssl_0.9.7e.bb
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+7fc173e8d8b9713ff877b723740aedd9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssl_0.9.7g.bb
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+7c21f7a76b40f80f97f6409878b980db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssl-native_0.9.7g.bb
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+1147f782f7de9ef6ec6902cc6716f39a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssl.inc
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+aec9262f5b52d3fe6c8059ec58b69922
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

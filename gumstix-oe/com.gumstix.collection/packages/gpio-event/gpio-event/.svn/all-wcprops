@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/gpio-event/gpio-event
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/292/trunk/com.gumstix.collection/packages/gpio-event/gpio-event/makefile.patch
+END

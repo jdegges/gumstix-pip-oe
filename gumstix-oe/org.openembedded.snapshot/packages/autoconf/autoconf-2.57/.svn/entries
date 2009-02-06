@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.57
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+program_prefix.patch
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+7d0cac354e03e5c0ff8640005f82fd99
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

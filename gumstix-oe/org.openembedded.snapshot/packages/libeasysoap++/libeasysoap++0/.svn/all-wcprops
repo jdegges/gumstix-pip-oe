@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libeasysoap++/libeasysoap++0
+END
+libeasysoap++0-0.6.1-template-keyword-qualifier-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libeasysoap++/libeasysoap++0/libeasysoap++0-0.6.1-template-keyword-qualifier-swb.patch
+END
+libeasysoap++0-0.6.1-autoreconf-fixes-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libeasysoap++/libeasysoap++0/libeasysoap++0-0.6.1-autoreconf-fixes-swb.patch
+END
+libeasysoap++0-0.6.1-compile-errors-swb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libeasysoap++/libeasysoap++0/libeasysoap++0-0.6.1-compile-errors-swb.patch
+END

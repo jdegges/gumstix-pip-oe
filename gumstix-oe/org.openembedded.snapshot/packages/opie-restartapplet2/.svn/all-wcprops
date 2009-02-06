@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-restartapplet2
+END
+opie-restartapplet2_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-restartapplet2/opie-restartapplet2_cvs.bb
+END
+opie-restartapplet2_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-restartapplet2/opie-restartapplet2_1.2.2.bb
+END
+opie-restartapplet2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-restartapplet2/opie-restartapplet2.inc
+END

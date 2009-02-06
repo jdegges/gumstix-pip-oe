@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gsoap
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gsoap_2.7.7.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+30ada82ce197616427db15602ab9fe85
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gsoap-native_2.7.7.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+5979d6d9f8febc23951ebe72fd22e9c7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,187 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.28
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+powerpc
+dir
+
+arm
+dir
+
+thumb-defined-arm-or-thumb.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+ee78bd02dc1cdece3b3bbaa0b53e1e8b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-mov-pc-bx.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+54ec765a9c6a43e5ccf88f3fea9cfb17
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dl-startup.h.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+c14300157a57b54603561a813d43a769
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt54
+dir
+
+armeb
+dir
+
+dl-string.h.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+dea67dc26695353c9030f40e7097d400
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dl-sysdep.h.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+df72b2504c52e3fc3f34428206d1c6ab
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mipsel
+dir
+
+i386
+dir
+
+i486
+dir
+
+thumb-resolve.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+09d35bb4f32792ac95d479c6034b6e23
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-call-via-rx.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+a34702de05f98e8707dc7392bd5659d3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+i586
+dir
+
+thumb-asm-swi.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+034d3f5528d8bf7c56bda52d63e671c6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+i686
+dir
+
+avr32
+dir
+
+sh3
+dir
+
+sh4
+dir
+
+thumb-sysnum-h.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+44a9cf5b53e2bad9c2d5301b2a105632
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-swi-r7.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+47fa7441ce291b2ef90dec4140a29c3b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx
+dir
+

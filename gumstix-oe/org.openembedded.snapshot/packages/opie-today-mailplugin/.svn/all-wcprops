@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-mailplugin
+END
+opie-today-mailplugin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-mailplugin/opie-today-mailplugin.inc
+END
+opie-today-mailplugin_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-mailplugin/opie-today-mailplugin_cvs.bb
+END
+opie-today-mailplugin_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-mailplugin/opie-today-mailplugin_1.2.2.bb
+END
+opie-today-mailplugin_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-today-mailplugin/opie-today-mailplugin_1.2.3.bb
+END

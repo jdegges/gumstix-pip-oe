@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/233/trunk/com.gumstix.collection/packages/opkg
+END
+opkg_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/233/trunk/com.gumstix.collection/packages/opkg/opkg_svn.bb
+END
+opkg-ipkg-compat.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/233/trunk/com.gumstix.collection/packages/opkg/opkg-ipkg-compat.bb
+END
+opkg-native_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/233/trunk/com.gumstix.collection/packages/opkg/opkg-native_svn.bb
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/balsa
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+balsa-2.0.17
+dir
+
+balsa_2.0.17.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+1841dea241d99fa83b2477f9a273f9f3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

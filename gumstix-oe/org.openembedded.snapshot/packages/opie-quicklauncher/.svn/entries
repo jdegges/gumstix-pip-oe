@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-quicklauncher
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-quicklauncher.inc
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+d8f9ed9d536b71ceb77ce63c4384921f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-quicklauncher_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+3a2bb92d151870cc166309e113f6b1de
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-quicklauncher
+dir
+
+opie-quicklauncher_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+a25a7726559dbb10a0dc3fb50d5fa268
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-quicklauncher_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+08a0c986740dad5e80e53521b39c9741
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

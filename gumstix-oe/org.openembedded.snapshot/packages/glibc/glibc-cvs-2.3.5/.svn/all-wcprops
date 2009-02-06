@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5
+END
+no-z-defs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/no-z-defs.patch
+END
+arm-audit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/arm-audit.patch
+END
+raise.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/raise.patch
+END
+dl-cache-libcmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/dl-cache-libcmp.patch
+END
+arm-audit2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/arm-audit2.patch
+END
+zecke-sane-readelf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/zecke-sane-readelf.patch
+END
+arm-memcpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/arm-memcpy.patch
+END
+arm-no-hwcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/arm-no-hwcap.patch
+END
+superh-fcntl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/superh-fcntl.patch
+END
+arm-longlong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/arm-longlong.patch
+END
+dyn-ldconfig-20041128.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/dyn-ldconfig-20041128.patch
+END
+ldsocache-varrun.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs-2.3.5/ldsocache-varrun.patch
+END

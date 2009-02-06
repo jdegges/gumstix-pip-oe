@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.5
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.5/autotools.patch
+END
+tail.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.5/tail.patch
+END

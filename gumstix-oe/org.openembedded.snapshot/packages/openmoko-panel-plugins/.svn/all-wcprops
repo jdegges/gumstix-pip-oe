@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins
+END
+openmoko-panel-bt_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-bt_svn.bb
+END
+openmoko-panel-gsm_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-gsm_svn.bb
+END
+openmoko-panel-gps_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-gps_svn.bb
+END
+openmoko-panel-mainmenu_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-mainmenu_svn.bb
+END
+openmoko-panel-usb_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-usb_svn.bb
+END
+openmoko-panel-battery_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-battery_svn.bb
+END
+openmoko-panel-clock_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-panel-plugins/openmoko-panel-clock_svn.bb
+END

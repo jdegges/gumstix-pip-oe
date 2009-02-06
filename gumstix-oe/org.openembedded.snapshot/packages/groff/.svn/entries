@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/groff
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+groff
+dir
+
+groff_1.19.1.bb
+file
+
+
+
+
+2009-02-06T18:14:57.000000Z
+321b79fd3fb759d5b75160bc3f9086b8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+groff_1.19.2.bb
+file
+
+
+
+
+2009-02-06T18:14:57.000000Z
+8347c744c3cc7812c5fa4487eeff1f65
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

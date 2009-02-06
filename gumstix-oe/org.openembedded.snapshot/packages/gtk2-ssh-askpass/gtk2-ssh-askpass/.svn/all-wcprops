@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk2-ssh-askpass/gtk2-ssh-askpass
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk2-ssh-askpass/gtk2-ssh-askpass/makefile.patch
+END

@@ -1,0 +1,155 @@
+#
+# Copyright 2006-2007 Openedhand Ltd.
+#
+
+do_rootfs[depends] += "dpkg-native:do_populate_staging apt-native:do_populate_staging"
+do_rootfs[recrdeptask] += "do_package_write_deb"
+
+fakeroot rootfs_deb_do_rootfs () {
+	set +e
+	mkdir -p ${IMAGE_ROOTFS}/var/dpkg/info
+	mkdir -p ${IMAGE_ROOTFS}/var/dpkg/updates
+
+	rm -f ${STAGING_DIR}${sysconfdir}/apt/sources.list.rev
+	rm -f ${STAGING_DIR}${sysconfdir}/apt/preferences
+	> ${IMAGE_ROOTFS}/var/dpkg/status
+	> ${IMAGE_ROOTFS}/var/dpkg/available
+	# > ${STAGING_DIR}/var/dpkg/status
+
+	priority=1
+	for arch in ${PACKAGE_ARCHS}; do
+		if [ ! -d ${DEPLOY_DIR_DEB}/$arch ]; then
+			continue;
+		fi
+		cd ${DEPLOY_DIR_DEB}/$arch
+		# if [ -z "${DEPLOY_KEEP_PACKAGES}" ]; then
+			rm -f Packages.gz Packages Packages.bz2
+		# fi
+		apt-ftparchive packages . | bzip2 > Packages.bz2
+		echo "Label: $arch" > Release
+
+		echo "deb file:${DEPLOY_DIR_DEB}/$arch/ ./" >> ${STAGING_DIR}${sysconfdir}/apt/sources.list.rev
+		(echo "Package: *"
+		echo "Pin: release l=$arch"
+		echo "Pin-Priority: $((800 + $priority))"
+		echo) >> ${STAGING_DIR}${sysconfdir}/apt/preferences
+		priority=$(expr $priority + 5)
+	done
+
+	tac ${STAGING_DIR}${sysconfdir}/apt/sources.list.rev > ${STAGING_DIR}${sysconfdir}/apt/sources.list
+
+	cat "${STAGING_DIR}${sysconfdir}/apt/apt.conf.sample" \
+		| sed -e 's#Architecture ".*";#Architecture "${TARGET_ARCH}";#' \
+		> "${STAGING_DIR}${sysconfdir}/apt/apt-rootfs.conf"
+
+	export APT_CONFIG="${STAGING_DIR}${sysconfdir}/apt/apt-rootfs.conf"
+	export D=${IMAGE_ROOTFS}
+	export OFFLINE_ROOT=${IMAGE_ROOTFS}
+	export IPKG_OFFLINE_ROOT=${IMAGE_ROOTFS}
+
+	apt-get update
+
+	_flag () {
+		sed -i -e "/^Package: $2\$/{n; s/Status: install ok .*/Status: install ok $1/;}" ${IMAGE_ROOTFS}/var/dpkg/status
+	}
+	_getflag () {
+		cat ${IMAGE_ROOTFS}/var/dpkg/status | sed -n -e "/^Package: $2\$/{n; s/Status: install ok .*/$1/; p}"
+	}
+
+	if [ x${TARGET_OS} = "xlinux" ] || [ x${TARGET_OS} = "xlinux-gnueabi" ] ; then
+		if [ ! -z "${LINGUAS_INSTALL}" ]; then
+			apt-get install glibc-localedata-i18n --force-yes --allow-unauthenticated
+			if [ $? -ne 0 ]; then
+				exit 1
+			fi
+			for i in ${LINGUAS_INSTALL}; do
+				apt-get install $i --force-yes --allow-unauthenticated
+				if [ $? -ne 0 ]; then
+					exit 1
+				fi
+			done
+		fi
+	fi
+
+	if [ ! -z "${PACKAGE_INSTALL}" ]; then
+		for i in ${PACKAGE_INSTALL}; do
+			apt-get install $i --force-yes --allow-unauthenticated
+			if [ $? -ne 0 ]; then
+				exit 1
+			fi
+			find ${IMAGE_ROOTFS} -name \*.dpkg-new | for i in `cat`; do
+				mv $i `echo $i | sed -e's,\.dpkg-new$,,'`
+			done
+		done
+	fi
+
+	install -d ${IMAGE_ROOTFS}/${sysconfdir}
+	echo ${BUILDNAME} > ${IMAGE_ROOTFS}/${sysconfdir}/version
+
+	# Mark all packages installed
+	sed -i -e "s/Status: install ok unpacked/Status: install ok installed/;" ${IMAGE_ROOTFS}/var/dpkg/status
+
+	# Attempt to run preinsts
+	# Mark packages with preinst failures as unpacked
+	for i in ${IMAGE_ROOTFS}/var/dpkg/info/*.preinst; do
+		if [ -f $i ] && ! sh $i; then
+			_flag unpacked `basename $i .preinst`
+		fi
+	done
+
+	# Attempt to run postinsts
+	# Mark packages with postinst failures as unpacked
+	for i in ${IMAGE_ROOTFS}/var/dpkg/info/*.postinst; do
+		if [ -f $i ] && ! sh $i configure; then
+			_flag unpacked `basename $i .postinst`
+		fi
+	done
+
+	set -e
+
+	# Hacks to make dpkg/ipkg coexist for now
+	mv ${IMAGE_ROOTFS}/var/dpkg ${IMAGE_ROOTFS}/usr/
+	if [ -e ${IMAGE_ROOTFS}/usr/dpkg/alternatives ]; then
+		rmdir ${IMAGE_ROOTFS}/usr/dpkg/alternatives
+	fi
+        if [ ! -e ${IMAGE_ROOTFS}${libdir}/ipkg ] ; then
+                mkdir -p ${IMAGE_ROOTFS}${libdir}/ipkg
+        fi
+
+        if [ ! -e ${IMAGE_ROOTFS}${sysconfdir}/ipkg ] ; then
+                mkdir -p ${IMAGE_ROOTFS}${sysconfdir}/ipkg
+        fi
+ 
+	ln -sf ${libdir}/ipkg/alternatives ${IMAGE_ROOTFS}/usr/dpkg/alternatives
+	ln -sf /usr/dpkg/info ${IMAGE_ROOTFS}${libdir}/ipkg/info
+	ln -sf /usr/dpkg/status ${IMAGE_ROOTFS}${libdir}/ipkg/status
+
+	${ROOTFS_POSTPROCESS_COMMAND}
+
+	log_check rootfs 
+}
+
+rootfs_deb_log_check() {
+	target="$1"
+        lf_path="$2"
+
+	lf_txt="`cat $lf_path`"
+	for keyword_die in "E:"
+	do				
+		if (echo "$lf_txt" | grep -v log_check | grep "$keyword_die") >/dev/null 2>&1
+		then
+			echo "log_check: There were error messages in the logfile"
+			echo -e "log_check: Matched keyword: [$keyword_die]\n"
+			echo "$lf_txt" | grep -v log_check | grep -C 5 -i "$keyword_die"
+			echo ""
+			do_exit=1
+		fi
+	done
+	test "$do_exit" = 1 && exit 1						
+	true
+}
+
+remove_packaging_data_files() {
+	rm -rf ${IMAGE_ROOTFS}${libdir}/ipkg/
+	rm -rf ${IMAGE_ROOTFS}/usr/dpkg/
+}

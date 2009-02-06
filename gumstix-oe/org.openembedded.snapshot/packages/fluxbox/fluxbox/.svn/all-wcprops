@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox
+END
+apps.gpe.default
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/apps.gpe.default
+END
+fluxbox-gpe-session
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/fluxbox-gpe-session
+END
+fluxbox-gpe.session
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/fluxbox-gpe.session
+END
+keys.akita
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/keys.akita
+END
+apps.gpe.akita
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/apps.gpe.akita
+END
+gpe-logout.fluxbox
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/gpe-logout.fluxbox
+END
+gpe-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/gpe-init.patch
+END
+style.gpe-default
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/style.gpe-default
+END
+keylaunchrc.fluxbox
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/keylaunchrc.fluxbox
+END
+keys.default
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fluxbox/fluxbox/keys.default
+END

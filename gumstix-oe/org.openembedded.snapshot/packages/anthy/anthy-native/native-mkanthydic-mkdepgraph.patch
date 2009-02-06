@@ -1,0 +1,45 @@
+--- anthy-7811/mkanthydic/Makefile.am~	2006-05-13 18:28:35.000000000 +0900
++++ anthy-7811/mkanthydic/Makefile.am	2006-06-18 10:56:25.770000000 +0900
+@@ -3,7 +3,7 @@
+ CLEANFILES = anthy.dic
+ INCLUDES = -I$(top_srcdir)/include -DSRCDIR=\"$(srcdir)\"
+ 
+-noinst_PROGRAMS = mkfiledic
++bin_PROGRAMS = mkfiledic
+ mkfiledic_SOURCES = mkfiledic.c
+ mkfiledic_LDADD = ../src-diclib/libdiclib.la
+ 
+--- anthy-7811/depgraph/Makefile.am~	2006-06-02 00:20:54.000000000 +0900
++++ anthy-7811/depgraph/Makefile.am	2006-06-18 10:57:19.420000000 +0900
+@@ -9,7 +9,7 @@
+ EXTRA_DIST = indepword.txt $(DEPWORDS)
+ 
+ # Generate the dictionary
+-noinst_PROGRAMS = mkdepgraph
++bin_PROGRAMS = mkdepgraph
+ mkdepgraph_SOURCES = mkdepgraph.c
+ mkdepgraph_LDADD =  ../src-main/libanthy.la ../src-worddic/libanthydic.la
+ 
+--- anthy-7811/mkworddic/Makefile.am~	2006-05-13 18:29:07.000000000 +0900
++++ anthy-7811/mkworddic/Makefile.am	2006-06-18 11:21:56.300000000 +0900
+@@ -16,7 +16,8 @@
+  udict dict.args.in
+ 
+ # Generate the dictionary
+-noinst_PROGRAMS = mkworddic
++#noinst_PROGRAMS = mkworddic
++bin_PROGRAMS = mkworddic
+ mkworddic_SOURCES = mkdic.c writewords.c mkudic.c mkdic.h
+ mkworddic_LDADD = ../src-worddic/libanthydic.la
+ 
+--- anthy-7811/mkmatrix/Makefile.am~	2006-06-18 11:29:52.110000000 +0900
++++ anthy-7811/mkmatrix/Makefile.am	2006-06-18 11:32:30.630000000 +0900
+@@ -1,6 +1,7 @@
+ EXTRA_DIST = dep.sorted
+ 
+-noinst_PROGRAMS = mkmatrix
++#noinst_PROGRAMS = mkmatrix
++bin_PROGRAMS = mkmatrix
+ INCLUDES = -I$(top_srcdir)/include
+ mkmatrix_LDADD = ../src-worddic/libanthydic.la -lm
+ mkmatrix_SOURCES = mkmatrix.c

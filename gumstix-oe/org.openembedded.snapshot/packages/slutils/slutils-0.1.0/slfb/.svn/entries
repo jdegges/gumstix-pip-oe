@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/slfb
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+slfb.pro
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+cb0dd805e966ba11c93c49ae49918cb0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slfb.c
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+c1be463794d6652bcb004ea58d90acb7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

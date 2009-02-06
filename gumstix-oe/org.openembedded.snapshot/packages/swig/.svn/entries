@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/swig
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+swig-native_1.3.31.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+ed807cd86fa6b16f80bf6054f2f694de
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+swig_1.3.31.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+7735c6810f71f3435c73e08a160b961a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

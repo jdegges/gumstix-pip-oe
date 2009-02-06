@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-1.35
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-1.35/configure.patch
+END
+compile-subst.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-1.35/compile-subst.patch
+END
+ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-1.35/ldflags.patch
+END
+m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs/e2fsprogs-libs-1.35/m4.patch
+END

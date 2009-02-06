@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver
+END
+xserver-kdrive_1.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive_1.1.0.bb
+END
+xserver-kdrive_1.3.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive_1.3.0.0.bb
+END
+xserver-kdrive_1.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive_1.2.0.bb
+END
+xserver-kdrive_1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive_1.4.bb
+END
+xserver-kdrive-xomap_1.1.99.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-xomap_1.1.99.3.bb
+END
+xserver-kdrive_git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive_git.bb
+END
+xserver-xorg_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-xorg_cvs.bb
+END
+xorg-xserver-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xorg-xserver-common.inc
+END
+xserver-xorg_1.3.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-xorg_1.3.0.0.bb
+END
+xserver-xorg_1.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-xorg_1.2.0.bb
+END
+xserver-kdrive-imageon_1.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-imageon_1.2.0.bb
+END
+xserver-kdrive-common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-common.inc
+END

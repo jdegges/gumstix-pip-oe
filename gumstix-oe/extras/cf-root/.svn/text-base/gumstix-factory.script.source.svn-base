@@ -1,0 +1,9 @@
+echo "Booting from CF..."
+set workedok Failed
+if pinit on; then
+       setenv bootargs console=ttyS0,115200n8 rootdelay=1 root=/dev/hda2
+       if fatload ide 0 a2000000 uimage; then
+               set workedok Success
+       fi
+fi
+bootm a2000000

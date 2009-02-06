@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/bash/bash-3.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+signames-mipsel.diff
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+2ced8f56aabf1e4f1327ecf88f13ef91
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+bash-3.0-fixes.patch
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+e0899d145e514640fc0c1b148f160bc1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

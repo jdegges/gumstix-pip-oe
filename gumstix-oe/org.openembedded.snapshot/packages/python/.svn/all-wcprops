@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python
+END
+python-cheetah_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-cheetah_1.0.bb
+END
+python-psyco_1.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-psyco_1.5.bb
+END
+python-pyro_3.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyro_3.7.bb
+END
+python-pyqt_4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyqt_4.3.bb
+END
+python-pywpa_0.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pywpa_0.3.4.bb
+END
+python24-sip_4.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24-sip_4.1.1.bb
+END
+python-spydi_0.9.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-spydi_0.9.7.bb
+END
+python-pygtk_2.6.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygtk_2.6.3.bb
+END
+python_2.5.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python_2.5.1.bb
+END
+python-vorbis_1.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-vorbis_1.3.bb
+END
+python-scons-native_0.97.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-scons-native_0.97.bb
+END
+python-fnorb_1.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-fnorb_1.3.bb
+END
+fix-path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/fix-path.inc
+END
+python-ogg_1.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-ogg_1.3.bb
+END
+python-scapy_1.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-scapy_1.1.1.bb
+END
+python-imaging_1.1.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-imaging_1.1.6.bb
+END
+python-pytester_0.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pytester_0.6.0.bb
+END
+python-pygtk-1.2_0.6.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygtk-1.2_0.6.12.bb
+END
+python-pyid3lib_0.5.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyid3lib_0.5.1.bb
+END
+python24-manifest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24-manifest.inc
+END
+python-constraint_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-constraint_1.1.bb
+END
+python-pygame_1.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygame_1.7.1.bb
+END
+python-ao_0.82.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-ao_0.82.bb
+END
+python-simplejson_1.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-simplejson_1.7.1.bb
+END
+python-pyiw_0.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyiw_0.3.3.bb
+END
+python-numeric_23.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-numeric_23.7.bb
+END
+python24-native_2.4.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24-native_2.4.0.bb
+END
+python24-pyqwt2_3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24-pyqwt2_3.10.bb
+END
+python-sgmlop_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-sgmlop_1.1.bb
+END
+python-fam_1.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-fam_1.1.1.bb
+END
+python-snmplib_0.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-snmplib_0.1.1.bb
+END
+python-pylinda_0.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pylinda_0.6.bb
+END
+python-mad_0.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-mad_0.6.bb
+END
+python-spyro_0.9.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-spyro_0.9.22.bb
+END
+python-pyrex-native_0.9.5.1a.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyrex-native_0.9.5.1a.bb
+END
+python-logilab-common_0.9.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-logilab-common_0.9.3.bb
+END
+python-pycairo_1.4.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pycairo_1.4.0.bb
+END
+python-pychecker_0.8.17.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pychecker_0.8.17.bb
+END
+python-pythondaap_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pythondaap_0.4.bb
+END
+python24-pyqt2_3.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24-pyqt2_3.13.bb
+END
+python-mysqldb_1.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-mysqldb_1.2.1.bb
+END
+python-pyvisa_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyvisa_1.1.bb
+END
+python-lxml_1.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-lxml_1.3.3.bb
+END
+python-pygtk_2.10.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygtk_2.10.4.bb
+END
+python-pyxml_0.8.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyxml_0.8.4.bb
+END
+python-hmm_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-hmm_0.4.bb
+END
+python-vmaps_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-vmaps_1.1.bb
+END
+python-gammu_0.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-gammu_0.21.bb
+END
+python-tlslite_0.3.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-tlslite_0.3.8.bb
+END
+python-formencode_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-formencode_svn.bb
+END
+python-pycrypto_2.0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pycrypto_2.0.1.bb
+END
+python-pyxmlrpc_0.8.8.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyxmlrpc_0.8.8.3.bb
+END
+python-soappy_0.11.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-soappy_0.11.6.bb
+END
+python-pylint_0.13.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pylint_0.13.2.bb
+END
+python-itools_0.16.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-itools_0.16.5.bb
+END
+python-pymetar_0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pymetar_0.11.bb
+END
+python-gnosis_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-gnosis_1.2.2.bb
+END
+python-urwid_0.9.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-urwid_0.9.8.1.bb
+END
+python-dialog_2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-dialog_2.7.bb
+END
+python-pybluez_0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pybluez_0.10.bb
+END
+python-sword_1.5.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-sword_1.5.9.bb
+END
+python-pexpect_2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pexpect_2.1.bb
+END
+python-gmpy_1.0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-gmpy_1.0.1.bb
+END
+python-irclib_0.4.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-irclib_0.4.6.bb
+END
+python-pymp3_0.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pymp3_0.3.4.bb
+END
+python-pycurl_7.16.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pycurl_7.16.4.bb
+END
+python-fpconst_0.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-fpconst_0.6.0.bb
+END
+python-inotify_0.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-inotify_0.1.0.bb
+END
+python-2.5-manifest.inc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-2.5-manifest.inc
+END
+python-pyzeroconf_0.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyzeroconf_0.12.bb
+END
+python-pygtk_2.10.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygtk_2.10.3.bb
+END
+python-pyrex_0.9.5.1a.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyrex_0.9.5.1a.bb
+END
+python-gst_0.10.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-gst_0.10.8.bb
+END
+python-dbus_0.81.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-dbus_0.81.1.bb
+END
+python-libgmail_0.1.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-libgmail_0.1.6.bb
+END
+python-pyraf_1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyraf_1.4.bb
+END
+python-pyreverse_0.5.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyreverse_0.5.2.bb
+END
+python-pygoogle_0.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygoogle_0.6.bb
+END
+python-fuse_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-fuse_cvs.bb
+END
+python-pygobject-native_2.12.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygobject-native_2.12.3.bb
+END
+python-edje_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-edje_cvs.bb
+END
+python-pylirc_0.0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pylirc_0.0.5.bb
+END
+python-sip_4.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-sip_4.7.bb
+END
+python-emotion_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-emotion_cvs.bb
+END
+python-webpy_0.21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-webpy_0.21.bb
+END
+python-pycodes_1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pycodes_1.2.bb
+END
+python-sword_1.5.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-sword_1.5.8.bb
+END
+python-pygobject_2.12.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygobject_2.12.3.bb
+END
+python-pygtk_2.8.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pygtk_2.8.6.bb
+END
+python-pyweather_0.7.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyweather_0.7.0.bb
+END
+python-pybluez_0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pybluez_0.13.bb
+END
+python-pyflakes_0.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyflakes_0.2.1.bb
+END
+python-efl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-efl.inc
+END
+python-pyfits_1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyfits_1.1.bb
+END
+python-setuptools_0.6c6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-setuptools_0.6c6.bb
+END
+python24_2.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python24_2.4.4.bb
+END
+python-pyephem_3.7.2a.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyephem_3.7.2a.bb
+END
+python-scons_0.97.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-scons_0.97.bb
+END
+python-pyrad_0.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyrad_0.8.bb
+END
+python-imdbpy_3.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-imdbpy_3.1.bb
+END
+python-openmoko_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-openmoko_0.1.bb
+END
+python-ecore_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-ecore_cvs.bb
+END
+python-pyserial_2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-pyserial_2.2.bb
+END
+python-evas_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-evas_cvs.bb
+END
+python-native_2.5.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-native_2.5.1.bb
+END
+python-sqlobject_0.9.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-sqlobject_0.9.1.bb
+END
+python-numarray_1.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/python/python-numarray_1.1.1.bb
+END

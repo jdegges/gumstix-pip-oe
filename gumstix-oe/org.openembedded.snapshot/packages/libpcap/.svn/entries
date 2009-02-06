@@ -1,0 +1,73 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libpcap
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libpcap-0.9.3
+dir
+
+libpcap-0.9.5
+dir
+
+libpcap-0.9.6
+dir
+
+libpcap_0.9.3.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+76b1a8a0f40181770c4dd8a453046a8b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libpcap_0.9.5.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+76b1a8a0f40181770c4dd8a453046a8b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libpcap_0.9.6.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+b85cae367368cdc068052e628c0e1d34
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

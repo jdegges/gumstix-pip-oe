@@ -1,0 +1,23 @@
+# fstab for gumstix-verdex
+
+rootfs               /                    auto       defaults,sync,noatime 1  1
+proc                 /proc                proc       defaults              0  0
+sysfs                /sys                 sysfs      defaults              0  0
+tmpfs                /dev                 tmpfs      defaults              0  0
+devpts               /dev/pts             devpts     gid=5,mode=620        0  0
+tmpfs                /dev/shm             tmpfs      mode=0777             0  0
+tmpfs                /var/volatile        tmpfs      mode=0755             0  0
+tmpfs                /media/ram           tmpfs      defaults              0  0
+
+# compact flash slot
+/dev/hda1            /media/cf            auto       defaults              0  0
+
+# mmc/microSD slot
+/dev/mmcblk0p1       /media/card          auto       defaults              0  0
+
+# USB Storage
+/dev/sda1            /media/hdd           auto       defaults              0  0
+
+# USB Device File System
+usbfs                /proc/bus/usb        usbfs      defaults              0  0
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files
+END
+hack-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/hack-makefile.patch
+END
+fbreader-0.7.3d_buildsys_oe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/fbreader-0.7.3d_buildsys_oe.patch
+END
+zaurus-VGA.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/zaurus-VGA.patch
+END
+change-desktop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/change-desktop.patch
+END
+set-target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/set-target.patch
+END
+fbreader-0.7.4q_buildsys_oe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbreader/files/fbreader-0.7.4q_buildsys_oe.patch
+END

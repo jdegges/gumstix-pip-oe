@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.17-rc5
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.17-rc5/defconfig
+END
+ucb1400-ac97-audio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.17-rc5/ucb1400-ac97-audio.patch
+END
+ucb1400-touchscreen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.17-rc5/ucb1400-touchscreen.patch
+END
+linux-2.6.17-rc5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.17-rc5/linux-2.6.17-rc5.patch
+END

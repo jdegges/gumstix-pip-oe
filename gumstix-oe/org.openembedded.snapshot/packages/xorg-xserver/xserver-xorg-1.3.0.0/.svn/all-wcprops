@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-xorg-1.3.0.0
+END
+drmfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-xorg-1.3.0.0/drmfix.patch
+END

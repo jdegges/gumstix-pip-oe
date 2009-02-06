@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10
+END
+fix-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/fix-makefile.patch
+END
+gcc3_4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/gcc3_4.patch
+END
+kernel-asm-page.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/kernel-asm-page.patch
+END
+64bit-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/64bit-cleanup.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/gcc4.patch
+END
+gcc4_1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc-native-2.3.10/gcc4_1.patch
+END

@@ -1,0 +1,46 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tor
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+tor-0.1.1.26
+dir
+
+tor_0.1.1.26.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+be1dd03abaf2a1e6eda8fad9a8260934
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.2.4
+END
+0002-Change-_cairo_fixed_from_double-to-use-the-magic-number-technique.diff
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.2.4/0002-Change-_cairo_fixed_from_double-to-use-the-magic-number-technique.diff
+END
+0001-Add-autoconf-macro-AX_C_FLOAT_WORDS_BIGENDIAN.diff
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.2.4/0001-Add-autoconf-macro-AX_C_FLOAT_WORDS_BIGENDIAN.diff
+END
+0003-Add-new-perf-test-pattern_create_radial.diff
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cairo/cairo-1.2.4/0003-Add-new-perf-test-pattern_create_radial.diff
+END

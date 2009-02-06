@@ -1,0 +1,112 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/e2fsprogs-libs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+e2fsprogs-libs-1.33
+dir
+
+e2fsprogs-libs-1.34
+dir
+
+e2fsprogs-libs-1.35
+dir
+
+e2fsprogs-libs_1.33.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+a272ad8b56ece82c3c3523da9d0ee201
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2fsprogs-libs_1.34.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+54cecc835524b3357afb94abcfd10eac
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2fsprogs-libs-1.39
+dir
+
+e2fsprogs-libs.inc
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+70b6ede1b3955ef8014c8561c094f9d2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2fsprogs-libs_1.35.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+7c52602fbd11c838edf5d4319a106243
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2fsprogs-libs-native_1.35.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+d7654db07fe74602357dfc94f290073a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+e2fsprogs-libs_1.39.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+100d97fb05add59b68acdf8f5e114e36
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17
+END
+Makefile-Touchscreen-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Makefile-Touchscreen-Jornada720.patch
+END
+Newfile-Epson1356fb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Newfile-Epson1356fb.patch
+END
+Kconfig-Keyboard-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Kconfig-Keyboard-Jornada720.patch
+END
+Newfile-Jornada720_ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Newfile-Jornada720_ts.patch
+END
+Kconfig-Touchscreen-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Kconfig-Touchscreen-Jornada720.patch
+END
+AsmArm-ArchSa1100-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/AsmArm-ArchSa1100-Jornada720.patch
+END
+Makefile-Video-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Makefile-Video-Jornada720.patch
+END
+defconf_jlime
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/defconf_jlime
+END
+Kconfig-Video-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Kconfig-Video-Jornada720.patch
+END
+Newfile-Jornada720_kbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Newfile-Jornada720_kbd.patch
+END
+Cpu-Sa1110-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Cpu-Sa1110-Jornada720.patch
+END
+Kconfig-Arch-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Kconfig-Arch-Jornada720.patch
+END
+Mach-Sa1100-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Mach-Sa1100-Jornada720.patch
+END
+Makefile-Keyboard-Jornada720.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada7xx-2.6.17/Makefile-Keyboard-Jornada720.patch
+END

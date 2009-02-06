@@ -1,0 +1,178 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/freetype
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+freetype-native_2.1.8.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+5dbdf5dcbc9f9593bd617131c9442912
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype-2.3.0
+dir
+
+freetype-2.2.1
+dir
+
+freetype-2.3.1
+dir
+
+freetype_2.3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+21dba044ad8288e4813eabd38830eb66
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype_2.2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+275fc37d321f16246879274ee2167a6b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype-2.3.4
+dir
+
+freetype_2.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+de9be2b0e7d51f4ee5f77006da807408
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype-2.3.5
+dir
+
+freetype-native_2.1.10.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+95785af9188be29fbc0b093851318784
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype_2.3.4.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+f86030a0f77ce8dbeeb8a2183bc61c14
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype_2.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+26f37ec972f8109a7c3ba648bc2e7e86
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype_2.1.8.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+455200cb0ba67def63610723cdf1307d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+freetype_2.1.10.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+d31bda6efdfec7c90ae128029273d7ee
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype-native_2.2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+faf401720a36d915953172359044230d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+freetype-native_2.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+5dbdf5dcbc9f9593bd617131c9442912
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

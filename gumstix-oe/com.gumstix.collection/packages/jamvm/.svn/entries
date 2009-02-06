@@ -1,0 +1,133 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/jamvm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+jamvm_1.4.5.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+91e27b2ce82a4653851ae227e89330db
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+files
+dir
+
+jamvm.inc
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+4095bcee232c3e473bfeec00ca9a1643
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm-initial_1.5.0.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+d6e2fc57ba7f51981a1ffaaf9adcc863
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm-1.3.0
+dir
+
+jamvm
+dir
+
+jamvm_1.3.0.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+8c850f5d07deb052798fff6d001b2b96
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+a5c65cf0ea39a9b45841e8485e077cdd
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm_1.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+d781fbe74536faa52d322d2d95369298
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm_1.4.1.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+d781fbe74536faa52d322d2d95369298
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+
+jamvm_1.5.0.bb
+file
+
+
+
+
+2009-02-06T18:16:53.000000Z
+ef7b3adfc883ab6cf6c3ab7cfb669d1e
+2008-02-22T16:31:39.119771Z
+240
+sakoman
+

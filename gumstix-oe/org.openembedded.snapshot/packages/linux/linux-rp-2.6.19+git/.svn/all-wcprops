@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git
+END
+tosa-lcdnoise-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tosa-lcdnoise-r1.patch
+END
+tmio-tc6393-r8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tmio-tc6393-r8.patch
+END
+defconfig-tosa
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-tosa
+END
+hrw-pcmcia-ids-r5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/hrw-pcmcia-ids-r5.patch
+END
+defconfig-qemuarm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-qemuarm
+END
+defconfig-collie
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-collie
+END
+connectplus-remove-ide-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/connectplus-remove-ide-HACK.patch
+END
+defconfig-spitz
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-spitz
+END
+add-oz-release-string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/add-oz-release-string.patch
+END
+wm97xx-lcdnoise-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/wm97xx-lcdnoise-r0.patch
+END
+defconfig-qemux86
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-qemux86
+END
+squashfs3.0-2.6.15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/squashfs3.0-2.6.15.patch
+END
+defconfig-hx2000
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-hx2000
+END
+defconfig-c7x0
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-c7x0
+END
+defconfig-poodle
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-poodle
+END
+pxa-serial-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/pxa-serial-hack.patch
+END
+sharpsl-pm-postresume-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/sharpsl-pm-postresume-r1.patch
+END
+tmio-nand-r7.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tmio-nand-r7.patch
+END
+tosa-keyboard-r18.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tosa-keyboard-r18.patch
+END
+tosa-tmio-lcd-r10.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tosa-tmio-lcd-r10.patch
+END
+wm9712-suspend-cold-res-r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/wm9712-suspend-cold-res-r2.patch
+END
+defconfig-akita
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/defconfig-akita
+END
+tmio-ohci-r6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/tmio-ohci-r6.patch
+END
+wm9712-reset-loop-r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/wm9712-reset-loop-r2.patch
+END
+serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.19+git/serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+END

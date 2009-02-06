@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wireless-tools
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+wireless-tools.inc
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+822ebb3cf1a596d851c716fece858a0d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wireless-tools_28+29pre10.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+a1e21fc24c18cd69d973156051d158c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wireless-tools_28+29pre21.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+421fa978a7d81f04db1656b729a5125f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wireless-tools_28.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+800c6e3c050141dda22bcdf2bbedd258
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wireless-tools
+dir
+

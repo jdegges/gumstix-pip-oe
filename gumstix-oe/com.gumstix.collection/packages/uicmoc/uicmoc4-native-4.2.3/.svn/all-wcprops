@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc4-native-4.2.3
+END
+fix-mkspecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc4-native-4.2.3/fix-mkspecs.patch
+END

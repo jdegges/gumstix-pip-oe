@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce
+END
+xfce4-appfinder_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-appfinder_4.4.1.bb
+END
+xfce4-appfinder.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-appfinder.inc
+END
+xfce4-dev-tools_4.4.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-dev-tools_4.4.0.bb
+END
+xfce-mcs-plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-mcs-plugins.inc
+END
+xfwm4-themes_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfwm4-themes_4.4.1.bb
+END
+xfprint_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfprint_4.4.1.bb
+END
+xfce4-mixer_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-mixer_4.4.1.bb
+END
+xfce4-mixer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-mixer.inc
+END
+orage_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/orage_4.4.1.bb
+END
+libxfce4util.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfce4util.inc
+END
+thunar_0.8.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/thunar_0.8.0.bb
+END
+libxfce4mcs_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfce4mcs_4.4.1.bb
+END
+libxfce4mcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfce4mcs.inc
+END
+xfce4-panel_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-panel_4.4.1.bb
+END
+xfdesktop_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfdesktop_4.4.1.bb
+END
+xfdesktop.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfdesktop.inc
+END
+gtk-xfce-engine_2.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/gtk-xfce-engine_2.4.1.bb
+END
+xfce-mcs-manager_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-mcs-manager_4.4.1.bb
+END
+xfce-mcs-manager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-mcs-manager.inc
+END
+xfce-utils_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-utils_4.4.1.bb
+END
+xfce-mcs-plugins_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-mcs-plugins_4.4.1.bb
+END
+xfce4-dev-tools.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-dev-tools.inc
+END
+xfce-utils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-utils.inc
+END
+exo_0.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/exo_0.3.2.bb
+END
+mousepad_0.2.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/mousepad_0.2.12.bb
+END
+xfwm4-themes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfwm4-themes.inc
+END
+xfce4-session_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-session_4.4.1.bb
+END
+xfce-terminal_0.2.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce-terminal_0.2.6.bb
+END
+libxfce4util_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfce4util_4.4.1.bb
+END
+xfce4-icon-theme_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-icon-theme_4.4.1.bb
+END
+libxfcegui4_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfcegui4_4.4.1.bb
+END
+xfwm4_4.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfwm4_4.4.1.bb
+END
+libxfcegui4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/libxfcegui4.inc
+END
+xfwm4.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfwm4.inc
+END
+xfce4-panel.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xfce/xfce4-panel.inc
+END

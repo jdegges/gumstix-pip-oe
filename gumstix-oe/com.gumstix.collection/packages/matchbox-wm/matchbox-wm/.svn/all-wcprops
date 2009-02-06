@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/matchbox-wm/matchbox-wm
+END
+kbdconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/matchbox-wm/matchbox-wm/kbdconfig
+END
+gconf-2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/matchbox-wm/matchbox-wm/gconf-2.m4
+END

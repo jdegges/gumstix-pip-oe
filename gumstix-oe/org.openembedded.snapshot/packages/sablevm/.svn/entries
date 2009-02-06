@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sablevm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sablevm-classpath_1.1.9.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+e096ac5370a6333e45324f282e0c144a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sablevm_1.1.9.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+ec72452361ee2d7235a436f3ad465cba
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sablevm
+dir
+
+sablevm-classpath
+dir
+
+sablevm-classpath_1.11.3.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+517baa832a469b7bb25f0293c043f040
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sablevm-classpath_1.12.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+517baa832a469b7bb25f0293c043f040
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sablevm_1.11.3.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+6198c87f4ed44c3a32cdd8e514457b41
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sablevm_1.12.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+6cc534983ae581871fba2fb268b54782
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

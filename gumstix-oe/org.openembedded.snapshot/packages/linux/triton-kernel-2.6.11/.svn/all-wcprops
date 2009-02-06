@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/triton-kernel-2.6.11
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/triton-kernel-2.6.11/defconfig
+END
+patch-2.6.11-mm2-karo9.bz2
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/triton-kernel-2.6.11/patch-2.6.11-mm2-karo9.bz2
+END

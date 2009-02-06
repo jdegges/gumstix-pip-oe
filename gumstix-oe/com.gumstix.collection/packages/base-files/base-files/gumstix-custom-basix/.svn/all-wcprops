@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-files/base-files/gumstix-custom-basix
+END
+fstab
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-files/base-files/gumstix-custom-basix/fstab
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-files/base-files/gumstix-custom-basix/profile
+END
+TZ
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/base-files/base-files/gumstix-custom-basix/TZ
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dash
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+dash_0.5.2.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+79e8e30a1ec8071915a023e943690c23
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

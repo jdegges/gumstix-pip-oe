@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/atmelwlandriver
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+atmelwlandriver-3.4.1.0
+dir
+
+atmelwlandriver_3.4.1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+c7ae6a09fea5f633f633f7c8c73cf178
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pcmf502rd.conf
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+988f1db0a7288cab178ab2d9a8108727
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+atmelwlandriver-3.3.5.6
+dir
+
+atmelwlandriver_3.3.5.6.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+4fb50a26f43cd3f161e3b2ccf7146788
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mbmerlin/mbmerlin-0.8.1-2
+END
+fix_makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mbmerlin/mbmerlin-0.8.1-2/fix_makefile.patch
+END

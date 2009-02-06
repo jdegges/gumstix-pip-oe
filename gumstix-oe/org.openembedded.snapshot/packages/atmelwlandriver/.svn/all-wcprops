@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver
+END
+atmelwlandriver_3.4.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver_3.4.1.0.bb
+END
+pcmf502rd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/pcmf502rd.conf
+END
+atmelwlandriver_3.3.5.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/atmelwlandriver/atmelwlandriver_3.3.5.6.bb
+END

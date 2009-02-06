@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3
+END
+crosscompile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3/crosscompile.patch
+END
+bogoconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3/bogoconf.patch
+END
+wireless.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3/wireless.patch
+END
+libz.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/prismstumbler/prismstumbler-0.7.3/libz.patch
+END

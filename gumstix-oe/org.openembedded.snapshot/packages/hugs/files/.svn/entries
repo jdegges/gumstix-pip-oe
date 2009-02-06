@@ -1,0 +1,53 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hugs/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+hugs.png
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+8a7a29ae747eca351cc34c2351096c97
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+hugs.desktop
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+d892a465404a86058da1c8414f21ffa5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

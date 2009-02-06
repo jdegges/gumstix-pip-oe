@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2
+END
+openmoko-theme-standard2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-theme-standard2_svn.bb
+END
+openmoko-dates2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-dates2_svn.bb
+END
+openmoko-dialer2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-dialer2_svn.bb
+END
+openmoko-sound-system2_0.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-sound-system2_0.1.0.bb
+END
+libmokojournal2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/libmokojournal2_svn.bb
+END
+openmoko-worldclock2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-worldclock2_svn.bb
+END
+openmoko-firststart2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-firststart2_svn.bb
+END
+libmokoui2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/libmokoui2_svn.bb
+END
+openmoko-appmanager2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-appmanager2_svn.bb
+END
+openmoko-terminal2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-terminal2_svn.bb
+END
+openmoko-today2-folders_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-today2-folders_svn.bb
+END
+openmoko-appearance_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-appearance_svn.bb
+END
+neod_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/neod_svn.bb
+END
+openmoko-contacts2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-contacts2_svn.bb
+END
+openmoko-today2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-today2_svn.bb
+END
+openmoko-icon-theme-standard2-qvga_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-icon-theme-standard2-qvga_svn.bb
+END
+libmokogsmd2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/libmokogsmd2_svn.bb
+END
+openmoko-browser2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-browser2_svn.bb
+END
+moko-gtk-engine_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/moko-gtk-engine_svn.bb
+END
+openmoko-tasks2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-tasks2_svn.bb
+END
+libmokopanelui2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/libmokopanelui2_svn.bb
+END
+openmoko-feedreader2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-feedreader2_svn.bb
+END
+openmoko-icon-theme-standard2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-icon-theme-standard2_svn.bb
+END
+openmoko-sound-theme-standard2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-sound-theme-standard2_svn.bb
+END
+openmoko-common2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-common2_svn.bb
+END
+libjana_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/libjana_svn.bb
+END
+openmoko-calculator2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-calculator2_svn.bb
+END
+openmoko-theme-standard2-qvga_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-theme-standard2-qvga_svn.bb
+END
+openmoko-mediaplayer2_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-mediaplayer2_svn.bb
+END
+openmoko-session2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko2/openmoko-session2.bb
+END

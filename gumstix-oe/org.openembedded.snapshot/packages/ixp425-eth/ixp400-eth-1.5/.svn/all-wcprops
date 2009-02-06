@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5
+END
+continue-if-qmgr-init-fails.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/continue-if-qmgr-init-fails.patch
+END
+params.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/params.patch
+END
+module-param.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/module-param.patch
+END
+mac-address.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/mac-address.patch
+END
+debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/debug.patch
+END
+poll-controller.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/poll-controller.patch
+END
+2.6.14.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/2.6.14.patch
+END
+2.6.15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/2.6.15.patch
+END
+modprobe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/modprobe.conf
+END
+le.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/le.patch
+END
+int-random.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/int-random.patch
+END
+stop-on-rmmod.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/stop-on-rmmod.patch
+END
+netdev_max_backlog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/netdev_max_backlog.patch
+END
+device-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/device-name.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.5/Makefile.patch
+END

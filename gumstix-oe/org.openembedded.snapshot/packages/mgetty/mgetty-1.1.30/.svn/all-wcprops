@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30
+END
+debian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/debian.patch
+END
+24-voice_include_paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/24-voice_include_paths.h
+END
+policy.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/policy.h
+END
+45-logfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/45-logfile.c
+END
+09-doc_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/09-doc_Makefile
+END
+10-doc_faxrunqd.8in
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/10-doc_faxrunqd.8in
+END
+50-pending-voice-zoom-2949l-c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/50-pending-voice-zoom-2949l-c
+END
+52-pending-metamail
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/52-pending-metamail
+END
+51-pending-faxq-time
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/51-pending-faxq-time
+END
+43-moreinfo-cnd.c_bug112163
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/43-moreinfo-cnd.c_bug112163
+END
+47-doc_mgetty.texi-in
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/47-doc_mgetty.texi-in
+END
+40-locks.c_bug153394
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/40-locks.c_bug153394
+END
+37-Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/37-Makefile
+END
+44-pending-faxexpand.h_bug169455
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/44-pending-faxexpand.h_bug169455
+END
+26-voice_libpvf_usr.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/26-voice_libpvf_usr.c
+END
+06-pending-contrib_g3tolj.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/06-pending-contrib_g3tolj.c
+END
+12-fax_faxrunqd.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/12-fax_faxrunqd.in
+END
+13-fax_faxspool.in
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/13-fax_faxspool.in
+END
+00-g3_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/00-g3_Makefile
+END
+04-new_fax.pbm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/04-new_fax.pbm
+END
+02-pending-fix-includes
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/02-pending-fix-includes
+END
+01-adjust-path
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/01-adjust-path
+END
+41-ugly-redo-ring.c_bug128668
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/41-ugly-redo-ring.c_bug128668
+END
+install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/install.patch
+END
+39-mgetty.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/39-mgetty.cfg.in
+END
+14-frontends_X11_viewfax-2.5_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/14-frontends_X11_viewfax-2.5_Makefile
+END
+36-voice_voice.conf-dist
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/36-voice_voice.conf-dist
+END
+07-pending-contrib_g3toxwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/07-pending-contrib_g3toxwd.c
+END
+23-samples_new_fax.mime4
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/23-samples_new_fax.mime4
+END
+03-callback_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/03-callback_Makefile
+END
+voice-defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/voice-defs.h
+END
+42-voice_libvoice_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mgetty/mgetty-1.1.30/42-voice_libvoice_detect.c
+END

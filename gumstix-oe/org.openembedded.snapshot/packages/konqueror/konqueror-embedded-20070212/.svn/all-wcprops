@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212
+END
+dont-use-kde-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212/dont-use-kde-config.patch
+END
+konqe_new_opie.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212/konqe_new_opie.patch
+END
+konqe-kapplication.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212/konqe-kapplication.patch
+END
+konqueror.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212/konqueror.png
+END
+konqueror.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/konqueror/konqueror-embedded-20070212/konqueror.desktop
+END

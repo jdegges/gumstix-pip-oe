@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0
+END
+superh-aclocal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0/superh-aclocal.patch
+END
+libm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0/libm.patch
+END
+superh-ustring-declaration-error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0/superh-ustring-declaration-error.patch
+END
+gcc4-fno-threadsafe-statics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0/gcc4-fno-threadsafe-statics.patch
+END
+missing-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk-webcore/osb-jscore-0.5.0/missing-includes.patch
+END

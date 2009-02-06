@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireless-tools
+END
+wireless-tools.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireless-tools/wireless-tools.inc
+END
+wireless-tools_28+29pre10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireless-tools/wireless-tools_28+29pre10.bb
+END
+wireless-tools_28+29pre21.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireless-tools/wireless-tools_28+29pre21.bb
+END
+wireless-tools_28.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wireless-tools/wireless-tools_28.bb
+END

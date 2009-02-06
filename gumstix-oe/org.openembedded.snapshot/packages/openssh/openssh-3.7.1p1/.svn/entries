@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openssh/openssh-3.7.1p1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure.patch
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+f9f28ea93b42a6b88116e594c495b371
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sshd_config
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+d9d3440c480d02ac787fd8860b559b7d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

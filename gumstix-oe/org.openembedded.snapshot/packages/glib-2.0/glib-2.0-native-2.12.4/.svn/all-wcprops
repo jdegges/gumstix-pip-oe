@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native-2.12.4
+END
+glib-gettextize-dir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-native-2.12.4/glib-gettextize-dir.patch
+END

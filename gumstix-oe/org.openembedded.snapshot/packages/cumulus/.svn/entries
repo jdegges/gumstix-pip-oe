@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cumulus
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cumulus_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+573025705703d930cb1e272f7d39eb8a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+cumulus
+dir
+
+cumulus_1.2.1.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+1f097fb9085b38f3da90d35511c4bee2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

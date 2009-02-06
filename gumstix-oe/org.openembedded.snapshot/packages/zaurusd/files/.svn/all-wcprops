@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files
+END
+alsa-cxx00-default.state.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/alsa-cxx00-default.state.patch
+END
+disable-alsa-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/disable-alsa-handling.patch
+END
+tslib-1.diff
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/tslib-1.diff
+END
+zaurus-hinge.bl-off
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurus-hinge.bl-off
+END
+add-poodle.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/add-poodle.patch
+END
+zaurus-hinge.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurus-hinge.in
+END
+zaurus-hinge.bl-on
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurus-hinge.bl-on
+END
+zaurus-hinge.matchbox-portrait
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurus-hinge.matchbox-portrait
+END
+zaurusd-mixer-callback.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurusd-mixer-callback.patch
+END
+zaurus-hinge.matchbox-landscape
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/zaurusd/files/zaurus-hinge.matchbox-landscape
+END

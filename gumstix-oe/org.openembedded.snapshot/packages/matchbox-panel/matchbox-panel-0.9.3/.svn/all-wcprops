@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.3
+END
+mb-applet-battery-repaint-093.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-panel/matchbox-panel-0.9.3/mb-applet-battery-repaint-093.patch
+END

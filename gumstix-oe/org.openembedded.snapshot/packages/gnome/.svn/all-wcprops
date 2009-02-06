@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome
+END
+libgnomeprint_2.6.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeprint_2.6.2.bb
+END
+libgnomeprintui_2.8.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeprintui_2.8.2.bb
+END
+libgnome_2.16.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.16.0.bb
+END
+orbit2_2.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2_2.10.2.bb
+END
+gnome-panel_2.12.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-panel_2.12.1.bb
+END
+libsoup_2.2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libsoup_2.2.7.bb
+END
+libgnomecups_0.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecups_0.2.2.bb
+END
+gnome-mime-data_2.18.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-mime-data_2.18.0.bb
+END
+gconf-dbus_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus_svn.bb
+END
+gnome-power_0.0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-power_0.0.5.bb
+END
+gnome-vfs_2.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.6.0.bb
+END
+libbonobo_2.6.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonobo_2.6.2.bb
+END
+gnome-common_2.20.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-common_2.20.0.bb
+END
+libgnome_2.10.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.10.1.bb
+END
+gnome-keyring_0.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-keyring_0.6.0.bb
+END
+libsoup_2.2.100.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libsoup_2.2.100.bb
+END
+gnome-menus_2.16.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-menus_2.16.1.bb
+END
+libgnome_2.14.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.14.1.bb
+END
+libgnomeui_2.16.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui_2.16.1.bb
+END
+gnome-vfs_2.20.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.20.0.bb
+END
+gnome-vfs_2.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.12.0.bb
+END
+libbonoboui_2.10.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonoboui_2.10.0.bb
+END
+libbonobo_2.10.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonobo_2.10.0.bb
+END
+libbonoboui_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonoboui_2.14.0.bb
+END
+libbonobo_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonobo_2.14.0.bb
+END
+libbonoboui_2.18.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonoboui_2.18.0.bb
+END
+gnome-keyring_2.20.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-keyring_2.20.0.bb
+END
+gail_1.20.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gail_1.20.0.bb
+END
+gconf_2.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf_2.6.1.bb
+END
+libart-lgpl_2.3.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libart-lgpl_2.3.16.bb
+END
+gnome-games_2.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-games_2.6.1.bb
+END
+gnome-mime-data_2.4.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-mime-data_2.4.2.bb
+END
+orbit2-native_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2-native_2.14.0.bb
+END
+gnome-menus_2.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-menus_2.12.0.bb
+END
+gnome-menus_2.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-menus_2.10.2.bb
+END
+libgnomecanvas_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecanvas_2.14.0.bb
+END
+libgnomeui_2.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui_2.12.0.bb
+END
+libgnomeprintui_2.6.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeprintui_2.6.2.bb
+END
+gnome-keyring_0.8.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-keyring_0.8.1.bb
+END
+libbacon_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbacon_svn.bb
+END
+libgnomeprint_2.8.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeprint_2.8.2.bb
+END
+gnome-panel_2.10.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-panel_2.10.1.bb
+END
+libgnome_2.18.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.18.0.bb
+END
+orbit2_2.14.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2_2.14.0.bb
+END
+gconf-native_2.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-native_2.6.1.bb
+END
+gnome-doc-utils_0.10.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-doc-utils_0.10.3.bb
+END
+gnome-vfs-extras_0.99.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-extras_0.99.13.bb
+END
+gnome-vfs_2.18.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.18.1.bb
+END
+gnome-vfs_2.16.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.16.3.bb
+END
+gnome-panel_2.18.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-panel_2.18.1.bb
+END
+goffice_0.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/goffice_0.2.1.bb
+END
+gnome-desktop_2.16.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-desktop_2.16.1.bb
+END
+goffice_0.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/goffice_0.3.2.bb
+END
+gnome-mime-data_2.4.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-mime-data_2.4.1.bb
+END
+libart-lgpl_2.3.19.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libart-lgpl_2.3.19.bb
+END
+gnome-desktop_2.18.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-desktop_2.18.3.bb
+END
+gnome-cups-manager_0.31.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-cups-manager_0.31.bb
+END
+gnome-vfs_2.6.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs_2.6.2.bb
+END
+gnome-vfs-obexftp_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-vfs-obexftp_0.4.bb
+END
+orbit2-native_2.13.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2-native_2.13.2.bb
+END
+libsoup_2.2.93.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libsoup_2.2.93.bb
+END
+libbonobo_2.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonobo_2.6.0.bb
+END
+epiphany_2.19.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/epiphany_2.19.6.bb
+END
+gnomebaker_0.6.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnomebaker_0.6.0.bb
+END
+gnome-keyring_0.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-keyring_0.4.4.bb
+END
+libgnomeui_2.15.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui_2.15.2.bb
+END
+libwnck_2.13.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libwnck_2.13.5.bb
+END
+gnome-common_2.18.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-common_2.18.0.bb
+END
+libgnomeui_2.18.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui_2.18.1.bb
+END
+gconf-dbus_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus_cvs.bb
+END
+gnome-doc-utils_0.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-doc-utils_0.12.0.bb
+END
+orbit2_2.13.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2_2.13.2.bb
+END
+kanjipad_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/kanjipad_svn.bb
+END
+libgnomecanvas_2.6.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecanvas_2.6.1.1.bb
+END
+gnome-desktop_2.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-desktop_2.10.2.bb
+END
+gnome-icon-theme_1.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-icon-theme_1.3.3.bb
+END
+libgnomeui_2.6.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomeui_2.6.1.1.bb
+END
+libgnome_2.6.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.6.1.1.bb
+END
+gnome-power-manager_2.18.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-power-manager_2.18.3.bb
+END
+gdm_2.14.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gdm_2.14.9.bb
+END
+orbit2-native_2.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/orbit2-native_2.10.2.bb
+END
+libbonoboui_2.6.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libbonoboui_2.6.1.bb
+END
+libgnomecanvas_2.20.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecanvas_2.20.0.bb
+END
+libgnomecanvas_2.10.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecanvas_2.10.2.bb
+END
+libgnomecanvas_2.12.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnomecanvas_2.12.0.bb
+END
+gnome-desktop_2.7.90.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-desktop_2.7.90.bb
+END
+gnome-doc-utils_0.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-doc-utils_0.7.1.bb
+END
+gnome-keyring_0.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gnome-keyring_0.2.1.bb
+END
+libgnome_2.12.0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libgnome_2.12.0.1.bb
+END
+libsoup_2.2.96.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/libsoup_2.2.96.bb
+END

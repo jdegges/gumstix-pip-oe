@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gkdial/gkdial-1.8.1
+END
+gkdial-gladedir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gkdial/gkdial-1.8.1/gkdial-gladedir.patch
+END
+gkdial-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gkdial/gkdial-1.8.1/gkdial-arm.patch
+END
+gkdial-gpe-su.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gkdial/gkdial-1.8.1/gkdial-gpe-su.patch
+END

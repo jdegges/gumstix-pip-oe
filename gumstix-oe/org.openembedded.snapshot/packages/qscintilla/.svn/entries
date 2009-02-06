@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/qscintilla
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qscintilla_1.65-gpl-1.6.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+e60e978632d29ce17d728456ea27ae74
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+qscintilla_1.60-gpl-1.3.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+287c52dc13719f44a731c7537a6aa7c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+qscintilla_1.60-gpl-1.3b.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+c762315100b8517ee582f44685cf18af
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

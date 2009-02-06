@@ -1,0 +1,199 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xorg-xserver
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+xserver-kdrive_1.3.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+5f85d7ddccc656f91b9059fb6ff4e3bc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive_1.1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+25772a2a3a01d57672a8846f274905cd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+ed37ccccb86a545856eede6260bfa40d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive-1.4
+dir
+
+xserver-kdrive
+dir
+
+xserver-kdrive_1.4.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+3822836167ecd9e3871682197645469d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive-imageon_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+4a6cad51e2acc36bb8475c907862e591
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive-git
+dir
+
+xserver-kdrive-xomap
+dir
+
+xserver-kdrive-xomap_1.1.99.3.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+6d8235cabbb71eff0b5ab6b5a19d2d50
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive_git.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+a3e58b4d78c04396b551d6c8d63428c0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-xorg-1.3.0.0
+dir
+
+xserver-xorg_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+218b707920636ad7d303562fedb4be40
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xorg-xserver-common.inc
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+193bbbe46223f869e356d436b740c4c9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-xorg_1.3.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+ba0774df91831000904c7d8563556bf8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-xorg
+dir
+
+xserver-kdrive-1.1.0
+dir
+
+xserver-kdrive-1.3.0.0
+dir
+
+xserver-xorg_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+a015da2be25d09725611d200dddf9156
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xserver-kdrive-1.2.0
+dir
+
+xserver-kdrive-common.inc
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+5d2be57190acfb6334185b0f7cf90c44
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

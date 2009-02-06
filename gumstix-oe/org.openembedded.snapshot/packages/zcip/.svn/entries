@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/zcip
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+zcip-4
+dir
+
+zcip_4.bb
+file
+
+
+
+
+2009-02-06T18:13:55.000000Z
+e2aead950f3c54ae7b50421c63e7a4f2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

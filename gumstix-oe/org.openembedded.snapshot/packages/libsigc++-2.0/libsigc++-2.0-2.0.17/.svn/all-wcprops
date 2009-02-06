@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigc++-2.0/libsigc++-2.0-2.0.17
+END
+define_sigc_api.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigc++-2.0/libsigc++-2.0-2.0.17/define_sigc_api.patch
+END

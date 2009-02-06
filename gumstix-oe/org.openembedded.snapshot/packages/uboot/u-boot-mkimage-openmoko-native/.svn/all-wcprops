@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native
+END
+uboot-bbt-quiet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-bbt-quiet.patch
+END
+uboot-machtypes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-machtypes.patch
+END
+ext2load_hex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/ext2load_hex.patch
+END
+uboot-neo1973-defaultenv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-neo1973-defaultenv.patch
+END
+preboot-override.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/preboot-override.patch
+END
+env_nand_oob.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/env_nand_oob.patch
+END
+uboot-s3c2440.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2440.patch
+END
+uboot-neo1973-resume.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-neo1973-resume.patch
+END
+uboot-s3c2443.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2443.patch
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/series
+END
+uboot-s3c2410_fb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410_fb.patch
+END
+early-powerdown.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/early-powerdown.patch
+END
+boot-from-ram-and-nand.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/boot-from-ram-and-nand.patch
+END
+uboot-s3c2410-mmc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410-mmc.patch
+END
+uboot-s3c2410-warnings-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410-warnings-fix.patch
+END
+uboot-hxd8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-hxd8.patch
+END
+dynenv-harden.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/dynenv-harden.patch
+END
+uboot-nand-markbad-reallybad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-nand-markbad-reallybad.patch
+END
+uboot-s3c2410-norelocate_irqvec_cpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410-norelocate_irqvec_cpy.patch
+END
+uboot-strtoul.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-strtoul.patch
+END
+uboot-dfu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-dfu.patch
+END
+boot-menu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/boot-menu.patch
+END
+nand-badisbad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/nand-badisbad.patch
+END
+uboot-license.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-license.patch
+END
+splashimage-command.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/splashimage-command.patch
+END
+nand-createbbt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/nand-createbbt.patch
+END
+mmcinit-power-up.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/mmcinit-power-up.patch
+END
+uboot-s3c2410-misccr-definitions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410-misccr-definitions.patch
+END
+wakeup-reason-nand-only.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/wakeup-reason-nand-only.patch
+END
+uboot-s3c2410_udc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410_udc.patch
+END
+boot-from-ram-reloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/boot-from-ram-reloc.patch
+END
+uboot-20061030-neo1973.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-20061030-neo1973.patch
+END
+console-ansi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/console-ansi.patch
+END
+enable-splash-bmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/enable-splash-bmp.patch
+END
+bbt-create-optional.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/bbt-create-optional.patch
+END
+uboot-arm920_s3c2410_irq_demux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-arm920_s3c2410_irq_demux.patch
+END
+lowlevel_foo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/lowlevel_foo.patch
+END
+uboot-smdk2440.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-smdk2440.patch
+END
+unbusy-i2c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/unbusy-i2c.patch
+END
+uboot-cramfs_but_no_jffs2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-cramfs_but_no_jffs2.patch
+END
+uboot-mokoversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-mokoversion.patch
+END
+uboot-smdk2443.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-smdk2443.patch
+END
+raise-limits.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/raise-limits.patch
+END
+nand-read_write_oob.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/nand-read_write_oob.patch
+END
+bbt-scan-second.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/bbt-scan-second.patch
+END
+dontask.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/dontask.patch
+END
+uboot-gta02.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-gta02.patch
+END
+uboot-s3c2410-nand.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-s3c2410-nand.patch
+END
+cmd-unzip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/cmd-unzip.patch
+END
+usbdcore-multiple_configs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/usbdcore-multiple_configs.patch
+END
+uboot-cmd_s3c2410.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-cmd_s3c2410.patch
+END
+uboot-20061030-qt2410.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-20061030-qt2410.patch
+END
+neo1973-chargefast.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/neo1973-chargefast.patch
+END
+default-env.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/default-env.patch
+END
+uboot-arm920t-gd_in_irq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-arm920t-gd_in_irq.patch
+END
+nand-dynamic_partitions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/nand-dynamic_partitions.patch
+END
+uboot-usbtty-acm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/uboot-usbtty-acm.patch
+END
+nand-otp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native/nand-otp.patch
+END

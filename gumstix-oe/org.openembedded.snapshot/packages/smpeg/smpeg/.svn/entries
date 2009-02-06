@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/smpeg/smpeg
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+compile.patch
+file
+
+
+
+
+2009-02-06T18:13:54.000000Z
+53c0c271110fb720295183f2ffb04084
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+m4.patch
+file
+
+
+
+
+2009-02-06T18:13:54.000000Z
+1e495fbea61e78c25f71d8c108bf2522
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/msmtp
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+msmtp_1.4.10.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+89b5375df5c5a4e0532e7c8b98f9313c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

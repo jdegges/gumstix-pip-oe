@@ -1,0 +1,76 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/asterisk
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+asterisk-1.4.10
+dir
+
+asterisk-1.4.11
+dir
+
+asterisk-1.2.24
+dir
+
+asterisk_1.4.10.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+9e2f3b25d251cfdab5c20f44eb0bbbc1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+asterisk_1.4.11.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+29c0d6ffca4d88c538c838dbea85fa6a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+asterisk_1.2.24.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+7b5ea8b08c9011761ea1e6c7a6d518ff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

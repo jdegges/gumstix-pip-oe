@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files
+END
+3-Changes-to-improve-layout-rendering--especially-after-adding-support-for.patch
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/3-Changes-to-improve-layout-rendering--especially-after-adding-support-for.patch
+END
+5-Add-support-for-loading-multiple-independent-layouts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/5-Add-support-for-loading-multiple-independent-layouts.patch
+END
+matchbox-keyboard-applet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/matchbox-keyboard-applet.patch
+END
+matchbox-keyboard-hide-delay.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/matchbox-keyboard-hide-delay.patch
+END
+fic-gta01-font-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/fic-gta01-font-size.patch
+END
+smallscreen-fontsize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/smallscreen-fontsize.patch
+END
+2-Add-new-modifier--layout--Used-to-cycle-thru-all-available-layouts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/2-Add-new-modifier--layout--Used-to-cycle-thru-all-available-layouts.patch
+END
+4-Add-rendering-debug-logging.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/4-Add-rendering-debug-logging.patch
+END
+6-Add-layout-switch-key-to-all-layouts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/6-Add-layout-switch-key-to-all-layouts.patch
+END
+80matchboxkeyboard
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/matchbox-keyboard/files/80matchboxkeyboard
+END

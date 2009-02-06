@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.12.10
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+configure-libtool.patch
+file
+
+
+
+
+2009-02-06T18:14:11.000000Z
+10d4e92ff81c1311dacc7716127553f3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

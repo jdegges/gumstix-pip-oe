@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/files
+END
+pear.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/files/pear.patch
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/files/autotools.patch
+END

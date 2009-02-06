@@ -1,0 +1,223 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wlan-ng
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+wlan-ng-modules_0.2.7.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+f536373fd88da4785e142ff43aa5abb7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules.inc
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+d18916978b6923b0434ec9c05432f740
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+a1237b3866210fded6f8b892b4e611f6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-utils-0.2.4+svn20060823
+dir
+
+wlan-ng-utils-0.2.1-pre26
+dir
+
+wlan-ng-utils_0.2.4+svn20060823.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+b50db63ff9960213b24a8a8b9506858d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-utils_0.2.1-pre26.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+69ef7f1a5d16c39e43fbdf666ffad7be
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules-0.2.5+svn20061109
+dir
+
+wlan-ng-utils-0.2.2
+dir
+
+wlan-ng-modules-0.2.4+svn20060823
+dir
+
+wlan-ng-utils-0.2.3
+dir
+
+wlan-ng-utils
+dir
+
+wlan-ng-modules-0.2.1-pre26
+dir
+
+files
+dir
+
+wlan-ng-modules_0.2.5+svn20061109.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+21ef0dd938e3a246ee58d856068f2c3b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-utils-0.2.7
+dir
+
+wlan-ng-modules_0.2.4+svn20060823.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+b29887dbbc6a411d850d40496e083d32
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-utils_0.2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+83dc989bee7ed4f578ef075459cd17a6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules_0.2.1-pre26.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+ab1c8738739ff22a7f9e37fcb7fd3b15
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules-0.2.3
+dir
+
+wlan-ng-utils_0.2.7.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+ed052f75f5aef60f7c83f56b9c87cf03
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules
+dir
+
+wlan-ng-utils.inc
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+50d36734fa20b3d2870973b9d878a1ca
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-utils_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+a2409c29d879e5de1889046436a42f6c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlan-ng-modules-0.2.7
+dir
+
+wlan-ng-modules_0.2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+62b206fc95bc4e2f44355c3c7cd15f6f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

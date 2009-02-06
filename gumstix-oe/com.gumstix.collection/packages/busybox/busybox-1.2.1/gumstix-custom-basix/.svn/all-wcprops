@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/busybox/busybox-1.2.1/gumstix-custom-basix
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/busybox/busybox-1.2.1/gumstix-custom-basix/defconfig
+END
+syslog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/busybox/busybox-1.2.1/gumstix-custom-basix/syslog.conf
+END

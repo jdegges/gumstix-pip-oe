@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/unionfs/unionfs-1.0.11
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+make.patch
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+1624a97fd565d03e1c1a43807ed0984b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

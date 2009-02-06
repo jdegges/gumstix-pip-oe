@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.23
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+procinfo.h
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+3184f5460937c9e6965301cec4200e0d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

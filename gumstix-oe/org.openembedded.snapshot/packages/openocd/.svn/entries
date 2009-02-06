@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openocd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+openocd_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+99dfc91852d3384a865b83cc649cd597
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+openocd-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:36.000000Z
+71baf355985acc1eebf5fd23009f41e8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

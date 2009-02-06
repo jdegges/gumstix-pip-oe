@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash
+END
+gpe-bootsplash_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash_svn.bb
+END
+gpe-bootsplash-theme-opie.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash-theme-opie.bb
+END
+gpe-bootsplash-theme-e.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash-theme-e.bb
+END
+gpe-bootsplash_1.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash_1.13.bb
+END
+gpe-bootsplash-theme-gpephone.bb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash-theme-gpephone.bb
+END
+gpe-bootsplash_1.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash_1.14.bb
+END
+gpe-bootsplash_1.15.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash_1.15.bb
+END

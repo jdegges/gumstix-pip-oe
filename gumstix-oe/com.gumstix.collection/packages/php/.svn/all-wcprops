@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php
+END
+php-native_5.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php-native_5.2.0.bb
+END
+php.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php.inc
+END
+php_4.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php_4.4.4.bb
+END
+php-native_4.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php-native_4.4.4.bb
+END
+php_5.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php_5.2.0.bb
+END
+php_5.1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/190/trunk/com.gumstix.collection/packages/php/php_5.1.4.bb
+END

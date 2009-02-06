@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native
+END
+linux-oe-qmake.conf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native/linux-oe-qmake.conf
+END
+use-lflags-last.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native/use-lflags-last.patch
+END
+0001-fix-mkspecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native/0001-fix-mkspecs.patch
+END
+qt-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native/qt-config.patch
+END
+0008-backport-qt-lib-infix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/packages/qmake/qmake2-native/0008-backport-qt-lib-infix.patch
+END

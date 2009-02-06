@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-session-scripts/files/angstrom
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+matchbox-session
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+f3b98c4d10c5239803be70ab38a8f2ce
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

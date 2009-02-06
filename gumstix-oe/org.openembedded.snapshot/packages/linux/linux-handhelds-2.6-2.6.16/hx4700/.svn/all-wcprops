@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.16/hx4700
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-handhelds-2.6-2.6.16/hx4700/defconfig
+END

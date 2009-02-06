@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmailwrapper
+END
+libmailwrapper.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmailwrapper/libmailwrapper.inc
+END
+libmailwrapper_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmailwrapper/libmailwrapper_cvs.bb
+END
+libmailwrapper_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmailwrapper/libmailwrapper_1.2.2.bb
+END
+libmailwrapper_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libmailwrapper/libmailwrapper_1.2.3.bb
+END

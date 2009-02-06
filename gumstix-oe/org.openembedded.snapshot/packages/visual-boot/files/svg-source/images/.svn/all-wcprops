@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images
+END
+gnome-fs-blockdev.png
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/gnome-fs-blockdev.png
+END
+kcmx.png
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/kcmx.png
+END
+handheld.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/handheld.png
+END
+energy.png
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/energy.png
+END
+kdebluetooth.png
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/kdebluetooth.png
+END
+nfs_unmount.png
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/visual-boot/files/svg-source/images/nfs_unmount.png
+END

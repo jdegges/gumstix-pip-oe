@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Minimo
+GenericName=Web Browser
+Comment=Browse the web
+Icon=minimo.png
+Exec=minimo
+Terminal=false
+Categories=Network;WebBrowser;
+StartupNotify=true

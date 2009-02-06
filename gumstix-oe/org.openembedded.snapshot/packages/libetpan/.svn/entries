@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libetpan
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libetpan_0.52.bb
+file
+
+
+
+
+2009-02-06T18:16:32.000000Z
+31e2d6594e09f1aeb2144535e6d6a3c1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libetpan_0.46.bb
+file
+
+
+
+
+2009-02-06T18:16:32.000000Z
+64c21003191f9005dec178d7a2ac999b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libetpan_0.48.bb
+file
+
+
+
+
+2009-02-06T18:16:32.000000Z
+64c21003191f9005dec178d7a2ac999b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

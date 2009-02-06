@@ -1,0 +1,74 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/alsa/alsa-state
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-13T04:55:01.252401Z
+275
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gumstix-custom-connex
+dir
+
+gumstix-custom-verdex
+dir
+
+asound.state
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+e0df42ee7deea55dd93bc58db57a4cbf
+2008-01-17T07:40:07.455136Z
+140
+sakoman
+
+gumstix-custom-basix
+dir
+
+alsa-state
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+a641ae4f8b4bae3add2c662fa35747ff
+2008-01-17T07:40:07.455136Z
+140
+sakoman
+has-props
+
+asoundrc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+c213dd306c5e672ba96de8f26127e9cd
+2008-01-17T07:40:07.455136Z
+140
+sakoman
+

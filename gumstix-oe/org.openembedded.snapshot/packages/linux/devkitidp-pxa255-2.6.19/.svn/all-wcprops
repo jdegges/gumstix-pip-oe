@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/devkitidp-pxa255-2.6.19
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/devkitidp-pxa255-2.6.19/defconfig
+END
+linux-2.6.19_devkitidp1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/devkitidp-pxa255-2.6.19/linux-2.6.19_devkitidp1.patch
+END

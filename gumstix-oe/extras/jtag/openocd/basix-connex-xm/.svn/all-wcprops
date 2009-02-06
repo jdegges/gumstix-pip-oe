@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gumstix/!svn/ver/92/trunk/extras/jtag/openocd/basix-connex-xm
+END
+basix-connex.script
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/88/trunk/extras/jtag/openocd/basix-connex-xm/basix-connex.script
+END
+basix-connex-xm.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/92/trunk/extras/jtag/openocd/basix-connex-xm/basix-connex-xm.cfg
+END

@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+progear
+dir
+
+ts72xx
+dir
+
+ep93xx
+dir
+
+n2100
+dir
+
+at91sam9263ek
+dir
+
+i586-generic
+dir
+
+x86
+dir
+
+i686-generic
+dir
+
+kb9202
+dir
+
+acern30
+dir
+
+at32stk1000
+dir
+
+alix
+dir
+
+sarge-at91
+dir
+
+simpad
+dir
+

@@ -1,0 +1,61 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux-uml
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+linux-uml-2.4.26
+dir
+
+files
+dir
+
+linux-uml_2.4.26.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+c0379d0a22ed816a3a2618163a20919a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-uml-2.6.11-rc2-mm1
+dir
+
+linux-uml_2.6.11-rc2-mm1.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+8047a0dc32171158b95e797c380d4890
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

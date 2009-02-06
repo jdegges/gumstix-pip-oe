@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-h6300-omap1-2.6.14.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:15:33.000000Z
+32bf6fa14fd9383129aea2cc6e0f9d91
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+patch-linux-2614-omap2-to-2614_3-omap1-h6300
+file
+
+
+
+
+2009-02-06T18:15:33.000000Z
+5186197c6e346d381551eff630f0c403
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

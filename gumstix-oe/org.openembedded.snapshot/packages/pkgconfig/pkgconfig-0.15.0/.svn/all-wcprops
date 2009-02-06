@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pkgconfig/pkgconfig-0.15.0
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pkgconfig/pkgconfig-0.15.0/configure.patch
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pkgconfig/pkgconfig-0.15.0/pkg.m4
+END
+glibconfig-sysdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pkgconfig/pkgconfig-0.15.0/glibconfig-sysdefs.h
+END

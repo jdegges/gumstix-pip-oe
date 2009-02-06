@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpsdrive
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gpsdrive_2.10pre3.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+04cfc0a43b5f3c91550ca2645a4f0424
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gpsdrive_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+7093db8af98732b0dbe2fbe1de71b4fb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+gpsdrive_2.10pre2.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+1e8cd6736a1588fe3301573d8976b057
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

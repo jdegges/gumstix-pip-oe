@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-smdk2440-2.6.20+git
+END
+0001-Enable-cs8900A-network-device-for-smdk2440-board.patch
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-smdk2440-2.6.20+git/0001-Enable-cs8900A-network-device-for-smdk2440-board.patch
+END

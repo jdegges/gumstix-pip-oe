@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant
+END
+wpa-supplicant-0.5.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant-0.5.inc
+END
+wpa-supplicant_0.3.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.3.8.bb
+END
+wpa-supplicant_0.4.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.4.7.bb
+END
+wpa-supplicant_0.5.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.5.7.bb
+END
+wpa-supplicant_0.4.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.4.8.bb
+END
+wpa-supplicant_0.4.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.4.9.bb
+END
+wpa-gui_0.4.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-gui_0.4.8.bb
+END
+wpa-supplicant_0.2.6.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.2.6.inc
+END
+wpa-supplicant_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_cvs.bb
+END
+wpa-supplicant-nossl_0.2.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant-nossl_0.2.6.bb
+END
+wpa-supplicant-ssl_0.2.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant-ssl_0.2.6.bb
+END
+wpa-supplicant_0.3.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.3.6.bb
+END
+wpa-supplicant_0.5.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant_0.5.5.bb
+END

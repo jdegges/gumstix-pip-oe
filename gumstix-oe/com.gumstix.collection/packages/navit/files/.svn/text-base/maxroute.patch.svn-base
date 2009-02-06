@@ -1,0 +1,11 @@
+--- navit-0.0.4/src/route.c-orig	2008-03-19 14:53:20.000000000 -0700
++++ navit-0.0.4/src/route.c	2008-03-19 14:53:46.000000000 -0700
+@@ -1003,7 +1003,7 @@
+ struct street_data *
+ street_get_data (struct item *item)
+ {
+-	int maxcount=2000;
++	int maxcount=3000;
+ 	struct coord c[maxcount];
+ 	int count=0;
+ 	struct street_data *ret;

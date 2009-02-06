@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/autoconf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+autoconf-native_2.59.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+4253f1f285da1ee319af2518454bd6ae
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autoconf-2.61
+dir
+
+autoconf.inc
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+2cb8f4d144c215f3ae91528795b689d7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autoconf_2.61.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+877a5ef208eb9c5fb011ad82cce13e1c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autoconf-2.57
+dir
+
+autoconf-2.59
+dir
+
+autoconf-native_2.61.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+3c72f53a983616a6c7e38f4e38f7a5ee
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autoconf_2.57.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+794bb56ceb50249126fb0776e0e58112
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autoconf_2.59.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+c18294a0552619c04feec141a0cf9a59
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc
+END
+COPYING.MIT
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/COPYING.MIT
+END
+bitbake.1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/bitbake.1
+END
+COPYING.GPL
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/doc/COPYING.GPL
+END

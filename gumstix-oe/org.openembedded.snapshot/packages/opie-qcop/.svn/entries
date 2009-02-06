@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-qcop
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-qcop_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+2770d0870f3180a03120cc53fe50374d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+opie-qcop.inc
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+cf99d9b2e5cca4cd8b78b7f8ef40655a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-qcop_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+8f67ffd3e40119e43c29fc8b0b7dd701
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-qcop_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+2474e3daa27662825212434777a5547d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

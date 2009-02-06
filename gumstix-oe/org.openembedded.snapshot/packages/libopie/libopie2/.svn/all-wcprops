@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2
+END
+exports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/exports.patch
+END
+gcc-syntax-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/gcc-syntax-fix.patch
+END
+include.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/include.pro
+END
+odevice_jornada.cpp-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/odevice_jornada.cpp-fixup.patch
+END
+odevice.h-jornada-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/odevice.h-jornada-fixup.patch
+END
+poodle-2.6-hotkeys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/poodle-2.6-hotkeys.patch
+END
+ipaq-lcd-rotate-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/ipaq-lcd-rotate-cleanup.patch
+END
+ipaq-2.6-sys-class-backlight-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/ipaq-2.6-sys-class-backlight-support.patch
+END
+wireless.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/wireless.patch
+END
+keyboardless-buttonmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libopie/libopie2/keyboardless-buttonmap.patch
+END

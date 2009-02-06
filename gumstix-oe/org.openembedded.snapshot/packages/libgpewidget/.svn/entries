@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libgpewidget
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libgpewidget-hildon_0.102.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+23fca60fbecd911701c0a3f74259b78a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpewidget_0.114.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+7a8e699616b0d7bb24eca9291ec1892b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpewidget_0.115.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+4f7d0e69c5c06464509b914166a56f72
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpewidget_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+cf4f70945c7aa018e539a0fd7a18ad38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

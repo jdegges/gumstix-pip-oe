@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite-2.8.17
+END
+sqlite.pc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite-2.8.17/sqlite.pc
+END
+mainmk_no_tcl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite-2.8.17/mainmk_no_tcl.patch
+END
+mainmk_build_dynamic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sqlite/sqlite-2.8.17/mainmk_build_dynamic.patch
+END

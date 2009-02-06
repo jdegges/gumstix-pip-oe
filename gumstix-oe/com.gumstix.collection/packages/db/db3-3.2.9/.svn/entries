@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/db/db3-3.2.9
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+autofoo.patch
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+71f75b7b40e4378c963e16a46ab8d70e
+2008-03-17T23:49:18.885829Z
+285
+sakoman
+

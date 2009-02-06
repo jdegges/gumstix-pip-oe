@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/libshout/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-18T07:41:06.339086Z
+226
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+disable-theora-speex.patch
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+19d0bd07cf7de85a08a60cb949b05541
+2008-02-18T07:41:06.339086Z
+226
+sakoman
+
+no-host-includes.ac
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+e095773a6cf0dcd76bf249953a10fe31
+2008-01-26T00:09:22.887541Z
+160
+sakoman
+

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6
+END
+11_usagi_fix
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/11_usagi_fix
+END
+14_cidr_support
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/14_cidr_support
+END
+11_tcpd_blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/11_tcpd_blacklist
+END
+06_fix_gethostbyname
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/06_fix_gethostbyname
+END
+have_strerror
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/have_strerror
+END
+try-from.8
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/try-from.8
+END
+00_man_quoting.diff
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/00_man_quoting.diff
+END
+sig_fix
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/sig_fix
+END
+tcpdchk_libwrapped
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/tcpdchk_libwrapped
+END
+10_usagi-ipv6
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/10_usagi-ipv6
+END
+man_fromhost
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/man_fromhost
+END
+01_man_portability
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/01_man_portability
+END
+size_t
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/size_t
+END
+expand_remote_port
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/expand_remote_port
+END
+restore_sigalarm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/restore_sigalarm
+END
+13_shlib_weaksym
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/13_shlib_weaksym
+END
+12_makefile_config
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/12_makefile_config
+END
+05_wildcard_matching
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/05_wildcard_matching
+END
+safe_finger
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/safe_finger
+END
+siglongjmp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/siglongjmp
+END
+15_match_clarify
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/15_match_clarify
+END
+rfc931.diff
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/rfc931.diff
+END
+safe_finger.8
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tcp-wrappers/tcp-wrappers-7.6/safe_finger.8
+END

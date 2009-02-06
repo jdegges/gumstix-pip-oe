@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ark3116/ark3116-0.4.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ark3116.c.patch
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+c9cec677127ea79c1531147370efdc60
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+Makefile.patch
+file
+
+
+
+
+2009-02-06T18:13:52.000000Z
+1288f78664562362748e536ef2351388
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

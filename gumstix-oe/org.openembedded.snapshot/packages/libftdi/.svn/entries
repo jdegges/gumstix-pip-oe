@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libftdi
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ftdi-eeprom-native_0.2.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+a4141330ffad0ddd264844eefe4d7499
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+libftdi_0.9.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+73fea3c0df4c13a6d7f1ce11ce998fa3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libftdi-native_0.9.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+c70b1c9b62735a0b2314b3d8a026ebc2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ftdi-eeprom_0.2.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+8630f8445b522478176fb69dd66eee70
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

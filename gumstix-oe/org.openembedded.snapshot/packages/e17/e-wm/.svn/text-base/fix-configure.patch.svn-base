@@ -1,0 +1,14 @@
+diff -Nur e~/configure.in e/configure.in
+--- e~/configure.in	2005-09-29 13:17:29.000000000 -0700
++++ e/configure.in	2005-09-29 13:19:35.000000000 -0700
+@@ -114,9 +114,7 @@
+ AC_PATH_XTRA
+ AC_CHECK_HEADER(X11/X.h,
+   [
+-    x_dir=${x_dir:-/usr/X11R6}
+-    x_cflags=${x_cflags:--I${x_includes:-$x_dir/include}}
+-    x_libs="${x_libs:--L${x_libraries:-$x_dir/lib}} -lX11 -lXext"
++    x_libs="-lX11 -lXext";
+   ],[
+     AC_MSG_ERROR([Cannot find X headers and libraries.])
+   ]

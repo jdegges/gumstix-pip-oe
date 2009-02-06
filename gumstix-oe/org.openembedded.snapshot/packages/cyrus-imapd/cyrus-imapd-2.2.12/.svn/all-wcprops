@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12
+END
+imapopts.h.gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12/imapopts.h.gcc4.patch
+END
+autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12/autotools.patch
+END
+tail.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12/tail.patch
+END
+imapopts.c.gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12/imapopts.c.gcc4.patch
+END
+remove-install-strip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.12/remove-install-strip.patch
+END

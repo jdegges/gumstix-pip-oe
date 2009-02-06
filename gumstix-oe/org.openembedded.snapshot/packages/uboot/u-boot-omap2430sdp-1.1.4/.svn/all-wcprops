@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-omap2430sdp-1.1.4
+END
+u-boot-makefile-3.81.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-omap2430sdp-1.1.4/u-boot-makefile-3.81.patch
+END

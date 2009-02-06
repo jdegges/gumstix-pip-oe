@@ -1,0 +1,205 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wpa-supplicant
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+wpa-supplicant_0.4.7.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+5cddf2ff43f3df9e0d797538eec12c1b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.3.8.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+9ff2d682ff90fcee8da6e2f7f2b16675
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant-0.5.inc
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+1156c44e219812f3393b6d516e60ce4d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.4.8.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+a6608a5a794e96ccbd08c2aacb5e2051
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.5.7.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+209b4e1f898f77c04fc26cce0b340ec1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.4.9.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+15fad60513249bb655a971ca17197cf0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-gui_0.4.8.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+921dafe6bb11d1dcb965c213900ee39d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.2.6.inc
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+afd91233c7fd4be4e3410e731f7f7ec5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+wpa-supplicant-nossl
+dir
+
+wpa-supplicant_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+3a564499a8f65e39b76511385d3230a4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant-ssl
+dir
+
+wpa-supplicant
+dir
+
+wpa-supplicant-nossl_0.2.6.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+cc586fd608e359296ff872cd255a3f94
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant-0.4.7
+dir
+
+wpa-supplicant-ssl_0.2.6.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+23e9a12f9b73e07fcd16c9c1540261af
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant-0.4.8
+dir
+
+wpa-supplicant-0.4.9
+dir
+
+wpa-supplicant_0.3.6.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+012c57f1145456feedffef0e4521c607
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wpa-supplicant_0.5.5.bb
+file
+
+
+
+
+2009-02-06T18:14:31.000000Z
+59c7de567c403f640fda4c043295a39b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libhandoff
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libhandoff_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:32.000000Z
+74cf8b929aa78f64adef53b7b7cbdafe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libhandoff_0.1.bb
+file
+
+
+
+
+2009-02-06T18:16:32.000000Z
+07950ee3d11ae702b08d15dcf0d61ff8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

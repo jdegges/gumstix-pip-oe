@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-nokia800-2.6.18-osso40/nokia770
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-nokia800-2.6.18-osso40/nokia770/defconfig
+END

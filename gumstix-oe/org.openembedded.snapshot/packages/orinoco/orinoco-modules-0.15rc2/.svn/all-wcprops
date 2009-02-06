@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2
+END
+catch-up-with-kernel-changes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/catch-up-with-kernel-changes.patch
+END
+makefile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/makefile_fix.patch
+END
+add_utsname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/add_utsname.patch
+END
+spectrum_cs_ids.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/spectrum_cs_ids.patch
+END
+add_event.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/add_event.patch
+END
+list-move.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/orinoco/orinoco-modules-0.15rc2/list-move.patch
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git
+END
+enable-tslib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/enable-tslib.patch
+END
+w100-autofoo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/w100-autofoo.patch
+END
+enable-xcalibrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/enable-xcalibrate.patch
+END
+xephyr-post-1.4-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/xephyr-post-1.4-buildfix.patch
+END
+enable-epson.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/enable-epson.patch
+END
+w100-post-1.4-buildfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-xserver/xserver-kdrive-git/w100-post-1.4-buildfix.patch
+END

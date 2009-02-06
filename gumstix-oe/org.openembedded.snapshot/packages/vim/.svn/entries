@@ -1,0 +1,133 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/vim
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+vim-6.4
+dir
+
+vim_7.0.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+506958a9729ad3ce2986acbdfabe0c64
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim-tiny_7.0.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+0fdb6c8082aa5c5fa6236d50078a9a3e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim_6.2.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+e32cc69eba800875507aebbfc2d3bb46
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim-tiny_6.2.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+9b21348ae924ce697a64be1a48c0ff78
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim.inc
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+1ec42fe981bdafb5e72fa2846bf7a010
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim_6.4.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+96d19e761ad01d922b745e29903638f9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim-tiny_6.4.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+0fdb6c8082aa5c5fa6236d50078a9a3e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gvim_7.0.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+fd35a77171b9ed4d357915c3f813be25
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vim-7.0
+dir
+
+vim-6.2
+dir
+

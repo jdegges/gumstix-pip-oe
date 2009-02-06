@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tslib/tslib-1.0/bd-neon
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+tslib.sh
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+44d3ea4b1e587bb87908b29fcda4a372
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ts.conf
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+a016b8d10ac5eb56c6a507b25dfd8966
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

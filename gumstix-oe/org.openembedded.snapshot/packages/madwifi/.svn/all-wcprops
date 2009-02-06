@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi
+END
+madwifi-modules_0.9.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules_0.9.3.bb
+END
+madwifi-ng_r2100-20070210.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2100-20070210.bb
+END
+madwifi-ng_r2156-20070225.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2156-20070225.bb
+END
+madwifi-ng_r2702-20070903.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2702-20070903.bb
+END
+madwifi-modules_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules_cvs.bb
+END
+madwifi-ng_r2182-20070308.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2182-20070308.bb
+END
+madwifi-ng_r1844-20061208.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r1844-20061208.bb
+END
+madwifi-modules_cvs-bsd.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-modules_cvs-bsd.bb
+END
+madwifi-ng_r2187-20070309.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2187-20070309.bb
+END
+madwifi-ng_r2518-20070626.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r2518-20070626.bb
+END
+madwifi-ng_r.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/madwifi-ng_r.inc
+END

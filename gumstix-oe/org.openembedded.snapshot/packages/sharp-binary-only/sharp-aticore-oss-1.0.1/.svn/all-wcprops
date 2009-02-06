@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-aticore-oss-1.0.1
+END
+aticore-2.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-aticore-oss-1.0.1/aticore-2.6.patch
+END
+make381.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-aticore-oss-1.0.1/make381.patch
+END
+fixstretchblit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-aticore-oss-1.0.1/fixstretchblit.patch
+END

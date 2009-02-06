@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10
+END
+no-demos.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/no-demos.patch
+END
+gtklabel-resize-patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtklabel-resize-patch
+END
+gtk.keynav.gtksettings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtksettings.patch
+END
+gtk.keynav.gtkentry.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtkentry.patch
+END
+help.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/help.patch
+END
+gtk+-handhelds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk+-handhelds.patch
+END
+xsettings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/xsettings.patch
+END
+menu-styling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/menu-styling.patch
+END
+gtk.keynav.gtkcombobox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtkcombobox.patch
+END
+small-gtkfilesel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/small-gtkfilesel.patch
+END
+hardcoded_libtool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/hardcoded_libtool.patch
+END
+automake-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/automake-lossage.patch
+END
+single-click.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/single-click.patch
+END
+gtk.keynav.gtktextview.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtktextview.patch
+END
+compile-against-newer-glib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/compile-against-newer-glib.patch
+END
+spinbutton.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/spinbutton.patch
+END
+scroll-timings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/scroll-timings.patch
+END
+gtk+-2.6.10-bg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk+-2.6.10-bg.patch
+END
+gtk.keynav.gtkwidget.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtkwidget.patch
+END
+gtk.keynav.gtkiconview.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtkiconview.patch
+END
+menu-deactivate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/menu-deactivate.patch
+END
+no-xwc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/no-xwc.patch
+END
+disable-tooltips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/disable-tooltips.patch
+END
+gtk.keynav.gtktreeview.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtktreeview.patch
+END
+gtk.keynav.gtkradiobutton.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gtk+/gtk+-2.6.10/gtk.keynav.gtkradiobutton.patch
+END

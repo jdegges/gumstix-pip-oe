@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-light-and-power
+END
+opie-light-and-power.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-light-and-power/opie-light-and-power.inc
+END
+opie-light-and-power_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-light-and-power/opie-light-and-power_cvs.bb
+END
+opie-light-and-power_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-light-and-power/opie-light-and-power_1.2.2.bb
+END
+opie-light-and-power_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-light-and-power/opie-light-and-power_1.2.3.bb
+END

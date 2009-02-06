@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/bin
+END
+bitbake
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/bin/bitbake
+END
+bitdoc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/bin/bitdoc
+END
+bbimage
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/bin/bbimage
+END

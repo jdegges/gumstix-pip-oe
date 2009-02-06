@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/files
+END
+nvidia-oe-conftest.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/files/nvidia-oe-conftest.patch
+END
+nvaudio-remap_page_range.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nvidia-drivers/files/nvaudio-remap_page_range.patch
+END

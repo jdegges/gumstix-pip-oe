@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dhcpcd/dhcpcd-1.3.22-pl4
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+config_dir.patch
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+7ea00095aec0800c186340bc33107a06
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+paths.patch
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+ee554853e2208be87e2e8b73e654dd58
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

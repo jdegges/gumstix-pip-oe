@@ -1,0 +1,176 @@
+--- bluez-utils-2.24/tools/hciattach.c
++++ bluez-utils-2.24/tools/hciattach.c
+@@ -42,6 +42,7 @@
+ #include <sys/param.h>
+ #include <sys/ioctl.h>
+ #include <sys/socket.h>
++#include <sys/select.h>
+ 
+ #include <bluetooth/bluetooth.h>
+ #include <bluetooth/hci.h>
+@@ -114,22 +115,6 @@
+ 		return B576000;
+ 	case 921600:
+ 		return B921600;
+-	case 1000000:
+-		return B1000000;
+-	case 1152000:
+-		return B1152000;
+-	case 1500000:
+-		return B1500000;
+-	case 2000000:
+-		return B2000000;
+-	case 2500000:
+-		return B2500000;
+-	case 3000000:
+-		return B3000000;
+-	case 3500000:
+-		return B3500000;
+-	case 4000000:
+-		return B4000000;
+ 	default:
+ 		return B57600;
+ 	}
+@@ -243,6 +228,19 @@
+ }
+ 
+ /* 
++ * Infineon specific initialization
++ */
++static int infineon(int fd, struct uart_t *u, struct termios *ti)
++{
++	if(u->speed != u->init_speed)
++	{
++		printf("Can't yet change speed for infineon module.  Will stay at %d baud\n", u->init_speed);
++		u->speed = u->init_speed;
++	}
++	return 0;
++}
++
++/* 
+  * Digianswer specific initialization 
+  */
+ static int digi(int fd, struct uart_t *u, struct termios *ti)
+@@ -791,6 +789,114 @@
+ 	return 0;
+ }
+ 
++void gumstix_reset(int fd)
++{
++	struct timespec tm = { 0, 500000000 };
++	struct timeval tv = { 1, 0 };
++	fd_set watch;
++	int retval;
++
++	tcflush(fd, TCIOFLUSH);
++	system("echo clear > /proc/gpio/GPIO12");
++	system("echo set > /proc/gpio/GPIO12");
++	nanosleep(&tm, NULL);
++	FD_ZERO(&watch);
++	FD_SET(fd,&watch);
++	retval = select(fd+1, &watch, NULL, NULL, &tv);
++	if(retval == -1)
++	{
++		perror("Select after reset failed");
++	} else if(retval == 0) {
++		printf("No response after reset\n");
++	} else {
++		printf("Got response after reset... gobbling\n");
++		tcflush(fd, TCIOFLUSH);
++	}
++}
++
++#define ARRAY_SIZE(x) (sizeof(x) / sizeof((x)[0]))
++static int gumstix(int fd, struct uart_t *u, struct termios *ti)
++{
++	fd_set watch;
++	struct timeval tv = { 1, 0 };
++	unsigned char cmd[10], resp[HCI_MAX_EVENT_SIZE];
++	int baudrates[] = { 57600, 115200, 921600 };
++	int old_alarm = alarm(20); // Extend timeout
++	int i, j, retval;
++
++	cmd[0] = HCI_COMMAND_PKT; // Determine what module we're talking to
++	cmd[1] = OCF_READ_LOCAL_VERSION;
++	cmd[2] = OGF_INFO_PARAM << 2;
++	cmd[3] = 0x00;
++
++	// Lock onto baud rate first
++	for(i=0; i < ARRAY_SIZE(baudrates); i++)
++	{
++		printf("Trying baud rate %d...\n",baudrates[i]);
++		if (set_speed(fd, ti, baudrates[i]) < 0) {
++			perror("Can't set default baud rate");
++			goto gumstix_fail;
++		}
++		gumstix_reset(fd);
++
++		/* Send READ_LOCAL_VERSION command */
++		if (write(fd, cmd, 4) != 4) {
++			perror("Can't write HCI_Read_Local_Version_Information cmd.");
++			goto gumstix_fail;
++		}
++
++		FD_ZERO(&watch);
++		FD_SET(fd,&watch);
++		tv.tv_sec = 1; tv.tv_usec = 0;
++		retval = select(fd+1, &watch, NULL, NULL, &tv);
++
++		if(retval == -1)
++		{
++			perror("select() failed");
++			goto gumstix_fail;
++		} else if(retval == 0) {
++			printf("No response from BT module\n");
++			continue;
++		} else {
++			retval = read_hci_event(fd, resp, HCI_MAX_EVENT_SIZE);
++			if (retval < 0) {
++				perror("Error reading response");
++				continue;
++			} else if(retval == READ_LOCAL_VERSION_RP_SIZE + 6) { // The 6 is 0x04 0x0e 0xnn 0xmm 0x01 0x10
++				read_local_version_rp *vers = (read_local_version_rp *)&(resp[6]);
++				printf("Detected bluetooth module at %d baud\n",baudrates[i]);
++				printf("Got: status=0x%02x, hci_ver=0x%02x, hci_rev=0x%04x, lmp_ver=0x%02x, manuf=0x%04x, lmp_subver=0x%04x\n",
++						vers->status, vers->hci_ver, vers->hci_rev,
++						vers->lmp_ver, vers->manufacturer, vers->lmp_subver);
++				if(vers->manufacturer == 0x0000) // ericsson
++				{
++					u->init_speed = baudrates[i];
++					ericsson(fd,u,ti);
++				}
++				else if(vers->manufacturer == 0x0009) // infineon
++				{
++					u->init_speed = baudrates[i];
++					infineon(fd,u,ti);
++				} else {
++					printf("Unknown bluetooth module manufacturer!\n");
++					goto gumstix_fail;
++				}
++				goto gumstix_success;
++			} else {
++				printf("Read wrong response size: %d\n", retval);
++				for(j=0; j<retval; j++) printf("0x%02x ",resp[j]);
++				continue;
++			}
++		}
++	}
++gumstix_fail:
++	alarm(old_alarm);
++	return -1;
++gumstix_success:
++	alarm(old_alarm);
++	return 0;
++}
++
+ /*
+  * ST Microelectronics specific initialization
+  * Marcel Holtmann <marcel@holtmann.org>
+@@ -1044,6 +1150,7 @@
+ struct uart_t uart[] = {
+ 	{ "any",        0x0000, 0x0000, HCI_UART_H4,   115200, 115200, FLOW_CTL, NULL, NULL     },
+ 	{ "ericsson",   0x0000, 0x0000, HCI_UART_H4,   57600,  115200, FLOW_CTL, NULL, ericsson },
++	{ "gumstix",	  0x0000,	0x0000,	HCI_UART_H4,   57600,  921600, FLOW_CTL, NULL, gumstix  },
+ 	{ "digi",       0x0000, 0x0000, HCI_UART_H4,   9600,   115200, FLOW_CTL, NULL, digi     },
+ 	{ "texas",      0x0000, 0x0000, HCI_UART_H4,   115200, 115200, FLOW_CTL, NULL, texas    },
+ 

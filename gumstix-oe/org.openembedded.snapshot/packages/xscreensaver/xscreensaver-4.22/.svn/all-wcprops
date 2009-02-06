@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xscreensaver/xscreensaver-4.22
+END
+configure.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xscreensaver/xscreensaver-4.22/configure.in.patch
+END

@@ -1,0 +1,85 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.26
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+arm
+dir
+
+26headers.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+73366563cc9b25829d8b1ef80f356f33
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nokernelheadercheck.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+a9da1f4d215efaf2903c78430dfa0414
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+armeb
+dir
+
+i386
+dir
+
+mipsel
+dir
+
+dyn-ldconfig.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+6cc8ff2f0f678fdb84e020b7861492e7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+i686
+dir
+
+sh3
+dir
+
+sh4
+dir
+

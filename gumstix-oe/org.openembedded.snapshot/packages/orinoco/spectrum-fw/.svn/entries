@@ -1,0 +1,54 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/orinoco/spectrum-fw
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+get_symbol_fw
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+6111b172d3ea7b9d070f6959c9cd0e0e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+
+parse_symbol_fw
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+1004608b9a000d4d4ef04c5abaa0d939
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+has-props
+

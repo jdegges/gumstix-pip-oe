@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-lib/pixman-0.9.5
+END
+dont-copy-unused-bits-to-alpha-channel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xorg-lib/pixman-0.9.5/dont-copy-unused-bits-to-alpha-channel.patch
+END

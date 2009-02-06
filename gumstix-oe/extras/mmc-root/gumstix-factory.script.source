@@ -1,0 +1,9 @@
+echo "Booting from mmc/microSD..."
+set workedok Failed
+if mmcinit; then
+       setenv bootargs console=ttyS0,115200n8 rootdelay=1 root=/dev/mmcblk0p2
+       if fatload mmc 0 a2000000 uimage; then
+               set workedok Success
+       fi
+fi
+bootm a2000000

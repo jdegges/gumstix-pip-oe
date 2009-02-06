@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/plinciv/plinciv-0.16
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/plinciv/plinciv-0.16/configure.patch
+END
+FC1.14.1-PC0.16.diff.gz
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/plinciv/plinciv-0.16/FC1.14.1-PC0.16.diff.gz
+END

@@ -1,0 +1,61 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openldap
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+openldap-2.3.11
+dir
+
+openldap_2.3.11.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+a5152c73bfb885d650c20904a9cea17f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openldap-2.2.29
+dir
+
+openldap_2.2.29.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+e7f96c4b1161cd58a25d27e07f56baf4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

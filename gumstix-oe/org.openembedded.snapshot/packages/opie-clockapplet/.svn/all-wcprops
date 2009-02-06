@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-clockapplet
+END
+opie-clockapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-clockapplet/opie-clockapplet.inc
+END
+opie-clockapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-clockapplet/opie-clockapplet_cvs.bb
+END
+opie-clockapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-clockapplet/opie-clockapplet_1.2.2.bb
+END
+opie-clockapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-clockapplet/opie-clockapplet_1.2.3.bb
+END

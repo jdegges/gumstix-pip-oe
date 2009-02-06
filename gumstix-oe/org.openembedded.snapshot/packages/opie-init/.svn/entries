@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-init
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-init_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+3460918a0cdcae625f28f6e4e9b23614
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-init.inc
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+3b30fcd68747083b9eb2cd6fdf58831c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-init
+dir
+

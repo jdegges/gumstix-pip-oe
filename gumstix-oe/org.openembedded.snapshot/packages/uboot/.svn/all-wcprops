@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot
+END
+u-boot-omap2430sdp_1.1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-omap2430sdp_1.1.4.bb
+END
+uboot-openmoko_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/uboot-openmoko_svn.bb
+END
+u-boot_1.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot_1.2.0.bb
+END
+uboot-utils_1.2.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/uboot-utils_1.2.0.bb
+END
+u-boot_1.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot_1.1.2.bb
+END
+u-boot_1.1.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot_1.1.4.bb
+END
+u-boot_git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot_git.bb
+END
+u-boot_1.1.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot_1.1.6.bb
+END
+u-boot-mkimage-openmoko-native_oe.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot-mkimage-openmoko-native_oe.bb
+END
+uboot-openmoko_1.2.0+gitf34024d4a328e6edd906456da98d2c537155c4f7+svn2943.bb
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/uboot-openmoko_1.2.0+gitf34024d4a328e6edd906456da98d2c537155c4f7+svn2943.bb
+END
+u-boot.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uboot/u-boot.inc
+END

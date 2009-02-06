@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/vlc/vlc-gpe-0.8.1
+END
+fix-pda.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/vlc/vlc-gpe-0.8.1/fix-pda.patch
+END
+vlc-tremor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/vlc/vlc-gpe-0.8.1/vlc-tremor.patch
+END

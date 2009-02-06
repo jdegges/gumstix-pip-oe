@@ -1,0 +1,202 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+bfin-uclibc_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+8caca3390a8af97de99bf803f1fb42db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-initial_0.9.26.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+26a8db8297d94646a92e8ab9f85c92bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-initial_0.9.27.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+26a8db8297d94646a92e8ab9f85c92bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-initial_0.9.28.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+26a8db8297d94646a92e8ab9f85c92bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-initial_0.9.29.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+26a8db8297d94646a92e8ab9f85c92bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-cvs
+dir
+
+uclibc-0.9.26
+dir
+
+uclibc-0.9.27
+dir
+
+uclibc-0.9.28
+dir
+
+uclibc-0.9.29
+dir
+
+uclibc_0.9.26.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+857215ae757cc6418ff05b2a883189c2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc_0.9.27.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+d3f5ee665b59571a9c631fb79badc0df
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc-initial_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+6a1d85189bbdbf23518d38dfa46edd50
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc_0.9.28.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+43e390759ea473f43957205941e26b62
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+uclibc_0.9.29.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+f4e5f44473a9fcfdbe0e69d89458a549
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+elf2flt_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+52fc3a3394832279ae0ce6f361dfe55b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc.inc
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+32947759f5bdaba820918e2526cd91b3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uclibc_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+37dc41946ca8bd53889643370136c06a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

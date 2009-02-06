@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/bitbake/conf
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+bitbake.conf
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+00c11f3afff808327cb2d3ecf6f6cc68
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+

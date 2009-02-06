@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/configure.patch
+END
+gcc41.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/gcc41.patch
+END
+no-caca.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/no-caca.patch
+END
+cpuid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/cpuid.patch
+END
+libxine-cut-memusage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/libxine-cut-memusage.patch
+END
+libxine-arm-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/libxine-arm-configure.patch
+END
+mpegvideo-static-inlinine.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/mpegvideo-static-inlinine.patch
+END
+tremor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/tremor.patch
+END
+libxine-tremor-autoconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/libxine-tremor-autoconf.patch
+END
+libxine-ffmpeg-enable-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/libxine-ffmpeg-enable-arm.patch
+END
+dont-have-xv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/dont-have-xv.patch
+END
+fix-syntax-xine-vorbis-decoder.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libxine/libxine-1.1.0/fix-syntax-xine-vorbis-decoder.patch
+END

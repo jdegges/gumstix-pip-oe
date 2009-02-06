@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-deco-liquid
+END
+opie-deco-liquid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-deco-liquid/opie-deco-liquid.inc
+END
+opie-deco-liquid_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-deco-liquid/opie-deco-liquid_cvs.bb
+END
+opie-deco-liquid_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-deco-liquid/opie-deco-liquid_1.2.2.bb
+END
+opie-deco-liquid_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-deco-liquid/opie-deco-liquid_1.2.3.bb
+END

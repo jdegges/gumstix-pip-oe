@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107
+END
+defconfig-husky
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-husky
+END
+compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/compile.patch
+END
+smallfonts.diff
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/smallfonts.diff
+END
+usb-storage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/usb-storage.patch
+END
+tosa-power-key-off.patch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/tosa-power-key-off.patch
+END
+mkdep.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/mkdep.patch
+END
+logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/logo.patch
+END
+disable-pcmcia-probe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/disable-pcmcia-probe.patch
+END
+defconfig-poodle255
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-poodle255
+END
+enable-sysrq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/enable-sysrq.patch
+END
+bluecard_cs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/bluecard_cs.patch
+END
+module_licence.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/module_licence.patch
+END
+keymap-more-sane.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/keymap-more-sane.patch
+END
+deviceinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/deviceinfo.patch
+END
+keyboard-ctrl+alt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/keyboard-ctrl+alt.patch
+END
+dumb-hack-for-wlan-ng.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/dumb-hack-for-wlan-ng.patch
+END
+corgi-fbcon-logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/corgi-fbcon-logo.patch
+END
+defconfig-shepherd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-shepherd
+END
+idecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/idecs.patch
+END
+defconfig-corgi
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-corgi
+END
+bt950_cs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/bt950_cs.patch
+END
+defconfig-tosa
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-tosa
+END
+corgi-default-brightness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/corgi-default-brightness.patch
+END
+initsh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/initsh.patch
+END
+1764-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/1764-1.patch
+END
+apm_arrowkey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/apm_arrowkey.patch
+END
+tosa_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/tosa_map.patch
+END
+bluetooth-2.4.18-mh15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/bluetooth-2.4.18-mh15.patch
+END
+sharpsl_battery.patch
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/sharpsl_battery.patch
+END
+buffered-fbmem.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/buffered-fbmem.patch
+END
+defconfig-poodle
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/defconfig-poodle
+END
+swap-performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/swap-performance.patch
+END
+piro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/piro.patch
+END
+fix_tosa_apm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/fix_tosa_apm.patch
+END
+tosa_ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/tosa_ts.patch
+END
+unb0rk-apm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa-2.4.18-rmk7-pxa3-embedix20031107/unb0rk-apm.patch
+END

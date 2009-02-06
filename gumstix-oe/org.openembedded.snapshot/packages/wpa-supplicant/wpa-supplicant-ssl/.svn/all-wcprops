@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant-ssl
+END
+wpa-defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/wpa-supplicant/wpa-supplicant-ssl/wpa-defconfig
+END

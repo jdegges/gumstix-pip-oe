@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/keymap-locales
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+keymap-locales.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+ecf2c415db6ca6ba9795bd25526fa061
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

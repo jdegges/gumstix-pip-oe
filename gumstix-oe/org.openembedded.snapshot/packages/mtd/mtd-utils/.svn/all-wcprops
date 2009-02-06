@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils
+END
+fix-ignoreerrors-git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils/fix-ignoreerrors-git.patch
+END
+add-exclusion-to-mkfs-jffs2-git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils/add-exclusion-to-mkfs-jffs2-git.patch
+END
+lzo_1x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils/lzo_1x.patch
+END

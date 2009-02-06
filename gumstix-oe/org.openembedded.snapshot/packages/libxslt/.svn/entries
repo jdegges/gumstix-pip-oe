@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libxslt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libxslt_1.1.21.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+4e8249b3c70daa09dd0bcf30e90f8db3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libxslt-native_1.1.21.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+f3651fc63e2e28d7f2ad5b30701f0677
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libxslt_1.1.17.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+b950421090369b3c1de354fc817f798b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libxslt-native_1.1.17.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+3c38ca4edb8979f84c3a4f768b80addb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

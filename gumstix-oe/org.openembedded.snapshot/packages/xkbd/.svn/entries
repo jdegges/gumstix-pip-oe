@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xkbd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+xkbd-0.8.15
+dir
+
+xkbd_0.8.15.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+1bae6b3b9baa045a5d2415fcd2062d53
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xkbd-layout-ru_0.1.1.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+14f3ea0298a9ae1642c0b6fd4c6153f5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

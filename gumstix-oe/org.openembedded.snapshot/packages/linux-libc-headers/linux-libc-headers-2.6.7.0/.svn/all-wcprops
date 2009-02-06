@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.7.0
+END
+sh-missing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.7.0/sh-missing.patch
+END

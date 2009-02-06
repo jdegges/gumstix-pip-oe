@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-icon-reload
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-icon-reload
+dir
+
+opie-icon-reload_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+3c31765ec1f7732b2ab3e522528abda6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-icon-reload_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+7953f1e045d96648d09d18b011efde86
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-icon-reload.inc
+file
+
+
+
+
+2009-02-06T18:14:27.000000Z
+19ca9c24bddb04e411b1d1b8d4689f38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

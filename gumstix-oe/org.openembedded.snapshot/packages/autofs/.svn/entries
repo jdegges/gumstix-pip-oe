@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/autofs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+autofs_4.0.0.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+4dc16039c713ae324cfc5cd60675d493
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autofs-4.1.4
+dir
+
+autofs_4.1.4.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+5ff4e1f728ec3da65aa83575a3b36c65
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autofs_3.1.7.bb
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+1d46d6c0e0a54236e3015e73c9e0f7f3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1
+END
+mii-debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/mii-debug.patch
+END
+module-param.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/module-param.patch
+END
+rtl8201-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/rtl8201-support.patch
+END
+livelock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/livelock.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/Makefile.patch
+END
+bit-macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/bit-macro.patch
+END
+ixethdb-header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/ixethdb-header.patch
+END
+ixnpemhconfigisr-is-private.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/ixnpemhconfigisr-is-private.patch
+END
+oe-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/oe-makefile.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/gcc4.patch
+END
+le.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp4xx-csr-2.1/le.patch
+END

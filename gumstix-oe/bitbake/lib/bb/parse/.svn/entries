@@ -1,0 +1,56 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/bitbake/lib/bb/parse
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+parse_py
+dir
+
+__init__.py
+file
+
+
+
+
+2009-02-06T18:16:37.000000Z
+cbf197baa12c41ba691132d648fd3789
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+
+__init__.pyc
+file
+
+
+
+
+2009-02-06T18:16:37.000000Z
+1c555a7cfe7932318afd25a004d0f946
+2008-04-22T15:04:44.807481Z
+314
+sakoman
+has-props
+

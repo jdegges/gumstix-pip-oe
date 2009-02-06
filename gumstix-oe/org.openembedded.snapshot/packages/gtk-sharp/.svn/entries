@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gtk-sharp
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gtk-sharp_2.10.2.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+1f637a9364c21cda134b006344aec5e3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gtk-sharp.inc
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+d0fa3150c86d9a606110f1f74a0f9552
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fakeroot
+END
+fakeroot_1.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fakeroot/fakeroot_1.7.1.bb
+END
+fakeroot-native_1.2.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fakeroot/fakeroot-native_1.2.13.bb
+END
+fakeroot-native_1.7.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fakeroot/fakeroot-native_1.7.1.bb
+END
+fakeroot_1.2.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fakeroot/fakeroot_1.2.13.bb
+END

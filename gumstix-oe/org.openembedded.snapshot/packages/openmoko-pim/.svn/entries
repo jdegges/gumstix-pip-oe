@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openmoko-pim
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+openmoko-tasks_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+93f0ae050063bfc0345bd0f91a62afe7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openmoko-contacts_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+8511a527337c8cf8dbe84b5d12c59aeb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openmoko-dates_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+2b1c47918aad26634ff6593bdaf81790
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openmoko-today_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+51d3c6ba336c2cb44eaaa423d4acbc62
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc3-native-3.3.5
+END
+no-examples.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc3-native-3.3.5/no-examples.patch
+END
+64bit-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/227/trunk/com.gumstix.collection/packages/uicmoc/uicmoc3-native-3.3.5/64bit-cleanup.patch
+END

@@ -1,0 +1,181 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uboot
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+u-boot-omap2430sdp_1.1.4.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+c8808f8ce889b0fc80dc77055d624cf4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uboot-openmoko_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+15b3784e8b4e8d2f725ccc6e68c14f71
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uboot-utils_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+ec25a7c183cf5b52da46b7f714e71947
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot-mkimage-openmoko-native
+dir
+
+u-boot_git.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+f5331a7a47b52d15eca166d0c2073ee3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot-mkimage-openmoko-native_oe.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+923a2a9ef164efdc3cc7c8b90a14e89c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot-1.2.0
+dir
+
+u-boot-1.1.2
+dir
+
+files
+dir
+
+u-boot-1.1.4
+dir
+
+u-boot_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+d0b1fe9759ef92fc0650f07447409a7b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot_1.1.2.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+a7199bdfe3ae151a6c5c2e95f29b48db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot-1.1.6
+dir
+
+u-boot_1.1.4.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+b131fbaade882e8fd007cadd69b471a3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot_1.1.6.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+c1ef9dff4c9a152993af0d3691c9b325
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uboot-openmoko_1.2.0+gitf34024d4a328e6edd906456da98d2c537155c4f7+svn2943.bb
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+c2b86244ff1cd1c76b9b5bf66e09d6b8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot.inc
+file
+
+
+
+
+2009-02-06T18:16:27.000000Z
+ab2b51954a1d087eeaf8cc9962a7d7e1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+u-boot-omap2430sdp-1.1.4
+dir
+

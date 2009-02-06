@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only
+END
+prism2-firmware-update_1.7.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only/prism2-firmware-update_1.7.4.bb
+END
+tda1004x-firmware.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only/tda1004x-firmware.bb
+END
+acx-firmware_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only/acx-firmware_1.0.bb
+END
+prism-firmware.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only/prism-firmware.bb
+END
+tiinit_3.2.26.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/misc-binary-only/tiinit_3.2.26.bb
+END

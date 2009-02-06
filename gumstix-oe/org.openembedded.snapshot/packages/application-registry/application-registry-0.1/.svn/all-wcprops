@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1
+END
+ipkg.applications
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/ipkg.applications
+END
+firefox.applications
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/firefox.applications
+END
+gpe-calendar.applications
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/gpe-calendar.applications
+END
+abiword.applications
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/abiword.applications
+END
+gpe-contacts.applications
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/gpe-contacts.applications
+END
+gnumeric.applications
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/application-registry/application-registry-0.1/gnumeric.applications
+END

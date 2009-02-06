@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/galago
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+galago-daemon_0.3.4.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+4bd3eaf552bc0b0e380a6bd12de28179
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+libgalago_0.3.3.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+6e5f798ea44e8aea41a2f9358a3c0f2c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+eds-feed
+dir
+
+eds-feed_0.3.2.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+3e17e8fbddfbc6857f79b3e5f9f470f3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

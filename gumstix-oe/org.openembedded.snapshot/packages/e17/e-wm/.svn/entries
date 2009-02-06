@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/e17/e-wm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix-configure.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+0ca1e8979b56158155b86caf37059d5d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+set-autoscroll-defaults.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+e21939cddd9cebf4e31f37bb58b1f224
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+applications.menu
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+36c8ff0b119d94ce0bfb5cfa8f1dc741
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+disable-splash.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+ce537d708be78e6ad435c4c242a43bbd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+Xsession.d
+dir
+

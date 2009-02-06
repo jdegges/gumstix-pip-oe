@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iozone3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+iozone3_263.bb
+file
+
+
+
+
+2009-02-06T18:15:02.000000Z
+a583c6c482387b3bf88691e08a96781d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iozone3
+dir
+

@@ -1,0 +1,139 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc/uclibc-0.9.27
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+arm
+dir
+
+thumb-swp.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+516cb7c79f8de48e979912c794792b38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-static-main.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+1694c803d94b460a42fd7099704d59b9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt54
+dir
+
+arm-thumb-defined.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+77eac88645be21e843520d045a142adf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+armeb
+dir
+
+mipsel
+dir
+
+i386
+dir
+
+i686
+dir
+
+thumb-ldso-dlboot.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+29cd7be5eddaeb28acf8b95dd410a64d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sh3
+dir
+
+sh4
+dir
+
+ucslugc
+dir
+
+dyn-ldconfig.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+3516ccf5e50f72569d24a70d90037c31
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-interwork-asm.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+68b06e6f8c401eecef93fd65446ecf8f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-swi.patch
+file
+
+
+
+
+2009-02-06T18:13:39.000000Z
+4f7b21ff8d38a66f703ad9b2f0c3eb92
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

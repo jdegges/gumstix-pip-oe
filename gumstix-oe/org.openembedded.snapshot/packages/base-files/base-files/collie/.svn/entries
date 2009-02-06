@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/base-files/base-files/collie
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fstab
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+2924559db1c3490a33ace3918b132c26
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+usbd
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+9b5c993f726e11a4b2f3d5dc3c2c3dee
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

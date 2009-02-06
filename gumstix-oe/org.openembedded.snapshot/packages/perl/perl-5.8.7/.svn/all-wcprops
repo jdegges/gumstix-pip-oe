@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7
+END
+Makefile.SH.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/Makefile.SH.patch
+END
+config.sh-arm-linux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-arm-linux.patch
+END
+config.sh-powerpc-linux
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-powerpc-linux
+END
+config.sh-arm-linux
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-arm-linux
+END
+makefile-usegcc-to-link.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/makefile-usegcc-to-link.patch
+END
+config.sh-armeb-linux
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-armeb-linux
+END
+uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/uclibc.patch
+END
+config.sh-mipsel-linux
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-mipsel-linux
+END
+config.sh-i386-linux
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-i386-linux
+END
+config.sh-i486-linux
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-i486-linux
+END
+config.sh-i586-linux
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-i586-linux
+END
+config.sh-i686-linux
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-i686-linux
+END
+config.sh-sh3-linux
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-sh3-linux
+END
+config.sh-x86_64-linux
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-x86_64-linux
+END
+config.sh-sh4-linux
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/config.sh-sh4-linux
+END
+libperl-5.8.3-create-libperl-soname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/libperl-5.8.3-create-libperl-soname.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/Makefile.patch
+END
+override-generate-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-5.8.7/override-generate-sh.patch
+END

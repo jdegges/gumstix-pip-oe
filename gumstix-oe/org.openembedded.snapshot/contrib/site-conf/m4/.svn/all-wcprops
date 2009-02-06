@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4
+END
+xffm.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/xffm.m4
+END
+clamav.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/clamav.m4
+END
+jikes.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/jikes.m4
+END
+builtin.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/builtin.m4
+END
+ettercap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/ettercap.m4
+END
+coreutils.m4
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/coreutils.m4
+END
+socat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/socat.m4
+END
+libnet.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/libnet.m4
+END
+glib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/glib.m4
+END
+apache.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/apache.m4
+END
+samba.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/samba.m4
+END
+ipsectools.m4
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/ipsectools.m4
+END
+sleepycat.m4
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/sleepycat.m4
+END
+nano.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/nano.m4
+END
+ssh.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/ssh.m4
+END
+rsync.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/rsync.m4
+END
+libidl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/libidl.m4
+END
+orbit2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/orbit2.m4
+END
+httppc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/httppc.m4
+END
+mysql.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/mysql.m4
+END
+lftp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/lftp.m4
+END
+enca.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/enca.m4
+END
+mono.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/mono.m4
+END
+startupnotification.m4
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/startupnotification.m4
+END
+sudo.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/sudo.m4
+END
+bash.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/bash.m4
+END
+slrn.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/slrn.m4
+END
+libesmtp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/libesmtp.m4
+END
+screen.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/screen.m4
+END
+links.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/links.m4
+END
+fnmatch.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/fnmatch.m4
+END
+pcap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/pcap.m4
+END
+gettext.m4
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/gettext.m4
+END
+dpkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/dpkg.m4
+END
+fget.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/fget.m4
+END
+php.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/php.m4
+END
+gnu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/gnu.m4
+END
+edb.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/edb.m4
+END
+cvs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/cvs.m4
+END
+dbus.m4
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/dbus.m4
+END
+libxfce4util.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/libxfce4util.m4
+END
+glib2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/contrib/site-conf/m4/glib2.m4
+END

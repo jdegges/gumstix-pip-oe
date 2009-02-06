@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libmadplugin
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-mediaplayer1-libmadplugin.inc
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+f9546f1f0dc5678da1783b44a1e21a0f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-mediaplayer1-libmadplugin_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+d284e0ff5f6dceeecc3f419e7b99333c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-mediaplayer1-libmadplugin
+dir
+
+opie-mediaplayer1-libmadplugin_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:22.000000Z
+97bf20d4134c670463812a608f082553
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

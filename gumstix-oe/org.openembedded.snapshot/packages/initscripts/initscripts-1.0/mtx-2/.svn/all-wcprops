@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/mtx-2
+END
+mountall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/mtx-2/mountall.sh
+END
+checkroot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/mtx-2/checkroot.sh
+END

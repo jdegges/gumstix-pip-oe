@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs-1.3+cvs
+END
+bytes_per_inode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs-1.3+cvs/bytes_per_inode.patch
+END

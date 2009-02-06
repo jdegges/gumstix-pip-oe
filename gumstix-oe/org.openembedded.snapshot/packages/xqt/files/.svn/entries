@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xqt/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+moc_call.patch
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+4908c854021e000886c6609b445193a2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+imake-staging.patch
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+ced8996d762c09d5dcca894e8d217dad
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

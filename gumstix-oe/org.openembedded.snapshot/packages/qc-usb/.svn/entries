@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/qc-usb
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qc-usb-messenger_1.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+b68b8c2920854bc638370192e4d1952b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+qc-usb-messenger-0.8
+dir
+
+qc-usb-messenger_0.8.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+e4bf72468be364116fb73ee66aeaa16a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

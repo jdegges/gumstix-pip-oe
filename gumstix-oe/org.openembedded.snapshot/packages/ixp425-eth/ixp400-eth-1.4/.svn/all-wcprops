@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4
+END
+ixp400-le-be.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/ixp400-le-be.patch
+END
+2.6.13.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/2.6.13.patch
+END
+2.6.14.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/2.6.14.patch
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/makefile.patch
+END
+modprobe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/modprobe.conf
+END
+2.6.14-mm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/ixp425-eth/ixp400-eth-1.4/2.6.14-mm.patch
+END

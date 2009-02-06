@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc
+END
+uicmoc-native_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc-native_2.3.10.bb
+END
+uicmoc4-native_4.3.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc4-native_4.3.0.bb
+END
+uicmoc4-native_4.3.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc4-native_4.3.1.bb
+END
+uicmoc4-native_4.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc4-native_4.2.3.bb
+END
+uicmoc4-native_4.3.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc4-native_4.3.2.bb
+END
+uicmoc3-native_3.3.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc3-native_3.3.5.bb
+END

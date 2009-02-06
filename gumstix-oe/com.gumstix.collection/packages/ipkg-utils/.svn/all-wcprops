@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils
+END
+ipkg-link_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils/ipkg-link_1.6+cvs20050404.bb
+END
+ipkg-utils_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils/ipkg-utils_1.6+cvs20050404.bb
+END
+ipkg-utils-native_1.6+cvs20050404.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/152/trunk/com.gumstix.collection/packages/ipkg-utils/ipkg-utils-native_1.6+cvs20050404.bb
+END

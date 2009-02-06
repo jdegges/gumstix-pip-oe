@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files
+END
+net-tools-1.60-trailingblank.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-trailingblank.patch
+END
+net-tools-1.60-config.make
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-config.make
+END
+mii-diag.8
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/mii-diag.8
+END
+net-tools-1.60-manydevs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-manydevs.patch
+END
+net-tools-1.60-netstat_ulong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-netstat_ulong.patch
+END
+net-tools-1.60-virtualname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-virtualname.patch
+END
+net-tools-1.60-de.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-de.patch
+END
+net-tools-1.60-statistics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-statistics.patch
+END
+net-tools-1.60-bcast.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-bcast.patch
+END
+net-tools-1.60-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-config.h
+END
+net-tools-1.60-ifconfig_ib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-ifconfig_ib.patch
+END
+net-tools-1.60-ipx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-ipx.patch
+END
+net-tools-1.60-netmask.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-netmask.patch
+END
+net-tools-1.60-gcc33.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-gcc33.patch
+END
+net-tools-1.60-gcc34.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-gcc34.patch
+END
+net-tools-1.60-overflow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-overflow.patch
+END
+net-tools-1.60-mii-tool-obsolete.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-mii-tool-obsolete.patch
+END
+net-tools-1.60-num-ports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-num-ports.patch
+END
+net-tools-1.60-arp_overflow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-arp_overflow.patch
+END
+net-tools-1.60-stdo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-stdo.patch
+END
+net-tools-1.60-parse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-parse.patch
+END
+net-tools-1.60-man.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-man.patch
+END
+ether-wake.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/ether-wake.c
+END
+net-tools-1.60-pie.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-pie.patch
+END
+net-tools-1.60-return.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-return.patch
+END
+net-tools-1.60-netstat_stop_trim.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-netstat_stop_trim.patch
+END
+net-tools-1.60-ifconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-ifconfig.patch
+END
+net-tools-1.60-ulong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-ulong.patch
+END
+net-tools-1.60-interface_stack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-interface_stack.patch
+END
+net-tools-1.60-statalias.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-statalias.patch
+END
+net-tools-1.60-selinux.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-selinux.patch
+END
+net-tools-1.60-ifaceopt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-ifaceopt.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/README
+END
+net-tools-1.60-trunc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-trunc.patch
+END
+net-tools-1.60-inet6-lookup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-inet6-lookup.patch
+END
+net-tools-1.60-duplicate-tcp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-duplicate-tcp.patch
+END
+net-tools-1.60-siunits.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-siunits.patch
+END
+net-tools-1.60-nameif.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-nameif.patch
+END
+mii-diag.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/mii-diag.c
+END
+net-tools-1.60-cycle.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-cycle.patch
+END
+net-tools-1.60-interface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-interface.patch
+END
+ether-wake.8
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/ether-wake.8
+END
+net-tools-1.60-isofix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-isofix.patch
+END
+net-tools-1.60-trim_iface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-trim_iface.patch
+END
+net-tools-1.60-note.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-note.patch
+END
+net-tools-1.60-miiioctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-miiioctl.patch
+END
+net-tools-1.60-hostname_man.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-hostname_man.patch
+END
+net-tools-1.60-bitkeeper.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.60-bitkeeper.patch
+END
+net-tools-1.57-bug22040.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/net-tools/files/net-tools-1.57-bug22040.patch
+END

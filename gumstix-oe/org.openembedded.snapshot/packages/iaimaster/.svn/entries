@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iaimaster
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+iaimaster_0.5.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+794ff2a8e5d9662f9836570ec0034c37
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

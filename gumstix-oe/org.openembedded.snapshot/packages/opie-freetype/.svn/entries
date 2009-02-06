@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-freetype
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-freetype_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+44c944c815549f653011bc675305e08c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-freetype_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+2fc7532a685cb41197ea407ed25da5b7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-freetype.inc
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+755af3d9ef3a91b2e8f22399d57c1d35
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-freetype_cvs.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+d80fd8c55152b7548e8076dfcf08fe2b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-freetype
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openpbx/openpbx.org-1.2_rc3
+END
+openssl.m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openpbx/openpbx.org-1.2_rc3/openssl.m4.patch
+END
+bootstrap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openpbx/openpbx.org-1.2_rc3/bootstrap.patch
+END

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5
+END
+glibc-2.2.5-arm-pwrite64.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-arm-pwrite64.patch
+END
+initfini-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/initfini-sh.patch
+END
+glibc-2.2.5-mips-build-gmon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-mips-build-gmon.patch
+END
+glibc-2.2.5-allow-gcc-3.4-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-allow-gcc-3.4-fixup.patch
+END
+glibc-2.2.5-alpha-pwrite64.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-alpha-pwrite64.patch
+END
+errlist-1.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/errlist-1.9.patch
+END
+glibc-2.2.5-crossyes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-crossyes.patch
+END
+fhs-linux-paths.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/fhs-linux-paths.patch
+END
+arm-longlong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-longlong.patch
+END
+cris-libc-symbols.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/cris-libc-symbols.patch
+END
+sh-setjmp-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/sh-setjmp-fix.patch
+END
+glibc-drow-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-drow-sh.patch
+END
+glibc-2.2.5-alpha-self-clobber.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-alpha-self-clobber.patch
+END
+initfini-flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/initfini-flags.patch
+END
+linuxthreads-2.2.5-ppc405erratum77.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/linuxthreads-2.2.5-ppc405erratum77.patch
+END
+arm-ctl_bus_isa.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-ctl_bus_isa.patch
+END
+alpha-build-failure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/alpha-build-failure.patch
+END
+dl-machine-mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-mips.patch
+END
+glibc-2.2.5-ppc405erratum77.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-ppc405erratum77.patch
+END
+dl-machine-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-arm.patch
+END
+arm-machine-gmon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-machine-gmon.patch
+END
+glibc-2.2.5-allow-gcc-3.4-grp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-allow-gcc-3.4-grp.patch
+END
+cris-stack-direction.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/cris-stack-direction.patch
+END
+unwind-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/unwind-arm.patch
+END
+dl-machine-alpha.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-alpha.patch
+END
+dl-machine-m68k.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-m68k.patch
+END
+pt-initfini-flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/pt-initfini-flags.patch
+END
+glibc-2.3.2-initfini.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.3.2-initfini.patch
+END
+sprintf-prototype.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/sprintf-prototype.patch
+END
+threadparam.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/threadparam.patch
+END
+arm-no-hwcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-no-hwcap.patch
+END
+glibc-2.2.5-mips-clone-local-label.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-mips-clone-local-label.patch
+END
+glibc-test-lowram.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-test-lowram.patch
+END
+initfini-alpha.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/initfini-alpha.patch
+END
+glibc-2.2.5-allow-gcc-3.4-td.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-allow-gcc-3.4-td.patch
+END
+glibc-linuxthreads-2.3.2-initfini.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-linuxthreads-2.3.2-initfini.patch
+END
+glibc-2.2.5-hhl-powerpc-fpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-hhl-powerpc-fpu.patch
+END
+errlist-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/errlist-arm.patch
+END
+pt-initfini-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/pt-initfini-sh.patch
+END
+arm-asm-clobber.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-asm-clobber.patch
+END
+ldd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/ldd.patch
+END
+arm-memcpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/arm-memcpy.patch
+END
+dl-machine-sparc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-sparc.patch
+END
+glibc-2.2.5-crosstest.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-crosstest.patch
+END
+dl-machine-sh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/dl-machine-sh.patch
+END
+longjmp-sparc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/longjmp-sparc.patch
+END
+pt-initfini-alpha.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/pt-initfini-alpha.patch
+END
+sscanf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/sscanf.patch
+END
+glibc-2.2.5-cygwin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-2.2.5/glibc-2.2.5-cygwin.patch
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad
+END
+linux-2.6.21-SIMpad-GPIO-MMC-mod.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-GPIO-MMC-mod.patch
+END
+linux-2.6.21-SIMpad-battery-old-way-but-also-with-sysfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-battery-old-way-but-also-with-sysfs.patch
+END
+linux-2.6.21-SIMpad-ucb1x00-switches.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-ucb1x00-switches.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/defconfig
+END
+linux-2.6.21-SIMpad-serial-gpio_keys-and-cs3-ro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-serial-gpio_keys-and-cs3-ro.patch
+END
+linux-2.6.21-SIMpad-ucb1x00-ts-supend-and-accuracy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-ucb1x00-ts-supend-and-accuracy.patch
+END
+linux-2.6.21-SIMpad-pcmcia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-pcmcia.patch
+END
+linux-2.6.21-SIMpad-mq200.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-mq200.patch
+END
+linux-2.6.21-SIMpad-usb-gadget.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-usb-gadget.patch
+END
+linux-2.6.21-SIMpad-cs3-simpad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-cs3-simpad.patch
+END
+linux-2.6.21-SIMpad-net-shared-irq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux/simpad/linux-2.6.21-SIMpad-net-shared-irq.patch
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/gumstix/!svn/ver/289/trunk/com.gumstix.collection/packages/gsm/files
+END
+0002-Flush-all-pending-commands-before-restarting-the-mod.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/0002-Flush-all-pending-commands-before-restarting-the-mod.patch
+END
+025_sms-status-report.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/025_sms-status-report.patch
+END
+install-ts-headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/install-ts-headers.patch
+END
+024_sms-text-in-bracket.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/024_sms-text-in-bracket.patch
+END
+default
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/default
+END
+0004-Handle-read-and-write-return-values.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/0004-Handle-read-and-write-return-values.patch
+END
+0005-Add-ask-ds-option-forSMS.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/0005-Add-ask-ds-option-forSMS.patch
+END
+027_phonebook-find-and-read-range-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/027_phonebook-find-and-read-range-support.patch
+END
+gsmd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/gsmd
+END
+lgsm_send_fix_return_value.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/lgsm_send_fix_return_value.patch
+END
+028_shell-phonebook-find-and-read-range-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/028_shell-phonebook-find-and-read-range-support.patch
+END
+0001-Introduce-ports.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/0001-Introduce-ports.patch
+END
+0003-Correctly-segment-incoming-usock-data-into-packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/gumstix/!svn/ver/286/trunk/com.gumstix.collection/packages/gsm/files/0003-Correctly-segment-incoming-usock-data-into-packets.patch
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tinymail
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libtinymail_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+ee148c54c0bf1c831aa2057bd40b7aae
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libtinymail_0.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:09.000000Z
+f4964ca4735e930639b7922ed7b5613e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

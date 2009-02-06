@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/fam
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fam-2.6.10
+dir
+
+fam-2.7.0
+dir
+
+fam_2.6.10.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+74c8420870c3d695f8a322cbbafde101
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fam_2.7.0.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+f2a6eadd23daea4490b3f73ef2de66d5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

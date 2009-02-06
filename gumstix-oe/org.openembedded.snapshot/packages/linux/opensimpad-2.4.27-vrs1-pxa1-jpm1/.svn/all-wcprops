@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1
+END
+defconfig-simpad
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/defconfig-simpad
+END
+2.4.27-vrs1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/2.4.27-vrs1.patch
+END
+simpad-apm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/simpad-apm.patch
+END
+2.4.27-vrs1-pxa1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/2.4.27-vrs1-pxa1.patch
+END
+simpad-pm-updates.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/simpad-pm-updates.patch
+END
+2.4.27-mh1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/2.4.27-mh1.patch
+END
+2.4.27-vrs1-pxa1-jpm1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/opensimpad-2.4.27-vrs1-pxa1-jpm1/2.4.27-vrs1-pxa1-jpm1.patch
+END

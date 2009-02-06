@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mdk
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+mdk3_v2.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+23f3f621af0db5ea9c8a31d3eda2eb19
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mdk2_v33.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+30eb9f5d68566e5f1cdb7ee1c698dbba
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mdk2_v36.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+c37e000c0ec459f352a78b4752fdefdc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel
+END
+linux-kernel-R25_to_R29.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/linux-kernel-R25_to_R29.patch
+END
+config-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/config-fixes.patch
+END
+pl2303.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/pl2303.patch
+END
+linux-kernel-R29_to_R63.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/linux-kernel-R29_to_R63.patch
+END
+linux-2.4.24-attribute-used.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/linux-2.4.24-attribute-used.patch
+END
+pl2303_mdmctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/pl2303_mdmctl.patch
+END
+anonymiser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/anonymiser.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/defconfig
+END
+nofpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/nofpu.patch
+END
+ppp_mppe_no_fp_in_kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/ppp_mppe_no_fp_in_kernel.patch
+END
+gcc-registerparanoia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/gcc-registerparanoia.patch
+END
+gcc3-userfuncs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/gcc3-userfuncs.patch
+END
+missing-usb-ioctls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/missing-usb-ioctls.patch
+END
+usbnet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/usbnet.patch
+END
+gl811e.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/gl811e.patch
+END
+flash-is-now-hdd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/flash-is-now-hdd.patch
+END
+short_loadbytes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/short_loadbytes.patch
+END
+nfs-blocksize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/nfs-blocksize.patch
+END
+netconsole.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/netconsole.patch
+END
+double_cpdo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/double_cpdo.patch
+END
+ppp_mppe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/unslung-kernel/ppp_mppe.patch
+END

@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ccxstream
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ccxstream-1.0.15
+dir
+
+ccxstream_1.0.15.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+08f366c0a4776df3c8894d27522d7a80
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

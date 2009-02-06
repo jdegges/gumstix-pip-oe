@@ -1,0 +1,73 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uim
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+uim-native_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+8408f3ffd90213530b56732bdb4f2c0b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+uim.inc
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+b66ef584f4c4f5bb7be25fb8232461cd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uim
+dir
+
+uim_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+be8ba392ed1f90fb5013c3370922f77b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+uim-native
+dir
+

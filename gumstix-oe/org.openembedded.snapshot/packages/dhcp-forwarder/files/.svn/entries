@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dhcp-forwarder/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+init
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+18ebd5eba7e46d6de0077c3fd9c605be
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dhcp-fwd.cfg
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+1c03bed343e0ee01579c4215ff7bd560
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

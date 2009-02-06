@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-watch/gpe-watch-0.10
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix_makefile.patch
+file
+
+
+
+
+2009-02-06T18:15:02.000000Z
+e5006753afc9b366a36202db38dd7f5e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+no-render-h.patch
+file
+
+
+
+
+2009-02-06T18:15:02.000000Z
+bbd993afdbc406acb3b00e6a5a500fdb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

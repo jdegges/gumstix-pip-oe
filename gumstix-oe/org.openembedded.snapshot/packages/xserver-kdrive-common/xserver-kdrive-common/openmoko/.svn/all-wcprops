@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/openmoko
+END
+xsplash-vga.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/openmoko/xsplash-vga.ppm
+END
+xsplash-qvga.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/openmoko/xsplash-qvga.ppm
+END
+Xserver
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xserver-kdrive-common/xserver-kdrive-common/openmoko/Xserver
+END

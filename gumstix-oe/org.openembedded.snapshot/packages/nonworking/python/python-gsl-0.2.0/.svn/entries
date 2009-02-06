@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/python/python-gsl-0.2.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cross-compile.patch
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+c2eef48eea45670a05b06e21f08f282e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

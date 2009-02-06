@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa
+END
+alsa-fpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-fpu.inc
+END
+alsa-state.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-state.bb
+END
+alsa-utils_1.0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-utils_1.0.13.bb
+END
+alsa-utils_1.0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-utils_1.0.14.bb
+END
+alsa-plugins_1.0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-plugins_1.0.14.bb
+END
+alsa-oss_1.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-oss_1.0.11.bb
+END
+alsa-lib_1.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-lib_1.0.11.bb
+END
+alsa-oss_1.0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-oss_1.0.14.bb
+END
+alsa-lib_1.0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-lib_1.0.13.bb
+END
+alsa-lib_1.0.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-lib_1.0.14.bb
+END
+alsa-driver_0.9.6-hh4c.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-driver_0.9.6-hh4c.bb
+END
+alsa-utils_1.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/alsa/alsa-utils_1.0.11.bb
+END

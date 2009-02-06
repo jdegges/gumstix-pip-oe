@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ntop/ntop-3.0
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+plugins.patch
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+e42b362293eaa86e7ddeab0e8dc45ffe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autotools.patch
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+675cc204b7e7b25c515c378cecc8df4d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

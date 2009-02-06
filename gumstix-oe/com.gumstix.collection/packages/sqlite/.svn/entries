@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/sqlite
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-17T02:03:25.583096Z
+139
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sqlite3-3.5.4
+dir
+
+sqlite3.inc
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+a991571fd4f1fc289ac7543b1c9e1014
+2007-12-26T07:22:04.561085Z
+78
+sakoman
+
+sqlite3_3.5.4.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+dc7c38cfe851f25a3da1058da84e3e3b
+2007-12-26T07:22:04.561085Z
+78
+sakoman
+

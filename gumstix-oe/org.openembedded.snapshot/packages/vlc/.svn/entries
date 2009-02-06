@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/vlc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+vlc-gpe-0.8.1
+dir
+
+vlc-gpe-0.8.4
+dir
+
+vlc-gpe_0.7.2.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+7d719bf0e682af03d45e2bcc7a71eabf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vlc-gpe_0.8.1.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+a70662e06d0d1c77088eeb6b4a2b711f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+vlc-gpe_0.8.4.bb
+file
+
+
+
+
+2009-02-06T18:14:33.000000Z
+04751f7b65e6566e9d3fafc7ad0b2ed2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/qualendar
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qualendar_0.8.0.bb
+file
+
+
+
+
+2009-02-06T18:14:07.000000Z
+36143a50a806a016e07b2a75e522ef3f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

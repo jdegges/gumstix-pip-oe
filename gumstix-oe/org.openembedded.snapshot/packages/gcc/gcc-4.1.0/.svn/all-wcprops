@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0
+END
+zecke-xgcc-cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0/zecke-xgcc-cpp.patch
+END
+arm-nolibfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0/arm-nolibfloat.patch
+END
+zecke-no-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0/zecke-no-host-includes.patch
+END
+ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0/ldflags.patch
+END
+arm-softfloat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-4.1.0/arm-softfloat.patch
+END

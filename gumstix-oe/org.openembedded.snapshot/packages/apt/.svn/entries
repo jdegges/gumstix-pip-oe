@@ -1,0 +1,178 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/apt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+apt-native_0.7.3.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+34574b5d9112ddf94f31e4b26c7904a8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-native.inc
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+a07e5bc6f416dfa2511f3ccfe0b5b635
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-0.5.28.6
+dir
+
+apt_0.6.46.2.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+f030b32c748f2a4753e9211c8656e917
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt_0.5.28.6.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+c94287276a847b6651ddd850ada38d1e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-package.inc
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+ec3fa74c1876ba3865bf9285aff165b1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-0.7.2
+dir
+
+apt-0.7.3
+dir
+
+apt_0.7.2.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+b26a20ce94a0e4593fa6ae879b4d2821
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt_0.7.3.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+ab2524a8bc9d2f23372ec26c307b31c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt.inc
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+0802300cdb2aeedf8c64531f24579f9d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+apt-native_0.6.46.2.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+43b1eabef7a82d4344e56e2501c8d128
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-0.6.25
+dir
+
+apt-0.6.46.2
+dir
+
+apt_0.6.25.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+88aed65150e738714a47a76dfbda0963
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+apt-native_0.7.2.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+edc6048f4a8a65cd5ae1067c1245d100
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

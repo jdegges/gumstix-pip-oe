@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-keyboard
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+opie-keyboard.inc
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+bb45b50748366ec5c59b9ce80913ca66
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-keyboard_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+d0c6fe73bf70f4b40791645fc5e317ff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-keyboard_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+19a6a143c60c2ae83ee6dd380136e810
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-keyboard_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+ff9c6572e599765e54059ba83830b600
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

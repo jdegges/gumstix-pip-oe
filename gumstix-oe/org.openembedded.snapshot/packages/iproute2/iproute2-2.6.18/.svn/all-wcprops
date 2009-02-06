@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.18
+END
+iproute2-2.6.15_no_strip.diff
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.18/iproute2-2.6.15_no_strip.diff
+END
+new-flex-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/iproute2/iproute2-2.6.18/new-flex-fix.patch
+END

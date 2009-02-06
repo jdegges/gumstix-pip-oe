@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd
+END
+mtd-utils-tests_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils-tests_1.0.0+git.bb
+END
+mtd-utils_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils_1.0.0+git.bb
+END
+mtd-utils_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils_1.0.0.bb
+END
+mtd-utils-native_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils-native_1.0.0+git.bb
+END
+mtd-utils-native_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils-native_1.0.0.bb
+END
+mtd-utils-native.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mtd/mtd-utils-native.inc
+END

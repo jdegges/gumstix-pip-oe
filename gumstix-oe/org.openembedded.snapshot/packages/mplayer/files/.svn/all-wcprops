@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files
+END
+powerpc-is-ppc.diff
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/powerpc-is-ppc.diff
+END
+w100-video_out.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/w100-video_out.patch
+END
+pxa-video_out.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/pxa-video_out.patch
+END
+pld-onlyarm5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/pld-onlyarm5.patch
+END
+vo_pxa.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/vo_pxa.h
+END
+Makefile-codec-cfg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/Makefile-codec-cfg.patch
+END
+pxa_configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/pxa_configure.patch
+END
+mplayer-imageon-svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/mplayer-imageon-svn.patch
+END
+vo_w100_fb.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/vo_w100_fb.h
+END
+w100-mplayer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/w100-mplayer.patch
+END
+simple_idct_armv5te.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/simple_idct_armv5te.S
+END
+disable-executable-stack-test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/disable-executable-stack-test.patch
+END
+w100-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/w100-Makefile.patch
+END
+libmpdemux-ogg-include-svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/libmpdemux-ogg-include-svn.patch
+END
+w100-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/w100-configure.patch
+END
+makefile-nostrip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/makefile-nostrip.patch
+END
+imageon-video_out.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/imageon-video_out.patch
+END
+w100-configure-svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/w100-configure-svn.patch
+END
+vo_w100_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/vo_w100_api.h
+END
+makefile-nostrip-svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/makefile-nostrip-svn.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/Makefile.patch
+END
+vo_w100.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/vo_w100.c
+END
+vo_pxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mplayer/files/vo_pxa.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigc++-1.2/libsigc++-1.2-1.2.7
+END
+disable-tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigc++-1.2/libsigc++-1.2-1.2.7/disable-tests.patch
+END
+autofoo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsigc++-1.2/libsigc++-1.2-1.2.7/autofoo.patch
+END

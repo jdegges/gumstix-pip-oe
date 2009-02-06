@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14
+END
+glibc-2.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14/glibc-2.5.patch
+END
+sh-syscall-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14/sh-syscall-update.patch
+END
+drop-ctl-proc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14/drop-ctl-proc.patch
+END
+sh-arch-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14/sh-arch-update.patch
+END
+arm-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/strace/strace-4.5.14/arm-eabi.patch
+END

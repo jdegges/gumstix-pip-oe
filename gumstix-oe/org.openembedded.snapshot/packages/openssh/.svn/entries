@@ -1,0 +1,121 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/openssh
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+openssh-4.0p1
+dir
+
+files
+dir
+
+openssh-4.3p2
+dir
+
+openssh_4.0p1.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+d346c1654fd088256e6d442c03287255
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssh-3.7.1p1
+dir
+
+openssh-3.7.1p2
+dir
+
+openssh-4.6p1
+dir
+
+openssh-3.8p1
+dir
+
+openssh_4.3p2.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+8010f6d15cfef25b564584ec5d139d12
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssh_3.7.1p1.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+2da89db4ff35b2f4e853f789a618cfd3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssh_3.7.1p2.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+e47fcccd198c4ab2dfd06cea689b783f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssh_4.6p1.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+589fe364e90febcff7b9246fc63383bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openssh_3.8p1.bb
+file
+
+
+
+
+2009-02-06T18:14:08.000000Z
+b75c4c50c3da522afa4a5c5017dcd598
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

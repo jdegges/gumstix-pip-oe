@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-camera-support-2.4.18-rmk7-pxa3-embedix
+END
+sharpzdc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-camera-support-2.4.18-rmk7-pxa3-embedix/sharpzdc.conf
+END
+CE-AG06.dat
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-camera-support-2.4.18-rmk7-pxa3-embedix/CE-AG06.dat
+END
+sharpzdc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/sharp-binary-only/sharp-camera-support-2.4.18-rmk7-pxa3-embedix/sharpzdc
+END

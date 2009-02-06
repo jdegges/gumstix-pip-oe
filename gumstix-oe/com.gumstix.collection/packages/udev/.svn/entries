@@ -1,0 +1,115 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/udev
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+udev_092.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+90ea07af9ca91d3fb6a69cee27d04c2f
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+udev-097
+dir
+
+udev-100
+dir
+
+files
+dir
+
+udev-hostap-cs-vcc-workaround_1.0.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+d8ae29b128f94d1fe9b958f246cd9d0f
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+udev_097.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+addf7556311691024aa66cfe1141deea
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+udev_100.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+9af8bdcf4fce0b39521fedd505b0525d
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+udev-118
+dir
+
+udev-092
+dir
+
+udev.inc
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+0c1fc1e9d7b2d84571d2b84f66e0fced
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+
+udev_118.bb
+file
+
+
+
+
+2009-02-06T18:16:52.000000Z
+944a0cd1d08d795c059173cf6259d0b2
+2008-03-04T04:38:27.820203Z
+265
+sakoman
+

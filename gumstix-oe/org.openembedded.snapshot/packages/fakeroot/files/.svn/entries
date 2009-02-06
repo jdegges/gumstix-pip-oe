@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/fakeroot/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix-prefix.patch
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+182689b60bd0a3b4f2012c105d2cac61
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+work-with-older-libtool.patch
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+0d51e120ba80ea6b15f37eef880cbe54
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

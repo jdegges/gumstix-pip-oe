@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opie-mediaplayer1-libtremorplugin
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+opie-mediaplayer1-libtremorplugin_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+82ee01dcf9a90e76ae90a7fa13134720
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-mediaplayer1-libtremorplugin
+dir
+
+opie-mediaplayer1-libtremorplugin_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+dd1f4cfb1469826aa1e44b77cc06f289
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+opie-mediaplayer1-libtremorplugin.inc
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+988483b482ef068416b7852ff0ea23ed
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

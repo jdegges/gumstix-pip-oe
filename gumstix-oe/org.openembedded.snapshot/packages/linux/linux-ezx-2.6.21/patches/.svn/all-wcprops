@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches
+END
+a1200-kbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-kbd.patch
+END
+lcd_18BPP_support.diff
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/lcd_18BPP_support.diff
+END
+e680-locksw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-locksw.patch
+END
+a780-mci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-mci.patch
+END
+pxa-kbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/pxa-kbd.patch
+END
+ezx-serial-bug-workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-serial-bug-workaround.patch
+END
+patch-2.6.21.4
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/patch-2.6.21.4
+END
+e680-mci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-mci.patch
+END
+ezx-asoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-asoc.patch
+END
+ezx-emu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-emu.patch
+END
+e6-pcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e6-pcap.patch
+END
+mtdfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mtdfix.patch
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/series
+END
+a780-pcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-pcap.patch
+END
+mux-remove-get_halted_bit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-remove-get_halted_bit.patch
+END
+asoc-fix-loopback.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/asoc-fix-loopback.patch
+END
+mux-fix-init-errorpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-fix-init-errorpath.patch
+END
+a780-emu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-emu.patch
+END
+ezx-mtd-map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-mtd-map.patch
+END
+mux-fix-tty-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-fix-tty-driver.patch
+END
+mux-ifdef-ezx-features.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-ifdef-ezx-features.patch
+END
+e680-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-ts.patch
+END
+e680-emu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-emu.patch
+END
+Makefile.OpenEZX
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/Makefile.OpenEZX
+END
+e680-leds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-leds.patch
+END
+a1200-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-ts.patch
+END
+a780-flip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-flip.patch
+END
+pcap-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/pcap-ts.patch
+END
+mux-fix-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-fix-makefile.patch
+END
+mux-remove-flipbuffers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-remove-flipbuffers.patch
+END
+pxa27x-udc-support.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/pxa27x-udc-support.2.patch
+END
+a780-kbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-kbd.patch
+END
+e6-eoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e6-eoc.patch
+END
+mux-linux-2.6.21-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-linux-2.6.21-fix.patch
+END
+e680-kbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-kbd.patch
+END
+e6-mci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e6-mci.patch
+END
+a1200-eoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-eoc.patch
+END
+ezx-pcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-pcap.patch
+END
+a1200-mci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-mci.patch
+END
+ezx-backlight.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-backlight.patch
+END
+ezx-core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-core.patch
+END
+mux-remove-usbh_finished_resume.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-remove-usbh_finished_resume.patch
+END
+mux-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux-fix.patch
+END
+e6-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e6-ts.patch
+END
+dmesg-a780.log
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/dmesg-a780.log
+END
+mux_cli.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux_cli.patch
+END
+e680-pcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/e680-pcap.patch
+END
+a780-ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-ts.patch
+END
+a1200-pcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-pcap.patch
+END
+a780-leds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-leds.patch
+END
+ezx-bp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-bp.patch
+END
+a780-vibrator.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a780-vibrator.patch
+END
+pxa27x-udc-fix-a1200.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/pxa27x-udc-fix-a1200.patch
+END
+i2c-core-fix-a1200.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/i2c-core-fix-a1200.patch
+END
+ezx-enable-stuart.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-enable-stuart.patch
+END
+ezx-eoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-eoc.patch
+END
+a1200-flip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/a1200-flip.patch
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/index.html
+END
+asoc-pxa-ssp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/asoc-pxa-ssp.patch
+END
+mux_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/mux_debug.patch
+END
+ezx-pm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-ezx-2.6.21/patches/ezx-pm.patch
+END

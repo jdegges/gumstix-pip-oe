@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pocketcellar/pocketcellar-1.1
+END
+cellardb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pocketcellar/pocketcellar-1.1/cellardb.patch
+END
+pocketcellar.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pocketcellar/pocketcellar-1.1/pocketcellar.patch
+END
+winedb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pocketcellar/pocketcellar-1.1/winedb.patch
+END
+gcc3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pocketcellar/pocketcellar-1.1/gcc3.patch
+END

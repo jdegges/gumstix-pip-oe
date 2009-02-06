@@ -1,0 +1,122 @@
+state.Gumstix {
+        control.1 {
+                comment.access 'read write'
+                comment.type INTEGER
+                comment.count 1
+                comment.range '0 - 4'
+                iface MIXER
+                name 'Tone Control - Bass'
+                value 0
+        }
+        control.2 {
+                comment.access 'read write'
+                comment.type INTEGER
+                comment.count 1
+                comment.range '0 - 2'
+                iface MIXER
+                name 'Tone Control - Treble'
+                value 0
+        }
+        control.3 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'Headphone Playback Switch'
+                value true
+        }
+        control.4 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name De-emphasis
+                value false
+        }
+        control.5 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'DC Filter'
+                value true
+        }
+        control.6 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'Hi-pass Filter'
+                value true
+        }
+        control.7 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'ADC Filter'
+                value true
+        }
+        control.8 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'Master Playback Switch'
+                value true
+        }
+        control.9 {
+                comment.access 'read write'
+                comment.type INTEGER
+                comment.count 2
+                comment.range '0 - 63'
+                iface MIXER
+                name 'Master Playback Volume'
+                value.0 63
+                value.1 63
+        }
+        control.10 {
+                comment.access 'read write'
+                comment.type ENUMERATED
+                comment.count 2
+                comment.item.0 Mic
+                comment.item.1 CD
+                comment.item.2 Video
+                comment.item.3 Aux
+                comment.item.4 Line
+                comment.item.5 Mix
+                comment.item.6 'Mix Mono'
+                comment.item.7 Phone
+                iface MIXER
+                name 'Capture Source'
+                value.0 Mic
+                value.1 Mic
+        }
+        control.11 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'Capture Switch'
+                value true
+        }
+        control.12 {
+                comment.access 'read write'
+                comment.type INTEGER
+                comment.count 2
+                comment.range '0 - 15'
+                iface MIXER
+                name 'Capture Volume'
+                value.0 15
+                value.1 15
+        }
+        control.13 {
+                comment.access 'read write'
+                comment.type BOOLEAN
+                comment.count 1
+                iface MIXER
+                name 'Loudness (bass boost)'
+                value false
+        }
+}
+

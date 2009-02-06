@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/102/trunk/com.gumstix.collection/packages/robostix-utils
+END
+robostix-sertest.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/102/trunk/com.gumstix.collection/packages/robostix-utils/robostix-sertest.bb
+END
+robostix-cmdline.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/102/trunk/com.gumstix.collection/packages/robostix-utils/robostix-cmdline.bb
+END

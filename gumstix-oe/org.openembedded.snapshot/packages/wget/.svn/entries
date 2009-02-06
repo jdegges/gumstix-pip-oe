@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wget
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+wget-1.9.1
+dir
+
+wget_1.9.1.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+44c5e208a9595b2b6fdb0d82412a1523
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

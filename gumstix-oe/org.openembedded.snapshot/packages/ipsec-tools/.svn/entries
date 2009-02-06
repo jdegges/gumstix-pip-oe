@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ipsec-tools
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+ipsec-tools.inc
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+cfc572577cf879888aeaf32af99dcdab
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipsec-tools_0.6.6.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+9fcad271f364f6ef6be1db1a57a796ca
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ipsec-tools_0.6.7.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+0456ec054eb0d56a75b7d5908790c606
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

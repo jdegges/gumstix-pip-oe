@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libpcre
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libpcre_4.4.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+3f0689dd36eabcde214634b294aa9ea2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libpcre-native_4.4.bb
+file
+
+
+
+
+2009-02-06T18:14:19.000000Z
+6571b61d05e2dd89a0c87dec403dc205
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

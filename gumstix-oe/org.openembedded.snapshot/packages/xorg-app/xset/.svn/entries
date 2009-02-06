@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xorg-app/xset
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+disable-xkb.patch
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+eb114aa4560be9e888a4a3a5c3d0b153
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autofoo.patch
+file
+
+
+
+
+2009-02-06T18:15:00.000000Z
+bea28bc40538b1d6ea6ee4d3a836cc00
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

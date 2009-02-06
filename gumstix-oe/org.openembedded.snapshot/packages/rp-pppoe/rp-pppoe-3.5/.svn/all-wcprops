@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.5
+END
+rp-pppoe-3.5_no_strip.diff
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.5/rp-pppoe-3.5_no_strip.diff
+END
+rp-pppoe-3.5_libevent_makefile_cross.diff
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.5/rp-pppoe-3.5_libevent_makefile_cross.diff
+END
+rp-pppoe-3.5_configure_in_cross.diff
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/rp-pppoe/rp-pppoe-3.5/rp-pppoe-3.5_configure_in_cross.diff
+END

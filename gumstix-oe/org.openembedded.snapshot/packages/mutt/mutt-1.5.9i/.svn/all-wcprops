@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i
+END
+patch-1.5.9i.sidebar.20050628.txt.hackedfornntp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i/patch-1.5.9i.sidebar.20050628.txt.hackedfornntp
+END
+makedoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i/makedoc.patch
+END
+posix1_lim.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i/posix1_lim.patch
+END
+sidebar-nntp-clash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i/sidebar-nntp-clash.patch
+END
+cppflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/mutt/mutt-1.5.9i/cppflags.patch
+END

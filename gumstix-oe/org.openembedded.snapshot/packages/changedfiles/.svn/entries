@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/changedfiles
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+changedfiles-daemon_1.0-rc1.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+88301d08bad03046ed7adb1fb6b7ea1c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+changedfiles.inc
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+5d989f7a13d32112d6eb09565bcae8e9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+changedfiles-modules_1.0-rc1.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+91e0f633d347714a883fba15a715ee38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

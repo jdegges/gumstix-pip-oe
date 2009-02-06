@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-nokia800-2.6.18-osso40
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+nokia770
+dir
+
+fix_oprofile.patch
+file
+
+
+
+
+2009-02-06T18:15:48.000000Z
+71c8691b48c2db01bf90fedf21e2bfdd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nokia770_nand_fix.patch
+file
+
+
+
+
+2009-02-06T18:15:48.000000Z
+41ce0f77ca4082cfb70f458f37cd1f9c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nokia800
+dir
+

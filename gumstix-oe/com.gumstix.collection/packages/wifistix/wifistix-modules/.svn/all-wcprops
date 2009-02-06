@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/169/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules
+END
+2.6.17-new-pcmcia-layer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/2.6.17-new-pcmcia-layer.patch
+END
+nospi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/169/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/nospi.patch
+END
+struct-changes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/struct-changes.patch
+END
+wifistix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/120/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/wifistix.conf
+END
+marvell-gumstix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/marvell-gumstix.patch
+END
+marvell-devicename.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/marvell-devicename.patch
+END
+sbi-no-inline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/sbi-no-inline.patch
+END
+no-more-config-h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/no-more-config-h.patch
+END
+marvell-devicetable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/marvell-devicetable.patch
+END
+mcf25
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/mcf25
+END
+bad-cast.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/bad-cast.patch
+END
+sk_buff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/sk_buff.patch
+END
+fix-essid-truncation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/fix-essid-truncation.patch
+END
+realtime-kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/realtime-kernel.patch
+END
+install-properly.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/wifistix/wifistix-modules/install-properly.patch
+END

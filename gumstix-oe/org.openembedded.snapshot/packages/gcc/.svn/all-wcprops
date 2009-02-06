@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc
+END
+gcc-cross-initial_3.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_3.3.3.bb
+END
+gcc-cross-initial_3.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_3.4.4.bb
+END
+gcc-cross_csl-arm.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_csl-arm.bb
+END
+gcc-package-cross.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-package-cross.inc
+END
+gcc3-build.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc3-build.inc
+END
+gcc_csl-arm-cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_csl-arm-cvs.bb
+END
+gcc-cross_4.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.1.0.bb
+END
+gcc4-build.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc4-build.inc
+END
+gcc-cross_4.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.2.1.bb
+END
+gcc-cross_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.1.2.bb
+END
+gcc-cross_3.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_3.3.3.bb
+END
+gcc-cross_3.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_3.4.4.bb
+END
+gcc_csl-arm.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_csl-arm.bb
+END
+gcc-fpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-fpu.inc
+END
+gcc_4.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.1.0.bb
+END
+gcc_4.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.2.1.bb
+END
+gcc_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.1.2.bb
+END
+gcc_3.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_3.3.3.bb
+END
+gcc-cross-initial_csl-arm-2005q3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_csl-arm-2005q3.bb
+END
+gcc3-build-sdk.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc3-build-sdk.inc
+END
+gcc4-build-sdk.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc4-build-sdk.inc
+END
+gcc_3.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_3.4.4.bb
+END
+gcc-cross-sdk_4.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_4.1.1.bb
+END
+gcc-paths-cross.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-paths-cross.inc
+END
+gcc-cross-sdk_3.4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_3.4.3.bb
+END
+gcc-cross-sdk_3.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_3.3.4.bb
+END
+gcc3-build-cross.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc3-build-cross.inc
+END
+gcc-cross-initial_4.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.1.1.bb
+END
+gcc-cross-initial_4.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.0.2.bb
+END
+gcc-cross-initial_4.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.2.2.bb
+END
+gcc-cross-initial_3.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_3.3.4.bb
+END
+gcc-cross-initial_3.4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_3.4.3.bb
+END
+gcc-cross-initial.inc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial.inc
+END
+gcc-cross_4.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.0.0.bb
+END
+gcc_csl-arm-2005q3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_csl-arm-2005q3.bb
+END
+gcc-cross_4.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.0.2.bb
+END
+gcc-cross_4.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.1.1.bb
+END
+gcc-cross_4.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_4.2.2.bb
+END
+gcc-cross_3.4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_3.4.3.bb
+END
+gcc-cross_3.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_3.3.4.bb
+END
+gcc-cross-kernel-3.4.4_csl-arm-2005q3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-kernel-3.4.4_csl-arm-2005q3.bb
+END
+gcc-package.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-package.inc
+END
+gcc_4.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.0.0.bb
+END
+gcc_4.0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.0.2.bb
+END
+gcc_4.1.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.1.1.bb
+END
+gcc_4.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_4.2.2.bb
+END
+gcc-cross-initial_csl-arm-cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_csl-arm-cvs.bb
+END
+gcc_3.4.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_3.4.3.bb
+END
+gcc_3.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc_3.3.4.bb
+END
+gcc-cross-sdk_4.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_4.1.0.bb
+END
+gcc-cross-sdk_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_4.1.2.bb
+END
+gcc-cross-kernel-3.3.3_3.3.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-kernel-3.3.3_3.3.3.bb
+END
+gcc-cross-sdk_3.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-sdk_3.4.4.bb
+END
+gcc-cross_csl-arm-2005q3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_csl-arm-2005q3.bb
+END
+gcc-cross-kernel-3.3.4_3.3.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-kernel-3.3.4_3.3.4.bb
+END
+gcc-package-sdk.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-package-sdk.inc
+END
+gcc-cross_csl-arm-cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross_csl-arm-cvs.bb
+END
+gcc-cross-initial_4.1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.1.0.bb
+END
+gcc-cross-kernel-3.4.4_3.4.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-kernel-3.4.4_3.4.4.bb
+END
+gcc-cross-initial_4.2.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.2.1.bb
+END
+gcc-cross-initial_4.1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gcc/gcc-cross-initial_4.1.2.bb
+END

@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/howl
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+howl-1.0.0
+dir
+
+howl_0.9.7.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+089fbae293d7e30e01b00c3a8444584f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+howl_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+e0b04b7f000c55516b6cd9eaf245a098
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

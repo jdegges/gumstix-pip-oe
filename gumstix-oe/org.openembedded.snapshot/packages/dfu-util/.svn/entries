@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dfu-util
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dfu-util_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+4ed1ec9583e5cdc734db8d9b1481ffea
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dfu-util-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+74be2e0ecb61921d66493da8a4b611e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

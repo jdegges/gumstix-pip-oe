@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/zbedic
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+zbedic
+dir
+
+zbedic_1.0.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+fc3eb51b82314bf1426e9945536128dd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libbedic_1.0.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+f38578c0778893302b0f35bacea8622f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

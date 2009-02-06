@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/279/trunk/com.gumstix.collection/packages/webkit
+END
+webkit-qt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/webkit/webkit-qt.inc
+END
+webkit-qt_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/webkit/webkit-qt_svn.bb
+END
+webkit-gtk_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/279/trunk/com.gumstix.collection/packages/webkit/webkit-gtk_svn.bb
+END
+webkit-qtopia_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/webkit/webkit-qtopia_svn.bb
+END
+webkit.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/279/trunk/com.gumstix.collection/packages/webkit/webkit.inc
+END

@@ -1,0 +1,49 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-2.6.23
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mpc8313e-rdb
+dir
+
+mpc8323e-rdb
+dir
+
+cm-x270
+dir
+
+binutils-buildid-arm.patch
+file
+
+
+
+
+2009-02-06T18:15:40.000000Z
+3b864ed6808ff9f20082337656fc74bd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

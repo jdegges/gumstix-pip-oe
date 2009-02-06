@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/pcmciautils/pcmciautils-013
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+makefile_fix.patch
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+679647ed437f2f6d4b62baa39d78f080
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+version_workaround.patch
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+7374340df9a81a27a3b1f6383b2f7f6d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

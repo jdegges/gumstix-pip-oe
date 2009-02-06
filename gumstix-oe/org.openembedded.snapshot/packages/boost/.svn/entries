@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/boost
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+boost-jam-native_3.1.11.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+292d68f5097c47207516e6f8d1e718d9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+boost_1.33.0.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+3523ca0624652dd5bf611f1cd4c04414
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+boost_1.33.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+2581992cf7316fbe26bc9c69565af10f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

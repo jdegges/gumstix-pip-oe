@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils-2.1.11
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils-2.1.11/configure.patch
+END
+pcimodules-pciutils-2.1.11.diff
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils-2.1.11/pcimodules-pciutils-2.1.11.diff
+END
+configure-uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pciutils/pciutils-2.1.11/configure-uclibc.patch
+END

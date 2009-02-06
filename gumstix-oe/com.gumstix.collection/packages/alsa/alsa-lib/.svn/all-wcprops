@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-lib
+END
+unbreak_plugindir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-lib/unbreak_plugindir.patch
+END
+fix-tstamp-declaration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/140/trunk/com.gumstix.collection/packages/alsa/alsa-lib/fix-tstamp-declaration.patch
+END

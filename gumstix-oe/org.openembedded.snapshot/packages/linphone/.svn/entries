@@ -1,0 +1,88 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linphone
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+linphone_1.6.0.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+d86a03b36115772d653af4c2821b4888
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linphone-1.3.99.8
+dir
+
+files
+dir
+
+linphone_1.3.99.8.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+139503c2bbef20f6fbe0865ce3f23234
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linphone-hh-0.12.2.hh1
+dir
+
+linphone-0.12.2
+dir
+
+linphone-hh_0.12.2.hh1.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+8c878a4ed436c595cdb7fc952fe49516
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linphone_0.12.2.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+281b17f771dd5d2addc170729d2c6226
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

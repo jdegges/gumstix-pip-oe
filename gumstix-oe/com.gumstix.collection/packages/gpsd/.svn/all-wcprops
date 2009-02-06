@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/gumstix/!svn/ver/237/trunk/com.gumstix.collection/packages/gpsd
+END
+gpsd.inc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/68/trunk/com.gumstix.collection/packages/gpsd/gpsd.inc
+END
+gpsd_2.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/68/trunk/com.gumstix.collection/packages/gpsd/gpsd_2.34.bb
+END

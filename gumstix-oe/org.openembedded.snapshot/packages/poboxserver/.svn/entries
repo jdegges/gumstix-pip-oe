@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/poboxserver
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+poboxserver_1.2.5.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+de58243652ccab0532f3a80f9ffd7402
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+qpobox
+dir
+
+poboxserver
+dir
+
+qpobox_0.5.4.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+f429c414f3b2c60f32bcd431ea7afae7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

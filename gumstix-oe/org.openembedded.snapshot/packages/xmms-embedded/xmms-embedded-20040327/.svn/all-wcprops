@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327
+END
+bufferdefaults.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/bufferdefaults.patch
+END
+gcc34.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/gcc34.patch
+END
+gcc34-enum.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/gcc34-enum.patch
+END
+bogusincdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/bogusincdir.patch
+END
+xmms.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/xmms.png
+END
+gtkremoval.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/gtkremoval.patch
+END
+mikmod-endian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/mikmod-endian.patch
+END
+removenativeincdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/removenativeincdir.patch
+END
+glib2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/glib2.patch
+END
+tremorlib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/tremorlib.patch
+END
+mikmod-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xmms-embedded/xmms-embedded-20040327/mikmod-update.patch
+END

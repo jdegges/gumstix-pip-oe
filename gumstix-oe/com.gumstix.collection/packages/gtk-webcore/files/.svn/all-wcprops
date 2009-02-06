@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files
+END
+build_silence.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/build_silence.patch
+END
+fix-loading-error-report.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/fix-loading-error-report.patch
+END
+no-pedantic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/no-pedantic.patch
+END
+gcc4-fno-threadsafe-statics-NRCore.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/gcc4-fno-threadsafe-statics-NRCore.patch
+END
+libm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/libm.patch
+END
+setHandle_segfault-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/setHandle_segfault-fix.patch
+END
+gdk-colorspace.diff
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/gdk-colorspace.diff
+END
+gcc4-fno-threadsafe-statics-JavaScriptCore.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/gcc4-fno-threadsafe-statics-JavaScriptCore.patch
+END
+gcc4-fno-threadsafe-statics-NRCit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/gcc4-fno-threadsafe-statics-NRCit.patch
+END
+KWIQ-mimetype-segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/KWIQ-mimetype-segfault.patch
+END
+stop-load.image-loading.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/stop-load.image-loading.patch
+END
+KWQKURL-urlcmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/204/trunk/com.gumstix.collection/packages/gtk-webcore/files/KWQKURL-urlcmp.patch
+END

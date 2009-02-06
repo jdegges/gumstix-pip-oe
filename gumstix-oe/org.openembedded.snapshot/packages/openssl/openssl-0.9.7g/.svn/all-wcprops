@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g
+END
+debian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/debian.patch
+END
+gnueabi-armeb.patch.lock
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/gnueabi-armeb.patch.lock
+END
+armeb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/armeb.patch
+END
+gnueabi-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/gnueabi-arm.patch
+END
+debian.patch.lock
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/debian.patch.lock
+END
+uclibcgnueabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/uclibcgnueabi.patch
+END
+armeb.patch.lock
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/armeb.patch.lock
+END
+gnueabi-arm.patch.lock
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/gnueabi-arm.patch.lock
+END
+gnueabi-armeb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openssl/openssl-0.9.7g/gnueabi-armeb.patch
+END

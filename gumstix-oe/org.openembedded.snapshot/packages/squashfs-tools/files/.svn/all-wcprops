@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files
+END
+squashfs3.1r2-tools-replace_zlib_with_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/squashfs3.1r2-tools-replace_zlib_with_lzma.patch
+END
+Makefile-2.2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/Makefile-2.2.patch
+END
+Makefile-3.1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/Makefile-3.1.patch
+END
+flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/flags.patch
+END
+squashfs2.0-tools-lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/squashfs2.0-tools-lzma.patch
+END
+Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/Makefile.patch
+END
+002-squashfs_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/002-squashfs_lzma.patch
+END
+squashfs3.1r2-tools-lzma_Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/files/squashfs3.1r2-tools-lzma_Makefile.patch
+END

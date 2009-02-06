@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc3-native-3.3.5
+END
+no-examples.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc3-native-3.3.5/no-examples.patch
+END
+64bit-cleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/uicmoc/uicmoc3-native-3.3.5/64bit-cleanup.patch
+END

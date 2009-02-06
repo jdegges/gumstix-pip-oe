@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/curl
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+curl_7.16.4.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+806013a25b49060cce1b109119197990
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+curl-native_7.16.4.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+cdf0d1f342dc58cfa9c8b1e155394930
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

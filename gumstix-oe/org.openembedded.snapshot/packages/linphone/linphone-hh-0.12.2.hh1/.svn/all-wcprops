@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linphone/linphone-hh-0.12.2.hh1
+END
+segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linphone/linphone-hh-0.12.2.hh1/segfault.patch
+END
+gpe-cross-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linphone/linphone-hh-0.12.2.hh1/gpe-cross-lossage.patch
+END
+osipua-ipv6-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linphone/linphone-hh-0.12.2.hh1/osipua-ipv6-lossage.patch
+END
+dotdesktop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linphone/linphone-hh-0.12.2.hh1/dotdesktop.patch
+END

@@ -1,0 +1,85 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wrt
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+wrt-init.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+dff372816ef216af2748aff21731647b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt-imagetools-native.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+7ab3466d29a55da1d5b2588593162262
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+loader-0.04
+dir
+
+loader_0.04.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+23cc0c529e436b73035a7db949a88641
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt-utils
+dir
+
+wrt-utils.bb
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+e8f0e81d85456b24a11af145c16c11f8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wrt-init
+dir
+

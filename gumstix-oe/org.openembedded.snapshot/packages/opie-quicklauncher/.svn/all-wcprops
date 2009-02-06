@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-quicklauncher
+END
+opie-quicklauncher.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-quicklauncher/opie-quicklauncher.inc
+END
+opie-quicklauncher_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-quicklauncher/opie-quicklauncher_cvs.bb
+END
+opie-quicklauncher_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-quicklauncher/opie-quicklauncher_1.2.2.bb
+END
+opie-quicklauncher_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-quicklauncher/opie-quicklauncher_1.2.3.bb
+END

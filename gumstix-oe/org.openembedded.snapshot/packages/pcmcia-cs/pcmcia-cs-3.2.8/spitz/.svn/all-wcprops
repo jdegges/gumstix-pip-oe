@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/spitz
+END
+ide.opts
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/spitz/ide.opts
+END

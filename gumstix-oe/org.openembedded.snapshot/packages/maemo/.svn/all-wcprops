@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo
+END
+osso-af-settings_0.8.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-af-settings_0.8.5.bb
+END
+libosso-help_1.0.01.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/libosso-help_1.0.01.bb
+END
+hildon-navigator_0.9.6-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-navigator_0.9.6-2.bb
+END
+hildon-fm_0.9.1-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-fm_0.9.1-2.bb
+END
+hildon-home_0.8.20-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-home_0.8.20-2.bb
+END
+osso-screenshot-tool_1.20-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-screenshot-tool_1.20-1.bb
+END
+osso-bttools_0.25.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-bttools_0.25.1.bb
+END
+sapwood_1.20-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/sapwood_1.20-1.bb
+END
+hildon-control-panel_0.9.1-1.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-control-panel_0.9.1-1.2.bb
+END
+osso-application-installer_1.0.03-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-application-installer_1.0.03-1.bb
+END
+osso-af-startup_0.28-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-af-startup_0.28-1.bb
+END
+audiofile_0.2.6-3osso4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/audiofile_0.2.6-3osso4.bb
+END
+osso-esd_0.5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-esd_0.5.bb
+END
+nokia770-init_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/nokia770-init_1.0.bb
+END
+osso-gwobex_0.26.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-gwobex_0.26.1.bb
+END
+hildon-base-lib_0.8.6-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-base-lib_0.8.6-2.bb
+END
+xpext_1.0-5.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/xpext_1.0-5.bb
+END
+xsp_1.0.0-8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/xsp_1.0.0-8.bb
+END
+hildon-libs_0.9.6-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-libs_0.9.6-2.bb
+END
+tscalib_0.0.1-3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/tscalib_0.0.1-3.bb
+END
+osso-dsp-headers_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-dsp-headers_0.1.bb
+END
+osso-app-killer_0.4-3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-app-killer_0.4-3.bb
+END
+hildon-status-bar_0.8.11-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-status-bar_0.8.11-1.bb
+END
+libosso_0.8.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/libosso_0.8.9.bb
+END
+lessertunjo_0.0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/lessertunjo_0.0.10.bb
+END
+osso-sounds_0.3-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-sounds_0.3-1.bb
+END
+osso-gwconnect_0.70.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-gwconnect_0.70.1.bb
+END
+sdk-default-theme_0.1-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/sdk-default-theme_0.1-1.bb
+END
+osso-thumbnail_0.3.1-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-thumbnail_0.3.1-1.bb
+END
+hildon-lgpl_0.9.14-2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-lgpl_0.9.14-2.bb
+END
+sdk-default-theme-config_1.0-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/sdk-default-theme-config_1.0-1.bb
+END
+osso-af-utils_0.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-af-utils_0.4.bb
+END
+osso-core-config_200515.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/osso-core-config_200515.1.bb
+END
+sdk-default-icons_0.2-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/sdk-default-icons_0.2-1.bb
+END
+hildon-initscripts_0.8.14-1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/maemo/hildon-initscripts_0.8.14-1.bb
+END

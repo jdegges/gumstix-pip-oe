@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-zkbapplet
+END
+opie-zkbapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-zkbapplet/opie-zkbapplet_cvs.bb
+END
+opie-zkbapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-zkbapplet/opie-zkbapplet_1.2.2.bb
+END
+opie-zkbapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-zkbapplet/opie-zkbapplet_1.2.3.bb
+END
+opie-zkbapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-zkbapplet/opie-zkbapplet.inc
+END

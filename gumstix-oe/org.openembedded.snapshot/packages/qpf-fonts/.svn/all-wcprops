@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts
+END
+qpf-font-common_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-font-common_1.0.bb
+END
+qpf-qte_2.3.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-qte_2.3.10.bb
+END
+qpf-bitstream-vera-sans-mono_1.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-bitstream-vera-sans-mono_1.10.bb
+END
+qpf-arabic_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-arabic_1.0.bb
+END
+qpf-utopia_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-utopia_1.0.bb
+END
+qpf-unifont_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-unifont_1.0.bb
+END
+qpf-unismall_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-unismall_1.0.0.bb
+END
+qpf-hunkysans_0.3.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-hunkysans_0.3.0.bb
+END
+qpf-helvetica_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-helvetica_1.0.bb
+END
+terminus.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/terminus.bb
+END
+qpf-bitstream-vera_1.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-bitstream-vera_1.10.bb
+END
+qpf-hunkyserif_0.3.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-hunkyserif_0.3.0.bb
+END
+qpf-freemono_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-freemono_1.0.bb
+END
+qpf-freeserif_1.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qpf-fonts/qpf-freeserif_1.0.bb
+END

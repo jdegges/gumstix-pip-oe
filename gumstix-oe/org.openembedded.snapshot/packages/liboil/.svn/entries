@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/liboil
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-16T06:21:32.281941Z
+134
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+liboil_0.3.9.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+478d1f4cfdcedb68346c564a827ff8b2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+liboil-0.3.11
+dir
+
+liboil_0.3.10.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+478d1f4cfdcedb68346c564a827ff8b2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+liboil_0.3.11.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+5d6639d529c7e72d0b2208d6779adce4
+2008-01-16T06:05:15.805906Z
+133
+sakoman
+

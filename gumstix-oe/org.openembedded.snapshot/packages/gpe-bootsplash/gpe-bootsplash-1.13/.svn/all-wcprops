@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash-1.13
+END
+landscape_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpe-bootsplash/gpe-bootsplash-1.13/landscape_fix.patch
+END

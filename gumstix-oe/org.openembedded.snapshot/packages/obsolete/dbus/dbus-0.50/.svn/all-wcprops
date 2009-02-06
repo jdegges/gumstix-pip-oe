@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-0.50
+END
+no-introspect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-0.50/no-introspect.patch
+END
+no-bindings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-0.50/no-bindings.patch
+END
+dbus-1.init
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/dbus/dbus-0.50/dbus-1.init
+END

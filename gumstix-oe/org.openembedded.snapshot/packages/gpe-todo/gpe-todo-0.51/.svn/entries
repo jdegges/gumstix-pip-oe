@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-todo/gpe-todo-0.51
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+remove-render.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+f322e2504d31fb702db5b188f1c79472
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

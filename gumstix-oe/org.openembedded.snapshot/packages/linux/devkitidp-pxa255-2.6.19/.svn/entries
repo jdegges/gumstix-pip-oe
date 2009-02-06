@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/devkitidp-pxa255-2.6.19
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:16:10.000000Z
+c4769e6c5f42f043e88a33d9fc842993
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+linux-2.6.19_devkitidp1.patch
+file
+
+
+
+
+2009-02-06T18:16:10.000000Z
+80db1b95bf11cc082770b0e9f5d02bde
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

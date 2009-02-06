@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/initscripts
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+initscripts-slugos_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+50556fe6ce69a56686f6640cb0a82bf2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initscripts-1.0
+dir
+
+initscripts-openprotium_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+98e84ae57b0b24d66ad5c5d200bbf976
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+initscripts_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:59.000000Z
+8952f4eeb0b81dce34f9085847eda154
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

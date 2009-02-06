@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/farsight
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gst-plugins-farsight_0.10.1.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+7dc92c64d8f6506305ca10e245fb8bab
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+farsight_0.1.5.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+a7540664456cdb42b1cdfa1938b3e1da
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

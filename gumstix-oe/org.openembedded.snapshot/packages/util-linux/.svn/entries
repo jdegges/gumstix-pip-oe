@@ -1,0 +1,106 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/util-linux
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+util-linux_2.12q.bb
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+d473ab6ed0591bd1eae4a4f36f125d35
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+util-linux_2.12r.bb
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+84b01781f7a8cbbbe552e1f99fe540b2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+util-linux.inc
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+8079cbb5d01c1ce9ef0082a2cd002a7c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+util-linux-native_2.12r.bb
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+902f231f853cd3f14e6efb3066e3ebba
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+util-linux-2.12
+dir
+
+util-linux_2.12o.bb
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+095e4fb00925c7d0f6181b5893fc0ef0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+util-linux_2.12.bb
+file
+
+
+
+
+2009-02-06T18:14:32.000000Z
+bd3f978e23d6c51cb9e0f68465c0e80a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/295/trunk/com.gumstix.collection/conf/machine/include
+END
+tune-xscale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/conf/machine/include/tune-xscale.inc
+END
+tune-iwmmxt.inc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/conf/machine/include/tune-iwmmxt.inc
+END
+gumstix.inc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/295/trunk/com.gumstix.collection/conf/machine/include/gumstix.inc
+END

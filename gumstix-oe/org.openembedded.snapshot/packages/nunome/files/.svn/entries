@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nunome/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+nunome.patch
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+444c4e5165553285601fac672ced5663
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+timer.patch
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+e0f231186d4f754a85221eeefe0fcd72
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

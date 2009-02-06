@@ -1,0 +1,100 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/uicmoc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+uicmoc4-native.inc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+c867a729425c44a7db03b7133ab5002b
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+
+files
+dir
+
+uicmoc-native-2.3.10
+dir
+
+uicmoc-native_2.3.10.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+102978edaccf27f208941724929d2273
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+
+uicmoc4-native-4.2.3
+dir
+
+uicmoc3-native-3.3.5
+dir
+
+uicmoc4-native_4.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+47beb9d3f48ff491b1795d8d623c7c6e
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+
+uicmoc3-native_3.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+f2222b5469291af061e5c570e7ea3edb
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+
+uicmoc4-native_4.3.3.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+47beb9d3f48ff491b1795d8d623c7c6e
+2008-02-18T07:42:56.744331Z
+227
+sakoman
+

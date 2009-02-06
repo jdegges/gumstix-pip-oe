@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1
+END
+erts-configure.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/erts-configure.in.patch
+END
+erts-etc-unix-Install.src.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/erts-etc-unix-Install.src.patch
+END
+Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/Makefile.in.patch
+END
+erts-emulator-Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/erts-emulator-Makefile.in.patch
+END
+lib-crypto-c_src-Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/lib-crypto-c_src-Makefile.in.patch
+END
+lib-erl_interface-src-Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/lib-erl_interface-src-Makefile.in.patch
+END
+lib-ssl-c_src-Makefile.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/erlang/erlang-R11B.1/lib-ssl-c_src-Makefile.in.patch
+END

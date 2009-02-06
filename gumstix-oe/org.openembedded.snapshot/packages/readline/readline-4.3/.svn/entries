@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/readline/readline-4.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+shlink-termcap.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+72c46ad52d35c73e51d6cb5b838d9ece
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+acinclude.m4
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+2aab9657b846d42e3e18b8c23f9c26dd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

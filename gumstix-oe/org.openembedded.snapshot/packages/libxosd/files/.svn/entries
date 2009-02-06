@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libxosd/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+use-sane-default-font.patch
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+61df73129ed2db7aabf5f797a1d7bba3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+autofoo.patch
+file
+
+
+
+
+2009-02-06T18:13:58.000000Z
+5ba5bf80178eed3d148a9dd97caa85a2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

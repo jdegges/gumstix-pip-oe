@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation
+END
+002_qnap-pic.diff
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/002_qnap-pic.diff
+END
+linux-2.6.16_arch_ppc_platforms_sandpoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_arch_ppc_platforms_sandpoint.h
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/defconfig
+END
+linux-2.6.16_arch_ppc_syslib_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_arch_ppc_syslib_Makefile
+END
+linux-2.6.16_include_asm-ppc_mpc10x.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_include_asm-ppc_mpc10x.h
+END
+001_r1000.diff
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/001_r1000.diff
+END
+linux-2.6.16_arch_ppc_platforms_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_arch_ppc_platforms_Makefile
+END
+linux-2.6.16_drivers_mtd_maps_physmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_drivers_mtd_maps_physmap.c
+END
+linux-2.6.16_arch_ppc_syslib_mpc10x_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_arch_ppc_syslib_mpc10x_common.c
+END
+linux-2.6.16_arch_ppc_platforms_sandpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-turbostation/linux-2.6.16_arch_ppc_platforms_sandpoint.c
+END

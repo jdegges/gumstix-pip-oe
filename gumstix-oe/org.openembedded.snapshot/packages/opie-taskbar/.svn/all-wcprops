@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar
+END
+opie-taskbar-images_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar-images_cvs.bb
+END
+opie-taskbar_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar_1.2.2.bb
+END
+opie-taskbar-images_1.2.3+cvs20070922.bb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar-images_1.2.3+cvs20070922.bb
+END
+opie-taskbar_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar_1.2.3.bb
+END
+opie-taskbar-images_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar-images_1.2.3.bb
+END
+opie-taskbar.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar.inc
+END
+opie-taskbar-images.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar-images.inc
+END
+opie-taskbar_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-taskbar/opie-taskbar_cvs.bb
+END

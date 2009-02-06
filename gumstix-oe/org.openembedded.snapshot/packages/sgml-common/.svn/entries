@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sgml-common
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sgml-common-native_0.6.3.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+fb6b8a8ac811b0721d7c4f29179cd25d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sgml-common-0.6.3
+dir
+
+sgml-common_0.6.3.bb
+file
+
+
+
+
+2009-02-06T18:14:54.000000Z
+bed4746ceaeed4e779d0d8cf02bdd136
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

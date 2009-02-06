@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gnuplot
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+qtplot_0.2.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+d3b4b23a75baa04a9277b2723e825f5a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gnuplot-4.2.0
+dir
+
+gnuplot_4.0.0.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+9289cfc224b37bb9ede9a313dd532bc2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gnuplot_4.2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+a1b84900c4b00f714f2948dd87c38b8a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

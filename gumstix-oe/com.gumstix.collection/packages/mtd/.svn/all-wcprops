@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd
+END
+mtd-utils-tests_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils-tests_1.0.0+git.bb
+END
+mtd-utils_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils_1.0.0+git.bb
+END
+mtd-utils_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils_1.0.0.bb
+END
+mtd-utils-native_1.0.0+git.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils-native_1.0.0+git.bb
+END
+mtd-utils-native_1.0.0.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils-native_1.0.0.bb
+END
+mtd-utils-native.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/318/trunk/com.gumstix.collection/packages/mtd/mtd-utils-native.inc
+END

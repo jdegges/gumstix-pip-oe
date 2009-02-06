@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dbus/dbus-glib-native-0.74
+END
+run-with-tmp-session-bus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dbus/dbus-glib-native-0.74/run-with-tmp-session-bus.patch
+END

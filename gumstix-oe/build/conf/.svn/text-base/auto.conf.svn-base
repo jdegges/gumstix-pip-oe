@@ -1,0 +1,7 @@
+#
+# Uncomment *one* of the lines below as appropriate for your gumstix model
+#
+#MACHINE = "gumstix-custom-basix"
+#MACHINE = "gumstix-custom-connex"
+MACHINE = "gumstix-custom-verdex"
+

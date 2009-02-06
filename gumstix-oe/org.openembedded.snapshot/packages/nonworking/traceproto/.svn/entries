@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/traceproto
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+traceproto_1.1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+16df5a9ac002cee0f02f36e14b45a97f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

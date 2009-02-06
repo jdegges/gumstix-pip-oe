@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pcmciaapplet
+END
+opie-pcmciaapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pcmciaapplet/opie-pcmciaapplet_1.2.3.bb
+END
+opie-pcmciaapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pcmciaapplet/opie-pcmciaapplet.inc
+END
+opie-pcmciaapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pcmciaapplet/opie-pcmciaapplet_cvs.bb
+END
+opie-pcmciaapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pcmciaapplet/opie-pcmciaapplet_1.2.2.bb
+END

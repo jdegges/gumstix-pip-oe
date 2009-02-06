@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/sltime
+END
+mtduser.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/sltime/mtduser.h
+END
+sltime.pro
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/sltime/sltime.pro
+END
+sltime.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/slutils/slutils-0.1.0/sltime/sltime.c
+END

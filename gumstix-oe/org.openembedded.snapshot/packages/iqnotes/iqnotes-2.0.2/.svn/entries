@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iqnotes/iqnotes-2.0.2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qt2310-fontbug.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+bf85c4fa9e13b7cf479cd4bec8bd780f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+md5.diff
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+0ff2aa95d057646eef722adaae5604c0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

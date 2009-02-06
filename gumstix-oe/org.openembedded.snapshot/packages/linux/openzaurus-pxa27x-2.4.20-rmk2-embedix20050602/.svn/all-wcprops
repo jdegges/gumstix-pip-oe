@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602
+END
+P05-C3000-TSPRESSURE_041207.patch
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P05-C3000-TSPRESSURE_041207.patch
+END
+defconfig-borzoi
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/defconfig-borzoi
+END
+compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/compile.patch
+END
+P18-detailed_battery_050309.patch
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P18-detailed_battery_050309.patch
+END
+P04-C3000-UNICON_041206.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P04-C3000-UNICON_041206.patch
+END
+P12-fbcon-fix_041219.patch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P12-fbcon-fix_041219.patch
+END
+P11-bluetooth-mh18_041216.patch
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P11-bluetooth-mh18_041216.patch
+END
+P14-lowlatency_041221.patch
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P14-lowlatency_041221.patch
+END
+defconfig-spitz
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/defconfig-spitz
+END
+P08-rtc-mremap-mremap2nd-fix_041213.patch
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P08-rtc-mremap-mremap2nd-fix_041213.patch
+END
+P17-bvdd_050222.patch
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P17-bvdd_050222.patch
+END
+logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/logo.patch
+END
+add-oz-release-string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/add-oz-release-string.patch
+END
+disable-pcmcia-probe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/disable-pcmcia-probe.patch
+END
+P07-C3000-KBDDEV_041206.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P07-C3000-KBDDEV_041206.patch
+END
+P06-C3000-WRITETS_041206.patch
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P06-C3000-WRITETS_041206.patch
+END
+armdeffix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/armdeffix.patch
+END
+bluecard_cs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/bluecard_cs.patch
+END
+P02++050226.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P02++050226.patch
+END
+deviceinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/deviceinfo.patch
+END
+P09-ext3-isofs-fix_041216.patch
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P09-ext3-isofs-fix_041216.patch
+END
+corgi-fbcon-logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/corgi-fbcon-logo.patch
+END
+idecs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/idecs.patch
+END
+P01-C3000-clockup_050221.patch
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P01-C3000-clockup_050221.patch
+END
+corgi-default-brightness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/corgi-default-brightness.patch
+END
+P02-C3000-voltage_050221.patch
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P02-C3000-voltage_050221.patch
+END
+initsh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/initsh.patch
+END
+P03-C3000-SIGSTOP_FIX_041207.patch
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P03-C3000-SIGSTOP_FIX_041207.patch
+END
+1764-1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/1764-1.patch
+END
+saner-spitz-keymap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/saner-spitz-keymap.patch
+END
+CPAR050218.patch
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/CPAR050218.patch
+END
+P10-ntfs-fix_041216.patch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/P10-ntfs-fix_041216.patch
+END
+swap-performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/swap-performance.patch
+END
+tosa_ts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/tosa_ts.patch
+END
+defconfig-akita
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/openzaurus-pxa27x-2.4.20-rmk2-embedix20050602/defconfig-akita
+END

@@ -1,0 +1,244 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ixp4xx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ixp4xx-npe_2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+275db8de5ad042f5cab459471c8b8531
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr-2.1.1
+dir
+
+ixp4xx-csr-2.0
+dir
+
+ixp4xx-csr-2.1
+dir
+
+ixp4xx-npe_2.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+a01a4ffa12413f1e0a89510f0235d08f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-npe_2.4.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+dc770464e025cf0de401e73fb2e47894
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr
+dir
+
+ixp-osal-2.1.1
+dir
+
+ixp-osal-2.0
+dir
+
+ixp4xx-csr-1.5
+dir
+
+ixp-osal-2.1
+dir
+
+ixp4xx-csr_2.1.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+1e9a4f82a7107484626f496b3767b25f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr_2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+b7082abe7118b36721f1e00a4651f654
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr_2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+97459c1fb1cf655bb146daeb85951dc4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp-osal-1.5
+dir
+
+ixp-osal_2.1.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+b243df93db2a20f7bc2a105445fdc3ff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr_1.4.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+30522e9a8722d88400c27a7619836c88
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp-osal_2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+310cc8c43a376be19213652e65d29a89
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-csr_1.5.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+30154c1662d5945245efa07a6c7f497c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp-osal_2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+3a2032b82263f1fae9dd45c205bef5d7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp-osal_1.5.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+7e8098992e77bc15481e0c9ee02c5dd6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-npe-native-2.1
+dir
+
+ixp4xx-npe-native-2.3.2
+dir
+
+ixp4xx-npe-native-2.4
+dir
+
+ixp4xx-npe-native_2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+2608a8ed61ad44b21d3a87e8f0f42686
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-npe-native_2.3.2.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+1525fbae362169dd51ba65182a1fe780
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp4xx-npe-native_2.4.bb
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+1acc55a43055bd5aa8579aec495ac71a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

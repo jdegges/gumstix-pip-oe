@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libopieobex
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libopieobex0_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+1d0010e9cad77fe70fced9faaaa9741e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libopieobex0_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+1d0010e9cad77fe70fced9faaaa9741e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libopieobex0.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+d3607eec06f476b5636eccbc6640dca3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libopieobex0_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+1328c9063c92d5ddc368ea9f7506de8b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

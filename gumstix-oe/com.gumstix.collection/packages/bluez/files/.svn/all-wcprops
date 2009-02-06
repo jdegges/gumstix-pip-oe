@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/305/trunk/com.gumstix.collection/packages/bluez/files
+END
+bluez-utils-hciattach-pba31308.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/22/trunk/com.gumstix.collection/packages/bluez/files/bluez-utils-hciattach-pba31308.patch
+END
+bluetooth.init
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/13/trunk/com.gumstix.collection/packages/bluez/files/bluetooth.init
+END
+rfcomm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/16/trunk/com.gumstix.collection/packages/bluez/files/rfcomm.conf
+END
+bluetooth.default
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/13/trunk/com.gumstix.collection/packages/bluez/files/bluetooth.default
+END
+hcid.conf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/13/trunk/com.gumstix.collection/packages/bluez/files/hcid.conf
+END
+input.service
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/239/trunk/com.gumstix.collection/packages/bluez/files/input.service
+END

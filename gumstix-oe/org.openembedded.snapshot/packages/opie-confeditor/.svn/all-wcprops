@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-confeditor
+END
+opie-confeditor_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-confeditor/opie-confeditor_cvs.bb
+END
+opie-confeditor_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-confeditor/opie-confeditor_1.2.2.bb
+END
+opie-confeditor_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-confeditor/opie-confeditor_1.2.3.bb
+END
+opie-confeditor.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-confeditor/opie-confeditor.inc
+END

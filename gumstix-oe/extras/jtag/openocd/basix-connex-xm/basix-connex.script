@@ -1,0 +1,76 @@
+# gumstix basix 200, 400xm, and 400xm-bt / connex 200xm, 400xm, and 400xm-bt initialization
+
+#
+# 0x480000__    Memory Controller Registers
+#
+# 0x48000000    MDCNFG: SDRAM Configuration Register 0
+# 0x48000004    MDREFR: SDRAM Refresh Control Register
+# 0x48000008    MSC0:   Static Memory Control Register 0
+# 0x48000040    MDMRS:  MRS value to be written to SDRAM
+#
+# 0xA0000000    Flash
+#
+
+# make sure processor has halted
+halt
+wait_halt
+sleep 10
+
+# set flash chip select lines, as well as other flash timing
+# and formatting settings, including 16-bit data bus size
+mww 0x48000008 0x0000A5BB
+mdw 0x48000008
+
+# initialize SDRAM refresh settings, such as enabling auto-refresh,
+# disabling auto-power-down, and setting up memory clocks and enable lines
+mww 0x48000004 0x03CA4FFF
+
+# set SDRAM refresh interval
+mww 0x48000004 0x03CA4018
+
+# change from "self-refresh and clock-stop" to "self-refresh" state
+# (enable SDRAM clock 1)
+mww 0x48000004 0x03CB4018
+
+# change from "self-refresh" to "Power-down" state
+# (disable self-refresh)
+mww 0x48000004 0x038B4018
+
+# change from "Power-down" to "PWRDNX" state
+# (allow access to SDRAM clock 1 enable line for power management)
+mww 0x48000004 0x038BC018
+
+# set SDRAM addressing and timing values, set bus width to 32-bit, and
+# disable partitions 0 & 1
+mww 0X48000000 0x000019C8
+
+# wait
+sleep 10
+
+# now must do 8 refresh or CBR commands
+mww 0xA0000000 0x00000008
+mww 0xA0000000 0x00000007
+mww 0xA0000000 0x00000006
+mww 0xA0000000 0x00000005
+mww 0xA0000000 0x00000004
+mww 0xA0000000 0x00000003
+mww 0xA0000000 0x00000002
+mww 0xA0000000 0x00000001
+mww 0xA0000000 0x00000000
+
+# enable SDRAM partition 0
+mww 0x48000000 0x000019C9
+
+# set 0x0 as the flash Mode Register Set instruction
+mww 0x48000040 0x00020022
+
+# enable SDRAM auto-power-down
+mww 0X48000004 0x039BC018
+
+# probe the flash
+flash probe 0
+# erase check takes a while
+#flash erase_check 0
+flash protect_check 0
+
+

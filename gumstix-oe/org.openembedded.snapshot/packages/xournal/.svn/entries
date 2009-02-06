@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xournal
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+xournal_0.4.0.1.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+197749a7b9a3d5f7ca17fdc846c9114a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xournal_0.3.3.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+197749a7b9a3d5f7ca17fdc846c9114a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xournal_0.4.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+197749a7b9a3d5f7ca17fdc846c9114a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/librcf/files
+END
+rcf-0.4-openembedded.diff
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/librcf/files/rcf-0.4-openembedded.diff
+END
+rcf-0.4-g++-4.1.diff
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/librcf/files/rcf-0.4-g++-4.1.diff
+END

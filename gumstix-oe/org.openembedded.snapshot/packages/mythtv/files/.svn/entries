@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mythtv/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+settings.pro
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+fd35435b249db1a11b6e11f93ca21666
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+prefix-etc.patch
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+ac8a9c9b29a7a9b1a31e4debe0cca5cf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

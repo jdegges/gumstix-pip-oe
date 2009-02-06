@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/hostap/hostap-daemon
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+madwifi-bsd-fix.diff
+file
+
+
+
+
+2009-02-06T18:14:12.000000Z
+98b87275d04de1f0c5bb80c3a64c03ae
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+init
+file
+
+
+
+
+2009-02-06T18:14:12.000000Z
+1b53e1588530bde0fd92b469f0a9e851
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:14:12.000000Z
+616ed62c4b105524e9ee5c4ffd981748
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mtx-1
+dir
+
+mtx-2
+dir
+
+makefile-cross.diff
+file
+
+
+
+
+2009-02-06T18:14:12.000000Z
+e2f00a665e1a9765c7600806fa6bf4be
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

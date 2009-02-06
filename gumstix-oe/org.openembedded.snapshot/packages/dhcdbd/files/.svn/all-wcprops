@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dhcdbd/files
+END
+no-ext-options.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dhcdbd/files/no-ext-options.patch
+END
+dbus-api-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dhcdbd/files/dbus-api-fix.patch
+END
+dhcdbd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dhcdbd/files/dhcdbd
+END
+dhcdbd-1.14-pkgconfig_dbus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/dhcdbd/files/dhcdbd-1.14-pkgconfig_dbus.patch
+END

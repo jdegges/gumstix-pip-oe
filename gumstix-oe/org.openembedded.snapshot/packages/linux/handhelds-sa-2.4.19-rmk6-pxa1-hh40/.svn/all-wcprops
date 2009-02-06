@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/handhelds-sa-2.4.19-rmk6-pxa1-hh40
+END
+defconfig-h3600
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/handhelds-sa-2.4.19-rmk6-pxa1-hh40/defconfig-h3600
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives
+END
+update-alternatives-cworth-native_0.99.154.bb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-cworth-native_0.99.154.bb
+END
+update-alternatives-dpkg_1.13.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-dpkg_1.13.22.bb
+END
+update-alternatives-dpkg.inc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-dpkg.inc
+END
+update-alternatives-cworth.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-cworth.inc
+END
+update-alternatives-cworth_0.99.154.bb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-cworth_0.99.154.bb
+END
+update-alternatives-dpkg-native_1.13.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/update-alternatives/update-alternatives-dpkg-native_1.13.22.bb
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/keymaps/files/collie
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+keymap-2.4.map
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+48da8358652d526291a7150c4cc7aca5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+keymap-2.6.map
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+3bd254c7306236994496cfffe636e970
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

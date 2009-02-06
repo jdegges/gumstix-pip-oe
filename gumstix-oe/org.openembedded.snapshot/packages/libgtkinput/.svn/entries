@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libgtkinput
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+libgtkinput_svn.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+eafd4de04864b986c34e87fe50d344e3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgtkinput_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+44b019912903d137c4c83bc51f04f98b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgtkinput_0.3.bb
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+8a4aa129cd5600bcb7a49e62e3329330
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

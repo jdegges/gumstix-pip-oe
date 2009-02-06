@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpe-beam/gpe-beam-0.2.7
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+decl.patch
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+c5d6f07841058a856beda3bbdcdec526
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

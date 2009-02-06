@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/bazaar/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no_archive_format_guess_msg.patch
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+f9eca33ba1a3dfc655050ddfa44c3812
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+import_dirarg.patch
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+94cb5c7146cc81d9d2777f5bc8aa16fe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

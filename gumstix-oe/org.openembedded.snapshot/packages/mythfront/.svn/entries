@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/mythfront
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+mythfront-config.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+e01c9bfeda5ef0d909f5b2dcd41adca8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mythfront-session
+dir
+
+mythfront-config
+dir
+
+mythfront-session.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+e972c22798f1d4850cfab247a1664e54
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

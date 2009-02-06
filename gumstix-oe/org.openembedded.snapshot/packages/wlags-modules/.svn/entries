@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wlags-modules
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+kernel-module-wlags49-h1-cs_718.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+6676182872dcc3f186fd7de1d80aca38
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+kernel-module-wlags49-h2-cs_718.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+827c253b421d7bc4ae42c8649e9475b4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+wlags-modules_718.inc
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+f4db2ad7f07160c7299f31b4108dd54b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

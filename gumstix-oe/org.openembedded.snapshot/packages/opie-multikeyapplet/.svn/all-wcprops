@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-multikeyapplet
+END
+opie-multikeyapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-multikeyapplet/opie-multikeyapplet_cvs.bb
+END
+opie-multikeyapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-multikeyapplet/opie-multikeyapplet_1.2.2.bb
+END
+opie-multikeyapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-multikeyapplet/opie-multikeyapplet_1.2.3.bb
+END
+opie-multikeyapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-multikeyapplet/opie-multikeyapplet.inc
+END

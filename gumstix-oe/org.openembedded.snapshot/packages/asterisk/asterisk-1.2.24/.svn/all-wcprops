@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/asterisk/asterisk-1.2.24
+END
+uclibc-dns.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/asterisk/asterisk-1.2.24/uclibc-dns.patch
+END
+asterisk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/asterisk/asterisk-1.2.24/asterisk.patch
+END
+enable-speex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/asterisk/asterisk-1.2.24/enable-speex.patch
+END
+uclibc-compat-getloadavg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/asterisk/asterisk-1.2.24/uclibc-compat-getloadavg.patch
+END

@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/irda-utils
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+irdadump_0.9.16.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+dc43b74bf5848fe9d2da6644cc6f7634
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+irda-utils_0.9.15.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+d5dc20cb21d5e9a2687c6a0c9360d928
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+irda-utils_0.9.16.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+d37bba8815b406fc266d9e7e70e523e3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+irda-utils
+dir
+

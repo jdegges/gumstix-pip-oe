@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/pwc/pwc-10.0.6a
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+endian-fix.patch
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+9424cb36eab4c37e86d856ef3eb6860f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+Makefile
+file
+
+
+
+
+2009-02-06T18:14:30.000000Z
+f63b6971832105607b1205bd5db0befe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

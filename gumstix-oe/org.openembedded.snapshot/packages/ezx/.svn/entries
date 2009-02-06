@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ezx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+ezx-boot-usb-native_0.1.0.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+cffea72b034846129b2526d26188540c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ezxd_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+800f8ab210725f48703a235f35486121
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ezx-gpiotool_1877.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+dc023a176746ac82d1b49da684ada259
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ezxd
+dir
+
+ezx-boot-usb-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:17.000000Z
+0a75ec499b27eb4cd6af8f13cc245151
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gpephone/phoneserver
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+changeport.patch
+file
+
+
+
+
+2009-02-06T18:13:54.000000Z
+2296c12721a763a8e81b46476e2206d6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+phoneserver-gta01.patch
+file
+
+
+
+
+2009-02-06T18:13:54.000000Z
+d442f118bf2239e6ccc7f3254919a424
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples
+END
+openmoko-stylus-demo_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples/openmoko-stylus-demo_svn.bb
+END
+openmoko-panel-demo-simple_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples/openmoko-panel-demo-simple_svn.bb
+END
+openmoko-finger-demo_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples/openmoko-finger-demo_svn.bb
+END
+openmoko-stylus-demo-simple_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples/openmoko-stylus-demo-simple_svn.bb
+END
+openmoko-panel-demo_svn.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/openmoko-examples/openmoko-panel-demo_svn.bb
+END

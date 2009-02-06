@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/kdepimpi
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+kdepimpi-base.inc
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+0b711893966d8df6599f6b4bf0453544
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pwmpi.inc
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+84adc04aa186374c9bc49ff0878a773a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pwmpi_2.2.7.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+f377b4f141b976d1a1d78eba18baa2bd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+kdepimpi_2.2.7.bb
+file
+
+
+
+
+2009-02-06T18:16:31.000000Z
+40ea389e297e8799d7437bec4bb88dbd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

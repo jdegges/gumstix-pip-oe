@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/base-files/base-files/share
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dot.profile
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+138de546838ec1333f1e04f87960004b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dot.bashrc
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+afc1540d0ea2015726f4766fd983488f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

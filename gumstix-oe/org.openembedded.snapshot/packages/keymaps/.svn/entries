@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/keymaps
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+keymaps_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+6c361cac373b942b40e7bbc5ac54ad1f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

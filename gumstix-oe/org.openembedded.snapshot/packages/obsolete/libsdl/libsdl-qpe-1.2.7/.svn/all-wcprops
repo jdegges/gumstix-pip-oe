@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7
+END
+pygame.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/pygame.patch
+END
+gcc34.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/gcc34.patch
+END
+agawa-piro-mickey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/agawa-piro-mickey.patch
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/acinclude.m4
+END
+mouse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/mouse.patch
+END
+SDL-Akita.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/SDL-Akita.patch
+END
+ipaq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/ipaq.patch
+END
+kill-stdc++.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/kill-stdc++.patch
+END
+fixlibs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/obsolete/libsdl/libsdl-qpe-1.2.7/fixlibs.patch
+END

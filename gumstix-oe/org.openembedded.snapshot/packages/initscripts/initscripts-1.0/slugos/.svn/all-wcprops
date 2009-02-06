@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos
+END
+devices.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/devices.patch
+END
+umountfs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/umountfs
+END
+domainname.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/domainname.sh
+END
+mountall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/mountall.sh
+END
+banner
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/banner
+END
+alignment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/alignment.sh
+END
+rootopts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/rootopts.patch
+END
+umountnfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/umountnfs.sh
+END
+checkroot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initscripts/initscripts-1.0/slugos/checkroot.sh
+END

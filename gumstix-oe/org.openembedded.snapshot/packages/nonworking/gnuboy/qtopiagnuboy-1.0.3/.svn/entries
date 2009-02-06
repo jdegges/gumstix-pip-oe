@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/gnuboy/qtopiagnuboy-1.0.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+qtopiagnuboyl-hwkeys.patch
+file
+
+
+
+
+2009-02-06T18:14:07.000000Z
+3bdaadf2e3142e3c2074c87bed5072ad
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gcc3.patch
+file
+
+
+
+
+2009-02-06T18:14:07.000000Z
+f5b23360d1685de803f372b11422a03d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

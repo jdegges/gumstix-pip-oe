@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free-4.3.3
+END
+0002-fix-resinit-declaration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free-4.3.3/0002-fix-resinit-declaration.patch
+END
+0006-freetype-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free-4.3.3/0006-freetype-host-includes.patch
+END
+0007-openssl-host-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free-4.3.3/0007-openssl-host-includes.patch
+END
+0004-no-qmake.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/157/trunk/com.gumstix.collection/packages/qt4/qt4-x11-free-4.3.3/0004-no-qmake.patch
+END

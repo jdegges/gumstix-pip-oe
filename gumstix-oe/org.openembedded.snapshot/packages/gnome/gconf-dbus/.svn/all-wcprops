@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus
+END
+gconf-dbus-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus/gconf-dbus-update.patch
+END
+xml-backend-locks-compile-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus/xml-backend-locks-compile-fix.patch
+END
+69gconfd-dbus
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus/69gconfd-dbus
+END
+xml-backend-oldxml-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gnome/gconf-dbus/xml-backend-oldxml-Makefile.patch
+END

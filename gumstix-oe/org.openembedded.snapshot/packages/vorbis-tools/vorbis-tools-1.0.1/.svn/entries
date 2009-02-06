@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/vorbis-tools/vorbis-tools-1.0.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+remove-deprecated-curl-option.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+08151bc3b0b5821b37bffbe8719410d9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+m4.patch
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+03320e687a451f7dc775b7effb9025cb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

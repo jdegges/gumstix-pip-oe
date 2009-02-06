@@ -1,0 +1,79 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iptables
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-09T15:41:33.001345Z
+117
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+iptables_1.2.11.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+51acd91ae9e4ff310a898e7a08ab0156
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iptables_1.3.3.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+9216720c3394a7a4861d5f9262045a28
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iptables_1.2.9.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+1a2b5f6504d10d7792f04aa2f3b87aa4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iptables_1.3.8.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+b6a89c87c03e25a6a77258ef90c76800
+2008-01-09T15:41:33.001345Z
+117
+sakoman
+

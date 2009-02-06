@@ -1,0 +1,145 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/netbase/netbase
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+colinux
+dir
+
+interfaces
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+79be9bf90a0bcc4c0bbc90d4e8c681ac
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+if-down.d
+dir
+
+foonas
+dir
+
+wrt54
+dir
+
+if-pre-up.d
+dir
+
+xxs1500
+dir
+
+busybox.patch
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+b308b40e42d769b1f7cac7b61645f87f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+options
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+a21c7f22ae5c58078b435ec00f85c74c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+openmn
+dir
+
+oplinux-uclibc
+dir
+
+oplinux
+dir
+
+ghi270
+dir
+
+hosts
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+27acad957c7cded40cd6ac50d23ddc66
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+if-up.d
+dir
+
+init
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+0347090b58bda68078b1b1b2f689b9f8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tosa
+dir
+
+mtx-1
+dir
+
+mtx-2
+dir
+
+if-post-down.d
+dir
+
+fic-gta01
+dir
+
+fic-gta02
+dir
+
+slugos
+dir
+
+epia
+dir
+

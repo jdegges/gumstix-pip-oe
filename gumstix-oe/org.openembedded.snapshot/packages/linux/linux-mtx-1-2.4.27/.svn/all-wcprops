@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27
+END
+29-au1000-pci-config-clear-errors.diff
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/29-au1000-pci-config-clear-errors.diff
+END
+28-idsel-cardbus.diff
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/28-idsel-cardbus.diff
+END
+27-usbd-amd-pb1x00-kit-23may2003-usbd.diff
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/27-usbd-amd-pb1x00-kit-23may2003-usbd.diff
+END
+22-umts.diff
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/22-umts.diff
+END
+14-au1000-eth-link-beat.diff
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/14-au1000-eth-link-beat.diff
+END
+23-mtx-1_watchdog_autotrigger.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/23-mtx-1_watchdog_autotrigger.patch
+END
+17-lmsensors.2.8.8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/17-lmsensors.2.8.8.patch
+END
+08-usb-nonpci-2.4.24.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/08-usb-nonpci-2.4.24.patch
+END
+31-mtx-1u-led-init.diff
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/31-mtx-1u-led-init.diff
+END
+19-kernel-make-depend.diff
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/19-kernel-make-depend.diff
+END
+24-mtx-1_sysbtn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/24-mtx-1_sysbtn.patch
+END
+21-mtx-1-watchdog.diff
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/21-mtx-1-watchdog.diff
+END
+20-au1x00_ethernet_tx_stats.diff
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/20-au1x00_ethernet_tx_stats.diff
+END
+03-mtd-erase-compiler-bug.diff
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/03-mtd-erase-compiler-bug.diff
+END
+18-i2c-au1x00gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/18-i2c-au1x00gpio.patch
+END
+12-openswan-2.2.0-nat-t.diff
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/12-openswan-2.2.0-nat-t.diff
+END
+16-i2c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/16-i2c.patch
+END
+04-mtx-1-board-reset.diff
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/04-mtx-1-board-reset.diff
+END
+39-mppe-mpc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/39-mppe-mpc.patch
+END
+13-openswan-2.2.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/13-openswan-2.2.0.patch
+END
+11-mtd-proc-partition-rw.diff
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/11-mtd-proc-partition-rw.diff
+END
+48-pptp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/48-pptp.patch
+END
+09-au1000-eth-vlan.diff
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/09-au1000-eth-vlan.diff
+END
+10-iw-max-spy-32.diff
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/10-iw-max-spy-32.diff
+END
+40-option-hsdpa.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/40-option-hsdpa.patch
+END
+defconfig-mtx-1
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/defconfig-mtx-1
+END
+02-mtd-mtx-1-map.diff
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/02-mtd-mtx-1-map.diff
+END
+33-usbserial-bulk_in_size-4096.diff
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/33-usbserial-bulk_in_size-4096.diff
+END
+30-mtx-1-sysled.diff
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/30-mtx-1-sysled.diff
+END
+01-mtd-2004-01-27.diff
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/01-mtd-2004-01-27.diff
+END
+05-mtx-1-pci-irq.diff
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/05-mtx-1-pci-irq.diff
+END
+26-usbd-amd-pb1x00-kit-23may2003-update.diff
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/26-usbd-amd-pb1x00-kit-23may2003-update.diff
+END
+07-zboot-zimage-flash-bin.diff
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/07-zboot-zimage-flash-bin.diff
+END
+06-zboot-2.4.26.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/06-zboot-2.4.26.patch
+END
+42-usb-ohci-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/42-usb-ohci-fixes.patch
+END
+32-usbserial-stalled-hack.diff
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/32-usbserial-stalled-hack.diff
+END
+25-mtx-sio2.diff
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-mtx-1-2.4.27/25-mtx-sio2.diff
+END

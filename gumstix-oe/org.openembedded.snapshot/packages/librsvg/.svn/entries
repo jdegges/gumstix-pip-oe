@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/librsvg
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+librsvg_2.16.1.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+696808c76bd9bef088c14cccfeda88d7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+librsvg_2.11.1.bb
+file
+
+
+
+
+2009-02-06T18:13:51.000000Z
+fbce08d9217f5d5b250375f198ab8f87
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

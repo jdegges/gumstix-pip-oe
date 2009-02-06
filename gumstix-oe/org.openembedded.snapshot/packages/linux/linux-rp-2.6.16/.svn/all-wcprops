@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16
+END
+maxpower-message.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/maxpower-message.patch
+END
+rmk-mmc1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/rmk-mmc1.patch
+END
+rmk-mmc2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/rmk-mmc2.patch
+END
+10-pcnet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/10-pcnet.patch
+END
+defconfig-tosa
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-tosa
+END
+hrw-pcmcia-ids-r5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/hrw-pcmcia-ids-r5.patch
+END
+defconfig-qemuarm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-qemuarm
+END
+defconfig-collie
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-collie
+END
+connectplus-remove-ide-HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/connectplus-remove-ide-HACK.patch
+END
+locomo-sysrq+keyrepeat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/locomo-sysrq+keyrepeat.patch
+END
+defconfig-spitz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-spitz
+END
+add-oz-release-string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/add-oz-release-string.patch
+END
+defconfig-hx2000
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-hx2000
+END
+defconfig-c7x0
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-c7x0
+END
+squashfs3.0-2.6.15.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/squashfs3.0-2.6.15.patch
+END
+defconfig-poodle
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-poodle
+END
+locomo-lcd-def-bightness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/locomo-lcd-def-bightness.patch
+END
+pxa-serial-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/pxa-serial-hack.patch
+END
+locomo-kbd-hotkeys.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/locomo-kbd-hotkeys.patch
+END
+00-hostap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/00-hostap.patch
+END
+defconfig-akita
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/defconfig-akita
+END
+serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-rp-2.6.16/serial-add-support-for-non-standard-xtals-to-16c950-driver.patch
+END

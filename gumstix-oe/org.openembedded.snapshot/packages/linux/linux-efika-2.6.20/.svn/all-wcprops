@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20
+END
+0010-libata-Add-support-for-the-MPC52xx-ATA-controller.txt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0010-libata-Add-support-for-the-MPC52xx-ATA-controller.txt
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/defconfig
+END
+0020-Fec-MPC5200-eth-driver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0020-Fec-MPC5200-eth-driver.txt
+END
+0024-Add-missing-function-prototype.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0024-Add-missing-function-prototype.txt
+END
+0004-powerpc-Use-common-52xx-of_platform-probe-code-for-EFIKA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0004-powerpc-Use-common-52xx-of_platform-probe-code-for-EFIKA.txt
+END
+0001-powerpc-serial-Dispose-irq-mapping-when-done-in-mpc52xx_serial.c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0001-powerpc-serial-Dispose-irq-mapping-when-done-in-mpc52xx_serial.c.txt
+END
+0030-POWERPC-Add-mpc52xx-lite5200-PCI-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0030-POWERPC-Add-mpc52xx-lite5200-PCI-support.txt
+END
+0005-powerpc-Restore-proper-link-order-in-platform.txt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0005-powerpc-Restore-proper-link-order-in-platform.txt
+END
+0007-Implement-support-for-split-endian-OHCI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0007-Implement-support-for-split-endian-OHCI.txt
+END
+0018-powerpc-Add-uevent-handler-for-ibmebus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0018-powerpc-Add-uevent-handler-for-ibmebus.txt
+END
+0009-ohci-Add-support-for-OHCI-controller-on-the-of_platform-bus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0009-ohci-Add-support-for-OHCI-controller-on-the-of_platform-bus.txt
+END
+0015-powerpc-Add-a-unified-uevent-handler-for-bus-based-on-of_device.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0015-powerpc-Add-a-unified-uevent-handler-for-bus-based-on-of_device.txt
+END
+0012-ata-Fix-pata_mpc52xx.c-compatible-list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0012-ata-Fix-pata_mpc52xx.c-compatible-list.txt
+END
+0027-POWERPC-Change-name-of-mpc52xx-pci-support-file-in-Makefile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0027-POWERPC-Change-name-of-mpc52xx-pci-support-file-in-Makefile.txt
+END
+0014-powerpc-Small-cleanup-of-EFIKA-platform.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0014-powerpc-Small-cleanup-of-EFIKA-platform.txt
+END
+0031-sound-Add-support-for-the-MPC52xx-PSC-AC97-Link.txt
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0031-sound-Add-support-for-the-MPC52xx-PSC-AC97-Link.txt
+END
+v4l.diff
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/v4l.diff
+END
+0006-Rework-the-OHCI-quirk-mecanism-as-suggested-by-David.txt
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0006-Rework-the-OHCI-quirk-mecanism-as-suggested-by-David.txt
+END
+0032-POWERPC-EFIKA-Adds-missing-interrupts-from-bestcomm-node.txt
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0032-POWERPC-EFIKA-Adds-missing-interrupts-from-bestcomm-node.txt
+END
+0013-powerpc-serial-Fix-mpc52xx_uart.c-compatible-list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0013-powerpc-serial-Fix-mpc52xx_uart.c-compatible-list.txt
+END
+0025-POWERPC-Misc-EFIKA-fixups-for-rtas-chrp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0025-POWERPC-Misc-EFIKA-fixups-for-rtas-chrp.txt
+END
+0003-powerpc-Add-device-tree-fixups-for-the-EFIKA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0003-powerpc-Add-device-tree-fixups-for-the-EFIKA.txt
+END
+0017-powerpc-Add-uevent-handler-for-of_platform_bus.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0017-powerpc-Add-uevent-handler-for-of_platform_bus.txt
+END
+0026-POWERPC-Cleanup-mpc52xx-PCI-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0026-POWERPC-Cleanup-mpc52xx-PCI-support.txt
+END
+0023-POWERPC-Make-FEC-work-on-the-lite5200.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0023-POWERPC-Make-FEC-work-on-the-lite5200.txt
+END
+0021-POWERPC-Copy-bestcomm-support-files-into-arch-powerpc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0021-POWERPC-Copy-bestcomm-support-files-into-arch-powerpc.txt
+END
+0033-EFIKA-fullduplex-prpl_aln.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0033-EFIKA-fullduplex-prpl_aln.txt
+END
+0028-POWERPC-Change-link-order-so-mpc52xx-fec-always-shows-up-as-eth0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0028-POWERPC-Change-link-order-so-mpc52xx-fec-always-shows-up-as-eth0.txt
+END
+0029-POWERPC-Fixup-pr_print-format-for-mpc52xx-pci-support.txt
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0029-POWERPC-Fixup-pr_print-format-for-mpc52xx-pci-support.txt
+END
+0022-MPC52xx-PCI-now-working-on-lite5200.-ugly-but-working.txt
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0022-MPC52xx-PCI-now-working-on-lite5200.-ugly-but-working.txt
+END
+0016-macintosh-Use-the-new-of_device-common-uevent-handler.txt
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0016-macintosh-Use-the-new-of_device-common-uevent-handler.txt
+END
+0019-MPC5200-Bestcomm-platform-driver.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0019-MPC5200-Bestcomm-platform-driver.txt
+END
+0008-ohci-Rework-bus-glue-integration-to-allow-several-at-once.txt
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0008-ohci-Rework-bus-glue-integration-to-allow-several-at-once.txt
+END
+0011-ohci-Whitespace-and-typo-fix-in-ohci-ppc-of.c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-efika-2.6.20/0011-ohci-Whitespace-and-typo-fix-in-ohci-ppc-of.c.txt
+END

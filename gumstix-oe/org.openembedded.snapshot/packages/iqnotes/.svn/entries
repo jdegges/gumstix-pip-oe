@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/iqnotes
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+iqnotes-2.0.2
+dir
+
+files
+dir
+
+iqnotes_2.0.2.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+eb6850854d49a02297aa480806260e01
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iqnotes_2.0.99-2.1.0rc1.bb
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+31d01f09d4b56ee5276bd99cb8a262a6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+iqnotes.inc
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+cddea59190bddc0d0886e42cf191a370
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

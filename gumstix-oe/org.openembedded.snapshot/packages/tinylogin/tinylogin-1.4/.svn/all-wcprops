@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tinylogin/tinylogin-1.4
+END
+remove-index.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tinylogin/tinylogin-1.4/remove-index.patch
+END
+add-system.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tinylogin/tinylogin-1.4/add-system.patch
+END
+cvs-20040608.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tinylogin/tinylogin-1.4/cvs-20040608.patch
+END
+adduser-empty_pwd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/tinylogin/tinylogin-1.4/adduser-empty_pwd.patch
+END

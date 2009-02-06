@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2
+END
+logicpd-pxa270-smc91x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/logicpd-pxa270-smc91x.patch
+END
+usb_add_epalloc-r3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/usb_add_epalloc-r3.patch
+END
+pm_changes-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pm_changes-r1.patch
+END
+defconfig-logicpd-pxa270
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/defconfig-logicpd-pxa270
+END
+logicpd-pxa270-hardware-id-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/logicpd-pxa270-hardware-id-hack.patch
+END
+logicpd-pxa270-cf-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/logicpd-pxa270-cf-hack.patch
+END
+pxafb_fix_params-r2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxafb_fix_params-r2.patch
+END
+logicpd-pxa270-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/logicpd-pxa270-flash.patch
+END
+asoc-v0.12.4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/asoc-v0.12.4.patch
+END
+pxa25x_cpufreq-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxa25x_cpufreq-r1.patch
+END
+xscale_cache_workaround-r1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/xscale_cache_workaround-r1.patch
+END
+kexec-arm-r3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/kexec-arm-r3.patch
+END
+ucb1400-touchscreen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/ucb1400-touchscreen.patch
+END
+input_power-r6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/input_power-r6.patch
+END
+pxa_keys-r5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxa_keys-r5.patch
+END
+logicpd-pxa270-lcd-osd024ttea2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/logicpd-pxa270-lcd-osd024ttea2.patch
+END
+pxa27x_overlay-r4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxa27x_overlay-r4.patch
+END
+pxa_timerfix-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxa_timerfix-r0.patch
+END
+usb_pxa27x_udc-r3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/usb_pxa27x_udc-r3.patch
+END
+pxa_irda_susres_fix-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/pxa_irda_susres_fix-r0.patch
+END
+config-nr-tty-devices.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/logicpd-pxa270-2.6.19.2/config-nr-tty-devices.patch
+END

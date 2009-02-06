@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/kakasi
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+kakasi_2.3.4.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+fb6786fe8d0136ff02924965ad2ba4c6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+kakasi.inc
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+470d792e0cd160f72ac56878ef4360e1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+kakasi-native_2.3.4.bb
+file
+
+
+
+
+2009-02-06T18:14:37.000000Z
+70d1f9c4b12bf5a6ef6eb6a25a36efcc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

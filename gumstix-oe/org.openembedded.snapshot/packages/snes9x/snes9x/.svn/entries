@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/snes9x/snes9x
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+private.patch
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+4758f6e23a99388ecf6ea9015f9f5509
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+makefile.patch
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+e347452f3c52576c7631d24a0b909502
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,51 @@
+#!/bin/sh
+PATH=/sbin:/bin:/usr/sbin:/usr/bin
+DAEMON=/usr/bin/freshclam
+NAME=freshclam
+DESC="ClamAV virus database updater"
+FRESHCLAM_CONF=/etc/freshclam.conf
+CLAMAV_CONF=/etc/clamd.conf
+PID=/var/run/clamav/freshclam.pid
+
+set -e
+
+test -x "$DAEMON" || exit 0
+if [ ! -r "$CLAMAV_CONF" ]; then
+  echo "ClamAV configuration file $CLAMAV_CONF not found. Exiting"
+  exit 0
+fi
+if [ ! -r "$FRESHCLAM_CONF" ]; then
+  echo "Freshclam configuration file $FRESHCLAM_CONF not found. Exiting"
+  exit 0
+fi
+
+
+case "$1" in
+  no-daemon)
+    echo "It takes freshclam ~3min to timeout and try the next mirror in the list"
+    freshclam
+    ;;
+
+  start)
+    echo -n "Starting $DESC: "
+    start-stop-daemon -S -x $DAEMON -- -d --quiet -p $PID
+    echo "$NAME."
+    ;;
+
+  stop)
+    echo -n "Stopping $DESC: "
+    start-stop-daemon -K -p $PID
+    ;;
+
+  restart|force-reload)
+    $0 stop
+    $0 start
+    ;;
+
+  *)
+    echo "Usage: $0 {no-daemon|start|stop|restart|force-reload}" >&2
+    exit 1
+    ;;
+esac
+
+exit 0

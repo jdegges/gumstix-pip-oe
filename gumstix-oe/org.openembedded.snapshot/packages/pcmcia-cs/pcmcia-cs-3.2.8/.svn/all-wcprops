@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8
+END
+no-hostap-cards.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/no-hostap-cards.patch
+END
+superh-noO3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/superh-noO3.patch
+END
+wireless.opts
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/wireless.opts
+END
+nocleanup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/nocleanup.patch
+END
+ide.opts
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/ide.opts
+END
+network.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/network.patch
+END
+ratoc-cfu1u.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/ratoc-cfu1u.patch
+END
+automount.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/automount.patch
+END
+busybox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/busybox.patch
+END
+pcic-extra.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/pcmcia-cs/pcmcia-cs-3.2.8/pcic-extra.patch
+END

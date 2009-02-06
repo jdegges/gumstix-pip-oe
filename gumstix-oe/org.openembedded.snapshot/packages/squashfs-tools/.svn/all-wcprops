@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools
+END
+squashfs-tools_2.0r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools_2.0r2.bb
+END
+squashfs-tools_2.2r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools_2.2r2.bb
+END
+squashfs-tools_3.1r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools_3.1r2.bb
+END
+squashfs-lzma-tools_3.1r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-lzma-tools_3.1r2.bb
+END
+squashfs-tools-native_2.0r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools-native_2.0r2.bb
+END
+squashfs-tools-native_2.2r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools-native_2.2r2.bb
+END
+squashfs-tools-native_3.1r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-tools-native_3.1r2.bb
+END
+squashfs-lzma-tools-native_3.1r2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/squashfs-tools/squashfs-lzma-tools-native_3.1r2.bb
+END

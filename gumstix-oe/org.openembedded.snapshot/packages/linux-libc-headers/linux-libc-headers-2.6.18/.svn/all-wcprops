@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.18
+END
+arm-syscall-define.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.18/arm-syscall-define.patch
+END

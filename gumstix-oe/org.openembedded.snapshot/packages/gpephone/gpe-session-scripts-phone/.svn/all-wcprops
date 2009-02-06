@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone
+END
+standard-apps.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone/standard-apps.patch
+END
+matchbox-session
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone/matchbox-session
+END
+matchbox-session.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone/matchbox-session.vm
+END
+disable-composite.xsettings
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone/disable-composite.xsettings
+END
+phonesession
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gpephone/gpe-session-scripts-phone/phonesession
+END

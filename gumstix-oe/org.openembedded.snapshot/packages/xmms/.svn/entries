@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/xmms
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+xmms-mad_0.10.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+8f248eeaadc7852a1a17186911cfb9b8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xmms_1.2.10.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+d4f63585ef6ad7af39149d48d2573ec9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+xmms-tremor_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+946e17de94e9fa2e10f1c1183484bbcb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

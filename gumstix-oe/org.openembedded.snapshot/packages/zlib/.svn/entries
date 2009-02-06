@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/zlib
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+zlib_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+298d1518f316d4e4fd5f5ca744bd4781
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+zlib-native_1.2.3.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+82648a10048207a90244f75b699f6ef5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

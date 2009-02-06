@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/unzip
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+unzip_552.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+7aba099e6d22a08e7dfbfafb885fef5f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+unzip-native_552.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+7ca97c45a18ecd05e0fd83e47e304d4e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

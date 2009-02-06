@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.8.1
+END
+mips-asm-atomic-system.diff
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux-libc-headers/linux-libc-headers-2.6.8.1/mips-asm-atomic-system.diff
+END

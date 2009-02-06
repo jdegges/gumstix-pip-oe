@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cdstatus
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cdstatus-0.96.05
+dir
+
+cdstatus_0.96.05.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+83af2729872836bfcf1b36c7cc2983a3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

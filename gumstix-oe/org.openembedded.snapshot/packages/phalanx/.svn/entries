@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/phalanx
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+phalanx_22.bb
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+1dbbdca903de8a6f3bffe2057bb63a5f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+phalanx
+dir
+

@@ -1,0 +1,103 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ipkg/ipkg-collateral
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dest
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+97599eed6aa18bf83d91c5ac8d572efd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+jornada56x
+dir
+
+poodle
+dir
+
+ipkg.conf.comments
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+6bba8b5f1443432697f3a49f34b36aa9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tosa
+dir
+
+collie
+dir
+
+src
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+akita
+dir
+
+openmn
+dir
+
+oplinux-uclibc
+dir
+
+simpad
+dir
+
+oplinux
+dir
+
+lists
+file
+
+
+
+
+2009-02-06T18:16:21.000000Z
+e297805f1b15ee65997fa0d01a057563
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

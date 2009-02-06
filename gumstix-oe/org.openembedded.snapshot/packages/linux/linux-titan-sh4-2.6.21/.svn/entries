@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux/linux-titan-sh4-2.6.21
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-mm-mutex.patch
+file
+
+
+
+
+2009-02-06T18:15:08.000000Z
+6ad4b3c37a6b498cf473f0fb1c67b025
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+titan-config
+file
+
+
+
+
+2009-02-06T18:15:08.000000Z
+98a89cdd58856d658432ba4f47fd4a1d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

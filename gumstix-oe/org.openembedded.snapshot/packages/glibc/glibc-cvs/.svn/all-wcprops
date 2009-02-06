@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs
+END
+mips-no-throw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/mips-no-throw.patch
+END
+ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/ldconfig.patch
+END
+noinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/noinfo.patch
+END
+arm-no-hwcap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/arm-no-hwcap.patch
+END
+arm-longlong.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/arm-longlong.patch
+END
+eabi-patch-1
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/eabi-patch-1
+END
+eabi-patch-2
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/eabi-patch-2
+END
+eabi-patch-3
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/eabi-patch-3
+END
+eabi-patch-4
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/eabi-patch-4
+END
+ldsocache-varrun.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/ldsocache-varrun.patch
+END
+ldd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/ldd.patch
+END
+makeconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/makeconfig.patch
+END
+dl-cache-libcmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/dl-cache-libcmp.patch
+END
+arm-memcpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/arm-memcpy.patch
+END
+arm-ioperm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/arm-ioperm.patch
+END
+trampoline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/trampoline.patch
+END
+dyn-ldconfig-20041128.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/dyn-ldconfig-20041128.patch
+END
+dyn-ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/dyn-ldconfig.patch
+END
+arm-machine-gmon.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/arm-machine-gmon.patch
+END
+glibc-fp-byteorder.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/glibc-cvs/glibc-fp-byteorder.patch
+END

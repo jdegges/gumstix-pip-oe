@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9
+END
+kill-stdc++-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/kill-stdc++-1.2.9.patch
+END
+explicit-extern-C.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/explicit-extern-C.patch
+END
+fixlibs-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/fixlibs-1.2.9.patch
+END
+pygame-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/pygame-1.2.9.patch
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/acinclude.m4
+END
+agawa-piro-mickey-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/agawa-piro-mickey-1.2.9.patch
+END
+mouse-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/mouse-1.2.9.patch
+END
+SDL-Akita-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/SDL-Akita-1.2.9.patch
+END
+ipaq-1.2.9.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/ipaq-1.2.9.patch
+END
+no-PAGE_SIZE.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe-1.2.9/no-PAGE_SIZE.patch
+END

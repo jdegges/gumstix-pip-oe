@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/xfree86/xfree86-4.3.0
+END
+tinyx-kbd-enable-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/xfree86/xfree86-4.3.0/tinyx-kbd-enable-fix.patch
+END
+tinyx-tslib-reset-and-vt-switch-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/xfree86/xfree86-4.3.0/tinyx-tslib-reset-and-vt-switch-fixes.patch
+END
+dirty-3.2-xterm-breakage-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/xfree86/xfree86-4.3.0/dirty-3.2-xterm-breakage-fix.patch
+END
+host.def
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nonworking/xfree86/xfree86-4.3.0/host.def
+END

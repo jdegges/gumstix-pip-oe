@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts
+END
+devimage_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/devimage_0.1.bb
+END
+initramfs-module-nfs_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/initramfs-module-nfs_0.1.bb
+END
+initramfs-jffs2_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/initramfs-jffs2_0.1.bb
+END
+initramfs-module-loop_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/initramfs-module-loop_0.1.bb
+END
+initramfs-module-block_0.1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/initramfs-module-block_0.1.bb
+END
+initramfs-uniboot_0.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/initrdscripts/initramfs-uniboot_0.2.bb
+END

@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl
+END
+perl_5.8.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl_5.8.4.bb
+END
+liblocale-gettext-perl-native_1.05.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblocale-gettext-perl-native_1.05.bb
+END
+libsub-install-perl-native_0.922.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-install-perl-native_0.922.bb
+END
+perl_5.8.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl_5.8.8.bb
+END
+libextutils-cbuilder-perl_0.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-cbuilder-perl_0.18.bb
+END
+libextutils-pkgconfig-perl-native_1.07.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-pkgconfig-perl-native_1.07.bb
+END
+liblog-dispatch-perl_2.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblog-dispatch-perl_2.13.bb
+END
+libcompress-zlib-perl-native_1.42.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libcompress-zlib-perl-native_1.42.bb
+END
+libmodule-build-perl-native_0.2805.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libmodule-build-perl-native_0.2805.bb
+END
+libclass-data-inheritable-perl-native_0.06.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libclass-data-inheritable-perl-native_0.06.bb
+END
+libalgorithm-diff-perl-native_1.1902.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libalgorithm-diff-perl-native_1.1902.bb
+END
+libextutils-pkgconfig-perl_1.07.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-pkgconfig-perl_1.07.bb
+END
+libmodule-build-perl_0.2805.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libmodule-build-perl_0.2805.bb
+END
+libextutils-parsexs-perl-native_2.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-parsexs-perl-native_2.16.bb
+END
+libipc-sharelite-perl_0.09.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libipc-sharelite-perl_0.09.bb
+END
+libexception-class-perl_1.23.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libexception-class-perl_1.23.bb
+END
+libio-zlib-perl_1.04.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libio-zlib-perl_1.04.bb
+END
+libcache-cache-perl_1.05.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libcache-cache-perl_1.05.bb
+END
+libdigest-sha1-perl_2.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdigest-sha1-perl_2.11.bb
+END
+perl_5.8.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl_5.8.7.bb
+END
+liblog-log4perl-perl_1.06.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblog-log4perl-perl_1.06.bb
+END
+libtest-output-perl_0.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtest-output-perl_0.10.bb
+END
+perl-rprovides.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-rprovides.inc
+END
+libperl6-junction-perl_1.10.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libperl6-junction-perl_1.10.bb
+END
+liberror-perl_0.17004.bb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liberror-perl_0.17004.bb
+END
+libipc-sharelite-perl-native_0.09.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libipc-sharelite-perl-native_0.09.bb
+END
+libextutils-depends-perl_0.205.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-depends-perl_0.205.bb
+END
+libhtml-mason-perl_1.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libhtml-mason-perl_1.35.bb
+END
+libexception-class-perl-native_1.23.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libexception-class-perl-native_1.23.bb
+END
+liburi-perl-native_1.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liburi-perl-native_1.35.bb
+END
+libio-zlib-perl-native_1.04.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libio-zlib-perl-native_1.04.bb
+END
+libdigest-sha1-perl-native_2.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdigest-sha1-perl-native_2.11.bb
+END
+libintl-perl-native_1.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libintl-perl-native_1.16.bb
+END
+libversion-perl_0.6701.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libversion-perl_0.6701.bb
+END
+libnet-ip-perl_1.25.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libnet-ip-perl_1.25.bb
+END
+libextutils-cbuilder-perl-native_0.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-cbuilder-perl-native_0.18.bb
+END
+libtest-differences-perl_0.47.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtest-differences-perl_0.47.bb
+END
+libarchive-tar-perl_1.30.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libarchive-tar-perl_1.30.bb
+END
+liberror-perl-native_0.17004.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liberror-perl-native_0.17004.bb
+END
+libextutils-depends-perl-native_0.205.bb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-depends-perl-native_0.205.bb
+END
+libintl-perl_1.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libintl-perl_1.16.bb
+END
+libtest-exception-perl_0.22.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtest-exception-perl_0.22.bb
+END
+libtest-mockmodule-perl_0.05.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtest-mockmodule-perl_0.05.bb
+END
+libsub-exporter-perl-native_0.970.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-exporter-perl-native_0.970.bb
+END
+libparams-util-perl-native_0.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libparams-util-perl-native_0.20.bb
+END
+libdevel-stacktrace-perl_1.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdevel-stacktrace-perl_1.13.bb
+END
+libtext-diff-perl-native_0.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtext-diff-perl-native_0.35.bb
+END
+libdata-optlist-perl_0.101.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdata-optlist-perl_0.101.bb
+END
+libversion-perl-native_0.6701.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libversion-perl-native_0.6701.bb
+END
+libxml-parser-perl-native_2.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libxml-parser-perl-native_2.34.bb
+END
+libclass-container-perl_0.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libclass-container-perl_0.12.bb
+END
+libsub-uplevel-perl-native_0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-uplevel-perl-native_0.13.bb
+END
+libnetserver-generic-perl_1.03.bb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libnetserver-generic-perl_1.03.bb
+END
+libmail-sendmail-perl_0.79.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libmail-sendmail-perl_0.79.bb
+END
+libintl-perl-native_1.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libintl-perl-native_1.11.bb
+END
+libarchive-tar-perl-native_1.30.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libarchive-tar-perl-native_1.30.bb
+END
+libmath-bigint-gmp-perl_1.18.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libmath-bigint-gmp-perl_1.18.bb
+END
+libcache-cache-perl-native_1.05.bb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libcache-cache-perl-native_1.05.bb
+END
+libyaml-perl-native_0.62.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libyaml-perl-native_0.62.bb
+END
+perl-native_5.8.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-native_5.8.4.bb
+END
+libparams-util-perl_0.20.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libparams-util-perl_0.20.bb
+END
+perl-native_5.8.8.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-native_5.8.8.bb
+END
+libtext-diff-perl_0.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtext-diff-perl_0.35.bb
+END
+libxml-parser-perl_2.34.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libxml-parser-perl_2.34.bb
+END
+perl.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl.inc
+END
+libclass-data-inheritable-perl_0.06.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libclass-data-inheritable-perl_0.06.bb
+END
+liburi-perl_1.35.bb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liburi-perl_1.35.bb
+END
+libintl-perl_1.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libintl-perl_1.11.bb
+END
+libalgorithm-diff-perl_1.1902.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libalgorithm-diff-perl_1.1902.bb
+END
+libtest-builder-tester-perl_1.01.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libtest-builder-tester-perl_1.01.bb
+END
+libdevel-stacktrace-perl-native_1.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdevel-stacktrace-perl-native_1.13.bb
+END
+libyaml-perl_0.62.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libyaml-perl_0.62.bb
+END
+libdata-optlist-perl-native_0.101.bb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libdata-optlist-perl-native_0.101.bb
+END
+libparams-validate-perl-native_0.86.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libparams-validate-perl-native_0.86.bb
+END
+libclass-container-perl-native_0.12.bb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libclass-container-perl-native_0.12.bb
+END
+libextutils-parsexs-perl_2.16.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libextutils-parsexs-perl_2.16.bb
+END
+liblocale-gettext-perl_1.05.bb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblocale-gettext-perl_1.05.bb
+END
+libparams-validate-perl_0.86.bb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libparams-validate-perl_0.86.bb
+END
+libnet-ip-perl-native_1.25.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libnet-ip-perl-native_1.25.bb
+END
+libsub-install-perl_0.922.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-install-perl_0.922.bb
+END
+libsub-exporter-perl_0.970.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-exporter-perl_0.970.bb
+END
+libcompress-zlib-perl_1.42.bb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libcompress-zlib-perl_1.42.bb
+END
+perl-native_5.8.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-native_5.8.7.bb
+END
+liblog-log4perl-perl-native_1.06.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblog-log4perl-perl-native_1.06.bb
+END
+perl-rdepends_5.8.7.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-rdepends_5.8.7.inc
+END
+perl-rdepends_5.8.8.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/perl-rdepends_5.8.8.inc
+END
+libsub-uplevel-perl_0.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/libsub-uplevel-perl_0.13.bb
+END
+liblog-dispatch-perl-native_2.13.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/perl/liblog-dispatch-perl-native_2.13.bb
+END

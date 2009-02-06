@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files
+END
+desktop-name-2.0.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/desktop-name-2.0.0.patch
+END
+docklet-icon-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/docklet-icon-size.patch
+END
+04-saved-status-dialogs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/04-saved-status-dialogs.patch
+END
+no-superimposed-version-on-logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/no-superimposed-version-on-logo.patch
+END
+desktop-name.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/desktop-name.patch
+END
+07-roomlist-dialog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/07-roomlist-dialog.patch
+END
+purple-OE-branding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/purple-OE-branding.patch
+END
+series
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/series
+END
+06-account-dialogs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/06-account-dialogs.patch
+END
+gevolution-eds-dbus.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/gevolution-eds-dbus.patch
+END
+01-optional-icons-in-dialogs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/01-optional-icons-in-dialogs.patch
+END
+gaim-OE-branding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/gaim-OE-branding.patch
+END
+08-prefs-dialog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/08-prefs-dialog.patch
+END
+10-pda-default-settings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/10-pda-default-settings.patch
+END
+desktop-name_1.4.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/desktop-name_1.4.0.patch
+END
+09-filetransfer-dialog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/09-filetransfer-dialog.patch
+END
+desktop-name_1.5.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/desktop-name_1.5.0.patch
+END
+02-request-field-dialogs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/02-request-field-dialogs.patch
+END
+05-statusbox-icon-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/05-statusbox-icon-size.patch
+END
+03-blist-dialogs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/03-blist-dialogs.patch
+END
+define-pda-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/define-pda-mode.patch
+END
+gtk-deprecated-2.0.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gaim/files/gtk-deprecated-2.0.0.patch
+END

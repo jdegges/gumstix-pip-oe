@@ -1,0 +1,236 @@
+OpenEmbedded Maintainers List 
+
+Please put you full name and email-address here for the areas of OE you want to support.
+
+Note: For the hard of thinking, this list is meant to remain in alphabetical
+order. If you could add yourselves to it in alphabetical order that would be
+so much easier (sort by firstname).
+
+Person:     Real name
+Mail:       Mail patches to
+Website:    Web-page
+Interests:  Areas of interest (e.g. subsystems)
+Distros:    Maintained distros
+Machines:   Maintained machines
+Recipes:    Maintained recipes (should match package names, can include wildcards)
+
+-----------------------------------------------------------------------------
+
+Person:     Andreas Holzer
+Mail:       a.holzer@cheese.at
+Website:    http://members.cheese.at/woody/zaurus/
+Recipes:    gnuchess, fltk-chess
+
+Person:     Andy Wilcox
+Mail:       andy@protium.com
+Website:    http://www.openprotium.com
+Interests:  kernels, net, storage
+Distros:    openprotium
+Machines:   storcenter
+Recipes:    apache2, apc, gallery, initscripts-openprotium, linux-storcenter*, 
+Recipes:    modphp, sccd, uboot-utils, xfsprogs
+
+Person:     Bernhard Guillon
+Mail:       Bernhard.Guillon@opensimpad.org
+Machines:   simpad
+
+Person:     Cliff Brake
+Mail:       cbrake@bec-systems.com
+Website:    http://bec-systems.com
+Interests:  Support in OE for single board computers, web application support
+Machines:   compulab-pxa270, logicpd-pxa270, 
+Recipes:    mono argtable
+
+Person:     Erik Hovland
+Mail:       erik@hovland.org
+Distros:    familiar
+Machines:   h3600, h5400
+Interests:  Kernels, Porting, Distro refinement
+Recipes:    at76c503a, dropbear, handhelds-sa, handhelds-pxa
+
+Person:     Florian Boor
+Mail:       fb@kernelconcepts.de
+Website:    http://fl0rian.wordpress.com, http://www.kernelconcepts.de/~fuchs/
+Machines:   nokia770, netvista, htcuniversal, netbook-pro, htctornado
+Distros:  
+Interests:  GPEPhone, OpenSync, GPE, Matchbox, *dbus*, X, sqlite, Palm TX,
+interests:  phone devices
+Recipes:    gpe-*, libgpe*, libeventdb, libtododb, libcontactsdb, xserver-common
+Recipes:    gomunicator, mbmerlin, prismstumbler gkdial, fbreader, networkmanager
+Recipes:    minimix, minilite, miniclipboard, gpephone*
+Recipes:    task-sdk-sbox, meta-sdk-sbox
+
+Person:     Graeme Gregory
+Mail:       dp@xora.org.uk
+Website:    http://www.xora.org.uk
+Interests:  Multimedia in gpe and on fbdev, and gtk+ apps on PDA devices.
+Interests:  GNOME on PDA
+Recipes:    mplayer, xmms, xmms-mad, xmms-tremor, dillo, links, links-x11
+Recipes:    epdfview, sylpheed-claws, sylpheed, gqview, tightvnc
+Recipes:    epdfview, gtk+_2.10.*
+
+Person:     Holger Hans Peter Freyther
+Mail:       zecke@selfish.org
+Website:    http://www.openembedded.org/~zecke
+Interests:  icecream, insanity, QA
+Recipes:    qtopia*, sqlite3, xine
+
+Person:     Jamie Lenehan
+Mail:       lenehan@twibble.org
+Website:    http://twibble.org/
+Interests:  sh4, router/firewall/networking
+Distros:    eRouter
+Machines:   titan, wrap
+Recipes:    quagga, iputils, ndic6, hping2, lilo-sh, conserver, ipsec-tools,
+Recipes:    lilo-sh, clamav, havp, p3scan, clamsmtp, librsync, rdiff-backup,
+Recipes:    net-snmp, ebtables, ethtool, arpwatch, lib*-perl
+
+Person:     Joaquim Duran
+Mail:       joaquinduran@adtelecom.es
+Recipes:    gtk+, gtkmm
+
+Person:     Justin Patrin
+Mail:       papercrane@reversefold.com
+Website:    http://www.reversefold.com
+Interests:  OpenZaurus, E17, PHP
+Recipes:    efl/*, e17/*, musicpd/*, parted, netcat, emacs
+Recipes:    elitaire, synergy, lineak
+
+Person:     Koen Kooi
+Mail:       koen@openembedded.org
+Website:    http://dominion.kabel.utwente.nl/koen/cms
+Machines:   h2200, ipaq-pxa270, efika, ep93xx, netbook-pro
+Distros:    Ångström
+Interests:  OpenSync, GNOME, GPE, Matchbox
+Recipes:    abiword, bootchart, dia, farsight, freeciv, fuse, galago, geda, gimp,
+Recipes:    gnumeric, gobby, obby, imposter, inkscape
+Recipes:    *moko*, telepathy, tilibs, xchat, xournal.
+
+Person:     Kristoffer Ericson
+Mail:       Kristoffer_e1@hotmail.com
+Website:    www.jlime.com
+Machines:   spitz, jornada 680, jornada 720
+Distros:    JLime, Openzaurus
+Interests:  wifi, kernels, emulation, qemu, git
+Recipes:    linux-jlime*, scummvm, blackbox
+
+Person:     Leon Woestenberg
+Mail:       leonw@mailcan.com
+Website:    http://www.sidebranch.com/
+Interests:  Real-time embedded Linux for highly available applications.
+Interests:  Small read-only Linux based firmware, deterministic builds.
+Recipes:    lighttpd, fastcgi
+Machines:   mpc8313e-rdb, efika, ixp4xxbe, x86, davinci-dvevm
+
+Person:	    Liam Girdwoord
+Mail:       liam.girdwood@wolfsonmicro.com
+Machines:   mx31ads
+Recipes:    mx31ads-kernel*	
+
+Person:     Marcin Juszkiewicz
+Mail:       hrw@openembedded.org
+Website:    http://blog.haerwu.biz/
+Machines:   collie, tosa, progear, alix
+Distros:    Poky, OpenZaurus, Ångström
+Interests:  WiFi, Native SDK
+Recipes:    linux, hostap*, orinoco*, wpa-supplicant*, wireless-tools, keymaps
+Recipes:    linux-rp, gammu
+Recipes:    ttf-fonts/* 
+
+Person:     Matthias 'CoreDump' Hentges
+Website:    http://www.hentges.net
+Machines:   collie, spitz
+Recipes:    altboot, webcam-server
+
+Person:     Michael 'Mickey' Lauer
+Mail:       mlauer@vanille-media.de
+Distros:    Ångström, generic
+Machines:   poodle, c7x0, spitz, nokia770, x86, qemuarm, qemux86
+Interests:  Core OE infrastructure, Python, GUI-Toolkits
+Recipes:    python*, qt*, qte*, sip*
+
+Person:     Paul Sokolovsky
+Mail:       pmiscml@gmail.com
+Machines:   h3900, h4000, hx4700
+Interests:  PocketPC and Palm devices support, Win32 support
+Interests:  Cross-machine unification
+Recipes:    linux-handhelds-2.6, opie-*
+
+Person:     Philip Balister
+Mail:       Crofton@balister.org
+Website:    http://www.balister.org
+Machines:   omap5912osk, gumstix-connex, gumstix-verdex, Efika, davinci-dvevm
+Interests:  Software Defined Radio, 
+Interests:  wireless networking (not necessarily wireless NIC's)
+Recipes:    omniorb, gnuradio
+
+Person:     Philippe De Swert
+Mail:       philippedeswert@scarlet.be
+Recipes:    gpe-*_svn, libgpe*_svn, libgtkstylus_svn, libtododb_svn
+Recipes:    libxsettings*_svn, libgtkinput_svn, libschedule_svn
+Recipes:    blueprobe_svn, detect-stylus_svn.
+
+Person:     Richard Purdie
+Mail:       rpurdie@rpsys.net
+Distros:    poky, openzaurus, Ångström
+Machines:   poodle, c7x0, spitz, nokia770, qemuarm, qemux86, hx2xxx
+Interests:  Kernels, Bitbake, Core OE infrastructure, Zaurus 2.6
+Recipes:    linux-rp, udev, zaurusd, task-base
+
+Person:     Rick Farina
+Mail:       sidhayn@gmail.com
+Website:    http://zerochaos.aircrack-ng.org
+Interests:  wifi, packet injection, security
+Distros:    Angstrom
+Machines:   akita
+Recipes:    aircrack-ng, kismet, lorcon, mdk, rfakeap, rglueap, 
+Recipes:    rt2570-k2wrlz, void11
+
+Person:	    Rolf 'Laibsch' Leggewie
+Mail:       OE-recipes@rolf.leggewie.biz
+Website:    http://oz.leggewie.org
+Interests:  Japanese on the Zaurus
+Distros:    Ångström
+Machines:   collie, spitz
+Recipes:    anthy, nunome, uim*, granule, qpobox*, qte-font-unifont*
+Recipes:    qpf-unismall, qpobox, poboxserver, imkit*, scim, zten
+Recipes:    eb, eblook, tomoe
+
+Person:     Shane Volpe
+Mail:       shanevolpe@gmail.com
+Machines:   logicpd-pxa270
+Recipes:    directfb, php
+
+Person:     Stelios Koroneos
+Mail:       skoroneos@digital-opsis.com
+Website:    http://www.digital-opsis.com
+Distros:    OPLinux, Angstrom
+Machines:   Dht-walnut, Efika, Magicbox,Sequoia,Xilinx-ML403,RB5XX
+Interest:   Cross-machine development
+Recipes:    icecc.bbclass, ppc toolchain, asterisk,perl,php
+
+Person:     Tim Sander
+Mail:       oe@iss.tu-darmstadt.de
+Receipes:   fxload
+
+Person:     Øyvind Repvik
+Mail:       nail@nslu2-linux.org
+Machines:   nslu2, fsg3, ixp4xx, n2100, turbostation
+Distros:    foonas, slugos
+Recipes:    bwmon, watchdog, wakelan, libdvb, sane-backends, samba
+Recipes:    ccxstream, eciadsl, ssmtp, ixp4xx-npe, joe
+Recipes:    lcdproc, libol, mailx, mysql, musicpd, openntpd, qc-usb
+Recipes:    radlib, scsi-idle, rng-tools, slugos-init, syslog-ng
+Recipes:    vsftpd, zd1211
+
+Person:     Henning Heinold 'woglinde'
+Mail:       heinold@inf.fu-berlin.de
+Machines:   simpad
+Recipes:    classpath-minimal, midpath, cacao-cldc
+
+Person:     Philipp Zabel
+Mail:       philipp.zabel@gmail.com
+Interests:  Kernels, PXA, GTK+, gsmd
+Distros:    Ångström
+Machines:   hx4700, magician
+Recipes:    avahi, libgsmd

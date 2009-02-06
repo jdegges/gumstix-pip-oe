@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cvs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cvs-1.12.8
+dir
+
+cvs-1.12.9
+dir
+
+cvs_1.12.8.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+e67572d577d311d20c8ebf7371176d85
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+cvs_1.12.9.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+a2b715e248f60c0fbdb96ce6997bb14c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

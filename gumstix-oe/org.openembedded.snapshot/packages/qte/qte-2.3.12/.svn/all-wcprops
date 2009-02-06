@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12
+END
+switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/switches.h
+END
+qpe.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/qpe.patch
+END
+improve-calibration-r0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/improve-calibration-r0.patch
+END
+encoding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/encoding.patch
+END
+fix-linuxfb-offscreenoverflow.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/fix-linuxfb-offscreenoverflow.patch
+END
+no-moc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/no-moc.patch
+END
+vt-switch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/vt-switch.patch
+END
+fix-errno-exception-spec.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/fix-errno-exception-spec.patch
+END
+bidimetrics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/bidimetrics.patch
+END
+fix-qscreen-sync.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/fix-qscreen-sync.patch
+END
+suspend-resume-hooks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/suspend-resume-hooks.patch
+END
+kernel-keymap-corgi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/kernel-keymap-corgi.patch
+END
+mnci-touchscreen.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/mnci-touchscreen.patch
+END
+ipaq_sound_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/ipaq_sound_fix.patch
+END
+fix-qgfxraster.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/fix-qgfxraster.patch
+END
+increase-qxml-robustness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/increase-qxml-robustness.patch
+END
+simpad.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/simpad.patch
+END
+tslib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/tslib.patch
+END
+gcc3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/gcc3.patch
+END
+gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/gcc4.patch
+END
+mnci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/mnci.patch
+END
+kernel-keymap-CXK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/kernel-keymap-CXK.patch
+END
+key.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/key.patch
+END
+ipaq-keyboard.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/ipaq-keyboard.patch
+END
+fix-linuxfb-setmode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/fix-linuxfb-setmode.patch
+END
+handhelds.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/handhelds.patch
+END
+qte-fix-iconsize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/qte-fix-iconsize.patch
+END
+sharp_char.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/sharp_char.h
+END
+qiconview-speed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/qiconview-speed.patch
+END
+kernel-keymap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/kernel-keymap.patch
+END
+c700-hardware.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/c700-hardware.patch
+END
+devfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/devfs.patch
+END
+qt-visibility.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/qt-visibility.patch
+END
+c7x0-w100-accel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/c7x0-w100-accel.patch
+END
+daemonize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/daemonize.patch
+END
+qtabbar.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/qtabbar.patch
+END
+simpad-defaultkbd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qte/qte-2.3.12/simpad-defaultkbd.patch
+END

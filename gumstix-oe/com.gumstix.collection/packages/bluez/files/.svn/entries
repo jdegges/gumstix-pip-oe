@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/bluez/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-04-01T19:21:45.306742Z
+305
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gumstix-custom-connex
+dir
+
+bluez-utils-hciattach-pba31308.patch
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+50ee0d9ac223ab2607c9aac7bee21fe7
+2007-12-03T22:02:59.555082Z
+22
+sakoman
+
+gumstix-custom-verdex
+dir
+
+bluetooth.init
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+846f4f030181e57ae62a9f7cc58857b9
+2007-11-30T20:50:12.989227Z
+13
+sakoman
+
+rfcomm.conf
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+0a87d3eddd29683c1456688907e67b4f
+2007-12-01T06:30:52.202862Z
+16
+sakoman
+
+bluetooth.default
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+946473c1d8fac2a0643a2022cf21fd27
+2007-11-30T20:50:12.989227Z
+13
+sakoman
+
+hcid.conf
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+17e1f9258939cf65926ef9a3f4e4e0cd
+2007-11-30T20:50:12.989227Z
+13
+sakoman
+
+gumstix-custom-basix
+dir
+
+input.service
+file
+
+
+
+
+2009-02-06T18:16:38.000000Z
+f4d0891deebe257246cc8514a7188f3e
+2008-02-22T06:30:18.341690Z
+239
+sakoman
+

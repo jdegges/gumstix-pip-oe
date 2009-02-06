@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-ugly
+END
+gstmad_16bit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-ugly/gstmad_16bit.patch
+END
+cross-compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-ugly/cross-compile.patch
+END
+gstsid_autofoo_HACK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/gstreamer/gst-plugins-ugly/gstsid_autofoo_HACK.patch
+END

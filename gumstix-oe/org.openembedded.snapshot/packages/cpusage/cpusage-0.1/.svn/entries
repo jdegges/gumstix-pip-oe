@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cpusage/cpusage-0.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+cpusage.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+ce0f031852f8731236ea0a5b743eb145
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

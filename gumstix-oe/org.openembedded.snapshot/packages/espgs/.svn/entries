@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/espgs
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+espgs_8.15.3.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+51b4154cb66ab66d22f3dfeab3556d4f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+espgs_7.07.1.bb
+file
+
+
+
+
+2009-02-06T18:14:38.000000Z
+fc3f0d80d3cbe66b26a6814545426755
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

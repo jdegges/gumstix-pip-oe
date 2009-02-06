@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/wlan-ng/wlan-ng-utils-0.2.1-pre26
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+config.in
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+9266546b3f7799451d598d6e886be843
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+only-the-utils.patch
+file
+
+
+
+
+2009-02-06T18:14:02.000000Z
+fd829eaf713471716f52bccb0da093eb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

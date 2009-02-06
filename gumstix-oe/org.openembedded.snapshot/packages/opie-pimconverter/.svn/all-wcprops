@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pimconverter
+END
+opie-pimconverter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pimconverter/opie-pimconverter.inc
+END
+opie-pimconverter_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pimconverter/opie-pimconverter_cvs.bb
+END
+opie-pimconverter_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pimconverter/opie-pimconverter_1.2.2.bb
+END
+opie-pimconverter_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-pimconverter/opie-pimconverter_1.2.3.bb
+END

@@ -1,0 +1,82 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libusb
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libusb_0.1.10a.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+4e40648ab93b580787c7cab13fc26dc1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libusb_0.1.12.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+0d3d62b4d06c023faf715633cbb497db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libusb-0.1.8
+dir
+
+libusb-native_0.1.10a.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+96283e060a0fc78a11bb54beadebdc16
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libusb-native_0.1.12.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+e73e5818c1fa77be7310321ac7f7ae21
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libusb-0.1.10a
+dir
+

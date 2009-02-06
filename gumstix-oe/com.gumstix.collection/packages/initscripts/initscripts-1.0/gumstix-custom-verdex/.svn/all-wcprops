@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/60/trunk/com.gumstix.collection/packages/initscripts/initscripts-1.0/gumstix-custom-verdex
+END
+banner
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/60/trunk/com.gumstix.collection/packages/initscripts/initscripts-1.0/gumstix-custom-verdex/banner
+END
+alignment.sh
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/initscripts/initscripts-1.0/gumstix-custom-verdex/alignment.sh
+END
+bootmisc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/initscripts/initscripts-1.0/gumstix-custom-verdex/bootmisc.sh
+END
+save-rtc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/initscripts/initscripts-1.0/gumstix-custom-verdex/save-rtc.sh
+END

@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/tickypip
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+tickypip-levels_1.1.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+b586fdd3159e4834086079fd3bb7f928
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tickypip
+dir
+
+tickypip_0.1.2.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+3c85270b9f1bf6c9e05fcba18427f8cd
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

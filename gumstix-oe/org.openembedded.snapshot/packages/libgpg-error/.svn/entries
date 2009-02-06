@@ -1,0 +1,100 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libgpg-error
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libgpg-error_1.4.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+967a9137c75c56fb3ad96a773b99da76
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpg-error_0.6.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+72fd8271601a2ecf05f707f86f25537e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpg-error_0.7.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+f672eda675c22d411f3ffa95c2502fbc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpg-error-1.0
+dir
+
+libgpg-error-1.3
+dir
+
+libgpg-error-1.4
+dir
+
+libgpg-error_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+967a9137c75c56fb3ad96a773b99da76
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libgpg-error-0.7
+dir
+
+libgpg-error_1.3.bb
+file
+
+
+
+
+2009-02-06T18:14:55.000000Z
+967a9137c75c56fb3ad96a773b99da76
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/nonworking/aodv/aodv-modules-2.2.2
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+fix-makefile.patch
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+3071a16d11678f05b68b7d7ab038f5e2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

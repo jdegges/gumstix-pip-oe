@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/matchbox-applet-inputmanager
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+matchbox-applet-inputmanager_0.5.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+53536e31b2b6adb30c8a5176e93f9908
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+matchbox-applet-inputmanager_0.6.bb
+file
+
+
+
+
+2009-02-06T18:16:23.000000Z
+d85532e1051769f0da5d37025983f753
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

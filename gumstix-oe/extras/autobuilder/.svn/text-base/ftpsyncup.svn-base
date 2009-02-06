@@ -1,0 +1,67 @@
+#!/usr/bin/kermit
+;
+; f t p s y n c u p
+;
+; Synchronizes a server directory tree from a local one.
+;  . Local files that don't exist on the server are uploaded.
+;  . Local files that exist on the server are uploaded only if newer.
+;  . Local file timestamps are not preserved (FTP doesn't allow that).
+;  . Server file permissions are not preserved 
+;  . Ditto for file owner, group, ACLs, etc.
+;  . Works across platforms via automatic text/binary mode switching.
+;  . Works quietly but keeps a log of what it did.
+;
+; Directories are created on the server automatically as we descend through
+; the local tree.
+;
+; Local file permissions are preserved on the server if the server and
+; client are both Unix-based and the server permits SITE CHMOD.
+;
+; Server files that don't exist on the client are NOT deleted.
+; It would be possible to script this, but ugly.  If this script was to
+; handle only a single flat directory and not a directory tree, then it
+; would be easy to delete extraneous files from the server (get file list
+; with "mget /namelist:xxx *" then read filenames from xxx, "if exist"
+; each one, ldelete it).
+; 
+; Requires: C-Kermit 80 or later or K95 2.0 or later
+;
+; F. da Cruz, Columbia University, 24 Feb 2003
+
+; Parameters - Change as needed (or turn them into arguments)
+
+.host = www.gumstix.net             ; Change to desired ftp host
+.user = uuuuuu                      ; Change to desired ftp user
+.password = pppppp                  ; Change to desired ftp pssword
+.rdirectory = www/feeds/            ; Change to desired ftp directory
+
+.ldirectory = /var/www/feeds/       ; Change to desired local directory
+.logfile := \v(home)ftpsync.log     ; Change to desired logfile name
+
+; End of parameter defintions.
+
+set transaction-log brief           ; Choose brief transaction-log format
+set exit warning off                ; No "OK to exit?" prompts
+set quiet on                        ; Suppress progress messages
+
+lcd \m(ldirectory)                  ; CD to desired local directory
+if fail exit 1 "LCD failed - \m(ldirectory)" ; Make sure we did
+
+ftp open \m(host) /user:\m(user) /password:\m(password)
+if fail exit 1 Login failed
+if not \v(ftp_loggedin) exit 1 "Login failed"
+
+log transactions \m(logfile)        ; Start log
+
+ftp cd \m(rdirectory)               ; CD to desired server directory
+if fail exit 1 "FTP CD failed - \m(rdirectory)"
+
+ftp mput /recursive /update *       ; Put all local files in update mode
+if fail exit 1 "Mput failed"        ; Check for errors
+
+bye                                 ; Disconnect from server
+close transaction-log               ; Close log
+cat \m(logfile)                     ; Display log
+exit 0
+
+

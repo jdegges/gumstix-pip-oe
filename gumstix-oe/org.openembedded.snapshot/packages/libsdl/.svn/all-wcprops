@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl
+END
+libsdl-native_1.2.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-native_1.2.11.bb
+END
+libsdl-mixer_1.2.6.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-mixer_1.2.6.bb
+END
+libsdl-directfb_1.2.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-directfb_1.2.9.bb
+END
+libsdl-net_1.2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-net_1.2.7.bb
+END
+libsdl-qpe_1.2.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-qpe_1.2.9.bb
+END
+libsdl-ttf_2.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-ttf_2.0.3.bb
+END
+libsdl-x11_1.2.7.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-x11_1.2.7.bb
+END
+libsdl-x11_1.2.9.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-x11_1.2.9.bb
+END
+libsdl-ttf-native_2.0.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-ttf-native_2.0.3.bb
+END
+libsdl-gfx_2.0.11.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-gfx_2.0.11.bb
+END
+libsdl-image_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/libsdl/libsdl-image_1.2.3.bb
+END

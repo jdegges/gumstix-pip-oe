@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-launcher-settings
+END
+opie-launcher-settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-launcher-settings/opie-launcher-settings.inc
+END
+opie-launcher-settings_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-launcher-settings/opie-launcher-settings_cvs.bb
+END
+opie-launcher-settings_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-launcher-settings/opie-launcher-settings_1.2.2.bb
+END
+opie-launcher-settings_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-launcher-settings/opie-launcher-settings_1.2.3.bb
+END

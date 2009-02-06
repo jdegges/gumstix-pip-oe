@@ -1,0 +1,73 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/havp
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+havp-0.82
+dir
+
+havp.inc
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+2a4df30de3143f30c4034431818e059c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+havp-0.86
+dir
+
+havp_0.82.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+63148471c50cebcbf9c022fe30670dbf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+havp_0.86.bb
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+f86dcbf645cb098231ed91ed649eb69e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

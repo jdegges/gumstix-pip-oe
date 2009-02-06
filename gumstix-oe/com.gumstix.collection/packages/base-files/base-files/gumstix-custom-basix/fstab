@@ -1,0 +1,14 @@
+# fstab for gumstix-basix
+
+rootfs               /                    auto       defaults,sync,noatime 1  1
+proc                 /proc                proc       defaults              0  0
+sysfs                /sys                 sysfs      defaults              0  0
+tmpfs                /dev                 tmpfs      defaults              0  0
+devpts               /dev/pts             devpts     gid=5,mode=620        0  0
+tmpfs                /dev/shm             tmpfs      mode=0777             0  0
+tmpfs                /var/volatile        tmpfs      mode=0755             0  0
+tmpfs                /media/ram           tmpfs      defaults              0  0
+
+# mmc/microSD slot
+/dev/mmcblk0p1       /media/card          auto       defaults              0  0
+

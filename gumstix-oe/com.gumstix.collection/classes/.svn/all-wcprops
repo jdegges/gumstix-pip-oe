@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes
+END
+qmake_base.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes/qmake_base.bbclass
+END
+qtopia4core.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes/qtopia4core.bbclass
+END
+qmake.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes/qmake.bbclass
+END
+qmake2.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes/qmake2.bbclass
+END
+qt4x11.bbclass
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/gumstix/!svn/ver/159/trunk/com.gumstix.collection/classes/qt4x11.bbclass
+END

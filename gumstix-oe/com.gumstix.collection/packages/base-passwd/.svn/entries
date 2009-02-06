@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/base-passwd
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-13T04:55:01.252401Z
+275
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+base-passwd-3.5.9
+dir
+
+base-passwd_3.5.9.bb
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+43106d77269b601a14957c47af52a463
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

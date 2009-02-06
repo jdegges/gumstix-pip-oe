@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote
+END
+FNCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FNCanvas.cpp
+END
+FNMessageBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FNMessageBox.cpp
+END
+FNFindDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FNFindDialog.cpp
+END
+FNTextDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FNTextDialog.cpp
+END
+FrmMain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FrmMain.cpp
+END
+FmtEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/freenote/files/FreeNote/FreeNote/FmtEngine.cpp
+END

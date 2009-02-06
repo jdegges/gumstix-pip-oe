@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/liburiparser
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+liburiparser_0.5.1.bb
+file
+
+
+
+
+2009-02-06T18:13:55.000000Z
+6964990f40164e5d161a235a230b16eb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,109 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-03-17T04:02:51.540426Z
+280
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+contrib
+dir
+
+COPYING.MIT
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+3da9cfbcb788c80a0384361b4de20420
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+delete.txt
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+3032f355ff7ca6d35d1fd83a8a989cd1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+removal.txt
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+3032f355ff7ca6d35d1fd83a8a989cd1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+site
+dir
+
+conf
+dir
+
+MAINTAINERS
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+42f0915aaf7b4dfb6531f74dae0e1dfb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+_MTN
+dir
+
+classes
+dir
+
+README
+file
+
+
+
+
+2009-02-06T18:16:36.000000Z
+dce787cd887ca83fb991d569af245fd9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+packages
+dir
+

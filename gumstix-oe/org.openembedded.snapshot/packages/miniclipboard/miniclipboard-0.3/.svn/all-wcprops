@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/miniclipboard/miniclipboard-0.3
+END
+miniclipboard.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/miniclipboard/miniclipboard-0.3/miniclipboard.desktop
+END
+makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/miniclipboard/miniclipboard-0.3/makefile.patch
+END

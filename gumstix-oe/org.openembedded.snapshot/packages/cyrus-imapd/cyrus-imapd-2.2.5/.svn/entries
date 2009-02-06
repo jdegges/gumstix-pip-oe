@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/cyrus-imapd/cyrus-imapd-2.2.5
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+autotools.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+76a37a6814c46ad4bc6e961eaacf5a0e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tail.patch
+file
+
+
+
+
+2009-02-06T18:14:05.000000Z
+6b07de3610933871ca1078a14af21a1f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

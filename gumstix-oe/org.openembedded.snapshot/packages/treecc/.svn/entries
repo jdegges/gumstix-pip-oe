@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/treecc
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+treecc-native_0.3.6.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+4c0daf1fb0753120bb4b8c8a8798bb55
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+treecc-0.3.6
+dir
+
+treecc_0.3.6.bb
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+5320fc7f70a2a8645886c3969cd1e5d8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

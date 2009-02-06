@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files
+END
+local.rules
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/local.rules
+END
+tmpfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/tmpfs.patch
+END
+udevsynthesize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/udevsynthesize.patch
+END
+udev_network_queue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/udev_network_queue.sh
+END
+udev.rules
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/udev.rules
+END
+50-hostap_cs.rules
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/50-hostap_cs.rules
+END
+fix-alignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/fix-alignment.patch
+END
+devfs-udev.rules
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/devfs-udev.rules
+END
+network.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/network.sh
+END
+udevsynthesize.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/udevsynthesize.sh
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/init
+END
+permissions.rules
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/permissions.rules
+END
+links.conf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/links.conf
+END
+noasmlinkage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/noasmlinkage.patch
+END
+mount.blacklist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/mount.blacklist
+END
+mount.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/265/trunk/com.gumstix.collection/packages/udev/files/mount.sh
+END

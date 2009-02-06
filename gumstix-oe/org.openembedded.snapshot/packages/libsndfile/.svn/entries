@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/libsndfile
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+libsndfile1_1.0.16.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+6fb65bb9bf6487d46525cffb1e40d282
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+libsndfile1_1.0.17.bb
+file
+
+
+
+
+2009-02-06T18:16:29.000000Z
+b8f03474c381f0292bc000331c588179
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

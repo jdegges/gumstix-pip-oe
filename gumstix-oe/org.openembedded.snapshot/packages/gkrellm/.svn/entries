@@ -1,0 +1,43 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gkrellm
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+gkrellm_2.2.10.bb
+file
+
+
+
+
+2009-02-06T18:14:04.000000Z
+c10fc57f8c9060f728a5c61f700bb8cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+gkrellm
+dir
+

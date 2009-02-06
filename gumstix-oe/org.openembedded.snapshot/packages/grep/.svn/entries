@@ -1,0 +1,70 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/grep
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+grep-2.5
+dir
+
+grep_2.5.1.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+d81273f0ff205e13989f975baba8aebf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+grep_2.5.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+9d7dda6720fbcb0e4befc2527993abbc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+grep-native_2.5.1.bb
+file
+
+
+
+
+2009-02-06T18:15:01.000000Z
+f75e61e40aa352344aebaa4a3a91c57e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+grep-2.5.1
+dir
+

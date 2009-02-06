@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbvncserver
+END
+fbvncserver_0.9.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbvncserver/fbvncserver_0.9.4.bb
+END
+fbvncserver-kmodule_0.9.4.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/fbvncserver/fbvncserver-kmodule_0.9.4.bb
+END

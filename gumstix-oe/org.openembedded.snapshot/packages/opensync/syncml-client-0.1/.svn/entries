@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/opensync/syncml-client-0.1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+syncml-client-plugin-h.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+f1dc069c8eafa5fe89f255ec29199625
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+syncml-client-pc-in-cross.patch
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+981fed72f3d70bf60bd1b8c8f0dc827c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

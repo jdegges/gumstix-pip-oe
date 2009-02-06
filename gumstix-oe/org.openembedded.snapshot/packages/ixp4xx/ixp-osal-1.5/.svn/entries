@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ixp4xx/ixp-osal-1.5
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+2.6.patch
+file
+
+
+
+
+2009-02-06T18:16:19.000000Z
+ed25053115f48dd7800788b44e5e7332
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

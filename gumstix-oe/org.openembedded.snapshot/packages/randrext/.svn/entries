@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/randrext
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+randrext_cvs.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+a0104e3adf51a3819316417f983ab297
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+randrext_1.0.bb
+file
+
+
+
+
+2009-02-06T18:13:57.000000Z
+e06eb7d3dea308c38f1b66e5326af3c6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

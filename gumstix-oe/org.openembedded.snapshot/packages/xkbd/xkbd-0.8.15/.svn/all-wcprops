@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xkbd/xkbd-0.8.15
+END
+fix-equalsign.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xkbd/xkbd-0.8.15/fix-equalsign.patch
+END
+xkbd.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xkbd/xkbd-0.8.15/xkbd.png
+END
+fix-circumkey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xkbd/xkbd-0.8.15/fix-circumkey.patch
+END
+libtool-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/xkbd/xkbd-0.8.15/libtool-lossage.patch
+END

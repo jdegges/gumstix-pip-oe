@@ -1,0 +1,67 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/lemon
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+lemon.inc
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+6be603601f437048ecaecb67b6ad7378
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lemon_3.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+b6f9bc5efc790386aecc276d133fe35e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+lemon-native_3.3.5.bb
+file
+
+
+
+
+2009-02-06T18:16:28.000000Z
+647b33d8c7658b80e71683bfc862c516
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

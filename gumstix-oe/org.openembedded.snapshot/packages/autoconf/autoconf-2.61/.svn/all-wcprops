@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61
+END
+path_prog_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/path_prog_fixes.patch
+END
+autoconf-x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoconf-x.patch
+END
+sizeof_types.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/sizeof_types.patch
+END
+program_prefix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/program_prefix.patch
+END
+autoreconf-include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoreconf-include.patch
+END
+autoheader-nonfatal-warnings.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoheader-nonfatal-warnings.patch
+END
+config-site.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/config-site.patch
+END
+autoconf259-update-configscripts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoconf259-update-configscripts.patch
+END
+autoreconf-gnuconfigize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoreconf-gnuconfigize.patch
+END
+autoreconf-exclude.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoreconf-exclude.patch
+END
+autoreconf-foreign.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/autoconf/autoconf-2.61/autoreconf-foreign.patch
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gumstix/!svn/ver/280/trunk/org.openembedded.snapshot
+END
+COPYING.MIT
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/COPYING.MIT
+END
+delete.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/delete.txt
+END
+removal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/removal.txt
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/MAINTAINERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/README
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ipaq-sleep/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+install-fix.patch
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+9073ecc3c504633c5fa8cc5335663a51
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+init-script-busybox.patch
+file
+
+
+
+
+2009-02-06T18:14:20.000000Z
+473fb5d09e28f7a5ec50d5d52ad8ae66
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

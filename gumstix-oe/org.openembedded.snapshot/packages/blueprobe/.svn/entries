@@ -1,0 +1,139 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/blueprobe
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+blueprobe-0.15
+dir
+
+blueprobe-0.16
+dir
+
+blueprobe-0.17
+dir
+
+files
+dir
+
+blueprobe_0.13.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+65cd99d70e449c70fd034646738a4840
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe-0.18
+dir
+
+blueprobe_0.14.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+65cd99d70e449c70fd034646738a4840
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe_0.15.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+8fe029a1ca0bd0c7f0bd7dc153a7ac34
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe_0.16.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+f05307fe4cf03d2d2b1e65e917acaf12
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe_0.17.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+6d2148bda26137b14441bbb97ff81e02
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe.inc
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+f9df8d481a78657220de811d586fef8c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe_0.18.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+0350bb838807727ee89884d04198183b
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+blueprobe_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:18.000000Z
+f4b1dd102cd9e113a75f9d5652d94829
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

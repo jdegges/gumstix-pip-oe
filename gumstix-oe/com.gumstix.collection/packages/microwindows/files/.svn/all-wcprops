@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/files
+END
+staticwin.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/202/trunk/com.gumstix.collection/packages/microwindows/files/staticwin.patch
+END
+varargs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/files/varargs.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/files/defconfig
+END
+pagesize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/193/trunk/com.gumstix.collection/packages/microwindows/files/pagesize.patch
+END
+makefilerules.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/209/trunk/com.gumstix.collection/packages/microwindows/files/makefilerules.patch
+END
+nochown.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/193/trunk/com.gumstix.collection/packages/microwindows/files/nochown.patch
+END

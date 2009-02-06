@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/psplash/files/openmoko
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+psplash-hand-img.h
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+37cf77b3b5852672841ade445bca8514
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+psplash-bar-img.h
+file
+
+
+
+
+2009-02-06T18:14:00.000000Z
+7d9abf619c92ae6174403c1cc6749cd1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/gdb/gdb-6.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+uclibc.patch
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+00a2796cacae51e7100e99c07b41dd5e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+thumb-breakpoint.patch
+file
+
+
+
+
+2009-02-06T18:14:17.000000Z
+2da44da8bb31d93e8e3f7cc36fee893c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

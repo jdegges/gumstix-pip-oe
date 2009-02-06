@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs
+END
+genext2fs_1.3+cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs_1.3+cvs.bb
+END
+genext2fs-native_1.3+1.4rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs-native_1.3+1.4rc1.bb
+END
+genext2fs-native_1.3+cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs-native_1.3+cvs.bb
+END
+genext2fs_1.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs_1.3.bb
+END
+genext2fs-native_1.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs-native_1.3.bb
+END
+genext2fs_1.3+1.4rc1.bb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs_1.3+1.4rc1.bb
+END
+genext2fs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/genext2fs/genext2fs.inc
+END

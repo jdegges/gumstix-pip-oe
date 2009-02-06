@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dcron/dcron-2.3.3
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+strip.patch
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+fd9873913110608232037fbfee3cca90
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+compile.patch
+file
+
+
+
+
+2009-02-06T18:16:30.000000Z
+eb0caa22f464d5484014f7517c3809e6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

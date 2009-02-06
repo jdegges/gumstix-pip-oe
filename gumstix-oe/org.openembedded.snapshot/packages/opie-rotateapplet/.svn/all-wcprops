@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-rotateapplet
+END
+opie-rotateapplet_1.2.2.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-rotateapplet/opie-rotateapplet_1.2.2.bb
+END
+opie-rotateapplet_1.2.3.bb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-rotateapplet/opie-rotateapplet_1.2.3.bb
+END
+opie-rotateapplet.inc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-rotateapplet/opie-rotateapplet.inc
+END
+opie-rotateapplet_cvs.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/opie-rotateapplet/opie-rotateapplet_cvs.bb
+END

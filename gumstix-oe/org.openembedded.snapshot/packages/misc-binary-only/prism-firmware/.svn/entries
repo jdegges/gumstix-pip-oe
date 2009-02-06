@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/misc-binary-only/prism-firmware
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+hostap.rules
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+31405699a957910ae8f189dc50171f6f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+prism-fw.sh
+file
+
+
+
+
+2009-02-06T18:13:56.000000Z
+f0f2b6371aabd51e452b79c53d716fef
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

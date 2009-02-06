@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs
+END
+unsling
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/unsling
+END
+rc.lan-shell.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.lan-shell.patch
+END
+rc.sysinit-win_share.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.sysinit-win_share.patch
+END
+tmp-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/tmp-handling.patch
+END
+rc.bootdisk
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.bootdisk
+END
+remount-noatime.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/remount-noatime.patch
+END
+mkfs.ext3
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/mkfs.ext3
+END
+motd-un
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/motd-un
+END
+rc.samba-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.samba-diversion.patch
+END
+linuxrc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/linuxrc
+END
+NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/NOTES
+END
+ipkg-fl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/ipkg-fl
+END
+rc.sysinit-clean_var.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.sysinit-clean_var.patch
+END
+rc.xinetd-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.xinetd-diversion.patch
+END
+unslung.gif
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/unslung.gif
+END
+rc.1-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.1-diversion.patch
+END
+motd-fl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/motd-fl
+END
+rc.sysinit-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.sysinit-diversion.patch
+END
+resling
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/resling
+END
+rc.thttpd-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.thttpd-diversion.patch
+END
+slingover
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/slingover
+END
+initialise-mtab.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/initialise-mtab.patch
+END
+wait-for-quotacheck.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/wait-for-quotacheck.patch
+END
+create-ramdisks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/create-ramdisks.patch
+END
+upgrade.htm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/upgrade.htm
+END
+rc.samba-syntaxfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.samba-syntaxfix.patch
+END
+rc.optware-start
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.optware-start
+END
+root-passwd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/root-passwd.patch
+END
+security-fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/security-fixes.patch
+END
+telnet.htm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/telnet.htm
+END
+nsswitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/nsswitch.conf
+END
+telnet-passwd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/telnet-passwd.patch
+END
+rc.quickset-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.quickset-diversion.patch
+END
+rc.halt-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.halt-diversion.patch
+END
+rc.quota-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.quota-diversion.patch
+END
+rc.network-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.network-diversion.patch
+END
+rc.reboot-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.reboot-diversion.patch
+END
+rc.local-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.local-diversion.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/README
+END
+rc.bootbin
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.bootbin
+END
+rc.rstimezone-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.rstimezone-diversion.patch
+END
+mount_usbdevfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/mount_usbdevfs.patch
+END
+rc.sysinit-cpbug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.sysinit-cpbug.patch
+END
+rc-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc-diversion.patch
+END
+rc.1-timestamp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.1-timestamp.patch
+END
+rc.modules-nls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.modules-nls.patch
+END
+rc.crond-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.crond-diversion.patch
+END
+rc.optware-stop
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.optware-stop
+END
+rc.reset_usrgrpshare-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.reset_usrgrpshare-diversion.patch
+END
+rc.modules-diversion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs/rc.modules-diversion.patch
+END

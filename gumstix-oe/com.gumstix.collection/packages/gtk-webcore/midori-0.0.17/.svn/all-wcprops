@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/288/trunk/com.gumstix.collection/packages/gtk-webcore/midori-0.0.17
+END
+homepage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/288/trunk/com.gumstix.collection/packages/gtk-webcore/midori-0.0.17/homepage.patch
+END
+webkit-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/279/trunk/com.gumstix.collection/packages/gtk-webcore/midori-0.0.17/webkit-update.patch
+END
+desktop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/288/trunk/com.gumstix.collection/packages/gtk-webcore/midori-0.0.17/desktop.patch
+END

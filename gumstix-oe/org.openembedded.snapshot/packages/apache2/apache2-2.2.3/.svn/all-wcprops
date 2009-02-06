@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3
+END
+apr-sockets-patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3/apr-sockets-patch
+END
+dftables-makefile-patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3/dftables-makefile-patch
+END
+configure-fix-cross-compile-ptr-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3/configure-fix-cross-compile-ptr-check.patch
+END
+configure-patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3/configure-patch
+END
+server-makefile-patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/apache2/apache2-2.2.3/server-makefile-patch
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel
+END
+fix-EVIOCGRAB-semantics-2.6.22.5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/fix-EVIOCGRAB-semantics-2.6.22.5.patch
+END
+squashfs-2.6.23.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/squashfs-2.6.23.patch
+END
+printascii.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/printascii.patch
+END
+hack-gta02-cpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/hack-gta02-cpu.patch
+END
+defconfig-2.6.23.1
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/defconfig-2.6.23.1
+END
+logo_linux_clut224.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/logo_linux_clut224.ppm
+END
+printascii-2.6.23.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/printascii-2.6.23.patch
+END
+squashfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-openmoko-devel/squashfs.patch
+END

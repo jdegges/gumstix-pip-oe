@@ -1,0 +1,118 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/orinoco
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+orinoco-modules-0.13e
+dir
+
+orinoco-modules-0.15rc1
+dir
+
+orinoco-modules-0.15rc2
+dir
+
+orinoco-modules_0.13e.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+7cb96ca253e5ddb2b69e938e1e69c616
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+orinoco-modules-cvs
+dir
+
+orinoco-modules_0.15rc1.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+d6b7587cc0fcfd5bfd07bb00173fdbf8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+orinoco-modules_0.15rc2.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+503bea69620415958292975aaf404bd9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+orinoco-conf_1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+c14061ef19db731cccab3c1e96d34d50
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+orinoco-modules_cvs.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+e04b1ec0804cf2e7f14ecf247a9e63ba
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+spectrum-fw
+dir
+
+spectrum-fw.bb
+file
+
+
+
+
+2009-02-06T18:14:13.000000Z
+7030efa457e955ef6436bbcf27b434a1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

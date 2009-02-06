@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.21rc5
+END
+git-20070405-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.21rc5/git-20070405-2.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.21rc5/defconfig
+END
+hp6xx-IRQ3.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/linux-jlime-jornada6xx-2.6.21rc5/hp6xx-IRQ3.patch
+END

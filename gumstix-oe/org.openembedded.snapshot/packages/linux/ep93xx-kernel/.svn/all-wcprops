@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel
+END
+derevo6.diff
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel/derevo6.diff
+END
+eabi-enums.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel/eabi-enums.patch
+END
+defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel/defconfig
+END
+linux-2.6.15-ep93xx-gao19.diff
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel/linux-2.6.15-ep93xx-gao19.diff
+END
+dynamic-phys-offset-2.6.20-rc7.diff
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/linux/ep93xx-kernel/dynamic-phys-offset-2.6.20-rc7.diff
+END

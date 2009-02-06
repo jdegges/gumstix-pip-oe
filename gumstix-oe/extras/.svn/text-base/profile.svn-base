@@ -1,0 +1,18 @@
+
+#
+# Environment setup for gumstix oe
+#
+
+export GUMSTIXTOP="${HOME}/gumstix/gumstix-oe"
+export OEBRANCH="${GUMSTIXTOP}/org.openembedded.snapshot"
+export GUMSTIXBRANCH="${GUMSTIXTOP}/com.gumstix.collection"
+export USERBRANCH="${GUMSTIXTOP}/user.collection"
+
+export PATH="${GUMSTIXTOP}/bitbake/bin:$PATH"
+export BBPATH="${GUMSTIXTOP}/build:${USERBRANCH}:${GUMSTIXBRANCH}:${OEBRANCH}"
+
+umask 0002
+
+#
+# end gumstix oe
+#

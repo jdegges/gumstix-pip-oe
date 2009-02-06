@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/depcomp
+END
+glibconfig-sysdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/glibconfig-sysdefs.h
+END
+gcc-3.4-pretty_function
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/gcc-3.4-pretty_function
+END
+glib-reconf-fix
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/glib-reconf-fix
+END
+glib.m4-use-pkgconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/glib.m4-use-pkgconfig
+END
+posix-conf-changes
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/posix-conf-changes
+END
+glib-config-use-pkg-config
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-1.2/glib-1.2-1.2.10/glib-config-use-pkg-config
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+
+END
+gtk+-directfb_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+-directfb_2.10.14.bb
+END
+gtk+_2.10.14.bb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk+_2.10.14.bb
+END
+gtk-fpu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk-fpu.inc
+END
+gtk-2.10.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/gumstix/!svn/ver/74/trunk/com.gumstix.collection/packages/gtk+/gtk-2.10.inc
+END

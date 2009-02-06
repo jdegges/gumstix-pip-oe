@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1
+END
+disable_java.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1/disable_java.patch
+END
+gettext-vpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1/gettext-vpath.patch
+END
+getline.m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1/getline.m4.patch
+END
+fixchicken.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1/fixchicken.patch
+END
+gettext-error_print_progname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/179/trunk/com.gumstix.collection/packages/gettext/gettext-0.14.1/gettext-error_print_progname.patch
+END

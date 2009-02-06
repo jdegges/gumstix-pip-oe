@@ -1,0 +1,40 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/matchbox-applet-volume
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+matchbox-applet-volume_0.1.bb
+file
+
+
+
+
+2009-02-06T18:13:59.000000Z
+26fee2c763497c0bca0b377b2b1b89db
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

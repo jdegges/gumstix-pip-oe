@@ -1,0 +1,253 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/busybox
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+busybox-static_1.2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+143d938938b115dfda6642e65ae2c51e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slingbox-1.1.3
+dir
+
+slingbox-1.2.2
+dir
+
+slingbox-1.3.1
+dir
+
+busybox-1.2.0
+dir
+
+slingbox_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+66038032736ca3f027e1ba3bdc019ed3
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slingbox_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+cb4510cdc7a3d7e2c6d7b6396b8e933f
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slingbox_1.1.3.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+34cd69c6eff64c4d07e83ab943f77aae
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox-1.2.1
+dir
+
+busybox-1.3.1
+dir
+
+busybox-1.2.2
+dir
+
+busybox-1.5.0
+dir
+
+busybox-1.6.0
+dir
+
+busybox_1.2.0.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+98f617f0c28cf8011899f6c77d26c318
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox_1.2.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+33ea09d100a2423aec3cc1d29448a145
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox_1.2.2.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+dec99e7cb9bbfdc6dc379b2e838eec43
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox_1.3.1.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+5d91097600ae2c9f0e564353409effd4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox-1.7.2
+dir
+
+busybox_1.5.0.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+4ddbcb3a7953d81a382c3bb39f15d159
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox_1.6.0.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+4ddbcb3a7953d81a382c3bb39f15d159
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slingbox-1.00
+dir
+
+files
+dir
+
+busybox_1.7.2.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+cfee3d20d07bc1d5176fe1feded8ae06
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox.inc
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+b9dc5d11693754cc390a42c44e6c00f7
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+slingbox_1.00.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+e611177025ac237658473475779741c8
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox-1.00
+dir
+
+busybox-1.01
+dir
+
+busybox_1.00.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+c50969bda7909d0d4b993ba2f828f0d4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox_1.01.bb
+file
+
+
+
+
+2009-02-06T18:16:24.000000Z
+b1f1a0c81d15c86cdcc22d9452f46ca1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+busybox-static-1.2.1
+dir
+

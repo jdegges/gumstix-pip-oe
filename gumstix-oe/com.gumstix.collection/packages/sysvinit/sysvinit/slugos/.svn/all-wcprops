@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit/slugos
+END
+rcS-default
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit/slugos/rcS-default
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/gumstix/!svn/ver/263/trunk/com.gumstix.collection/packages/sysvinit/sysvinit/slugos/inittab
+END

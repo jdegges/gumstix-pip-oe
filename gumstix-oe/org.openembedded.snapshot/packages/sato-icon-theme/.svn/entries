@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/sato-icon-theme
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+sato-icon-theme.inc
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+da3ab62617bf7f2b243712a503cac9ec
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sato-icon-theme_0.1.bb
+file
+
+
+
+
+2009-02-06T18:13:40.000000Z
+e0b3caa0fd8648217dd08ee8671a20ed
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

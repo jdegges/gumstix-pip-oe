@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb
+END
+COW.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/COW.py
+END
+msg.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/msg.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/build.py
+END
+taskdata.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/taskdata.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/__init__.pyc
+END
+build.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/build.pyc
+END
+utils.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/utils.pyc
+END
+manifest.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/manifest.py
+END
+runqueue.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/runqueue.py
+END
+methodpool.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/methodpool.py
+END
+runqueue.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/runqueue.pyc
+END
+persist_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/persist_data.py
+END
+cooker.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/cooker.py
+END
+msg.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/msg.py
+END
+COW.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/COW.pyc
+END
+taskdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/taskdata.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/utils.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/cache.py
+END
+cache.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/cache.pyc
+END
+shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/shell.py
+END
+manifest.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/manifest.pyc
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/data.py
+END
+data.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/data.pyc
+END
+providers.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/providers.py
+END
+methodpool.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/methodpool.pyc
+END
+data_smart.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/data_smart.py
+END
+providers.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/providers.pyc
+END
+event.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/event.py
+END
+data_smart.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/data_smart.pyc
+END
+event.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/event.pyc
+END
+persist_data.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/persist_data.pyc
+END
+cooker.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gumstix/!svn/ver/314/trunk/bitbake/lib/bb/cooker.pyc
+END

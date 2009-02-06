@@ -1,0 +1,58 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/driftnet
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+driftnet-0.1.6
+dir
+
+driftnet-nogui_0.1.6.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+f370b715173a88b9503a90e74ba1ae57
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+driftnet_0.1.6.bb
+file
+
+
+
+
+2009-02-06T18:13:50.000000Z
+4c9b5a6c0e3bd247d77e6df44bad67ff
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+driftnet-nogui-0.1.6
+dir
+

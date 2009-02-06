@@ -1,0 +1,361 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/qpe-games
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+pipeman-1.0.0
+dir
+
+fish-1.1.0
+dir
+
+crossword_0.0.3.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+3cef50826fc9420b2d9a9de99a5c81ce
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+fish_1.1.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+b7aef062c716c40fc54ec38ffdd5d578
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+aliens-qt_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+2e58aca62a99c91ff7fb66df08ba1d85
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+checkers-1.0.5ern
+dir
+
+glider-1.0.0
+dir
+
+shisensho_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+2f748af39cf98a3e0614dce1535d2548
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+labyrinth_0.7.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+af06ee1f81abbd889c38b1298575007a
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+glider_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+fd4601da184f21a16011aa5d169820eb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ztappy_0.9.3ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+6419337f2be2580c43b6c67917219584
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sokoban-1.3.8ern
+dir
+
+atomic-1.0.1
+dir
+
+icebloxx-1.0.0
+dir
+
+ziq_1.1ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+6c5f6dc0f3c9f69d02bf526cad9cf678
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+sokoban_1.3.8ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+ab41bb3d6b3e62784f37990cddfc7431
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+win4-1.0.1
+dir
+
+tron-1.0.0
+dir
+
+pdamaze_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+3d99795c2628d929e556d4c6899ed508
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+tron_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+fdbc986ceb39e3f709a82bb0c5988331
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+win4_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+b4cc86b8daf6c17036a902174ac65056
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+crossword-0.0.3
+dir
+
+hexatrolic_1.0beta3.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+5d81862a294fe09085b9a2f7ddeb91c2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nmm-0.0.2
+dir
+
+mahjongg-1.0.0
+dir
+
+maki-1.0.4ern
+dir
+
+zsubhunt_1.0.0ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+d0c2b52fe73a7b0d77dbd0f4b63251f9
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nmm_0.0.2.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+645c4d7d2bbe1288d834585e99e02b72
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+aliens-qt-1.0.0
+dir
+
+pipeman_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+a7f83f64ed34c3b583a20a44304b4d99
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+mahjongg_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+29e4a35bd47174168791763ae59e471c
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+maki_1.0.4ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+320368e58b341da3568a4410e49c3aa2
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+shisensho-1.0.0
+dir
+
+checkers_1.0.5ern.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+e50788063fe3f0826d192a59290cf0f1
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ziq-1.1ern
+dir
+
+zrev7-1.0.1
+dir
+
+pairs-1.1.1
+dir
+
+pdamaze-1.0.0
+dir
+
+atomic_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+cbe6e3d1194e0124d569f4ea00ddb1ac
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+icebloxx_1.0.0.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+b60f91673aff1e58647dc8ace396515d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+zrev7_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+1e513f16b240b6200507932d7d3aad56
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+pairs_1.1.1.bb
+file
+
+
+
+
+2009-02-06T18:14:01.000000Z
+547c5e8463160e6b3ba7fb85b9869135
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

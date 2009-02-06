@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.2.3
+END
+automake-lossage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.2.3/automake-lossage.patch
+END
+configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.2.3/configure.patch
+END
+glibconfig-sysdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glib-2.0/glib-2.0-2.2.3/glibconfig-sysdefs.h
+END

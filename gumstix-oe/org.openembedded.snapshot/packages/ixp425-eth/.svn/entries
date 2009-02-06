@@ -1,0 +1,103 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/ixp425-eth
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+files
+dir
+
+ixp400-eth-1.4
+dir
+
+ixp400-eth-1.5.1
+dir
+
+ixp400-eth-1.5
+dir
+
+ixp400-eth_1.4.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+2db3a65e69f111e427d129aa8bf21eba
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp400-eth_1.5.1.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+7251ee875b65d33c368d021d104869cc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp425-eth-1.2
+dir
+
+ixp400-eth_1.5.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+2ca360a395ac57bb07f2062ec207a294
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp425-eth_1.1.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+000c1276993b9b2581b673c6cd0a1c35
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+ixp425-eth_1.2.bb
+file
+
+
+
+
+2009-02-06T18:14:58.000000Z
+67f6bf2a95c39fd7207b2e62d0c01bc5
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

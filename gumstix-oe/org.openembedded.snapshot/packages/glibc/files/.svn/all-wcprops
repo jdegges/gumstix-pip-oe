@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files
+END
+generate-supported.mk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/generate-supported.mk
+END
+ppc-ports-ld-nofpu-20070114.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/ppc-ports-ld-nofpu-20070114.patch
+END
+fhs-linux-paths.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/fhs-linux-paths.patch
+END
+ppc-sfp-machine.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/ppc-sfp-machine.patch
+END
+ppc-soft-fp-20070115.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/ppc-soft-fp-20070115.patch
+END
+5090_all_stubs-rule-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/5090_all_stubs-rule-fix.patch
+END
+glibc-2.3.5-fix-weak-alias-arm-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/glibc-2.3.5-fix-weak-alias-arm-2.patch
+END
+ppc-ld-nofpu-20070104.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/ppc-ld-nofpu-20070104.patch
+END
+glibc-2.3.5-fix-weak-alias-arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/glibc/files/glibc-2.3.5-fix-weak-alias-arm.patch
+END

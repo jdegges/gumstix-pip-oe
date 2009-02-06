@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/com.gumstix.collection/packages/helloworld-qtconsole/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2008-01-26T07:47:42.703384Z
+163
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+HelloQtConsole.pro
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+086ccb7436bb88e48495cb8a4eb3fbff
+2008-01-26T07:47:42.703384Z
+163
+sakoman
+
+HelloQtConsole.cpp
+file
+
+
+
+
+2009-02-06T18:16:39.000000Z
+feb086084990c8470622e33899244613
+2008-01-26T07:47:42.703384Z
+163
+sakoman
+

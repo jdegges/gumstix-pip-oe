@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/linux-uml/linux-uml-2.6.11-rc2-mm1
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+5167be4bf3ec89999d3ad4fdcd79bcfe
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+compile-fix.patch
+file
+
+
+
+
+2009-02-06T18:14:06.000000Z
+927dfacf24a73d5afe43d4c9fe20e0b6
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

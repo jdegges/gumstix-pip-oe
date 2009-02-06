@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only
+END
+nslu2-linksys-libs_2.3r63.bb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/nslu2-linksys-libs_2.3r63.bb
+END
+nslu2-linksys-ramdisk_2.3r63.bb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/nslu2-linksys-ramdisk_2.3r63.bb
+END
+unslung-rootfs_2.3r63.bb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/unslung-rootfs_2.3r63.bb
+END
+nslu2-linksys-firmware_2.3r63.bb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/nslu2-linksys-firmware_2.3r63.bb
+END
+nslu2-linksys-sambacodepages_2.3r63.bb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/nslu2-binary-only/nslu2-linksys-sambacodepages_2.3r63.bb
+END

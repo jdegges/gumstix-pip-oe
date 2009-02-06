@@ -1,0 +1,55 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/quake
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+quetoo_0.6.1.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+378140c1463a7290be7e4d441a1ec8bb
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+files
+dir
+
+quake1_0.0.1.bb
+file
+
+
+
+
+2009-02-06T18:14:29.000000Z
+4028df1b6fd8dea0f64a07acc3cab3cf
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

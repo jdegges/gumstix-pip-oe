@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701
+END
+configure-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/configure-0.9.0.patch
+END
+qemu-sdl-cursor-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/qemu-sdl-cursor-0.9.0.patch
+END
+qemu-0.9.0-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/qemu-0.9.0-gcc4.patch
+END
+pl110_rgb-r0-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/pl110_rgb-r0-0.9.0.patch
+END
+arm_nptl-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/arm_nptl-0.9.0.patch
+END
+qemu-amd64-32b-mapping-0.9.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/qemu/qemu-0.9.0+cvs20070701/qemu-amd64-32b-mapping-0.9.0.patch
+END

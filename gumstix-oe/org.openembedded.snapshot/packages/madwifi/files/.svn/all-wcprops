@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/files
+END
+20-xscale-VFP-wackelf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/files/20-xscale-VFP-wackelf.patch
+END
+10-sh4-le-elf-copts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/files/10-sh4-le-elf-copts.patch
+END
+10-xscale-le-elf-copts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/files/10-xscale-le-elf-copts.patch
+END
+10-xscale-be-elf-copts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/madwifi/files/10-xscale-be-elf-copts.patch
+END

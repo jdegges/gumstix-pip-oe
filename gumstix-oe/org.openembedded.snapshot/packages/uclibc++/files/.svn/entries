@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/uclibc++/files
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+defconfig
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+e2cc99562305e4de388a556fe103766e
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+nobash.patch
+file
+
+
+
+
+2009-02-06T18:14:03.000000Z
+36d5c9271e7db13d33f2e8c73f5ae79d
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
