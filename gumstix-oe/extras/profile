@@ -3,7 +3,7 @@
 # Environment setup for gumstix oe
 #
 
-export GUMSTIXTOP="${HOME}/gumstix/gumstix-oe"
+export GUMSTIXTOP="${HOME}/gumstix-pip-oe/gumstix-oe"
 export OEBRANCH="${GUMSTIXTOP}/org.openembedded.snapshot"
 export GUMSTIXBRANCH="${GUMSTIXTOP}/com.gumstix.collection"
 export USERBRANCH="${GUMSTIXTOP}/user.collection"
