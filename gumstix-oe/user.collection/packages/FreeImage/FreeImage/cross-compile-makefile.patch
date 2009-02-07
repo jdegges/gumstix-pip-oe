@@ -1,0 +1,41 @@
+--- a/Makefile.gnu	2007-08-26 07:44:24.000000000 -0700
++++ b/Makefile.gnu	2009-02-07 08:12:16.000000000 -0800
+@@ -4,12 +4,14 @@
+ include Makefile.srcs
+ 
+ # General configuration variables:
+-CC = gcc
+-CXX = g++
+-AR = ar
++CROSS_COMPILE=${GUMSTIXTOP}/tmp/cross/bin/arm-angstrom-linux-gnueabi-
++CROSS_DIR=${GUMSTIXTOP}/tmp/cross/arm-angstrom-linux-gnueabi
++CC = $(CROSS_COMPILE)gcc
++CXX = $(CROSS_COMPILE)g++
++AR = $(CROSS_COMPILE)ar
+ 
+-INCDIR = /usr/include
+-INSTALLDIR = /usr/lib
++INCDIR = $(CROSS_DIR)/usr/include
++INSTALLDIR = $(CROSS_DIR)/usr/lib
+ 
+ # Converts cr/lf to just lf
+ DOS2UNIX = dos2unix
+@@ -58,12 +60,12 @@
+ 	$(CC) -s -shared -Wl,-soname,$(VERLIBNAME) -o $@ $(MODULES) $(LIBRARIES)
+ 
+ install:
+-	install -m 644 -o root -g root $(HEADER) $(INCDIR)
+-	install -m 644 -o root -g root $(STATICLIB) $(INSTALLDIR)
+-	install -m 755 -o root -g root $(SHAREDLIB) $(INSTALLDIR)
+-	ln -sf $(SHAREDLIB) $(INSTALLDIR)/$(VERLIBNAME)
+-	ln -sf $(VERLIBNAME) $(INSTALLDIR)/$(LIBNAME)	
+-	ldconfig
++#	install -m 644 -o root -g root $(HEADER) $(INCDIR)
++#	install -m 644 -o root -g root $(STATICLIB) $(INSTALLDIR)
++#	install -m 755 -o root -g root $(SHAREDLIB) $(INSTALLDIR)
++#	ln -sf $(SHAREDLIB) $(INSTALLDIR)/$(VERLIBNAME)
++#	ln -sf $(VERLIBNAME) $(INSTALLDIR)/$(LIBNAME)	
++#	ldconfig
+ 
+ clean:
+ 	rm -f core Dist/*.* u2dtmp* $(MODULES) $(STATICLIB) $(SHAREDLIB) $(LIBNAME)
