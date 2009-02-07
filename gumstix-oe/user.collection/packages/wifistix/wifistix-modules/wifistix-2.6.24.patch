@@ -1,0 +1,684 @@
+--- src_cf8385/wlan/wlan_main.c.orig	2008-03-14 16:13:25.000000000 -0600
++++ src_cf8385/wlan/wlan_main.c	2008-03-14 16:16:15.000000000 -0600
+@@ -907,6 +907,9 @@
+ 	priv->wlan_dev.card = card;
+ 	wlanpriv = priv;
+ 
++#if !defined(SET_MODULE_OWNER)
++#define SET_MODULE_OWNER(dev) do { } while (0)
++#endif 
+ 	SET_MODULE_OWNER(dev);
+ 
+ 	/* Setup the OS Interface to our functions */
+--- src_cf8385/Makefile.orig	2008-03-14 16:23:37.000000000 -0600
++++ src_cf8385/Makefile	2008-03-14 16:24:00.000000000 -0600
+@@ -37,7 +37,7 @@
+ MIPS_DIR=		/tftpboot/mips/root
+ 
+ ifeq ($(KVER),2.4)
+-CFLAGS = -D__KERNEL__ -DMODULE -DLINUX_2_4 -O2 -Wall -Wstrict-prototypes
++EXTRA_CFLAGS = -D__KERNEL__ -DMODULE -DLINUX_2_4 -O2 -Wall -Wstrict-prototypes
+ MODEXT = o
+ else
+ MODEXT = ko
+@@ -1068,11 +1068,11 @@
+ # Select Platform Tools
+ #############################################################################
+ 
+-CFLAGS += -I$(PWD)/os/linux
+-CFLAGS += -I$(PWD)/wlan
++EXTRA_CFLAGS += -I$(PWD)/os/linux
++EXTRA_CFLAGS += -I$(PWD)/wlan
+ 
+ ifeq ($(CONFIG_X86), y)
+-	CFLAGS += -DCONFIG_X86
++	EXTRA_CFLAGS += -DCONFIG_X86
+ 	export CONFIG_X86
+ 	KERNELDIR=/usr/src/linux-$(KERNELVERSION_X86)
+ 	export KERNELDIR
+@@ -1087,14 +1087,14 @@
+ 		PLATFORM = imx21
+ 		TOOLPATH=$(TOOLPATH_iMX21)
+ 		CROSS=$(TOOLPATH)/arm-linux-
+-		CFLAGS += -DiMX21
++		EXTRA_CFLAGS += -DiMX21
+ 		export CONFIG_iMX21
+ 
+         # Configure Wireless Extension
+ 		KERNEL_WE=15
+ 		KERNELDIR=/usr/src/arm/linux-2.4.20_mvlcee31
+         # Don't do duplicate copying
+-		CFLAGS += -DNOMEMCOPY
++		EXTRA_CFLAGS += -DNOMEMCOPY
+ 	endif		
+ 	ifeq ($(CONFIG_CF), y)
+ 		KERNEL_WE=15
+@@ -1107,7 +1107,7 @@
+ ifeq ($(CONFIG_GUMSTIX), y)
+ 	INSTALLDIR=$(TARGET_DIR)
+ 	TOOLPATH=$(STAGING_DIR)/bin
+-	CFLAGS += -DNOMEMCOPY
++	EXTRA_CFLAGS += -DNOMEMCOPY
+ endif
+ ifeq ($(CONFIG_BULVERDE), y)
+ 	INSTALLDIR=$(BULVERDE_DIR)
+@@ -1118,14 +1118,14 @@
+ 	endif
+ 	TOOLPATH=$(TOOLPATH_BULVERDE)
+ 	CROSS=$(TOOLPATH)/arm-linux-
+-	CFLAGS += -DBULVERDE
++	EXTRA_CFLAGS += -DBULVERDE
+ 	export CONFIG_BULVERDE
+ 	ifeq ($(CONFIG_ARM_2_4_21), y)
+-		CFLAGS += -DCONFIG_ARM_2_4_21
++		EXTRA_CFLAGS += -DCONFIG_ARM_2_4_21
+ 		KERNELDIR=/usr/src/arm/linux-we-$(KERNEL_WE)-rmk/linux-2.4.21
+ 	else
+ 		ifeq ($(CONFIG_MAINSTONE), y)
+-			CFLAGS += -D_MAINSTONE
++			EXTRA_CFLAGS += -D_MAINSTONE
+ 			export CONFIG_MAINSTONE
+         #else
+             # Default MVL kernel has WE14
+@@ -1140,7 +1140,7 @@
+ 	endif
+ 
+     # Don't do duplicate copying
+-	CFLAGS += -DNOMEMCOPY
++	EXTRA_CFLAGS += -DNOMEMCOPY
+ endif
+ ifeq ($(CONFIG_MONAHANS), y)
+ 	INSTALLDIR=$(MONAHANS_DIR)
+@@ -1151,10 +1151,10 @@
+ # This causes the debugging symboles being added into *.o files.
+ # 'ld -S' strips the debugging symbols in sd8xxx.o but it should be removed if the kernel fixes the "-gwarf-2" flag.
+ 	LD += -S
+-	CFLAGS += -DMONAHANS
++	EXTRA_CFLAGS += -DMONAHANS
+ 	export CONFIG_MONAHANS
+ 	ifeq ($(CONFIG_ZYLONITE), y)
+-		CFLAGS += -D_ZYLONITE
++		EXTRA_CFLAGS += -D_ZYLONITE
+ 		export CONFIG_ZYLONITE
+ 		KERNELDIR=/usr/src/arm/linux-2.6.12-zylonite-alpha3
+ 	else
+@@ -1163,32 +1163,32 @@
+ 	endif
+ 
+     # Don't do duplicate copying
+-	CFLAGS += -DNOMEMCOPY
++	EXTRA_CFLAGS += -DNOMEMCOPY
+ endif
+ 
+ ifeq ($(CONFIG_OMAP1510), y)
+ 	INSTALLDIR=$(OMAP1510_DIR)
+ 	TOOLPATH=$(TOOLPATH_OMAP)
+ 	CROSS=$(TOOLPATH)/arm-linux-
+-	CFLAGS += -DOMAP1510
++	EXTRA_CFLAGS += -DOMAP1510
+     # Don't do duplicate copying
+-	CFLAGS += -DNOMEMCOPY
++	EXTRA_CFLAGS += -DNOMEMCOPY
+ 	export CONFIG_OMAP1510
+ 	KERNELDIR=/usr/src/omap1510-linux-we$(KERNEL_WE)
+ endif
+ 
+ ifeq ($(CONFIG_MIPS), y)
+-	CFLAGS += -DMIPS
++	EXTRA_CFLAGS += -DMIPS
+ 	export CONFIG_MIPS
+-	CFLAGS += -mlong-calls -G 0 -mno-abicalls -fno-pic 
+-	CFLAGS += -mcpu=r4000 -mips2 -Wa,--trap -DBIG_ENDIAN
++	EXTRA_CFLAGS += -mlong-calls -G 0 -mno-abicalls -fno-pic 
++	EXTRA_CFLAGS += -mcpu=r4000 -mips2 -Wa,--trap -DBIG_ENDIAN
+ 	TOOLPATH=	$(TOOLPATH_MIPS)
+ 	CROSS=		$(TOOLPATH)/mips-linux-
+ 	KERNELDIR=/usr/src/linux-$(KERNELVERSION_MIPS)
+ endif
+ 
+ ifeq ($(CONFIG_CF),y) 
+-	CFLAGS += -I$(PWD)/if/if_mcf -I$(PWD)/io/mcf -DCF
++	EXTRA_CFLAGS += -I$(PWD)/if/if_mcf -I$(PWD)/io/mcf -DCF
+ 	ifeq ($(CONFIG_iMX21), y)
+ 		INSTALLDIR=$(BINDIR)
+ 	else
+@@ -1201,8 +1201,8 @@
+ endif
+ 
+ ifeq ($(CONFIG_SD),y)
+-	CFLAGS += -DSD
+-	CFLAGS += -I$(PWD)/if/if_sdio -I$(PWD)/io/sdio/$(PLATFORM)
++	EXTRA_CFLAGS += -DSD
++	EXTRA_CFLAGS += -I$(PWD)/if/if_sdio -I$(PWD)/io/sdio/$(PLATFORM)
+ endif
+ 
+ ifeq ($(CONFIG_SPI),y)
+@@ -1214,9 +1214,9 @@
+ 	endif
+ 
+   ifneq ($(CONFIG_GUMSTIX),y)
+-	CFLAGS += -DSPI
+-	CFLAGS += -I../if/if_sdspi
+-	CFLAGS += -I../io/sdspi/$(PLATFORM)
++	EXTRA_CFLAGS += -DSPI
++	EXTRA_CFLAGS += -I../if/if_sdspi
++	EXTRA_CFLAGS += -I../io/sdspi/$(PLATFORM)
+   endif
+ endif
+ 
+@@ -1228,23 +1228,23 @@
+ 	PLATFORM = pxa270
+ 	endif
+ 
+-	CFLAGS += -DGSPI
+-	CFLAGS += -I$(PWD)/if/if_gspi
+-	CFLAGS += -I$(PWD)/io/gspi/$(PLATFORM)
++	EXTRA_CFLAGS += -DGSPI
++	EXTRA_CFLAGS += -I$(PWD)/if/if_gspi
++	EXTRA_CFLAGS += -I$(PWD)/io/gspi/$(PLATFORM)
+ endif
+ 
+ ifeq ($(CONFIG_MS),y)
+ 	# There are two MS bus drivers, one is for PCI-MS, one is for CB-MS.
+ 	MSPIO_DIR = io/ms/mspio
+ 	#MSPIO_DIR = io/ms/mspio_cb
+-	CFLAGS += -I$(shell pwd)/wlan
+-	CFLAGS += -I$(shell pwd)/if/if_ms 
+-	CFLAGS += -I$(shell pwd)/$(MSPIO_DIR)
++	EXTRA_CFLAGS += -I$(shell pwd)/wlan
++	EXTRA_CFLAGS += -I$(shell pwd)/if/if_ms 
++	EXTRA_CFLAGS += -I$(shell pwd)/$(MSPIO_DIR)
+ endif
+ 
+ ifeq ($(CONFIG_USB8XXX),y)
+-	CFLAGS += -I$(shell pwd)/wlan
+-	CFLAGS += -I$(shell pwd)/if/if_usb 
++	EXTRA_CFLAGS += -I$(shell pwd)/wlan
++	EXTRA_CFLAGS += -I$(shell pwd)/if/if_usb 
+ 	INSTALLDIR=/lib/modules/$(KERNELVERSION_X86)/kernel/drivers/usb
+ endif
+ 
+@@ -1253,14 +1253,14 @@
+ # Compiler Flags
+ #############################################################################
+ 
+-CFLAGS += -I$(KERNELDIR)/include
++EXTRA_CFLAGS += -I$(KERNELDIR)/include
+ 
+ ifeq ($(CONFIG_G_RATE),y)
+-	CFLAGS += -DG_RATE
++	EXTRA_CFLAGS += -DG_RATE
+ endif
+ 
+ ifeq ($(CONFIG_ADHOC_GRATE), y)
+-	CFLAGS += -DADHOC_GRATE
++	EXTRA_CFLAGS += -DADHOC_GRATE
+ endif
+ 
+ ifeq ($(KERNEL_WE),14)
+@@ -1269,163 +1269,163 @@
+ endif
+ 
+ ifeq ($(CONFIG_WPA),y)
+-	CFLAGS += -DWPA
++	EXTRA_CFLAGS += -DWPA
+ endif
+ 
+ ifeq ($(CONFIG_WPA2),y)
+-	CFLAGS += -DWPA2
++	EXTRA_CFLAGS += -DWPA2
+ endif
+ 
+ ifeq ($(CONFIG_PS),y)
+-	CFLAGS += -DPS_REQUIRED
++	EXTRA_CFLAGS += -DPS_REQUIRED
+ ifeq ($(CONFIG_FW_WAKEUP_METHOD),y)
+-	CFLAGS += -DFW_WAKEUP_METHOD
++	EXTRA_CFLAGS += -DFW_WAKEUP_METHOD
+ endif
+ ifeq ($(CONFIG_FW_WAKEUP_TIME),y)
+-	CFLAGS += -DFW_WAKEUP_TIME
++	EXTRA_CFLAGS += -DFW_WAKEUP_TIME
+ endif
+ endif
+ 
+ ifeq ($(CONFIG_THROUGHPUT_TEST),y)
+-	CFLAGS += -DTHROUGHPUT_TEST
++	EXTRA_CFLAGS += -DTHROUGHPUT_TEST
+ endif
+ 
+ ifeq ($(CONFIG_AD_HOC_PS),y)
+-	CFLAGS += -DAD_HOC_PS
++	EXTRA_CFLAGS += -DAD_HOC_PS
+ endif
+ 
+ ifeq ($(CONFIG_DEEP_SLEEP),y)
+-	CFLAGS += -DDEEP_SLEEP
++	EXTRA_CFLAGS += -DDEEP_SLEEP
+ endif
+ 
+ ifeq ($(CONFIG_HOST_SLEEP),y)
+-	CFLAGS += -DHOST_SLEEP
++	EXTRA_CFLAGS += -DHOST_SLEEP
+ endif
+ 
+ ifeq ($(CONFIG_BCA),y)
+-	CFLAGS += -DBCA
++	EXTRA_CFLAGS += -DBCA
+ endif
+ 
+ ifeq ($(CONFIG_HELPER_IMAGE),y)
+-	CFLAGS += -DHELPER_IMAGE
++	EXTRA_CFLAGS += -DHELPER_IMAGE
+ endif
+ 
+ ifeq ($(CONFIG_RF8010),y)
+-	CFLAGS += -DRF8010
++	EXTRA_CFLAGS += -DRF8010
+ endif
+ 
+ ifeq ($(CONFIG_RF8015),y)
+-	CFLAGS += -DRF8015
++	EXTRA_CFLAGS += -DRF8015
+ endif
+ 
+ ifeq ($(CONFIG_RF8019),y)
+-	CFLAGS += -DRF8019
++	EXTRA_CFLAGS += -DRF8019
+ endif
+ 
+ ifeq ($(CONFIG_RF8031),y)
+-	CFLAGS += -DRF8031
++	EXTRA_CFLAGS += -DRF8031
+ endif
+ 
+ ifeq ($(CONFIG_SD8381),y)
+-	CFLAGS += -DSD8381
++	EXTRA_CFLAGS += -DSD8381
+ endif
+ 
+ ifeq ($(CONFIG_SD8389),y)
+-	CFLAGS += -DSD8389
++	EXTRA_CFLAGS += -DSD8389
+ endif
+ 
+ ifeq ($(CONFIG_SD8385),y)
+-	CFLAGS += -DSD8385
++	EXTRA_CFLAGS += -DSD8385
+ endif
+ 
+ ifeq ($(CONFIG_SD8388),y)
+-	CFLAGS += -DSD8388
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DSD8388
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ endif
+ 
+ ifeq ($(CONFIG_SD8399),y)
+-	CFLAGS += -DSD8399
++	EXTRA_CFLAGS += -DSD8399
+ endif
+ 
+ ifeq ($(CONFIG_SD8686),y)
+-	CFLAGS += -DSD8686
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DSD8686
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ endif
+ 
+ ifeq ($(CONFIG_SPI8385),y)
+-	CFLAGS += -DSPI8385
++	EXTRA_CFLAGS += -DSPI8385
+ endif
+ 
+ ifeq ($(CONFIG_SPI8381),y)
+-	CFLAGS += -DSPI8381
++	EXTRA_CFLAGS += -DSPI8381
+ endif
+ 
+ ifeq ($(CONFIG_SPI8389),y)
+-	CFLAGS += -DSPI8389
++	EXTRA_CFLAGS += -DSPI8389
+ endif
+ 
+ ifeq ($(CONFIG_GSPI8385),y)
+-	CFLAGS += -DGSPI8385
++	EXTRA_CFLAGS += -DGSPI8385
+ endif
+ 
+ ifeq ($(CONFIG_GSPI8399),y)
+-	CFLAGS += -DGSPI8399
++	EXTRA_CFLAGS += -DGSPI8399
+ endif
+ 
+ ifeq ($(CONFIG_GSPI8686),y)
+-	CFLAGS += -DGSPI8686
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DGSPI8686
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ endif
+ 
+ ifeq ($(CONFIG_CF8385),y)
+-	CFLAGS += -DCF8385
++	EXTRA_CFLAGS += -DCF8385
+ endif
+ 
+ ifeq ($(CONFIG_CF8305),y)
+-	CFLAGS += -DCF8305
++	EXTRA_CFLAGS += -DCF8305
+ endif
+ 
+ ifeq ($(CONFIG_CF8381),y)
+-	CFLAGS += -DCF8381
++	EXTRA_CFLAGS += -DCF8381
+ endif
+ 
+ ifeq ($(CONFIG_CF8389),y)
+-	CFLAGS += -DCF8389
++	EXTRA_CFLAGS += -DCF8389
+ endif
+ 
+ ifeq ($(CONFIG_CF8399),y)
+-	CFLAGS += -DCF8399
++	EXTRA_CFLAGS += -DCF8399
+ endif
+ 
+ ifeq ($(CONFIG_MS8381),y)
+-	CFLAGS += -DMS8381
++	EXTRA_CFLAGS += -DMS8381
+ endif
+ 
+ ifeq ($(CONFIG_MS8385),y)
+-	CFLAGS += -DMS8385
++	EXTRA_CFLAGS += -DMS8385
+ endif
+ 
+ ifeq ($(CONFIG_MS8686),y)
+-	CFLAGS += -DMS8686
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DMS8686
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ endif
+ 
+ ifeq ($(CONFIG_MS),y)
+-	CFLAGS += -DMS
++	EXTRA_CFLAGS += -DMS
+ endif
+ 
+ ifeq ($(CONFIG_USB8XXX),y)
+-	CFLAGS += -DUSB
+-	CFLAGS += -DUSB8388
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DUSB
++	EXTRA_CFLAGS += -DUSB8388
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ endif
+ 
+ ifeq ($(CONFIG_PROGRESSIVE_SCAN),y)
+-	CFLAGS += -DPROGRESSIVE_SCAN
++	EXTRA_CFLAGS += -DPROGRESSIVE_SCAN
+ endif
+ 
+ ifeq ($(CONFIG_PCB_REV4),y)
+-	CFLAGS += -DPCB_REV4
++	EXTRA_CFLAGS += -DPCB_REV4
+ endif
+ 
+ ifeq ($(CONFIG_WPA2),y)
+@@ -1434,147 +1434,147 @@
+ 
+ ifeq ($(CONFIG_WPA),y)
+ 	ifeq ($(CONFIG_ADHOCAES),y)
+-		CFLAGS += -DADHOCAES
++		EXTRA_CFLAGS += -DADHOCAES
+ 	endif
+ endif
+ 
+ ifeq ($(CONFIG_OMAP1510_TIMER_DEBUG),y)
+-	CFLAGS += -DOMAP1510_TIMER_DEBUG
++	EXTRA_CFLAGS += -DOMAP1510_TIMER_DEBUG
+ endif
+ 
+ ifeq ($(CONFIG_CAL_DATA),y)
+-	CFLAGS += -DCAL_DATA
++	EXTRA_CFLAGS += -DCAL_DATA
+ 	export CONFIG_CAL_DATA
+ endif
+ 
+ ifeq ($(CONFIG_ENABLE_PM),y)
+-	CFLAGS += -DENABLE_PM
++	EXTRA_CFLAGS += -DENABLE_PM
+ endif
+ 
+ ifeq ($(CONFIG_MULTI_BANDS),y)
+-	CFLAGS += -DMULTI_BANDS
++	EXTRA_CFLAGS += -DMULTI_BANDS
+ endif
+ 
+ ifeq ($(CONFIG_AFC),y)
+-	CFLAGS += -DAUTO_FREQ_CTRL
++	EXTRA_CFLAGS += -DAUTO_FREQ_CTRL
+ endif
+ 
+ ifeq ($(CONFIG_802_11H), y)
+ 	CONFIG_802_11D=y
+ 	CONFIG_MEAS=y
+-	CFLAGS += -DENABLE_802_11H
++	EXTRA_CFLAGS += -DENABLE_802_11H
+ 	export CONFIG_802_11H
+ endif
+ 
+ ifeq ($(CONFIG_MEAS), y)
+-	CFLAGS += -DENABLE_MEAS
++	EXTRA_CFLAGS += -DENABLE_MEAS
+ 	export CONFIG_MEAS
+ endif
+ 
+ ifeq ($(CONFIG_802_11D), y)
+-    CFLAGS += -DENABLE_802_11D
++    EXTRA_CFLAGS += -DENABLE_802_11D
+ 	export CONFIG_802_11D
+ endif
+ 
+ ifeq ($(CONFIG_BG_SCAN), y)
+-	CFLAGS += -DBG_SCAN
++	EXTRA_CFLAGS += -DBG_SCAN
+ 	export CONFIG_BG_SCAN
+ endif
+ 
+ ifeq ($(CONFIG_WMM_UAPSD), y)
+-	CFLAGS += -DWMM_UAPSD
++	EXTRA_CFLAGS += -DWMM_UAPSD
+ 	CONFIG_WMM=y
+ 	export CONFIG_WMM_UAPSD
+ endif
+ 
+ ifeq ($(CONFIG_WMM), y)
+-	CFLAGS += -DWMM
+-	CFLAGS += -DPACKET_PRIORITY
++	EXTRA_CFLAGS += -DWMM
++	EXTRA_CFLAGS += -DPACKET_PRIORITY
+ 	export CONFIG_WMM
+ ifeq ($(CONFIG_WMM_AIFS), y)
+-	CFLAGS += -DWMM_AIFS
++	EXTRA_CFLAGS += -DWMM_AIFS
+ 	export CONFIG_WMM_AIFS
+ endif
+ endif
+ 
+ ifeq ($(CONFIG_MULTIPLE_URB_ALLOC),y)
+-	CFLAGS += -DMULTIPLE_URB_ALLOC
++	EXTRA_CFLAGS += -DMULTIPLE_URB_ALLOC
+ endif
+ 
+ ifeq ($(CONFIG_LED_GPIO_CTRL),y)
+-	CFLAGS += -DLED_GPIO_CTRL
++	EXTRA_CFLAGS += -DLED_GPIO_CTRL
+ endif
+ 
+ ifeq ($(CONFIG_SUBSCRIBE_EVENT_CTRL),y)
+-	CFLAGS += -DSUBSCRIBE_EVENT_CTRL
++	EXTRA_CFLAGS += -DSUBSCRIBE_EVENT_CTRL
+ endif
+ 
+ ifeq ($(CONFIG_PROC_DEBUG),y)
+-	CFLAGS += -DPROC_DEBUG
++	EXTRA_CFLAGS += -DPROC_DEBUG
+ 	export CONFIG_PROC_DEBUG
+ endif
+ 
+ ifeq ($(CONFIG_REASSOCIATION),y)
+-	CFLAGS += -DREASSOCIATION
++	EXTRA_CFLAGS += -DREASSOCIATION
+ endif
+ 
+ ifdef CONFIG_SMP
+-	CFLAGS += -D__SMP__ -DSMP
++	EXTRA_CFLAGS += -D__SMP__ -DSMP
+ endif
+ 
+ ifeq ($(CONFIG_CIPHER_TEST),y)
+-	CFLAGS += -DCIPHER_TEST
++	EXTRA_CFLAGS += -DCIPHER_TEST
+ endif
+ 
+ ifeq ($(CONFIG_ATIMGEN),y)
+-	CFLAGS += -DATIMGEN
++	EXTRA_CFLAGS += -DATIMGEN
+ endif
+ 
+ ifneq ($(CONFIG_DEBUG),n)
+-	CFLAGS += -DDEBUG_VER
++	EXTRA_CFLAGS += -DDEBUG_VER
+ endif
+ 
+ ifeq ($(CONFIG_DEBUG),1)
+-	CFLAGS += -DDEBUG_LEVEL1
++	EXTRA_CFLAGS += -DDEBUG_LEVEL1
+ endif
+ 
+ ifeq ($(CONFIG_DEBUG),2)
+-	CFLAGS += -DDEBUG_LEVEL1
+-	CFLAGS += -DDEBUG_LEVEL2
++	EXTRA_CFLAGS += -DDEBUG_LEVEL1
++	EXTRA_CFLAGS += -DDEBUG_LEVEL2
+ 	DBG=	-dbg
+ endif
+ 
+ ifeq ($(CONFIG_DEBUG),3)
+-	CFLAGS += -DDEBUG_LEVEL1
+-	CFLAGS += -DDEBUG_LEVEL2
+-	CFLAGS += -DDEBUG_LEVEL3
++	EXTRA_CFLAGS += -DDEBUG_LEVEL1
++	EXTRA_CFLAGS += -DDEBUG_LEVEL2
++	EXTRA_CFLAGS += -DDEBUG_LEVEL3
+ 	DBG=	-dbg
+ endif
+ 
+ ifeq ($(CONFIG_DEBUG),4)
+-	CFLAGS += -DDEBUG_LEVEL1
+-	CFLAGS += -DDEBUG_LEVEL2
+-	CFLAGS += -DDEBUG_LEVEL3
+-	CFLAGS += -DDEBUG_LEVEL4
++	EXTRA_CFLAGS += -DDEBUG_LEVEL1
++	EXTRA_CFLAGS += -DDEBUG_LEVEL2
++	EXTRA_CFLAGS += -DDEBUG_LEVEL3
++	EXTRA_CFLAGS += -DDEBUG_LEVEL4
+ 	DBG=	-dbg
+ endif
+ 
+ ifeq ($(CONFIG_LOOPBACK),y)
+-	CFLAGS += -DLOOPBACK_TEST
++	EXTRA_CFLAGS += -DLOOPBACK_TEST
+ 	export CONFIG_LOOPBACK
+ endif
+ 
+ ifeq ($(CONFIG_PROP_PERIODIC_SLEEP),y)
+ 	CONFIG_TX_QUEUE = y
+-	CFLAGS += -DPROP_PERIODIC_SLEEP
++	EXTRA_CFLAGS += -DPROP_PERIODIC_SLEEP
+ endif
+ 
+ ifeq ($(CONFIG_TX_QUEUE),y)
+-	CFLAGS += -DTX_QUEUE
++	EXTRA_CFLAGS += -DTX_QUEUE
+ endif
+ 
+ ifeq ($(CONFIG_SLIDING_WIN_AVG),y)
+-	CFLAGS += -DSLIDING_WIN_AVG
++	EXTRA_CFLAGS += -DSLIDING_WIN_AVG
+ endif
+ 
+ 
+@@ -1582,28 +1582,28 @@
+ 	CONFIG_USER_SCAN = y
+ 
+     # Enable the reassociation command support and the generic IE insert
+-	CFLAGS += -DREASSOC_CMD_SUPPORT
++	EXTRA_CFLAGS += -DREASSOC_CMD_SUPPORT
+ 
+     # Enable the generic IEEE IE insertion APIs for the association command
+-	CFLAGS += -DIWGENIE_SUPPORT
++	EXTRA_CFLAGS += -DIWGENIE_SUPPORT
+ 
+     # Enable the buffering/retrieval of the association resp and
+     #   TLV insertion into the association command
+-	CFLAGS += -DENABLE_USER_JOIN
++	EXTRA_CFLAGS += -DENABLE_USER_JOIN
+ 
+     # Enable the buffering of beacons/probe responses for app retrieval
+-	CFLAGS += -DENABLE_SAVE_SCAN_RESP
++	EXTRA_CFLAGS += -DENABLE_SAVE_SCAN_RESP
+ endif
+ 
+ ifeq ($(CONFIG_USER_SCAN), y)
+     # Enable user configured scan APIs and accompanying join/adhoc changes
+     #   needed for support
+-	CFLAGS += -DENABLE_USER_SCAN
++	EXTRA_CFLAGS += -DENABLE_USER_SCAN
+ 	export CONFIG_USER_SCAN
+ endif
+ 
+ ifeq ($(CONFIG_READ_HELPER_FW),y)
+-	CFLAGS += -DREAD_HELPER_FW
++	EXTRA_CFLAGS += -DREAD_HELPER_FW
+ 	export CONFIG_READ_HELPER_FW
+ endif
+ 
+@@ -1661,7 +1661,7 @@
+ 
+ ifeq ($(CONFIG_BULVERDE), y)
+ ifeq ($(CONFIG_GSPI),y)
+-CFLAGS += -DSSPCTRLER=1
++EXTRA_CFLAGS += -DSSPCTRLER=1
+ IFOBJS := if/if_gspi/if_gspi.o
+ IOOBJS := io/gspi/pxa270/gspi_io.o io/gspi/pxa270/gspi_debug.o
+ obj-m := gspi8xxx.o gspi.o
+@@ -1694,7 +1694,7 @@
+ 
+ ###############################################################
+ 
+-export		CC LD CFLAGS KERNELDIR LD_CMDLINE
++export		CC LD EXTRA_CFLAGS KERNELDIR LD_CMDLINE
+ 
+ ifeq ($(LISTRELFILES),y)
+ 	CC += -M
+--- src_cf8385/wlan/wlan_proc.c.orig	2008-03-14 16:29:14.000000000 -0600
++++ src_cf8385/wlan/wlan_proc.c	2008-03-14 16:30:40.000000000 -0600
+@@ -138,7 +138,7 @@
+ 	PRINTM(INFO, "Creating Proc Interface\n");
+ 
+ 	if (!priv->proc_entry) {
+-		priv->proc_entry = proc_mkdir("wlan", proc_net);
++		priv->proc_entry = proc_mkdir("wlan", init_net.proc_net);
+ 
+ 		if (priv->proc_entry) {
+ 			priv->proc_dev = create_proc_read_entry
+@@ -159,6 +159,6 @@
+ #ifdef CONFIG_PROC_FS
+ 	if (priv->proc_entry)
+ 		remove_proc_entry("info", priv->proc_entry);
+-	remove_proc_entry("wlan", proc_net);
++	remove_proc_entry("wlan", init_net.proc_net);
+ #endif
+ }

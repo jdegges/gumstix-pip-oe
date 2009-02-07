@@ -22,6 +22,7 @@ SRC_URI = "http://files.gumstix.com/cf8385-5.0.16.p0-26306.tbz \
 			file://install-properly.patch;patch=1 \
 			file://nospi.patch;patch=1 \
 			file://fix-essid-truncation.patch;patch=1 \
+            file://wifistix-2.6.24.patch;patch=1 \
      "
 
 S = "${WORKDIR}/src_cf8385"
@@ -30,7 +31,7 @@ inherit module-base
 
 EXTRA_OEMAKE = 'CONFIG_GUMSTIX=y CONFIG_DEBUG=n KVER=2.6 \
                 KERNELDIR="${KERNEL_SOURCE}" ARCH="${TARGET_ARCH}" \
-                CC="${KERNEL_CC}" EXTRA_CFLAGS="${CFLAGS}" \
+                CC="${KERNEL_CC}" \
                 INSTALL_MOD_PATH="${D}"'
 
 do_compile() {	
