@@ -1,0 +1,4 @@
+alias wlan0 mcf25
+
+install cfio /sbin/modprobe proc-gpio && echo GPIO out set > /proc/gpio/GPIO80 && /sbin/pccardctl eject && /sbin/modprobe --ignore-install cfio && /sbin/pccardctl insert
+
