@@ -1,0 +1,14 @@
+The instructions for setting up this build environment are almost identical to 
+the ones already documented on the gumstix wiki:
+    http://www.gumstix.net/Software/cat/Software-verdex-pro/111.html
+
+Since the top level directory name is different you will need to make sure that
+the proper path is set in your .bashrc.
+
+'bitbake gumstix-pip-image` and you are off to the races!
+
+Note: I have tried to keep most of the changes local to user.collection. You
+may search through the commit history at:
+    http://github.com/jdegges/gumstix-pip-oe/commits/master
+to see exactly what was altered in org.openembedded.snapshot and
+com.gumstix.collection.
