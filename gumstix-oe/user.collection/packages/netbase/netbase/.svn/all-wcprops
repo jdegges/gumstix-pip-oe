@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/gumstix/!svn/ver/275/trunk/com.gumstix.collection/packages/netbase/netbase
+END
+hosts
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/netbase/netbase/hosts
+END
+init
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/netbase/netbase/init
+END
+interfaces
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/netbase/netbase/interfaces
+END
+busybox.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/netbase/netbase/busybox.patch
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/netbase/netbase/options
+END
