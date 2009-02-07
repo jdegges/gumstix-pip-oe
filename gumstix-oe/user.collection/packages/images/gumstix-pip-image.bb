@@ -17,6 +17,7 @@ IMAGE_INSTALL += " \
     lighttpd-module-indexfile \
     lighttpd-module-staticfile \
     php \
+    image-analyzer \
     "
 
 
