@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/gumstix/!svn/ver/317/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22
+END
+gumstix-pxa270-usb-host.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/gumstix-pxa270-usb-host.patch
+END
+tsc2003.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/302/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/tsc2003.c
+END
+gumstix-fb-logo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/gumstix-fb-logo.patch
+END
+uImage-in-own-partition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/uImage-in-own-partition.patch
+END
+modular-init-usb-gadget.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/modular-init-usb-gadget.patch
+END
+smc91x-fail-if-no-chip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/gumstix/!svn/ver/306/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/smc91x-fail-if-no-chip.patch
+END
+one-wire.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/278/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/one-wire.patch
+END
+pxa2xx_udc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pxa2xx_udc.patch
+END
+modular-init-smc91x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/modular-init-smc91x.patch
+END
+board-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/board-init.patch
+END
+gumstix-pxa270-mmc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/gumstix-pxa270-mmc.patch
+END
+serial-ether-addr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/serial-ether-addr.patch
+END
+mach-types-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/mach-types-fix.patch
+END
+cpufreq-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/cpufreq-fixup.patch
+END
+pcm-gcc-411-bugfix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pcm-gcc-411-bugfix.patch
+END
+smc-ether-addr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/smc-ether-addr.patch
+END
+270-usb-gadget-udc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/270-usb-gadget-udc.patch
+END
+modular-init-bluetooth.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/modular-init-bluetooth.patch
+END
+pxafb-18bpp-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pxafb-18bpp-mode.patch
+END
+ucb1400-ac97-audio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/176/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/ucb1400-ac97-audio.patch
+END
+pxa-regs-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pxa-regs-fixup.patch
+END
+bkpxa-pxa-cpu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bkpxa-pxa-cpu.patch
+END
+ethernet-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/ethernet-config.patch
+END
+compact-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/compact-flash.patch
+END
+disable-uncompress-message.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/disable-uncompress-message.patch
+END
+cpufreq-ondemand-by-default.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/cpufreq-ondemand-by-default.patch
+END
+gumstix-asoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/gumstix-asoc.patch
+END
+pxafb-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/4/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pxafb-definition.patch
+END
+bugfix-mmc-clock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bugfix-mmc-clock.patch
+END
+compile-fix-pxa_cpufreq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/compile-fix-pxa_cpufreq.patch
+END
+header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/header.patch
+END
+mmc-card-detect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/mmc-card-detect.patch
+END
+bugfix-serial-interrupt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bugfix-serial-interrupt.patch
+END
+serial-divisor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/serial-divisor.patch
+END
+flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/flash.patch
+END
+bkpxa-pxa-cpufreq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bkpxa-pxa-cpufreq.patch
+END
+smc911x-fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/smc911x-fixup.patch
+END
+proc-gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/180/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/proc-gpio.patch
+END
+pxa-regs-additions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/pxa-regs-additions.patch
+END
+bugfix-serial-register-status.patch
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bugfix-serial-register-status.patch
+END
+cpufreq-better-freqs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/cpufreq-better-freqs.patch
+END
+misalignment-handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/misalignment-handling.patch
+END
+tsc2003-config.diff
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/gumstix/!svn/ver/6/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/tsc2003-config.diff
+END
+bugfix-pxa-cpufreq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bugfix-pxa-cpufreq.patch
+END
+arch-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/arch-config.patch
+END
+bugfix-i2c-include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/gumstix/!svn/ver/1/trunk/com.gumstix.collection/packages/linux/gumstix-kernel-2.6.22/bugfix-i2c-include.patch
+END
