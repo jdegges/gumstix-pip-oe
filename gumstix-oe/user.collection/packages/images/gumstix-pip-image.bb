@@ -18,6 +18,7 @@ IMAGE_INSTALL += " \
     lighttpd-module-staticfile \
     php \
     image-analyzer \
+    vim \
     "
 
 
