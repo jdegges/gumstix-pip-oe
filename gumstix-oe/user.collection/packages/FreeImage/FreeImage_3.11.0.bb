@@ -29,5 +29,5 @@ do_install () {
     install -m 0755 ${S}/libfreeimage-${PV}.so ${D}${libdir}/libfreeimage.so.3
 }
 
-FILES_${PN} = "${includedir}/FreeImage.h ${libdir}/libfreeimage.a ${libdir}/libfreeimage-${PV}.so"
+FILES_${PN} = "${libdir}/libfreeimage-${PV}.so ${libdir}/libfreeimage.so ${libdir}/libfreeimage.so.3"
 
