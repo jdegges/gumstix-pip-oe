@@ -4,7 +4,8 @@ LICENSE = "MIT"
 
 PR = "r0"
 
-RDEPENDS = "FreeImage libstdc++"
+RDEPENDS = "FreeImage"
+DEPENDS = "FreeImage"
 
 SRC_URI = " \
     http://jdegges.googlepages.com/image-analyzer-1.0.0.tar.gz \
