@@ -23,7 +23,7 @@ EXTRA_OECONF = "--without-iconv \
     	        --enable-wddx \
     	         --with-zlib"
 
-EXTRA_OECONF += " --without-pear --with-libxml-dir=${STAGING_BINDIR} "
+EXTRA_OECONF += " --without-pear --with-libxml-dir=${STAGING_BINDIR} --enable-pcntl configuration"
 # Uncomment the following two lines, and comment the above to enable PEAR
 #EXTRA_OECONF += " --with-pear-php-cli=${STAGING_BINDIR_NATIVE}/php"
 #DEPENDS += " php-native"
