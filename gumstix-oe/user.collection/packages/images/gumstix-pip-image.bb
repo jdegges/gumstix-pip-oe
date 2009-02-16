@@ -19,6 +19,9 @@ IMAGE_INSTALL += " \
     php \
     image-analyzer \
     vim \
+    yasm \
+    x264 \
+    ffmpeg \
     "
 
 
