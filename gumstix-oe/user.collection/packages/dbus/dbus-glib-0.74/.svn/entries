@@ -1,0 +1,52 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dbus/dbus-glib-0.74
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+no-introspect.patch
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+a4e687fc41c2a616e4d747cec064a6fc
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+no-examples.patch
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+3b4ce2b5c4188dc05b7560ad3598f9aa
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+

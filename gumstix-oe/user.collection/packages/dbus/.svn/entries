@@ -1,0 +1,157 @@
+8
+
+dir
+318
+https://gumstix.svn.sourceforge.net/svnroot/gumstix/trunk/org.openembedded.snapshot/packages/dbus
+https://gumstix.svn.sourceforge.net/svnroot/gumstix
+
+
+
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b85c6266-aee1-4070-9685-74336958316a
+
+dbus-native_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+64099815c7d90b5b0bb644f59ca742c4
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-glib-native-0.74
+dir
+
+dbus-glib-native_0.74.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+123a2b8edafd408c87247801b9ed4c37
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-1.0.1
+dir
+
+dbus-1.0.2
+dir
+
+dbus_1.0.1.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+eab61b6aa72cb07ad3ae6df57b31de48
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-glib-native
+dir
+
+dbus_1.0.2.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+36ad90e0a1deeef76c8444de70f36a92
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus
+dir
+
+dbus-glib-0.74
+dir
+
+dbus-c++-native_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+fbe0048537c2d80dcad252f08f0219f0
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-glib_0.74.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+c52983ff6fbfe95d82d882ab93cd3102
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-python_0.71.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+759d7511b3d1b6420a9ab179d6618934
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-c++
+dir
+
+dbus.inc
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+8df2b40fbcf5762dd9585ae70221a387
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
+dbus-c++_svn.bb
+file
+
+
+
+
+2009-02-06T18:16:20.000000Z
+eb021cd91342cafa02f8252d81a29313
+2007-11-19T06:19:32.832497Z
+1
+sakoman
+
