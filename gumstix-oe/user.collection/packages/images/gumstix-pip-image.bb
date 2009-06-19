@@ -18,9 +18,6 @@ IMAGE_INSTALL += " \
     lighttpd-module-staticfile \
     php \
     image-analyzer \
-    vim \
-    yasm \
-    x264 \
     ffmpeg \
     "
 
