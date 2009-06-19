@@ -54,6 +54,7 @@ PREFERRED_VERSION_uicmoc4-native = "4.3.3"
 PREFERRED_VERSION_navit = "0.0.4"
 PREFERRED_VERSION_php = "5.1.4"
 PREFERRED_VERSION_ffmpeg = "19220"
+PREFERRED_VERSION_libxml2-native = "2.7.3"
 
 SRCREV_pn-webkit-gtk = "30762"
 SRCREV_pn-opkg = "4142"
