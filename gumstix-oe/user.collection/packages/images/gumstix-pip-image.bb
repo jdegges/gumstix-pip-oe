@@ -19,6 +19,7 @@ IMAGE_INSTALL += " \
     php \
     image-analyzer \
     ffmpeg \
+    pipconf \
     "
 
 
