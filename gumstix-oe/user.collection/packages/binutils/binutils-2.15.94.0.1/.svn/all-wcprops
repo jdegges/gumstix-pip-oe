@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1
+END
+binutils-2.15-allow-gcc-4.0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1/binutils-2.15-allow-gcc-4.0.patch
+END
+binutils-2.15.91.0.1-uclibc-100-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1/binutils-2.15.91.0.1-uclibc-100-conf.patch
+END
+binutils-2.15.90.0.3-uclibc-200-build_modules.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1/binutils-2.15.90.0.3-uclibc-200-build_modules.patch
+END
+binutils-100_cflags_for_build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1/binutils-100_cflags_for_build.patch
+END
+binutils-2.15.90.0.3-uclibc-210-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.15.94.0.1/binutils-2.15.90.0.3-uclibc-210-cflags.patch
+END

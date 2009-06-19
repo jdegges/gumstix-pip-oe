@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5
+END
+binutils-2.16.91.0.6-objcopy-rename-errorcode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/binutils-2.16.91.0.6-objcopy-rename-errorcode.patch
+END
+binutils-uclibc-300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/binutils-uclibc-300-001_ld_makefile_patch.patch
+END
+binutils-uclibc-300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/binutils-uclibc-300-012_check_ldrunpath_length.patch
+END
+binutils-uclibc-100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/binutils-uclibc-100-uclibc-conf.patch
+END
+binutils-uclibc-300-006_better_file_error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/binutils-uclibc-300-006_better_file_error.patch
+END
+110-arm-eabi-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/gumstix/!svn/ver/1/trunk/org.openembedded.snapshot/packages/binutils/binutils-2.17.50.0.5/110-arm-eabi-conf.patch
+END
