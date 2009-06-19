@@ -6,6 +6,7 @@ PACKAGES = ""
 EXTRA_OECONF = "--with-sysroot=${CROSS_DIR}/${TARGET_SYS} \
 		--program-prefix=${TARGET_PREFIX} \
 		--enable-install-libbfd \
+        --disable-werror \
 		"
 
 do_stage () {
