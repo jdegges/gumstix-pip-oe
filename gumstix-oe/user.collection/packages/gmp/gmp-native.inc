@@ -12,6 +12,9 @@ OLD_TARGET  := "${TARGET_SYS}"
 OLD_HOST    := "${HOST_SYS}"
 OLD_BUILD   := "${BUILD_SYS}"
 
+# linux 'hacks'
+LDFLAGS_build-linux = "-Wl,--allow-multiple-definition"
+
 PATH_prepend_build-darwin = "${OLD_STAGING}/${OLD_HOST}:${OLD_STAGING}:"
 
 TARGET_SYS_build-darwin   = "none-apple-darwin"
