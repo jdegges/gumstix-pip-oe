@@ -1,0 +1,12 @@
+diff -ru a/dbus/dbus-sysdeps-unix.c b/dbus/dbus-sysdeps-unix.c
+--- a/dbus/dbus-sysdeps-unix.c	2006-11-01 15:30:46.000000000 -0800
++++ b/dbus/dbus-sysdeps-unix.c	2009-06-19 01:22:47.000000000 -0700
+@@ -992,7 +992,7 @@
+   _dbus_verbose ("read credentials byte\n");
+ 
+   {
+-#ifdef SO_PEERCRED
++#if defined(SO_PEERCRED) && defined(HAVE_GETPEERUCRED)
+     struct ucred cr;   
+     int cr_len = sizeof (cr);
+    
